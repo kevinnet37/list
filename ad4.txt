@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Checksum: zd9jeNv1+VJ3m8aA4wBFlg
+! Title: Diablo AdFilters(OnlyForTB)
+! Expires: 12 hours
+! Version: 201710182131
+! Last Modified: 2017年10月18日 21:31
+! Homepage: http://adf.ming92.cf
+!
+!本规则贴吧过滤规则，感谢大大的分享！
+!如有任何疑问、意见或建议，请反馈至：HalfLife吧
+!
