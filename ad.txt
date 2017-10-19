@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TAJw9Z0zIyS2YzP6IB+Uag
+! Checksum: 5bsxYZMftjzhIUkueg5kFQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201710191300
-! Last Modified: 2017年10月19日 13:00
+! Version: 201710191830
+! Last Modified: 2017年10月19日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7304,6 +7304,13 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||yzs.com/d/file/p/*.swf
 ||yzs.com/d/file/p/2016/12/06/61e15b92a4a2a7cec4910f1d9ea79fb2.jpg
+||91xiazai.com/qunyinguwuqi.jpg
+||xianliao.me/ads1?
+||btbtt7.com/tu/
+||sinaimg.cn^$domain=btbtt7.com
+||xc.mydrivers.com^
+||zhev.com.cn/file/weixin/
+||alicdn.com^$domain=zhev.com.cn
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 filmaker.cn###frame2gS3Ea
@@ -12677,6 +12684,8 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 @@||use.fontawesome.com^$script
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
+||1.zhev.com.cn^
+||bu1.duba.com^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
