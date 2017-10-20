@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8qUI5DmE+CzSYxoa4bIjiQ
+! Checksum: PE7suNw19ZGMyaEMnctCSw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201710201300
-! Last Modified: 2017年10月20日 13:00
+! Version: 201710201330
+! Last Modified: 2017年10月20日 13:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -2864,12 +2864,10 @@ mg*.6park.com/img/$image
 ||2345.com/dianyingimg/tv/ivy/taobao/
 ||2345.com/duoteimg/duotehtml/
 ||2345.com/dypcimg/ads/
-||2345.com/images/activity/20161111/
-||2345.com/images/activity/20161212/
+||2345.com^*/activity/20171
 ||2345.com/images/tgPic/gameTmp-
 ||2345.com/index.php?a=getDetailGg&
 ||2345.com/jifenimg/img/common/logo.png$third-party
-||2345.com/js/index/activity/20161212/
 ||2345.com/right/site/like/gul_
 ||2345.com/xiaoimg/swf/flash/
 ||234fang.com/index.php?/ajax/get_adv/
@@ -7030,7 +7028,10 @@ mg*.6park.com/img/$image
 ||4gtv.tv/4gTVad.json
 .com/562723/$domain=banyungong.org
 ||shihuo.cn/alibtn_
+||vriooi.com/web/ad/ad.js
 !------------------------Specific element hiding rules------------------------!
+2345.com##.act-navspec
+7654.com##.dh_bottom
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
