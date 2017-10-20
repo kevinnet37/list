@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: skOalzM/Z1UDpK+0nH+7/w
+! Checksum: CvitskU1Vc8S8R2qH4iWaQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201710200930
-! Last Modified: 2017年10月20日 09:30
+! Version: 201710201030
+! Last Modified: 2017年10月20日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -452,7 +452,6 @@ tieba.baidu.com##.tuijian-wrap
 /2016v2/js/adm2.js
 /22tu/ads/*
 /500ad/*
-/562723/7082094ff7346f23.gif
 /58pic/index.php?m=searchAd&
 /66bubu/ads/*
 /8drama_yahoo/*
@@ -4053,7 +4052,6 @@ mg*.6park.com/img/$image
 ||btsou.net/static/image/*.gif
 ||btspreadcn.com/images/x.jpg
 ||bttt99.com/style/s.js
-||buimg.com/562723/f54344b0cbbdff87.png
 ||buimg.com/588755/360bfd3735e94b25.jpg
 ||buimg.com^$domain=ed2000.com|kisssub.org|moe-acg.cc|ref.so
 ||bukade.com/js/*_p_
@@ -7310,6 +7308,7 @@ mg*.6park.com/img/$image
 ||zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8.png
 ||zzzyk.com/js/
 ||4gtv.tv/4gTVad.json
+.com/562723/$domain=banyungong.org
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
