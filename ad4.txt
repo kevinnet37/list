@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ykOL4Y6BswRT3Nx/mGa2PA
+! Checksum: jy0ap8xj4pkad+uZSsMV4A
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201710191900
-! Last Modified: 2017年10月19日 19:00
+! Version: 201710200900
+! Last Modified: 2017年10月20日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -262,6 +262,7 @@ baidu.com###j-ad-side
 iwan.baidu.com###j-ditu
 iwan.baidu.com###j-media
 tieba.baidu.com###j_light_see_index
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_p_postlist > [-abp-properties='width: 739px;']
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_star_bus_before
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_ten_years
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_worldcup_info_banner
@@ -534,7 +535,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="right_qunar_hotel"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="soft"] > .c-border
 zuoye.baidu.com##dl[class="card related"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com#?#div[id="1"] /deep/ div[id="1"]
-1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_p_postlist > [-abp-properties='width: 739px;']
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##li[data-daid]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##style[id^="s-"] + script + div[id]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##style[id^="s-"] + script + script + div[id]
