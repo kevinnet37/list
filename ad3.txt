@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6M2jQyJ9SimM/0d/IO4JUA
+! Checksum: vefLOfO0BZ2bdhesIUYgnQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201710212000
-! Last Modified: 2017年10月21日 20:00
+! Version: 201710212200
+! Last Modified: 2017年10月21日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -13504,6 +13504,7 @@ _300_250.
 /shenmago_download_app_
 /3dmgamegzh.png
 /znds/dbsc98060.gif
+/to8to_pc/chunks/slide_and_popup_
 !------------------------General element hiding rules-------------------------!
 ###b_login
 ###windlocation
@@ -13732,6 +13733,9 @@ _300_250.
 ||baidu.com^*/app/banner_
 ||dangbei.net/img/db/downdangbei.gif
 !------------------------Specific element hiding rules------------------------!
+gitee.com##.float-left-box
+to8to.com##.ad-commom
+to8to.com##.quoted-outside
 cnbeta.com##DIV[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 cnbeta.com#?#DIV[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 55haitao.com##.bbs-bottom-popup
