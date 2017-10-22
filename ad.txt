@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /setPQl/IUkQ8IbMCJ8u4w
+! Checksum: sL29exGYI/auG+ZkzVAKRg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201710212230
-! Last Modified: 2017年10月21日 22:30
+! Version: 201710220800
+! Last Modified: 2017年10月22日 08:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -409,9 +409,6 @@ tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
-/secretmine_out.js
-/secretmine_20170816_202643.png
-/secretmine_20170831_220255.jpg
 -880-80-4.jpg
 -HollandOne_GIF2.gif
 .cc/js/ads/
@@ -653,6 +650,9 @@ tieba.baidu.com##.tuijian-wrap
 /Runtime/js/top960.js
 /scripts/youthad.js
 /scrollgg_index.js
+/secretmine_20170816_202643.png
+/secretmine_20170831_220255.jpg
+/secretmine_out.js
 /shehuik618cn/images/c.js
 /shehuik618cn/images/ds.js
 /shehuik618cn/images/i.js
@@ -4046,6 +4046,7 @@ mg*.6park.com/img/$image
 ||btbtt7.com/tu/
 ||btc38.com/statics/img/partner/
 ||btcerise.com/adm.js
+||btcerise.net/adm.js
 ||btcherry.*/adm.js
 ||btexe.cc/static/js/
 ||btks.me/ac/
@@ -4424,6 +4425,7 @@ mg*.6park.com/img/$image
 ||dio99.com/images/*.gif
 ||dioguitar23.*/images/*.gif
 ||dioimg.net/images/*.gif
+||dioimg.net^$domain=18board.com|18p2p.com
 ||diopic.net^$domain=18board.com|18p2p.com
 ||discuss.com.hk/dfp_forum.php?au=Discuss_Web_
 ||discuss.com.hk/yna*_prod.html
@@ -4459,6 +4461,7 @@ mg*.6park.com/img/$image
 ||dmzj.com/js/m_BtmApp.js
 ||dn-geekpark-new.qbox.me/uploads/ad/
 ||dnvod.tv/gb/
+||dnvod.tv/upload/public/
 ||dnvod.tv^*.gif$object-subrequest
 ||dnvod.tv^*.jpg$object-subrequest
 ||dnvod.tv^*/201$object-subrequest
@@ -4566,6 +4569,7 @@ mg*.6park.com/img/$image
 ||eap.enorth.com.cn^
 ||easou.com/brandImage/ad/
 ||easou.com/online/banner/
+||eastday.com/assets/js/resources/detail/
 ||eastday.com/k.js
 ||eastmoney.com/js/headbiggg_
 ||eat-travel.com.tw^$third-party
@@ -5165,6 +5169,7 @@ mg*.6park.com/img/$image
 ||ifengimg.com/a/201*600.
 ||ifengimg.com/a/o.js
 ||ifengimg.com/iamsImg/*_w100_h550.
+||ifengimg.com/iamsImg/*banner
 ||ifengimg.com/ifeng/sources/
 ||ifengimg.com/iis/iis_
 ||ifengimg.com/m/ax.js
@@ -6049,6 +6054,7 @@ mg*.6park.com/img/$image
 ||pharmnet.com.cn/cnbanner/
 ||pharmnet.com.cn/js/float_div.js
 ||photofans.cn*/banner/
+||php1.cn/uploads/huayun.jpg
 ||phpad.cqnews.net^
 ||piao.com.cn/Flash/Scripts/FloatLeftRight_
 ||piaodown.com/other/*.js
@@ -6525,6 +6531,7 @@ mg*.6park.com/img/$image
 ||soduso.com/js/sat.js
 ||soft.mumayi.net/images/download.gif
 ||soft.mumayi.net/js/
+||soft6.com/index.php?m=poster&
 ||soft711.com/2013/
 ||softhy.net/hp/
 ||sogou.*/js7/forAppDown.js
@@ -7319,18 +7326,8 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8.png
 ||zzzyk.com/js/
-||soft6.com/index.php?m=poster&
-||btcerise.net/adm.js
-||dioimg.net^$domain=18board.com|18p2p.com
-||php1.cn/uploads/huayun.jpg
-||dnvod.tv/upload/public/
-||ifengimg.com/iamsImg/*banner
-||eastday.com/assets/js/resources/detail/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-secretmine.net##.background-cover
-secretmine.net##CENTER > A:not([href*=".secretmine."]) > IMG
-oschina.net##.float_adbox
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -9286,6 +9283,7 @@ pinshan.com##.b_adv2
 aibang.com##.b_similar
 pinshan.com##.b_taobao
 265g.com##.back_figure
+secretmine.net##.background-cover
 hao.rising.cn##.baidu-banner
 17k.com##.baiduBox
 2345.com,47dy.com##.baiduHotWord
@@ -9764,6 +9762,7 @@ qunar.com##.flight_ad
 csai.cn##.float-class2
 ledinside.cn##.floatAD
 totuwo.com,yzfcn.cn##.floatAd
+oschina.net##.float_adbox
 iqiyi.com##.float_div
 iqiyi.com##.float_div_r
 pic.sogou.com##.floating
@@ -11465,6 +11464,7 @@ ahtv.cn##body > table[style^="text-align:center; width:960px;"]
 18h.avmimi.com##body > table[width="100%"]:nth-child(2)
 62422.cn##body > table[width="778"][align="center"]
 leduwo.com##br + #adtop
+secretmine.net##center > a:not([href*=".secretmine."]) > img
 ipv6.baidu.com,www.baidu.com,www1.baidu.com#?##content_left > [style*="important"]
 dilidili.wang#?#article:first-child
 steamcn.com##div > a[href*=".taobao.com"]
@@ -12706,7 +12706,6 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 @@||use.fontawesome.com^$script
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
-||myunion1.qm120.com^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
@@ -13051,6 +13050,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||muyingbk.com^$third-party
 ||mxitie.com^$third-party
 ||mxpwx.com^$third-party
+||myunion1.qm120.com^
 ||mzcsdf.com^$third-party
 ||namedq.com^
 ||newscname1.e23.cn^
@@ -13174,6 +13174,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||haoimgs.com/images/*.gif
 ||sinaimg.cn^$domain=2c2.website|2p8.space|adultgao.com|baocee.com|baofee.com|baonee.com|baopee.com|baowee.com|baoxee.com|baozoo.com|caoporn.com|caouoo.com|caoxee.com|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vgao.xyz|vlang.xyz|vwan.xyz
 2c2.website,2p8.space,adultgao.com,baocee.com,baofee.com,baonee.com,baopee.com,baowee.com,baoxee.com,baozoo.com,caoporn.com,caouoo.com,caoxee.com,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vgao.xyz,vlang.xyz,vwan.xyz##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
+||gdhdfs.com^
 .m.23sw.net^
 .m.3dllc.cc^
 .m.beidouxin.com^
