@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XEM7kVXOE4Dlv8ylL6W8Iw
+! Checksum: 5RTigwhMVoyye3K2Lrz0Pw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201710221730
-! Last Modified: 2017年10月22日 17:30
+! Version: 201710230800
+! Last Modified: 2017年10月23日 08:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -14694,6 +14694,7 @@ weibo.com##.apps_PCD_reco_detail_right
 -stats/imr.
 -stats/metrica.
 -track-ati.
+-tracker-geoip.
 -tracking-pixel.
 -tracking.gtm.
 -tracking.js?
@@ -15175,6 +15176,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /angularytics/*
 /any/*.gif?
 /anycent_tracker_
+/api-analytics.
 /api/*/visitor?
 /api/0/stats
 /api/analytics/*
@@ -18889,6 +18891,7 @@ _mongo_stats/
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
 ||evanetpro.com^$third-party
+||eventbeacon.ca^$third-party
 ||eventoptimize.com^$third-party
 ||everestjs.net^$third-party
 ||everesttech.net^$third-party
@@ -20409,6 +20412,7 @@ _mongo_stats/
 ||zqtk.net^$third-party
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
+||api.inwemo.com^$third-party
 ||azvjudwr.info^$third-party
 ||cnhv.co^$third-party
 ||coin-have.com^$third-party
