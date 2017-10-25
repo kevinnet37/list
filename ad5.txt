@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oSl2W+6ioo6A7ACZjYK25w
+! Checksum: 4IrxbubWMfHsG8/MkAMV6A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201710250800
-! Last Modified: 2017年10月25日 08:00
+! Version: 201710250830
+! Last Modified: 2017年10月25日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -3668,7 +3668,7 @@ mg*.6park.com/img/$image
 ||bego.cc/img/
 ||beijing-air.com/images/a/j
 ||beiwo.tv/Runtime/js/list01.js
-||bejson.com/static/imgs/
+||bejson.com/*imgs/
 ||bendibao.com*/tuangou.gif
 ||bendibao.com/mo/adm_iframe.htm?
 ||besc.baidustatic.com^
@@ -11072,7 +11072,7 @@ jd.com,~wan.jd.com##a[href*="wan.jd.com/"]
 zdfans.com##a[href*="zdzdm."]
 bilibilijj.com##a[href="##"]
 7xtiyu.com##a[href="/bc/xinli.html"]
-bejson.com##a[href="/other/aliyuncode/"]
+bejson.com##A[href*="aliyun"]
 bilibili.com##a[href="/video/av8587236/?tg"]
 gaoqingkong.com##a[href="go?mm"]
 cari.com.my##a[href="http://banner.cari.com.my/daybanner/?page=promotion"]
