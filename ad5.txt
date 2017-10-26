@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e1emo+QwS6MlRn93pzdo2w
+! Checksum: 2gW/bLmxfO9mmQY7vf+4zg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201710262130
-! Last Modified: 2017年10月26日 21:30
+! Version: 201710270730
+! Last Modified: 2017年10月27日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19087,6 +19087,7 @@ _mongo_stats/
 ||goneviral.com^$third-party
 ||goodcounter.org^$third-party
 ||google-analytics.com/analytics.js
+||google-analytics.com/batch^
 ||google-analytics.com/collect
 ||google-analytics.com/cx/api.js
 ||google-analytics.com/ga_exp.js
@@ -19602,6 +19603,7 @@ _mongo_stats/
 ||online-right-now.net^$third-party
 ||onlinepbx.ru^$third-party
 ||onlysix.co.uk^$third-party
+||onthe.io^$third-party
 ||opbandit.com^$third-party
 ||openclick.com^$third-party
 ||openhit.com^$third-party
@@ -27826,7 +27828,7 @@ _mongo_stats/
 @@||giga.de/wp-content/plugins/econa-stats/log/video-views/log.php?id=$object-subrequest
 @@||gls.de^*/emos2.js
 @@||google-analytics.com/siteopt.js?$domain=chip.de
-@@||googletagmanager.com/gtm.js?$domain=finanzen.net
+@@||googletagmanager.com/gtm.js?$domain=bunte.de|finanzen.net
 @@||hach.de^*/emstrack.js
 @@||hammonline.de/statistik/piwik.js
 @@||hermesworld.com/tracking/urchin.js
