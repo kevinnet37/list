@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rcRN6xU6uIzsJo6lhJryfg
+! Checksum: WD7SYkhj2oVEJLYlx984qA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201710272130
-! Last Modified: 2017年10月27日 21:30
+! Version: 201710280730
+! Last Modified: 2017年10月28日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19967,6 +19967,7 @@ _mongo_stats/
 ||sitecompass.com^$third-party
 ||siteimprove.com^$third-party
 ||siteimproveanalytics.com^$third-party
+||sitelabweb.com^$third-party
 ||sitelinktrack.com^$third-party
 ||sitemeter.com^$third-party
 ||sitereport.org^$third-party
@@ -20218,6 +20219,7 @@ _mongo_stats/
 ||trafficby.net^$third-party
 ||trafficengine.net^$third-party
 ||trafficfacts.com^$third-party
+||trafficfuel.com^$third-party
 ||trafficjoint.com^$third-party
 ||trafficregenerator.com^$third-party
 ||traffikcntr.com^$third-party
@@ -21638,7 +21640,6 @@ _mongo_stats/
 ||bitdash-reporting.appspot.com^
 ||bitgravity.com/b.gif$third-party
 ||bitgravity.com^*/tracking/
-||bitmovin.com/impression
 ||bizrate-images.co.uk^*/tracker.js
 ||bizrate-images.com^*/tracker.js
 ||bizrate.co.uk/js/survey_
@@ -22670,6 +22671,7 @@ _mongo_stats/
 ||rich-agent.s3.amazonaws.com^
 ||richrelevance.com/rrserver/tracking?
 ||rlinks.one.in^
+||rndntpmgnj-a.akamaihd.net/NA2L50A6M.js
 ||rodale.com/ga/
 ||rodalenl.com/imp?$third-party
 ||roitrack.addlvr.com^
@@ -23058,6 +23060,7 @@ _mongo_stats/
 ||traffic.prod.cobaltgroup.com^
 ||traffic.pubexchange.com^
 ||traffic.shareaholic.com^
+||trafficfuelpixel.s3-us-west-2.amazonaws.com^
 ||trakksocial.googlecode.com^$third-party
 ||traq.li/tracker/
 ||travpan.com/out/$third-party
@@ -23099,6 +23102,7 @@ _mongo_stats/
 ||txn.grabnetworks.com^
 ||typepad.com^*/stats?$third-party
 ||ucounter.ucoz.net^
+||uhytajrtpo-a.akamaihd.net/nrse.html
 ||ui-portal.com^*;ns_referrer=
 ||uim.tifbs.net^
 ||uknetguide.co.uk/user.js?
