@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MSZqsM8v6ssuYkk9KGjhyg
+! Checksum: 7/W/01om4FD9VmqyHyB3ng
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201710280930
-! Last Modified: 2017年10月28日 09:30
+! Version: 201710281000
+! Last Modified: 2017年10月28日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -13587,6 +13587,7 @@ _300_250.
 ###appBottomIn
 ###appIn
 ###upprev_box
+###appqrcode
 !-----------------------------Union&third-party-------------------------------!
 ||live800.com^$third-party
 ||meiqia.com^$third-party
@@ -13805,7 +13806,10 @@ _300_250.
 ||baidu.com^*/app/banner_
 ||dangbei.net/img/db/downdangbei.gif
 ||ltn.com.tw/Upload/Module/2/118/1117360.gif
+||wingontravel.com/Static/headerfooter/Content/js/masterpage.
 !------------------------Specific element hiding rules------------------------!
+baidu.com##.download-app-parent
+autohome.com.cn###packetsWrap
 gitee.com##.float-left-box
 to8to.com##.ad-commom
 to8to.com##.quoted-outside
