@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YxTkEUkYbZ8HaDMWRO6MUQ
+! Checksum: WtIWYpMlPqozcE59FgToHA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201710301830
-! Last Modified: 2017年10月30日 18:30
+! Version: 201710302000
+! Last Modified: 2017年10月30日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -409,6 +409,7 @@ tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
+/js/ggtop.js
 -880-80-4.jpg
 -HollandOne_GIF2.gif
 .cc/js/ads/
@@ -5415,7 +5416,6 @@ mg*.6park.com/img/$image
 ||jb51.net/image/idcjb51_1000.gif
 ||jb51.net/imgby/logo_
 ||jb51.net/js/beitou.js
-||jb51.net/js/ggtop.js
 ||jb51.net/jslib/jquery/
 ||jb51.net/skin/downsoft/js/*down.js
 ||jb51.net/skin/office/js/botad.js
@@ -7357,6 +7357,7 @@ mg*.6park.com/img/$image
 ||av11888.com/attachment/js/
 ||s1.thzok.com^
 ||sinaimg.cn^*.gif$domain=thibt.com
+||158pic.com/js/tjhd.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -12770,6 +12771,8 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 @@||use.fontawesome.com^$script
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
+||1.jiqie.cn^
+||123456.asia^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
