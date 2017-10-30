@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2mN4BzmZwX4HMHjFlCyE0Q
+! Checksum: Z0LEoVw12kKAPjjyC7RUdw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201710302100
-! Last Modified: 2017年10月30日 21:00
+! Version: 201710310730
+! Last Modified: 2017年10月31日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15879,7 +15879,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /epf_v1_95.js
 /error/js/log?
 /est.pl?
-/estat.
+/estat.$domain=~estat.stat.ee
 /estatistica.js
 /estatnativeflashtag.swf
 /etag?
@@ -23314,7 +23314,7 @@ _mongo_stats/
 ||et.twyn.com^
 ||events.kaloo.ga^$third-party
 ||events.snacktv.de^
-||export.newscube.de^
+||export.newscube.de^$~subdocument
 ||fc.webmasterpro.de^$third-party
 ||filmaster.tv^*/flm.tracker.min.js
 ||frontlineshop.com/ev/co/frontline?*&uid=
@@ -27778,6 +27778,7 @@ _mongo_stats/
 @@||vupload-edge.facebook.com/ajax/video/upload/$xmlhttprequest,domain=facebook.com
 @@||w3spy.org/etc/geo.php?
 @@||w88.go.com/crossdomain.xml$object-subrequest,domain=abcnews.go.com
+@@||waitrosecellar.com^*/eventTracking-Cellar.js$domain=waitrosecellar.com
 @@||walmart.com/__ssobj/core.js
 @@||walmart.com^*/track?event=$xmlhttprequest
 @@||walmartimages.com/webanalytics/omniture/omniture.jsp$domain=walmart.com
@@ -27998,6 +27999,7 @@ _mongo_stats/
 @@||csfd.cz/log?
 @@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|sportrevue.cz|zive.cz
 @@||adobedtm.com^*/satelliteLib-$script,domain=elgiganten.dk
+@@||advertisers.dk/wp-content/uploads/*/google-analytics-$image,domain=advertisers.dk
 @@||advertisers.dk/wp-content/uploads/*/google-analytics.$image,domain=advertisers.dk
 @@||bilka.dk/assets/ext/adobe/VisitorAPI.js
 @@||cxense.com/cx.js$domain=common.tv2.dk
@@ -28120,6 +28122,7 @@ _mongo_stats/
 @@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.ar|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|laredoute.es
 @@||c5n.com^*/angulartics-google-analytics.min.js
 @@||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com
+@@||eldiario.es/static/BBTCore/images/pixel.gif?hash=$image,domain=eldiario.es
 @@||estafeta.com/shared/js/tracking.js
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||segundamano.mx^*/tealium.js
