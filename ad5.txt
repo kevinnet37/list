@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: inmmSQXgO2eq+YwRKnvDig
+! Checksum: TuTDzbh6kIcdbUClVLQxBA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201710312000
-! Last Modified: 2017年10月31日 20:00
+! Version: 201710312030
+! Last Modified: 2017年10月31日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7069,6 +7069,7 @@ mg*.6park.com/img/$image
 ||nszmz.com/scrtips/05sun.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+iteye.com###ad_pop
 0517w.com###diynavtop
 aipai.com###pop_guide
 hc360.com,yaolan.com###AD
@@ -11798,7 +11799,6 @@ cartoomad.com##tr:last-child > td[align="right"] > table[width="732"]
 cartomad.com,cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 5184.com##ul[class^="i_gg"]
 hexieba.com##ul[style="list-style-type: none;"]:first-child:last-child
-00sy.com##ul[style="width: 930px;margin-left:-20px;height:250px;text-align:center;"]
 firefoxchina.cn##ul[track-key="adv_links"]
 !---------------------------------CSS Whitelist-------------------------------!
 the-sun.on.cc#@##ContentAd1
@@ -12477,6 +12477,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 @@||use.fontawesome.com^$script
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
+||a.53yao.com^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
