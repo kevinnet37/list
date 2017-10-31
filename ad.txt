@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7WE9MT1waC73SKEFnd8sWA
+! Checksum: nfqFveRp+JO3484zejGcIA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201710310800
-! Last Modified: 2017年10月31日 08:00
+! Version: 201710311100
+! Last Modified: 2017年10月31日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -2934,7 +2934,6 @@ mg*.6park.com/img/$image
 ||0460.com/js/txtrec.js
 ||04stream.tv/sda/
 ||05096.com/jsdoc/ad.html
-||0513c.com/uploads/2016/09/2016-09-0668.png
 ||0517w.com/data/attachment/portal/201608/11/100415sjjvnuauy076110n.gif
 ||0573fang.com/upimg/switch/
 ||0575bbs.com/js/float.js
@@ -2946,7 +2945,7 @@ mg*.6park.com/img/$image
 ||060s.com/my_ad/
 ||0668gz.com/data/attachment/portal/
 ||07073.com/uploads/170626/2_101459_1.jpg
-||0712fang.com/gonggong/js/cf_flash.js
+||0712fang.com/Public/js/cf_flash.js
 ||073img.com/*/|
 ||073img.com^$subdocument
 ||0756.la/ad-htm/
@@ -7360,6 +7359,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+aipai.com###pop_guide
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
