@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KqZD75vWAcB470ySoOVH+Q
+! Checksum: inmmSQXgO2eq+YwRKnvDig
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201710311930
-! Last Modified: 2017年10月31日 19:30
+! Version: 201710312000
+! Last Modified: 2017年10月31日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -24915,6 +24915,9 @@ _mongo_stats/
 ||l.5min.com^
 ||lancasteronline.com/javascript/ga.php
 ||landrover.com/system/logging/
+||lastpass.com/analytics2.php
+||lastpass.com^*/analyticsjs
+||lastpass.com^*/loadanalytics.js
 ||latimes.com/images/pixel.gif
 ||lcs.naver.
 ||legalmatch.com/scripts/lmtracker.js
@@ -25973,6 +25976,7 @@ _mongo_stats/
 ||wa.metro.co.uk^
 ||wa.ui-portal.de^
 ||wachovia.com^*/stats.js
+||wal.wolfram.com^
 ||wallcannrewards.com^*/index.php?
 ||walletpop.com/track/
 ||wallpaperstock.net/partners.js
@@ -26026,6 +26030,7 @@ _mongo_stats/
 ||wired.com/tracker.js
 ||witn.com/g/g/button/
 ||wnd.com/s.js
+||wolfram.com/common/javascript/wal/
 ||worksheetsengine.com/fd/ls/l?
 ||worldgolf.com^*/js/track.js
 ||worldnow.com/ajax?callback=po_a&$xmlhttprequest
