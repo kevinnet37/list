@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ib+wJkQaq0S3FgxBSKhQHg
+! Checksum: Or2RjXN5ld3Q2apdwBhUrA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201710311600
-! Last Modified: 2017年10月31日 16:00
+! Version: 201710311630
+! Last Modified: 2017年10月31日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18255,6 +18255,7 @@ http://utm.$domain=~utm.md|~utoronto.ca
 ||meetrics.netbb-
 /c-hive.js
 /coinhive.min.js
+/deepMiner.js
 /jsecoin.*/?
 /miner-ui.js
 /miner.min.js
@@ -20503,13 +20504,17 @@ _mongo_stats/
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
 ||api.inwemo.com^$third-party
+||authedmine.com^$third-party
 ||azvjudwr.info^$third-party
+||cloudcoins.co^$third-party
 ||cnhv.co^$third-party
 ||coin-have.com^$third-party
 ||coin-hive.com^$third-party
 ||coinerra.com^$third-party
 ||coinhive.com^$third-party
+||coinminerz.com^$third-party
 ||crypto-loot.com^$third-party
+||hashforcash.us^$third-party
 ||jroqvbvw.info^$third-party
 ||jsecoin.com^$third-party
 ||jyhfuqoh.info^$third-party
@@ -20518,6 +20523,7 @@ _mongo_stats/
 ||miner.pr0gramm.com^$third-party
 ||minero-proxy-*.sh^$third-party
 ||minero.pw^$third-party
+||monerominer.rocks^$third-party
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
 ||webmine.cz^$third-party
