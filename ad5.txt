@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /LY7AU+DQL26i6u+gGGfDw
+! Checksum: MhOksfV+EGu7+UA4cUrPJA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201710311700
-! Last Modified: 2017年10月31日 17:00
+! Version: 201710311730
+! Last Modified: 2017年10月31日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18254,7 +18254,10 @@ cgi-bin/counter
 http://utm.$domain=~utm.md|~utoronto.ca
 ||meetrics.netbb-
 /c-hive.js
+/coinblind.js
+/coinblind_beta.
 /coinhive.min.js
+/cryptonight.wasm
 /deepMiner.js
 /jsecoin.*/?
 /miner-ui.js
@@ -18264,6 +18267,8 @@ http://utm.$domain=~utm.md|~utoronto.ca
 /wproxy$~third-party,websocket
 /xminer.js
 /xminer.min.js
+/xmr.js
+/xmr.min.js
 -logabpstatus.
 /adb.policy.js
 /adblock?action=
@@ -20503,6 +20508,7 @@ _mongo_stats/
 ||zqtk.net^$third-party
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
+||afminer.com^$third-party
 ||api.inwemo.com^$third-party
 ||authedmine.com^$third-party
 ||azvjudwr.info^$third-party
@@ -20510,9 +20516,11 @@ _mongo_stats/
 ||cnhv.co^$third-party
 ||coin-have.com^$third-party
 ||coin-hive.com^$third-party
+||coinblind.com^$third-party
 ||coinerra.com^$third-party
 ||coinhive.com^$third-party
 ||coinminerz.com^$third-party
+||coinnebula.com^$third-party
 ||crypto-loot.com^$third-party
 ||hashforcash.us^$third-party
 ||jroqvbvw.info^$third-party
@@ -26140,6 +26148,7 @@ _mongo_stats/
 ||2giga.link^*/hive.js
 ||gus.host/coins.js
 ||kiwifarms.net^*/xmr.min.js
+||reactor.cc^*.wasm
 ||abc.com/service/gremlin/js/files/s_code.js?$domain=abc.go.com
 ||adobe.com^*/omniture_s_code.js
 ||aeroplan.com/static/js/omniture/s_code_prod.js
