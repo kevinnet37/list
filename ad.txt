@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aKKTVsaDAG5Qt4GrXhi10A
+! Checksum: RY+mPSLfpWc428vS1bv+yA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711011530
-! Last Modified: 2017年11月01日 15:30
+! Version: 201711011730
+! Last Modified: 2017年11月01日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -13237,6 +13237,8 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||haoimgs.com/images/*.gif
 ||sinaimg.cn^$domain=2c2.website|2p8.space|adultgao.com|baocee.com|baofee.com|baonee.com|baopee.com|baowee.com|baoxee.com|baozoo.com|caoporn.com|caouoo.com|caoxee.com|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vgao.xyz|vlang.xyz|vwan.xyz
 2c2.website,2p8.space,adultgao.com,baocee.com,baofee.com,baonee.com,baopee.com,baowee.com,baoxee.com,baozoo.com,caoporn.com,caouoo.com,caoxee.com,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vgao.xyz,vlang.xyz,vwan.xyz##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
+||fjxyo.com^
+||bokanedu.net^
 ||hjzndq.com^
 .m.23sw.net^
 .m.3dllc.cc^
