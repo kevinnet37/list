@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ckNYTuqLWaTmTfpo1MkLmg
+! Checksum: kCeVNTkHZ53Cr/PPwiSpXQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711020930
-! Last Modified: 2017年11月02日 09:30
+! Version: 201711021000
+! Last Modified: 2017年11月02日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -6958,6 +6958,7 @@ mg*.6park.com/img/$image
 ||dnvod.tv/2b/
 ||dnvod.tv/d4/
 ||dnvod.tv/3a/
+||dnvod.tv/Scripts/jquery.public-
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 dnvod.tv##DIV[style*="important"]
@@ -12826,7 +12827,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||zxw51.com^$third-party
 ##.footer > #box[style="width:100%;height:100%;position:fixed;top:0"]
 ##a[href^="http://yunbofangbt."]
-|http:$script,third-party,xmlhttprequest,domain=alicili.com|btdigg.fyi|btkitty.pet|btlibrary.pw|cilidaquan.pw|diggbt.fyi|savebt.com|storebt.pw|torrentkitty.uno|zhongzicili.pw
+|http:$script,third-party,xmlhttprequest,domain=alicili.net|btdigg.xyz|btkitty.pet|btlibrary.ws|cilidaquan.pw|diggbt.fyi|savebt.com|storebt.pw|torrentkitty.uno|zhongzicili.me
 ||bjwwfx001.org.cn^
 ||bycxsh.com^
 ||dupinpu.com^
