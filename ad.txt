@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Th3RiDLS1TAarJLJWZLJrw
+! Checksum: r+O+bUjlycx8Lp3LJsyFqQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711031930
-! Last Modified: 2017年11月03日 19:30
+! Version: 201711032300
+! Last Modified: 2017年11月03日 23:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -19,7 +19,6 @@ cnbeta.com##DIV[style*="display:block !important;padding:10px;margin:0 auto"]
 coding.net##.smart-app-banner
 coolapk.com##[style*="position: fixed;bottom: 0"]
 gelbooru.com##A[href*="ads="]
-ithome.com###a_ad
 mp.weixin.qq.com###js_pc_qr_code
 m.chouti.com##.m_download_box
 m.jd.com##.download-pannel
@@ -41,8 +40,6 @@ www.dwnews.com##.big2-gg
 www.freehao123.com##A[href*="/go/"]
 www.google.com##.ads-ad
 www.hardsextube.com##.right-col.right
-www.ithome.com###lapin
-www.ithome.com##.content>a[href="http://m.ithome.com/ithome/"]
 www.le.com###full_Column_big
 www.le.com###full_Column_small
 www.le.com###rightBottomPop
@@ -135,7 +132,6 @@ xhamster.com##.sponsorBottom
 ||ero-advertising.com^
 ||etahub.com^$third-party
 ||exoticads.com^$third-party
-||img.ithome.com/file/js/wap/apprecommend.js
 ||feih.com.cn^$third-party
 ||flashi.tv/histats.php?
 ||forum.xitek.com/xml/flash.swf
@@ -265,6 +261,12 @@ www.facebook.com##.egoOrganicColumn+*
 ||googleads.g.doubleclick.net^
 ! iQiyi
 !||static.iqiyi.com/js/common/ares-$domain=m.iqiyi.com
+! ithome
+ithome.com###a_ad
+www.ithome.com###lapin
+www.ithome.com##.content>a[href="http://m.ithome.com/ithome/"]
+||img.ithome.com/images/hongbao/*
+||img.ithome.com/file/js/wap/apprecommend.js
 ! Letv
 |http://*/letv-gug/
 ||banana.le.com/letv_tracker.js$domain=m.le.com
