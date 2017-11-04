@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YPm+/xT18BthsihHzDb8sQ
+! Checksum: YMvxSGRYOH1OR5heJW5k7w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711040930
-! Last Modified: 2017年11月04日 09:30
+! Version: 201711041630
+! Last Modified: 2017年11月04日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18680,6 +18680,7 @@ _mongo_stats/
 ||cbtrk.net^$third-party
 ||cccpmo.com^$third-party
 ||ccgateway.net^$third-party
+||cdnanalytics.xyz^$third-party
 ||cdntrf.com^$third-party
 ||cedexis.com^$third-party
 ||cedexis.net^$third-party
@@ -18950,6 +18951,7 @@ _mongo_stats/
 ||elite-s001.com^$third-party
 ||elitics.com^$third-party
 ||eloqua.com^$~stylesheet,third-party
+||eluxer.net^$third-party
 ||email-match.com^$third-party
 ||embeddedanalytics.com^$third-party
 ||emediatrack.com^$third-party
@@ -20167,6 +20169,7 @@ _mongo_stats/
 ||tcimg.com^$third-party
 ||tctm.co^$third-party
 ||td573.com^$third-party
+||tdsrmbl.net^$third-party
 ||tdstats.com^$third-party
 ||tealiumiq.com^$third-party
 ||tedioustooth.com^$third-party
