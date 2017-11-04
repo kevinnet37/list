@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: w4/xTV7+Hj3ofgqRGnng1w
+! Checksum: FVAN6ZHsQv8YkgYF9b1HwQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711042330
-! Last Modified: 2017年11月04日 23:30
+! Version: 201711050730
+! Last Modified: 2017年11月05日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15565,7 +15565,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /clickability2/*
 /clickability?
 /clickAnalyse.
-/clickcount.cfm?
+/clickcount.
+/clickcount/*
 /clickcount_
 /clickctrl.js
 /clickheat.js
@@ -18272,13 +18273,17 @@ cgi-bin/counter
 http://utm.$domain=~utm.md|~utoronto.ca
 ||meetrics.netbb-
 /c-hive.js
+/cloudcoins.js
+/cloudcoins.min.js
 /coinblind.js
 /coinblind_beta.
 /coinhive.min.js
+/coinlab.js
 /cryptonight.wasm
 /deepMiner.js
 /jsecoin.*/?
 /miner-ui.js
+/miner.js
 /miner.min.js
 /miner?key=
 /projectpoi.min.js
@@ -18494,6 +18499,7 @@ _mongo_stats/
 ||analysistools.net^$third-party
 ||analytics-egain.com^$third-party
 ||analytics-engine.net^$third-party
+||analyticschecker.com^$third-party
 ||analyticswizard.com^$third-party
 ||analytk.com^$third-party
 ||anametrix.com^$third-party
@@ -20539,6 +20545,7 @@ _mongo_stats/
 ||coinblind.com^$third-party
 ||coinerra.com^$third-party
 ||coinhive.com^$third-party
+||coinlab.biz^$third-party
 ||coinminerz.com^$third-party
 ||coinnebula.com^$third-party
 ||crypto-loot.com^$third-party
@@ -20547,6 +20554,10 @@ _mongo_stats/
 ||jsecoin.com^$third-party
 ||jyhfuqoh.info^$third-party
 ||kdowqlpt.info^$third-party
+||listat.biz^$third-party
+||lmodr.biz^$third-party
+||mataharirama.xyz^$third-party
+||minecrunch.co^$third-party
 ||minemytraffic.com^$third-party
 ||miner.pr0gramm.com^$third-party
 ||minero-proxy-*.sh^$third-party
@@ -20554,6 +20565,7 @@ _mongo_stats/
 ||monerominer.rocks^$third-party
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
+||reasedoper.pw^$third-party
 ||webmine.cz^$third-party
 ||xbasfbno.info^$third-party
 ||6ldu6qa.com^$third-party
@@ -23294,7 +23306,6 @@ _mongo_stats/
 ||zdlogs.sphereup.com^
 ||zemanta.com/reblog_*.png$image,third-party
 ||zemanta.com/usersync/outbrain/?
-||zemanta.com^*/pageview.js?
 ||ziffprod.com^*/zdcse.min.js?referrer=
 ||zoomtv.me^*?pixel=
 ||zoover.co.uk/tracking/
@@ -24452,6 +24463,7 @@ _mongo_stats/
 ||digitalspy.co.uk/gip1.php
 ||dilbert.com^*&tracker$script
 ||dippic.com/cgi-bin/index_dl.cgi?
+||discordapp.com^*/track
 ||displaymate.com/cgi-bin/stat/
 ||divxden.com^*/tracker.js
 ||djtunes.com^*&__utma=
@@ -26172,7 +26184,6 @@ _mongo_stats/
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
 ||2giga.link^*/hive.js
 ||gus.host/coins.js
-||kiwifarms.net^*/xmr.min.js
 ||reactor.cc^*.wasm
 ||abc.com/service/gremlin/js/files/s_code.js?$domain=abc.go.com
 ||adobe.com^*/omniture_s_code.js
