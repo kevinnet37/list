@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7cLJgv8kSYi3GyvaEz/JSQ
+! Checksum: SfkceIc9qB+SLQUqSOIOBA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711041900
-! Last Modified: 2017年11月04日 19:00
+! Version: 201711042130
+! Last Modified: 2017年11月04日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7366,6 +7366,7 @@ mg*.6park.com/img/$image
 ||5054399.com/js/rice/m.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+to8to.com##.gg-wei-link
 7654.com###J_search_right
 7654.com##.act-navspec
 7654.com##DIV[class^="dh_bottom"]
@@ -14113,6 +14114,8 @@ _300_250.
 ||netease.com/fz/interface/frontend/fz.do?pos=tongyong-
 ||bilibili.com/html/ads-index.js
 ||126.net/caipiao/js2/index/homePop.js
+||126.net/caipiao/js2/dialog.js
+||126.net/caipiao/js2/popularize/hello.js
 ||ye120.com/swt.js
 ||ye120.com/zool.js
 ||wbiao.co/src2/js/expand/fudong/
@@ -14231,6 +14234,7 @@ _300_250.
 ||ltn.com.tw/Upload/Module/2/118/1117360.gif
 ||wingontravel.com/Static/headerfooter/Content/js/masterpage.
 !------------------------Specific element hiding rules------------------------!
+w3cschool.cn##.widget-main
 baidu.com##.download-app-parent
 autohome.com.cn###packetsWrap
 gitee.com##.float-left-box
