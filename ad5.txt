@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FVAN6ZHsQv8YkgYF9b1HwQ
+! Checksum: kLR11PywiaAN7bZOO8ldsA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711050730
-! Last Modified: 2017年11月05日 07:30
+! Version: 201711051730
+! Last Modified: 2017年11月05日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -721,7 +721,7 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
-||0937jyg.com^
+||hxgccl.cn^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -830,6 +830,7 @@ ubmcmm.baidustatic.com
 ||0592weixin.com^
 ||0756j.com^$third-party
 ||0756sjlm.com.cn^
+||0937jyg.com^
 ||0xiaoshuo.com^$third-party
 ||0xxd.com^
 ||1000dy.com^
@@ -3020,6 +3021,7 @@ mg*.6park.com/img/$image
 ||4xiaoshuo.com/js/book.js
 ||500xxxx.com/go.js
 ||5011.net/template/images/*0.gif
+||5054399.com/js/rice/m.js
 ||5068.com/*gg
 ||5068.com/websleft.js
 ||50970.com/js/gg.js
@@ -3187,6 +3189,7 @@ mg*.6park.com/img/$image
 ||733dm.net/skin/middle.js
 ||75.125.41.29:8080/
 ||76.73.85.179/js/v1.js
+||7654.com/index.php?m=index&c=api&a=getData&
 ||76fengyun.com/jsa/
 ||76xh.com/skin/zxf/js/*Out.js
 ||76xh.com/skin/zxf/js/ad
@@ -4191,7 +4194,8 @@ mg*.6park.com/img/$image
 ||dnvod.tv/gb/
 ||dnvod.tv/Scripts/jquery.public-
 ||dnvod.tv/upload/public/
-||dnvod.tv/vod/*.MP4
+||dnvod.tv^*.MP4|
+||dnvod.tv/04/
 ||dnvod.tv^*.gif$object-subrequest
 ||dnvod.tv^*.jpg$object-subrequest
 ||dnvod.tv^*/201$object-subrequest
@@ -6079,7 +6083,6 @@ mg*.6park.com/img/$image
 ||s.yimg.com/uv/dm/scripts/syndication.js
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||s1.pplive.cn/sta.js
-||thzok.com/6/
 ||s8bbs.com/ad/
 ||s8bbs.com/g.php?
 ||saibeinews.com/index.php?m=poster&c=index&a=show_poster&
@@ -6401,6 +6404,7 @@ mg*.6park.com/img/$image
 ||thinksaas.cn/images/upyun_
 ||thisav.com/0*.js
 ||thisav.com/index.js
+||thzok.com/6/
 ||thztv.net/tool/
 ||tianjimedia.com/s?z=
 ||tianjinwe.com/images/qssx/
@@ -7076,14 +7080,12 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8.png
 ||zzzyk.com/js/
-||7654.com/index.php?m=index&c=api&a=getData&
-||5054399.com/js/rice/m.js
+||fans.*.space/fans/*.php
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-to8to.com##.gg-wei-link
-7654.com###J_search_right
-7654.com##.act-navspec
-7654.com##DIV[class^="dh_bottom"]
+7654.com##.layer_bottom_img
+7654.com##.layer_main_img
+7654.com##.layer_mask
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -7161,6 +7163,7 @@ gexing.com###J_bottomMes
 uc123.com###J_logoLeft
 2345.com###J_s11_foot
 2345.com###J_search_bd > div:last-child
+7654.com###J_search_right
 uc123.com###J_shoppingPush
 chem99.com###J_tcode
 2345.com###J_tip_stopXP
@@ -8639,7 +8642,7 @@ yaolan.com##.abstract_ad
 ifeng.com##.acAd1
 ifeng.com##.acPicBox
 jiaju.shangdu.com##.accordion
-2345.com##.act-navspec
+2345.com,7654.com##.act-navspec
 2345.com##.act-navspecS
 qq.com##.action_ad
 rising.cn##.activity-ad
@@ -9620,6 +9623,7 @@ ku6.com##.gg-img5
 ku6.com##.gg-img6
 iqiyi.com##.gg-l
 iqiyi.com##.gg-r
+to8to.com##.gg-wei-link
 5068.com,top.qidian.com##.gg01
 5068.com,hgitv.com##.gg02
 hgitv.com##.gg09
@@ -11320,6 +11324,7 @@ jj59.com##div[class^="art_a"]
 hd-dwr.com##div[class^="banner-"]
 cztv.com##div[class^="banner_"]
 78dm.net##div[class^="couple-"]
+7654.com##div[class^="dh_bottom"]
 syd.com.cn##div[class^="eap"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[class^="ecl"][class*="game"] > .c-border
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[class^="ecl-edu-"]
