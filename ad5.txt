@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TNMqmoCRadGGuJwAoRixRg
+! Checksum: tIZJBkQq8MiWjfFB+GVHNA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711091930
-! Last Modified: 2017年11月09日 19:30
+! Version: 201711092000
+! Last Modified: 2017年11月09日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -875,7 +875,6 @@ ubmcmm.baidustatic.com
 ||138138138.top^
 ||139.159.32.82^
 ||139site.com^$third-party
-||139y.com^$third-party
 ||1503.net/code/
 ||1680go.com^
 ||170yy.com^
@@ -2515,7 +2514,6 @@ ubmcmm.baidustatic.com
 .qidian.com/pageOps.
 .shuotxts.com%2Fad
 .wap.xxbiquge.com^
-/10jqka_info/html/ad_
 /11431a7ff0f5.swf$domain=tieba.baidu.com
 /18touch-guanggao.
 /2015new.js$domain=am5200.com|baby360.ru|haowan.ru|kv130.com|kv700.com|we5200.com|we560.com
@@ -2689,7 +2687,6 @@ mg*.6park.com/img/$image
 ||107cine.com/front/js/layer.js
 ||108.171.248.234^
 ||108tec.com/zbs/floatcnoil_
-||10jqka.com.cn/public/stock/red.html?
 ||11.mydrivers.com/drivers/
 ||11.mydrivers.com/news/03.js
 ||11.mydrivers.com/news/google468x60.js
@@ -2730,7 +2727,6 @@ mg*.6park.com/img/$image
 ||123.sogou.com/nstatic/img/jiao.swf
 ||123564.com^*/plaza.js
 ||1236226.com/html/
-||123cha.com/2568
 ||123du.cc/show/
 ||123du.cc:1133/ga/
 ||125.46.61.28^
@@ -7075,6 +7071,7 @@ mg*.6park.com/img/$image
 ||zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8.png
 ||zzzyk.com/js/
 ||126.net/ntesrich/*/suning-
+||thsi.cn/cb?/js/ifund/sideBarAd_
 !------------------------Specific element hiding rules------------------------!
 163.com###suning-bottom-banner
 114la.com###GameAdv
@@ -8724,7 +8721,7 @@ jokeji.cn##.ad3602
 jokeji.cn##.ad360_280
 qtv.com.cn##.ad360_z
 hupu.com##.ad361-240-240
-178.com,cwan.com,qq360wang.com,tpy888.cn##.ad4
+cwan.com,qq360wang.com,tpy888.cn##.ad4
 5imx.com##.ad4:first-child
 china.com.cn##.ad6
 wuseng.com##.ad600x250
@@ -9814,7 +9811,6 @@ masturbation22.com,playallvideos.com,pron.co,ratedxbiz.com,taporn.com##.ima
 m.cnbeta.com##.image-container
 edu24ol.com##.image_01
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.images_game_container
-10jqka.com.cn##.imgWrap
 image.baidu.com##.imglist > .fcImgli
 alexa.cn##.importantList
 alexa.cn##.importantTop
@@ -10610,7 +10606,6 @@ baidu.com##.spread-wrap
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.spreadad
 stockstar.com##.ss-ad-icon2
 07073.com##.subarea_ad
-10jqka.com.cn##.subbanner
 cam4.tw##.subfoot-section
 etest8.com##.subtop2right
 qingdaonews.com##.surround
@@ -11114,7 +11109,6 @@ muchong.com##a[href="http://muchong.com/bbs/purchase.php?f=index&w=top"]
 xinmin.cn##a[href="http://sbiz.xinmin.cn/new/"]
 sports.qq.com##a[href="http://teramont.svw-volkswagen.com/"]
 jisutiyu.com##a[href="http://www.20080088.com/yzbm"]
-178.com##a[href="http://www.bigeye.tv/"]
 qqhjy.com##a[href="http://www.chaojkm.cn"]
 iidvd.com##a[href="http://www.crc6789.com/iidvd.htm"]
 fuliba.net,fulibba.com##a[href="http://www.meidebi.com"]
@@ -11509,7 +11503,6 @@ ckdzb.com##div[style="float:right;margin:10px 10px;clear:right;height:310px;widt
 m.wallstreetcn.com##div[style="height: 130px;"]
 ting89.com,tingshuge.com##div[style="height: 280px"]
 bilibilijj.com##div[style="height: 462px;"]
-lol.178.com##div[style="height: 60px; text-align: center;"]
 360doc.com##div[style="height: 90px; padding-top: 13px;"]
 huabian.com##div[style="height:250px;"]
 sj33.cn##div[style="height:250px;padding:10px 0 20px 0;"]
@@ -11862,7 +11855,6 @@ icbc.com.cn#@#.adRight
 10jqka.com.cn,faxingw.cn,gdmm.com#@#.ad_1
 dnwx.com#@#.ad_250
 psahz.com#@#.ad_960
-178.com#@#.ad_box
 workercn.cn#@#.ad_content
 mx-fm.com,ts.21cn.com#@#.ad_img
 qqxzb.com#@#.ad_l
