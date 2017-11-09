@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DjdJaoDCxCpYYreWN7ZKkQ
+! Checksum: SYeABMPR6DcgO3ldTlq5fA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711091230
-! Last Modified: 2017年11月09日 12:30
+! Version: 201711091330
+! Last Modified: 2017年11月09日 13:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7764,7 +7764,6 @@ pchome.net###bzhref
 fuli.us###callboard
 ck101.com###canvas-section
 longzhu.com,tga.plu.cn###carousel
-dilidili.wang###carousel *
 cangku.in,galacg.me,moneyweekly.com.tw###carousel-example-generic
 bbs-mychat.com###cate_top > tr > .f_one
 cnbeta.com###cb_share > .fl
@@ -11314,7 +11313,6 @@ bilibilijj.com##[onclick*=".taobao."]
 bilibilijj.com##[style*=" background-size: 100%"]
 bilibilijj.com##[style*="background-image:"]:not(.UserInfo)
 dilidili.wang##[style*="fixed"]
-dilidili.wang##[style*="fixed"] *
 bilibilijj.com##[style="height:100%;"]
 acgnx.se##a > img[src^="/images/"]
 1haza.com##a > img[src^="/template/1haza/images/"]
