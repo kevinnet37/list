@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xuVpaeHBsPzVYjaKRL6JGw
+! Checksum: nWO0YBgxbqKnRsRdbKJxHQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711092030
-! Last Modified: 2017年11月09日 20:30
+! Version: 201711100730
+! Last Modified: 2017年11月10日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7355,6 +7355,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||126.net/ntesrich/*/suning-
 ||thsi.cn/cb?/js/ifund/sideBarAd_
+||ithome.com/images/hongbao/
 !------------------------Specific element hiding rules------------------------!
 163.com###suning-bottom-banner
 160.com###w-advertisement
@@ -13518,6 +13519,9 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
 ! EasyList Lite
+##.ad_hover_href
+/adservice.
+_box_ad_
 /ajs.php?
 /adsystem/*
 /ads/ads.
@@ -14176,7 +14180,7 @@ _300_250.
 ||to8to.com/assets/wap//common/widgets/appGuide/appGuide.
 ||ali213.net/js/3g/newsdetail.js
 ||21sq.org/js/downloadbanner.js
-||dwstatic.com^*/common/newsPopup/
+||dwstatic.com^*/newsPopup/
 ||kaoyan.com/school/js/yz.school.packed.js
 ||sinaimg.cn^$domain=678pan.com
 ||webservice.360doc.com^
@@ -14703,6 +14707,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /fingerprint2.min.js
+||hdslb.com/js/bfd.js
 ||s.union.360.cn^
 ||d-test.39.net^
 ||pv.zhiding.cn^
