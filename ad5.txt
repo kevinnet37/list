@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1NqMDRVWM7uJ1g4Y2QSfog
+! Checksum: k4m8UY/h3nLBteUXpXVlaw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711091730
-! Last Modified: 2017年11月09日 17:30
+! Version: 201711091900
+! Last Modified: 2017年11月09日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -4401,7 +4401,6 @@ mg*.6park.com/img/$image
 ||fh21.com.cn/partners/
 ||fharr.com/assets/plugins/BlockAdBlock/
 ||file.cloud.sogou.com/*/superzone/
-||file.ws.126.net/house/*/js/tc_
 ||file.ws.126.net/house/jn/*.swf
 ||file.ws.126.net/house/nj/*.swf
 ||files.webcars.com.cn^*.swf?link=
@@ -5839,7 +5838,6 @@ mg*.6park.com/img/$image
 ||poco.cn/mypoco/myphoto/20140330/21/5589980820140330214657064.jpg
 ||poco.cn/mypoco/myphoto/20140418/18/5589980820140418182334072.gif
 ||poco.cn/mypoco/myphoto/20140423/19/5589980820140423191248067.gif
-||popme.163.com/js/vedioad_
 ||popme.163.com^
 ||popomh.com/js/
 ||poppur.com/banner/962x100.gif
@@ -7079,6 +7077,7 @@ mg*.6park.com/img/$image
 ||126.net/ntesrich/*/suning-
 !------------------------Specific element hiding rules------------------------!
 163.com###suning-bottom-banner
+163.com##.idx_textlink_ad
 xitongzhijia.net##.m-red-packet
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -8999,13 +8998,10 @@ fanyi.baidu.com##.appbanner
 doc88.com,keywin.org##.appdownload
 tiantianzhibo.com##.apprecomm
 etidol.com##.arProd
-nj.house.163.com##.area > div[style*="position:absolute; z-index:"]
 gamefy.cn,sitv.com.cn##.area > div[style="float:left"] > a
 wenku.baidu.com##.area[href*="/adclick?aid="]
 doyo.cn##.area[style="height:90px;text-align:center;overflow:hidden;"]
 zhlzw.com##.area_ad
-163.com##.area_brand_ad
-163.com##.area_top_ad
 gfan.com##.art-ad
 tianya.cn##.art-view
 10jqka.com.cn##.art_ad
@@ -9693,7 +9689,6 @@ cnmo.com##.guanggao_type
 shm.com.cn##.guanggaowei2
 shm.com.cn##.guanggaowei3
 hao.qq.com##.guess.m
-163.com##.guide_ad
 guokr.com##.guokr-layer-beforelogin
 eweiqi.com##.guoqing
 21cn.com##.h-gg
