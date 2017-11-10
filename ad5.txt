@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OQ7q9W7v5p0lIdIpXnrA5w
+! Checksum: qXPuzlEXizh64QTVO9p5/A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711102000
-! Last Modified: 2017年11月10日 20:00
+! Version: 201711102100
+! Last Modified: 2017年11月10日 21:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7073,6 +7073,7 @@ mg*.6park.com/img/$image
 ||szyk11.com/Runtime/js/ps
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+25xt.com###baidu680
 cqmmgo.com##.ad650-60
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -8862,7 +8863,7 @@ zhijia.com##.adb
 ifeng.com##.adbest
 motobuy.com.tw##.adbig
 sina.com.tw##.adbig300_mid
-17173.com,25xt.com,68design.net,cdyee.com,chinaz.com,eastmoney.com,epochtimes.com,hsw.cn,ifeng.com,phoenixtv.com,pyccoo.cn,xineurope.com,yesky.com##.adbox
+17173.com,68design.net,cdyee.com,chinaz.com,eastmoney.com,epochtimes.com,hsw.cn,ifeng.com,phoenixtv.com,pyccoo.cn,xineurope.com,yesky.com##.adbox
 7jiu.com.hk,plays01.com##.adbox-bg
 ifeng.com##.adbox03
 qq.com##.adbutton-Aritcle-QQ
@@ -12460,6 +12461,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 @@||use.fontawesome.com^$script
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
+||a1.juzih.com^
 ||cj1.256.cc^
 ###cpro_container
 ##a[href*="/mobads.php?"]
