@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OuuQ/ZjpBLaTMk+uYNPR2A
+! Checksum: MPSshYBuSKNbPaY8TBL/ng
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711112200
-! Last Modified: 2017年11月11日 22:00
+! Version: 201711120015
+! Last Modified: 2017年11月12日 00:15
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -339,7 +339,6 @@ jump.bdimg.com,tieba.baidu.com##.u_menu_tbmall
 jump.bdimg.com,tieba.baidu.com##.u_mytbmall
 jump.bdimg.com,tieba.baidu.com##.u_xiu8
 jump.bdimg.com,tieba.baidu.com##.u_wallet
-jump.bdimg.com,tieba.baidu.com##.ui_bubble_down
 ! Top
 jump.bdimg.com,tieba.baidu.com###local_board
 jump.bdimg.com,tieba.baidu.com###j_navtab_wanle
