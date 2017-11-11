@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hYU+HcPEt3ZDiNiEoT943Q
+! Checksum: kA569iwwKXCJ58MW+cqRgw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711111700
-! Last Modified: 2017年11月11日 17:00
+! Version: 201711111730
+! Last Modified: 2017年11月11日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1010,6 +1010,9 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||59hi.com^$third-party
+||kawinhome.com^
+||lzwla.top^
 ||ghnmg.top^
 ||hqygz.com^
 ||139.196.166.21^
@@ -1188,7 +1191,7 @@ ubmcmm.baidustatic.com
 ||1l1.cc^
 ||1lib.cn^
 ||1lo0.net^$third-party
-||1mpi.com^$third-party
+||5pub.com^
 ||1qwe3r.com^$third-party
 ||1uandun.com^
 ||1v7.cn^$third-party
@@ -12797,7 +12800,6 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||1.mgff.com^
 ||1.panduoduo.net^
 ||1.qt86.com^
-||1.rengshu.com^
 ||1.sj33.net^
 ||1.soufy.cn^
 ||1.tulaoshi.com^
@@ -12901,7 +12903,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||aa.tianya999.com^
 ||aa.xiangxiangmf.com^
 ||aa808.com^$third-party
-||ab.sc115.com^
+||11888vip.cn^
 ||abcj.dooccn.com^
 ||abds.pingpingw.com^
 ||adccoo.cn^
@@ -12919,7 +12921,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||b17.8794.cn^
 ||b17.shangc.net^
 ||baidu*.hntvchina.com^
-||baidu-union-js.xiachufang.com^
+||baidu-union-js.chuimg.com^
 ||baiduada.babihu.com^
 ||baidujs.cnys.com^
 ||bbdm.051661.com^
@@ -12942,7 +12944,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||bdcode.gaosan.com^
 ||bdcode.youke.com^
 ||bdjb.gai001.com^
-||bdjiaoben.wmxa.cn^
+||bdasd.wmxa.cn^
 ||bdjs.120askimages.com^
 ||bps.99.com.cn^
 ||bdjs.faxingzhan.com^
@@ -12965,7 +12967,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||c6.friok.com^
 ||cby521.cn^
 ||cc.shixunwang.net^
-||cc.yac8.com^
+||1.yac8.net^
 ||cdeme.com^$third-party
 ||cdyx-pcjy.com^$third-party
 ||chicken18.com^
@@ -12982,8 +12984,8 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||d.mingyihui.net^
 ||d.tonghua5.com^
 ||d.xaoyo.com^
-||d.xinshipu.com^
-||d.yjbys.com^
+||abc.douguo.com^
+||da.yjbys.com^
 ||d520m.xuexila.com^
 ||d6.mobaders.com^
 ||daima.23yy.com^
@@ -13008,7 +13010,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||dm.ppzuowen.com^
 ||dm.pw0.cn^
 ||dm.riji.cn^
-||dm.ruiwen.com^
+||d.ruiwen.com^
 ||dm.sanwen.net^
 ||dm.sanwen8.com^
 ||dm.sb580.com^
@@ -13027,7 +13029,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||f.520tingshu.com^
 ||f1.06ps.com^
-||f1.bizhiku.net^
+||a.bizhiku.net^
 ||f1.meishichina.com^
 ||f1.pig66.com^
 ||fanpingbi*.gaokao.com^
@@ -13112,7 +13114,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||luolikong.net^$third-party
 ||m1.vodjk.com^
 ||ma1.meishij.net^
-||mbs.weathercn.com^
+||mbd.weathercn.com^
 ||meishiba.com.cn^$third-party
 ||milk.7dapei.com^
 ||milk.yesky.com.cn^
@@ -13205,7 +13207,6 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||xinju.cc^
 ||xttianning.com^
 ||xue.zbyw.cn^
-||xuehi.cn^$domain=wenkuxiazai.com
 ||y.damifan.cn^
 ||yetu.net^$third-party
 ||yhzm.cc^
