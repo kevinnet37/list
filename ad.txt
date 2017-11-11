@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +ew8jwWvns6/trEq5m68DQ
+! Checksum: UxUBk8xRvmGvKjGJRHfRjQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711111100
-! Last Modified: 2017年11月11日 11:00
+! Version: 201711111200
+! Last Modified: 2017年11月11日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7365,6 +7365,7 @@ mg*.6park.com/img/$image
 ||zol.com.cn/mainpage/2017/corner/
 ||nb.zol.com.cn/detail_*.html
 ||zol.com.cn/channel/index.php?c=Active_Tmall&
+|http:$script,third-party,domain=papalah.pw
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 llss.fun,llss.me##A[href*=".taobao.com"]
@@ -12747,9 +12748,9 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ##div[style^="width: 100%;"][style$="overflow: hidden;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"][style$="visibility: visible;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"][style$="z-index: inherit;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js$/$script,domain=~bittiger.io|~payoneer.com
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$/$script,domain=~github.io
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$/$subdocument
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js$/$script,domain=~bittiger.io|~payoneer.com
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$/$script,domain=~github.io
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$/$subdocument
 /cpro.$popup,third-party
 /link?c=$image
 /tps/noexpire/*
@@ -12932,7 +12933,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||bdjb.gai001.com^
 ||bdjiaoben.wmxa.cn^
 ||bdjs.120askimages.com^
-||bdjs.99.com.cn^
+||bps.99.com.cn^
 ||bdjs.faxingzhan.com^
 ||bdjs.ixiumei.com^
 ||bdjs.kaixin100.com^
@@ -12964,7 +12965,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||cod.southmoney.com^
 ||code1.2chcn.net^
 ||cp.greenxf.cn^
-||cp.jfcdns.com^
+||003store.com^
 ||cpro1.edushi.com^
 ||d.mingyihui.net^
 ||d.tonghua5.com^
@@ -13075,7 +13076,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||jiliw.com^$third-party
 ||jinghuazhijia.com^
 ||jnsz.net.cn^
-||jqkan.com^$third-party
+||qanif.com^
 ||js-bd.86huoche.com^
 ||js.ubaike.cn^
 ||js1.2abc8.com^
@@ -13084,13 +13085,13 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||jsb.qianzhan.com^
 ||jsf.cnlinfo.net^
 ||jskrnekewe.mofans.net^
-||jsm.39yst.com^
+||fbmjc.39yst.com^
 ||jsm.9939.com^
 ||kuhou.com^$third-party
 ||kuku99.com^$third-party
 ||kureader.com^$third-party
 ||kxji.com^$third-party
-||lele999.com^
+||hnssyhbkj.com^
 ||lfyuanai.com^
 ||libs.tvmao.cn^
 ||linyao.dxsdb.com^
