@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Onynb3ApQrzGM2M4bNtcpg
+! Checksum: Ekhpl1K64BYWvfJoXU8Y8Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711111030
-! Last Modified: 2017年11月11日 10:30
+! Version: 201711111100
+! Last Modified: 2017年11月11日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -126,6 +126,7 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+/corpTmall_ShopAd_
 -880-80-4.jpg
 -HollandOne_GIF2.gif
 .cc/js/ads/
@@ -7076,7 +7077,8 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||86kx.com^*/blgg/
 ||zol.com.cn/mainpage/2017/corner/
-||zol.com.cn/detail_*.html?channelName=mainpage
+||nb.zol.com.cn/detail_*.html
+||zol.com.cn/channel/index.php?c=Active_Tmall&
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 llss.fun,llss.me##A[href*=".taobao.com"]
@@ -12468,6 +12470,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 @@||use.fontawesome.com^$script
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
+||a2.jandan.net^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
