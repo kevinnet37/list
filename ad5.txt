@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Xr1ukyVP6RsoBHc2XGlBkA
+! Checksum: egpy5d61Cee8ZfZ+2kOrXA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711111600
-! Last Modified: 2017年11月11日 16:00
+! Version: 201711111630
+! Last Modified: 2017年11月11日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -724,6 +724,10 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||ghnmg.top^
+||hqygz.com^
+||139.196.166.21^
+||zzad.com^$third-party
 ||wcnmd.top^
 ||italy-lottery.com^
 .cn/show?id=$script,third-party
@@ -7085,6 +7089,7 @@ mg*.6park.com/img/$image
 ||jianshen8.com/blgg/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+mop.com##.post-content[href*=".taobao.com"]
 llss.fun,llss.me##A[href*=".taobao.com"]
 acgdoge.net##A[href*=".tmall.com"]
 hc360.com,yaolan.com###AD
@@ -12599,7 +12604,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||a1.ikafan.com^
 ||a1.jandan.net^
 ||a1.juzih.com^
-||a1.liuxue86.com^
+||aabb123.liuxue86.com^
 ||a1.qqjay.com^
 ||a1.vdolady.com^
 ||a1.yuuedu.com^
@@ -12723,7 +12728,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||dm.ws8.org^
 ||dm.yjbys.com^
 ||dm50.jkyd.net^
-||dmt.qcrx.cn^
+||ac.pingguolv.com^
 ||dn3.ixinwei.com^
 ||dn7788.com^
 ||dsxdn.com^
