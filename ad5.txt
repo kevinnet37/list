@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: egpy5d61Cee8ZfZ+2kOrXA
+! Checksum: k9U59vJLiHp0sgcgat9K5w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711111630
-! Last Modified: 2017年11月11日 16:30
+! Version: 201711111700
+! Last Modified: 2017年11月11日 17:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -727,6 +727,7 @@ _xiuno_com_ad/
 ||ghnmg.top^
 ||hqygz.com^
 ||139.196.166.21^
+||lnfund.org.cn^
 ||zzad.com^$third-party
 ||wcnmd.top^
 ||italy-lottery.com^
@@ -12869,7 +12870,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||s1.86ditu.com^
 ||s1.hiapk.com^
 ||s11.cn^$third-party
-||sad.qeo.cn^
+||hmtoday.com^$third-party
 ||script-bd.baixing.net^
 ||sdwfw.com^
 ||sell1.etlong.com^
@@ -19423,6 +19424,7 @@ _mongo_stats/
 ||leadformix.com^$third-party
 ||leadid.com^$third-party
 ||leadin.com^$third-party
+||leadintel.io^$third-party
 ||leadintelligence.co.uk^$third-party
 ||leadlife.com^$third-party
 ||leadmanagerfx.com^$third-party
@@ -20549,6 +20551,7 @@ _mongo_stats/
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
 ||afminer.com^$third-party
+||altpool.pro^$third-party
 ||api.inwemo.com^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||azvjudwr.info^$third-party
@@ -20562,7 +20565,9 @@ _mongo_stats/
 ||coinlab.biz^$third-party
 ||coinminerz.com^$third-party
 ||coinnebula.com^$third-party
+||crypto-coins.club^$third-party
 ||crypto-loot.com^$third-party
+||cryptomine.pro^$third-party
 ||hashforcash.us^$third-party
 ||jroqvbvw.info^$third-party
 ||jsecoin.com^$third-party
@@ -20576,12 +20581,17 @@ _mongo_stats/
 ||miner.pr0gramm.com^$third-party
 ||minero-proxy-*.sh^$third-party
 ||minero.pw^$third-party
+||mmpool.org^$third-party
 ||monerominer.rocks^$third-party
+||moneroocean.stream^$third-party
 ||now.sh/*.wasm$third-party
 ||papoto.com^$third-party
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
 ||reasedoper.pw^$third-party
+||sbhmn-miner.com^$third-party
+||secumine.net^$third-party
+||trezor.io^$third-party
 ||webmine.cz^$third-party
 ||xbasfbno.info^$third-party
 ||6ldu6qa.com^$third-party
