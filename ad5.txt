@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: X+qsr7mv9WkyYupHFjxIKA
+! Checksum: EPbsypc1E5gsXi+yd8yLfw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711111330
-! Last Modified: 2017年11月11日 13:30
+! Version: 201711111530
+! Last Modified: 2017年11月11日 15:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -724,6 +724,7 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||wcnmd.top^
 ||italy-lottery.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
@@ -12655,7 +12656,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||bdjs.kaixin100.com^
 ||bdjs.163lady.com^
 ||bdjs.ylq.com^
-||bdlm1.hc360.com^
+||bdlm*.hc360.com^
 ||bdlncs1.familydoctor.com.cn^
 ||bdm.911cha.com^
 ||becode.qiushibaike.com^
@@ -12854,7 +12855,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||qujishu.com^
 ||qwxcs.com^$third-party
 ||redmx.cn^$third-party
-||rmcxw.cn^
+||rmcxw.net^
 ||rs1.rensheng5.com^
 ||ruan88.com^
 ||s.zixuntop.com^
