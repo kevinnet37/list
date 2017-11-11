@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UxUBk8xRvmGvKjGJRHfRjQ
+! Checksum: bK5Ye8Q3jEi6OuRdPxibmA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711111200
-! Last Modified: 2017年11月11日 12:00
+! Version: 201711111230
+! Last Modified: 2017年11月11日 12:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12757,6 +12757,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 @@||use.fontawesome.com^$script
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{12,}\.js$/$script,domain=39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|cyone.com.cn|dugoogle.com|jandan.net
 ||a2.jandan.net^
 ###cpro_container
 ##a[href*="/mobads.php?"]
@@ -12901,7 +12902,8 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||aiwen.cc^
 ||ap*.pl520.com^
 ||as1.wenku.baidu.com^
-||b.cyone.com.cn^
+||xfyjz.cn^$third-party
+||bddm1.pc899.com^
 ||b1.51scw.net^
 ||b1.91jucai.com^
 ||b1.c1km4.com^
@@ -13125,7 +13127,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||okkkk.com^
 ||one.520319.cn^
 ||p1.18zhongyao.com^
-||painiuimg.com^
+||1.pncdn.cn^
 ||pingbi.diudou.com^
 ||ptw.la^
 ||qcjslm.com^
