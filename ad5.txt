@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HOP8TQ/43IO8qDT1t/vvxg
+! Checksum: JXUuHetWifkGaBmYxtFVpg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711121530
-! Last Modified: 2017年11月12日 15:30
+! Version: 201711121730
+! Last Modified: 2017年11月12日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -13764,8 +13764,8 @@ _300_250.
 ||cir-smart.baidu.com^
 !---------------------------Popups--------------------------------------------!
 !--------------------------Specific blocking filters--------------------------!
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.m\.[0-9a-z-]{4,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,~third-party,xmlhttprequest
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,third-party,xmlhttprequest
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.m\.[0-9a-z-]{4,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,~third-party,xmlhttprequest
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,third-party,xmlhttprequest
 ||igo.cn/liuxue/js/slideBar
 ||eastmoney.com/js/news_fixed_
 ||dahe.cn/indiboy/ads/
@@ -13965,6 +13965,7 @@ _300_250.
 ||hexun.com/2017-11-07/191534592.jpg
 ||china.com/images/milapp
 !------------------------Specific element hiding rules------------------------!
+km.com##.downloadApp
 w3cschool.cn##.widget-main
 baidu.com##.download-app-parent
 autohome.com.cn###packetsWrap
@@ -14459,7 +14460,6 @@ blog.163.com###topbar_yxpArea
 /soku/giantstar/js/youlog.js
 /hunter/alog/*
 /yesky/js/counter/*
-/fingerprint2.min.js
 ||hdslb.com/js/bfd.js
 ||s.union.360.cn^
 ||d-test.39.net^
