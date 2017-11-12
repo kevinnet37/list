@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WSpXKFjzA/amW5S2QFGfbw
+! Checksum: 3j2A8xj6uUSihpC7TYfEDQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711120930
-! Last Modified: 2017年11月12日 09:30
+! Version: 201711121030
+! Last Modified: 2017年11月12日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -2763,7 +2763,6 @@ mg*.6park.com/img/$image
 ||234fang.com/index.php?/ajax/get_adv/
 ||239300.net/data/attachment/album/
 ||23sc.cn*/007/js/$script
-||23zw.com/sda/mediav.html
 ||24gif.com/image/gif.jpg
 ||24meinv.me/js/total.js
 ||2500sz.com/ad20
@@ -6979,6 +6978,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8.png
 ||zzzyk.com/js/
+||2345.com/js/v6/tuia.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 smzdm.com##.beiwo
@@ -8072,7 +8072,6 @@ firefoxchina.cn###promo
 sina.cn###promotionCover
 langxi.org###pt + div > table
 bbs.pcbeta.com###pt + div[style] > div[style^="clear:both;"]
-23zw.com###ptopad
 xiazaizhijia.com###public_right_mid_ad
 aijiatxt.com###pwSlidePlayer
 tianya.cn###q_topbanner_950_90
@@ -8232,7 +8231,6 @@ t.qq.com###talkList > li[ispopula="1"][tv="2"]
 07073.com###tanchuang
 e23.cn###taobaorba
 findprice.com.tw###tb_ad
-23zw.com###tbad
 histock.tw###tbadword
 40407.com###tcdgg
 m.autohome.com.cn###tcw20l
