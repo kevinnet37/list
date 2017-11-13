@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kvz+0/M9e1PbPhbHFGWhSg
+! Checksum: 6yeD19bw1S4Ea/wuosgz0w
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711132100
-! Last Modified: 2017年11月13日 21:00
+! Version: 201711132330
+! Last Modified: 2017年11月13日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -6984,6 +6984,8 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||2ccc.com/images/aobi.gif
 ||2ccc.com/images/sdo.jpg
+/\.dnvod\.tv\/[^\.]+$/$object-subrequest,domain=dnvod.tv
+||dnvod.tv/f9/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -11385,7 +11387,7 @@ hbrc.com##div[style*="height:250px;"]
 taiwan.cn##div[style*="height:250px;padding:5px 17px 5px 18px;"]
 hbrc.com##div[style*="height:260px;"]
 dfpan.com##div[style*="img.com/"]
-dnvod.tv##div[style*="important"]
+dnvod.tv##[style*="important"]
 tiexue.net##div[style*="overflow: hidden; position: fixed;"]
 iplaysoft.com##div[style*="width:3"][style*="height:2"]
 dbw.cn##div[style*="width:300px; height:250px; "]
@@ -11530,7 +11532,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="qunar_hotel"] > .c-border
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="right_qunar_hotel"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="soft"] > .c-border
 zuoye.baidu.com##dl[class="card related"]
-dnvod.tv#?#DIV[style*="important"]
+dnvod.tv#?#[style*="important"]
 bbs.my0511.com##embed[width="970"][height="70"]
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(贊助))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(赞助))
