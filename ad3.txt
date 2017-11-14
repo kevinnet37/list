@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: A+6OnRMJuVl5C5g2Y/q8HA
+! Checksum: U7C8lcJl4Le7yR2xY6i74A
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711141330
-! Last Modified: 2017年11月14日 13:30
+! Version: 201711142100
+! Last Modified: 2017年11月14日 21:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -6990,6 +6990,8 @@ mg*.6park.com/img/$image
 ||1182t.com/js/jquery.js
 ||vip.yiqikanba.cn/wp-content/uploads/*.gif
 ||sinaimg.cn^$domain=yiqikanba.cn
+||caoads.com/images/
+||cool-de.com/api.php?mod=js&bid=
 !------------------------Specific element hiding rules------------------------!
 yiqikanba.cn##.qqanimate
 gpcxw.com###AA2
@@ -7297,7 +7299,7 @@ qq.com###ay-tips-close + h2
 k73.com###azbt
 163.com###backadframe
 hao.360.cn###background.festival
-cucn.com,ocucn.com###bad
+ocucn.com###bad
 china.com.cn###baidu
 25xt.com###baidu680
 chinaiiss.com###baidu_300_250
@@ -7340,7 +7342,6 @@ loldk.com###before_video_ad
 eeyy.com###beitou_box
 beva.com###beva-av-left
 beva.com###beva-av-right
-gamersky.com###bgAdWrapClose
 91danji.com###bg_ad
 kyofun.com###bg_ad_left
 kyofun.com###bg_ad_right
@@ -7521,7 +7522,6 @@ chzhw.com###diqilai
 3boys2girls.com###displayadb1
 3boys2girls.com###displayadbu3
 szhk.com###div01
-wz.zj.cn###div1
 3boys2girls.com###div3_display3
 qdwenxue.com,qidian.com###divADClient
 findprice.com.tw###divBestBuy
@@ -7556,7 +7556,6 @@ chinafix.com###diy_col_1-3
 5imx.com###diy_mxad04
 5imx.com###diy_mxad06
 5imx.com###diy_mxnewsad01
-cool-de.com###diy_vk_ad_top
 0517w.com,lysq.com###diyad
 dz19.net###diyad2
 pingpang.info###diycity1103
@@ -11413,7 +11412,6 @@ educity.cn##div[style="background-color:#F4F4F4; height:100px; "]
 chinaz.com##div[style="background:#C91521;height:90px;"]
 xilu.com##div[style="border-right:1px solid red; width:629px;height:300px; margin-top:10px;overflow:hidden;"]
 tsdm.tv##div[style="border:1px #BFE6F4 solid;width:960px;height:90px;margin:0 auto;"]
-sznews.com##div[style="border:solid 1px #ddd; padding-bottom:10px; padding-top:10px; margin-bottom:10px; width:670px; overflow:hidden; zoom:1; font-family:SimSun ;"]
 housefindeasy.com##div[style="display:inline-block; vertical-align:top; font-size:12px; margin-top:2px"]
 housefindeasy.com##div[style="display:inline-block; vertical-align:top; font-size:12px; margin-top:2px"] + div[style="display:inline-block"]
 sinolub.com##div[style="float:left; padding-right:20px;"]
