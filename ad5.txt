@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TnBRm5HGAh9+Vkw17GhnnA
+! Checksum: NlMX/933esxeKB+2/yNYQQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711162100
-! Last Modified: 2017年11月16日 21:00
+! Version: 201711170730
+! Last Modified: 2017年11月17日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18271,6 +18271,7 @@ http://utm.$domain=~utm.md|~utoronto.ca
 /miner.js
 /miner.min.js
 /miner?key=
+/obfus.min.js
 /projectpoi.min.js
 /wproxy$~third-party,websocket
 /xminer.js
@@ -19103,6 +19104,7 @@ _mongo_stats/
 ||ftbpro.com^$third-party
 ||fueldeck.com^$third-party
 ||fugetech.com^$third-party
+||fullstory.com^$third-party
 ||funneld.com^$third-party
 ||funstage.com^$third-party
 ||fuse-data.com^$third-party
@@ -20027,6 +20029,7 @@ _mongo_stats/
 ||smartctr.com^$third-party
 ||smarterhq.io^$third-party
 ||smarterremarketer.net^$third-party
+||smartlook.com^$third-party
 ||smartology.co^$third-party
 ||smartracker.net^$third-party
 ||smartzonessva.com^$third-party
@@ -20332,6 +20335,7 @@ _mongo_stats/
 ||userlook.com^$third-party
 ||userneeds.dk^$third-party
 ||useronlinecounter.com^$third-party
+||userreplay.net^$third-party
 ||userreport.com^$third-party
 ||users-api.com^$third-party
 ||userzoom.com^$third-party
@@ -21869,6 +21873,7 @@ _mongo_stats/
 ||compendiumblog.com/js/stats.js
 ||conde.io/beacon
 ||condenastdigital.com/content?$third-party
+||connect.facebook.net/signals/$third-party
 ||connect.facebook.net^*/fbevents.js$third-party
 ||contactatonce.com/VisitorContext.aspx?
 ||content.cpcache.com^*/js/ga.js
