@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6rfAvyBW6RngnGlkc5YQfA
+! Checksum: Y1FYfa9qzIRFSBhXn3jHEg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711172100
-! Last Modified: 2017年11月17日 21:00
+! Version: 201711172130
+! Last Modified: 2017年11月17日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1010,6 +1010,8 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||juuhe.com^
+||7895983.cn^
 ||assigned.cn^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
@@ -7375,6 +7377,7 @@ mg*.6park.com/img/$image
 ||i69txt.com/JSRmb/
 ||bozhou.cn/templates/bozhoucn/css/2017ad/
 ||mikanani.me/images/upupoo
+||btdx8.com/tmp/
 !------------------------Specific element hiding rules------------------------!
 titan007.com###table_live > TBODY > TR > TD[height="18"] > a
 t66y.com##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ br:nth-child(-n+226)
