@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NlMX/933esxeKB+2/yNYQQ
+! Checksum: d10M0VkvHFu7BQEkcuEWkg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711170730
-! Last Modified: 2017年11月17日 07:30
+! Version: 201711170900
+! Last Modified: 2017年11月17日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -125,7 +125,6 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
-.com/vipgg/
 -880-80-4.jpg
 -HollandOne_GIF2.gif
 .cc/js/ads/
@@ -152,6 +151,7 @@ tieba.baidu.com##.tuijian-wrap
 .com/jsbjl/zhanqun
 .com/myjs/alljs.js
 .com/pc/ad/
+.com/vipgg/
 .com/vodad.js
 .in/js/ads/
 .info/ad.js
@@ -724,8 +724,6 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
-||biandaosheng.com^
-||onsnv.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -1210,6 +1208,7 @@ ubmcmm.baidustatic.com
 ||beeho.site^
 ||behe.com^$third-party
 ||bench-life.me^
+||biandaosheng.com^
 ||biddingx.com^$third-party
 ||bigbos.top^
 ||billionfocus.com^
@@ -1904,6 +1903,7 @@ ubmcmm.baidustatic.com
 ||onetad.com^$third-party
 ||onewhee.com^$third-party
 ||onlifjj.net^
+||onsnv.com^
 ||oq68.com^
 ||orchidscape.net^
 ||ou188.com^
@@ -4204,6 +4204,7 @@ mg*.6park.com/img/$image
 ||dnvod.tv/d4/
 ||dnvod.tv/f9/
 ||dnvod.tv/gb/
+||dnvod.tv/Home/ObtainPublic
 ||dnvod.tv/Scripts/jquery.public-
 ||dnvod.tv/upload/public/
 ||dnvod.tv^*.gif$object-subrequest
@@ -5290,6 +5291,7 @@ mg*.6park.com/img/$image
 ||kdhome.net/templets/default/img/tpfd.jpg
 ||kdou.com/ad_js.php?adid=
 ||keaidian.com/js/jquery.wap.min.js
+||kedou*.com/layer/layer.js
 ||kekenet.com/images/*/tom468X60.gif
 ||kekenet.com/Images/*/tom640X40.gif
 ||kekenet.com/images/*980
@@ -6839,6 +6841,7 @@ mg*.6park.com/img/$image
 ||yaerwen.com/5200js/59.js
 ||yahoo.com/gdsale/gdsale.asp$domain=beephone.com.tw
 ||yam.com/ad_yam/
+||yangqiu.cn/static/js/new_pc.js
 ||yangtianya.com/images/
 ||yanjiao.com/zt/indexad/
 ||yantuchina.com/Upload/Ad/
@@ -7075,13 +7078,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||kedou*.com/layer/layer.js
-||yangqiu.cn/static/js/new_pc.js
-||dnvod.tv/Home/ObtainPublic
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-bitauto.com###carshow
-bitauto.com##.advertise-nav-down
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -7486,6 +7484,7 @@ fuli.us###callboard
 ck101.com###canvas-section
 longzhu.com,tga.plu.cn###carousel
 cangku.in,galacg.me,moneyweekly.com.tw###carousel-example-generic
+bitauto.com###carshow
 bbs-mychat.com###cate_top > tr > .f_one
 cnbeta.com###cb_share > .fl
 sina.com.tw###cboxOverlay
@@ -8965,6 +8964,7 @@ liba.com##.advert-r
 dianxinnews.com##.advertTxt
 dianxinnews.com##.advert_a
 hao123.com,sohu.com,tieba.baidu.com##.advertise
+bitauto.com##.advertise-nav-down
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.advertise_right_index
 hkepc.com,inside.com.tw,sina.com.cn##.advertisement
 chinacar.com.cn,elecfans.com##.advertising
@@ -12938,7 +12938,6 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||haoimgs.com/images/*.gif
 ||sinaimg.cn^$domain=2c2.website|2p8.space|adultgao.com|baocee.com|baofee.com|baonee.com|baopee.com|baowee.com|baoxee.com|baozoo.com|caoporn.com|caouoo.com|caoxee.com|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vgao.xyz|vlang.xyz|vwan.xyz
 2c2.website,2p8.space,adultgao.com,baocee.com,baofee.com,baonee.com,baopee.com,baowee.com,baoxee.com,baozoo.com,caoporn.com,caouoo.com,caoxee.com,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vgao.xyz,vlang.xyz,vwan.xyz##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
-||vvnna.com^
 .m.23sw.net^
 .m.3dllc.cc^
 .m.beidouxin.com^
@@ -13108,6 +13107,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||umyai.com^
 ||vers80.com^
 ||vichc.com^
+||vvnna.com^
 ||wao24.com^
 ||weboser.com^
 ||wfyqc.com^
