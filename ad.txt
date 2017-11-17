@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JiBIkokvrfzeZAY9h6FjBw
+! Checksum: 5CATrPkwg/kkhaCblK30xQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711171100
-! Last Modified: 2017年11月17日 11:00
+! Version: 201711171200
+! Last Modified: 2017年11月17日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -994,7 +994,6 @@ _xiuno_com_ad/
 ##a[href*="/?Intr="]
 ~ac.uk##a[href*="/?aff="]
 ##a[href*="/?intr="]
-##a[href="http://www.viidii.info/?http://buyu8005______com/?Extend=1278735&z"]
 ##a[href^="http://ad.moemoe."]
 ##a[href^="http://go.gotourl.xyz/"]
 ##a[href^="http://www.upupoo.com/?"]
@@ -3554,7 +3553,6 @@ mg*.6park.com/img/$image
 ||90oo.com/tp/js
 ||90oo.com/tp/msn.jpg
 ||90oo.com/tp/w981.gif
-||90zq.com/bf/mykdata/mkdata.js
 ||90zy.cn/data/attachment/portal/
 ||91.com/*hezuo/
 ||91.com/uploads/game/*-%E5%B9%BF%E5%91%8A.
@@ -7373,7 +7371,9 @@ mg*.6park.com/img/$image
 ||srimg.com/u/20171114/20070541.gif
 ||sinaimg.cn/large/006VacwCgy1fjq23teqx6g30og028wt8.gif
 ||sinaimg.cn/large/006ZdrOOgy1flbrubi93eg30m801oaff.gif
+||7m.com.cn/b1/live_b
 !------------------------Specific element hiding rules------------------------!
+titan007.com###table_live > TBODY > TR > TD[height="18"] > a
 t66y.com##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ br:nth-child(-n+226)
 yorkbbs.ca##.textNewsBorder
 gpcxw.com###AA2
