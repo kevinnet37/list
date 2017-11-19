@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VDs0whRrXNqxSiMKhrn6Mw
+! Checksum: 5uKhOsrgapesdUpUdHqGDw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711190900
-! Last Modified: 2017年11月19日 09:00
+! Version: 201711191100
+! Last Modified: 2017年11月19日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7386,6 +7386,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||qhimg.com/t01faaccf9810655225.jpg
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -9741,7 +9742,7 @@ m.so.com##.e_idea_list
 so.com##.e_idea_wenda_detail_spread
 so.com##.e_idea_wenda_spread
 easou.com##.easou_banner
-360kan.com##.eb-mediav-950
+360kan.com##.b-ifradjx
 baidu.com##.ec-ad
 sm.cn##.ec-goods-list
 baidu.com##.ec_ad
@@ -10503,7 +10504,6 @@ mitbbs.ca,mitbbs.com##.newskuang2
 icnkr.com##.newsmainbox_midder_top
 afzhan.com##.newsshow
 talkforex.com##.nge_border_right > div[style="height: 250px; position: relative;"]
-26lady.com##.ngg
 qdmm.com,qidian.com##.nightMask
 weishangshijie.com##.nleft_ads
 manqian.cn##.node-ad-bg
