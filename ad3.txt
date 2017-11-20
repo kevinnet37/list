@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Dn1srHXHLtH9o1Nq7S23FA
+! Checksum: Wv1DtUgJN85VhnXhNYrv2Q
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711201930
-! Last Modified: 2017年11月20日 19:30
+! Version: 201711202030
+! Last Modified: 2017年11月20日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -2838,7 +2838,6 @@ mg*.6park.com/img/$image
 ||3454.com/zh/flash/d
 ||3464.com/Script/RightWindows.js
 ||3520.cc/js/3520/
-||356ys.com/template/tieniudy/images/g_js/
 ||360.cn/festival_zone.html
 ||360.cn/index/showjokes?callback=
 ||360buyimg.com/jzt/temp/js/cpc.js
@@ -6994,6 +6993,7 @@ mg*.6park.com/img/$image
 ||8585go.com/recommend
 ||3g518.com/mb/000000/moban21/js/tcad.js
 ||3g518.com/piaofujs/
+||3g.cn/index.php?s=Index/adv&
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -8978,7 +8978,6 @@ game.9724.com##.baidu_left
 inpai.com.cn##.baiduad3
 qqcyl123.com##.baiduadc
 hc360.com##.baidutuiguang
-3qzw.com##.ban1
 100shuai.com##.bannar_gg
 3gsc.com.cn,52jifenbao.net,591hx.com,7zhan.com,99.com.cn,aguitar.cn,cailianpress.com,e0514.com,eastmoney.com,eroacg.com,expreview.com,fulidang.com,ganji.com,guitarchina.com,iciba.com,iqiyi.com,jia360.com,joy.cn,kdnet.net,kumi.cn,marstv.com,newnet.cc,pengfu.com,safedom.net,tiboo.cn,tiexue.net,w3cfuns.com,xizi.com,zyue.com##.banner
 cnool.net##.banner-ad001
