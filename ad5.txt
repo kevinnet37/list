@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: O4dE3SPuSoe2NilA1hay0w
+! Checksum: LjDvKYJ4BIL8rLyBkMy3BA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711200730
-! Last Modified: 2017年11月20日 07:30
+! Version: 201711201130
+! Last Modified: 2017年11月20日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -728,7 +728,6 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
-||gzdhzb.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -1538,6 +1537,7 @@ ubmcmm.baidustatic.com
 ||gydag.com^
 ||gygdmy.com^
 ||gzbywl.com^$third-party
+||gzdhzb.com^
 ||gzktpf.com^
 ||gzmjnx.cn^
 ||gzqudou.com^
@@ -4103,6 +4103,7 @@ mg*.6park.com/img/$image
 ||d.pixiv.org/show?zone_id=
 ||d.taomato.com^
 ||d0.xcar.com.cn^
+||d1.3158.cn^
 ||d1.sina.com.cn^$object,object-subrequest,script
 ||d2.sina.com.cn^$object,object-subrequest,script
 ||d3.sina.com.cn^$object,object-subrequest,script
@@ -4440,6 +4441,7 @@ mg*.6park.com/img/$image
 ||find800.cn/uploadfile/2017/0925/jl
 ||firefoxchina.cn/2014/*_foxphone.png
 ||firefoxchina.cn/res/js/fchina_video-min.js
+||firefoxchina.cn/v2/json/floatBanner.json
 ||firefoxchina.cn^*49560.
 ||firefoxchina.cn^*_couplet
 ||firefoxchina.cn^*_topbanner
@@ -5917,6 +5919,7 @@ mg*.6park.com/img/$image
 ||qdmm.com/javascript/SNDAADAltern.js
 ||qhf168.com/data/attachment/portal/
 ||qhimg.com/static/*/common/seed.js
+||qhimg.com/t01faaccf9810655225.jpg
 ||qhnews.com/tupian/
 ||qianhua.*/data/attachment/portal/
 ||qianmu.org/resource/js/jquery.ads.js
@@ -7101,12 +7104,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||qhimg.com/t01faaccf9810655225.jpg
-||d1.3158.cn^
-||firefoxchina.cn/v2/json/floatBanner.json
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-hao123.com##.siye
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -9068,6 +9067,7 @@ qiqu888.com##.ax-arc610161
 yam.com##.axdBox
 qiqu888.com##.axing_add_ad
 read01.com##.axslot
+360kan.com##.b-ifradjx
 pinshan.com##.b_adv
 pinshan.com##.b_adv2
 120ask.com##.b_right > div[style]
@@ -9460,7 +9460,6 @@ m.so.com##.e_idea_list
 so.com##.e_idea_wenda_detail_spread
 so.com##.e_idea_wenda_spread
 easou.com##.easou_banner
-360kan.com##.b-ifradjx
 baidu.com##.ec-ad
 sm.cn##.ec-goods-list
 baidu.com##.ec_ad
@@ -10594,6 +10593,7 @@ icoc.cc,icoc.in##.siteAdvertisement_box
 v.qq.com##.site_bg_variety
 hao.qq.com##.site_words
 findprice.com.tw##.sitemajiad
+hao123.com##.siye
 iask.sina.com.cn##.sj680x90
 iask.sina.com.cn##.sj_1000x90
 iask.sina.com.cn##.sj_300x250
@@ -12486,7 +12486,6 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{10,}\.js$/$script,domain=39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|cyone.com.cn|dugoogle.com|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
-||daimaceshi.8809.cn^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
@@ -12720,6 +12719,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||daima.ijq.tv^
 ||daima.niubb.net^
 ||daima.youbian.com^
+||daimaceshi.8809.cn^
 ||daxishi.com^$third-party
 ||dm.388g.cc^
 ||dm.51okc.com^
