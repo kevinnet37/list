@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +12yasOiVj8LQdr60JCO6Q
+! Checksum: bzjjGCJf4MWswQRccrJ/+w
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711201830
-! Last Modified: 2017年11月20日 18:30
+! Version: 201711201900
+! Last Modified: 2017年11月20日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -2816,7 +2816,6 @@ mg*.6park.com/img/$image
 ||3134.cc/img/20170508.jpg
 ||3155.com/js/ifile
 ||315che.com/tree/ad.js
-||324324.cn/zz/
 ||33.autohome.com.cn^$object,script
 ||33.autoimg.cn/homeurl/*.js
 ||33.autoimg.cn/t/Adhtmlnet/*.jpg
@@ -2869,7 +2868,6 @@ mg*.6park.com/img/$image
 ||3987.com/images/
 ||3987.com/skins/*201
 ||3987.com/statics/tow_skin/new_img/20
-||3987.com/vote/
 ||3boys2girls.com/newfile/image2010/banner_housead_
 ||3boys2girls.com/templates/default/2013/life/160b5.js
 ||3boys2girls.com/templates/default/2013/randlinks.js
@@ -6993,6 +6991,8 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||8585go.com/recommend
+||3g518.com/mb/000000/moban21/js/tcad.js
+||3g518.com/piaofujs/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
