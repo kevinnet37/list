@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FQXqpf4f4RcVXHBhPjJq3A
+! Checksum: GZQAoVbwNPG197Ik4L3RGQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711202130
-! Last Modified: 2017年11月20日 21:30
+! Version: 201711210730
+! Last Modified: 2017年11月21日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15180,6 +15180,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /amdhfp/a.do?param$image
 /amdhfp/t.do?id$image
 /amp/amp-analytics-
+/amp_ping/*
 /amplitude-*.js$script
 /ampmetrics.
 /amptrack.
@@ -15255,7 +15256,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /analytics/track|
 /analytics/urlTracker.
 /analytics/v1/*
-/analytics/video_
+/analytics/video_$domain=~twitch.tv
 /analytics/visit/*
 /Analytics/Visitor.
 /analytics/yell-
@@ -15658,6 +15659,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /CofinaHits.
 /cognitive_match/*
 /collect/kf?
+/collect/sdk?
 /collect?callback=
 /collect_data.php?
 /collect_stat.
@@ -16879,6 +16881,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /performance_timing/log?
 /performance_tracker-
 /permalink-tracker.html?
+/pg_pixel?
 /pgtracking.
 /pgtrackingV3.
 /php-stats.js
@@ -18258,6 +18261,7 @@ _ntpagetag.
 _OpinionLab/$script
 _pages_tracker.
 _performance_tracker-
+_ping/amp-
 _pix.gif?
 _pixel_test/?
 _pixelmap.js
@@ -18728,6 +18732,7 @@ _mongo_stats/
 ||cetrk.com^$third-party
 ||cformanalytics.com^$third-party
 ||cftrack.com^$third-party
+||chardneave.info^$third-party
 ||chartaca.com^$third-party
 ||chartbeat.com^$third-party
 ||chartbeat.net^$third-party
@@ -19402,6 +19407,7 @@ _mongo_stats/
 ||kameleoon.com^$third-party
 ||kameleoon.eu^$third-party
 ||kampyle.com^$third-party
+||kaxsdc.com^$third-party
 ||keen.io^$third-party,domain=~keen.github.io|~keen.io
 ||keyade.com^$third-party
 ||keymetric.net^$third-party
@@ -20031,6 +20037,7 @@ _mongo_stats/
 ||shoelace.com^$third-party
 ||shoptimally.com^$third-party
 ||showroomlogic.com^$third-party
+||siftscience.com^$third-party
 ||signup-way.com^$third-party
 ||silverpop.com^$third-party
 ||silverpush.co^$third-party
@@ -25647,6 +25654,7 @@ _mongo_stats/
 ||spoor-api.ft.com/px.gif
 ||sporcle.com/adn/yaktrack.php?
 ||sportingnews.com/px/
+||sportsmole.co.uk/track*.gif?
 ||spotlight.accuweather.com^
 ||spreaker.com^*/statistics/
 ||squidoo.com/track/
