@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2CtAAD5p8h+wBOPXR1NoYw
+! Checksum: Q6dEmq7Vk0KOBRLCqa+kDg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711210800
-! Last Modified: 2017年11月21日 08:00
+! Version: 201711211130
+! Last Modified: 2017年11月21日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -2400,7 +2400,7 @@ ubmcmm.baidustatic.com
 ||qx568.com^$popup
 ||sohu.com/i/?pvid=$popup
 ||son999.com^$popup,third-party
-||taobao.com^$popup,domain=bilibilijj.com|dlkoo.com|gaoqingkong.com|iqiyi.com
+||taobao.com^$popup,domain=bilibilijj.com|gaoqingkong.com|iqiyi.com
 ||tmall.com^$popup,domain=iqiyi.com
 ||todayapp.tv^$popup,third-party
 ||u26u.com^$popup,third-party
@@ -4086,7 +4086,6 @@ mg*.6park.com/img/$image
 ||djwma.com/qq.jpg
 ||djwma.com/tc.js
 ||dldl2.com/00tb/
-||dlkoo.com/down/copy
 ||dm.aizhan.com^
 ||dm1.tom61.com^
 ||dm456.com/install/loading.html
@@ -6994,6 +6993,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||dnvod.tv/a/o
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -12864,6 +12864,15 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||haoimgs.com/images/*.gif
 ||sinaimg.cn^$domain=2c2.website|2p8.space|adultgao.com|baocee.com|baofee.com|baonee.com|baopee.com|baowee.com|baoxee.com|baozoo.com|caoporn.com|caouoo.com|caoxee.com|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vgao.xyz|vlang.xyz|vwan.xyz
 2c2.website,2p8.space,adultgao.com,baocee.com,baofee.com,baonee.com,baopee.com,baowee.com,baoxee.com,baozoo.com,caoporn.com,caouoo.com,caoxee.com,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vgao.xyz,vlang.xyz,vwan.xyz##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
+dlkoo.com##INS[id^="tanxssp-outer-conmm_"]
+|http:$script,subdocument,third-party,domain=dlkoo.com
+||dlkoo.com/down/$subdocument
+@@||alicdn.com^*/tanxssp.js$domain=dlkoo.com
+@@||tanx.com/ex?i=$script,domain=dlkoo.com
+@@||dlkoo.com/down/Copyright.js
+@@||dlkoo.com/down/copy1117.js
+||dlkoo.com/down/copy
+||taobao.com^$popup,domain=dlkoo.com
 .m.23sw.net^
 .m.3dllc.cc^
 .m.beidouxin.com^
