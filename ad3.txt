@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bPId/ZfdCOqR1j37B7RJ5g
+! Checksum: K73RUm1imv2KIP9ZaLuQJg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711220900
-! Last Modified: 2017年11月22日 09:00
+! Version: 201711220930
+! Last Modified: 2017年11月22日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7005,6 +7005,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||public.dnvod.tv^$xmlhttprequest
 ||dnvod.tv/ffcX/
+||nbegame.com/nbead/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -12388,6 +12389,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{10,}\.js$/$script,domain=39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|cyone.com.cn|dugoogle.com|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+||sjzqu.com^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
