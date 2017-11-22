@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pmY+r0DJYwo2NxBD4v+BxA
+! Checksum: VJ0plclQq0L4zJJxHYuQzg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711222330
-! Last Modified: 2017年11月22日 23:30
+! Version: 201711230730
+! Last Modified: 2017年11月23日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16727,6 +16727,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /mystats/track.js
 /mystats2.px?
 /myTracking.js
+/navbar-analytics.js
 /naveggQry-
 /NavMultiTracking.
 /naytev.min.js
@@ -21742,7 +21743,6 @@ _mongo_stats/
 ||audience.newscgp.com^
 ||audienceapi.newsdiscover.com.au^$third-party
 ||audienceinsights.net^$third-party
-||audioeye.com/ae.js
 ||audit.303br.net^
 ||audit.median.hu^
 ||autoline-top.com/counter.php?
@@ -24333,6 +24333,7 @@ _mongo_stats/
 ||blinkbox.com/tracking
 ||blinkist.com/t?
 ||blip.tv/engagement?
+||blockchain.info/Resources/analytics.js
 ||bloomberg.com/apps/data?referrer
 ||bloxcms.com^*/tracker.js
 ||bluenile.ca/track/
@@ -27020,6 +27021,7 @@ _mongo_stats/
 ||seoul.co.kr/weblog/
 ||track.tiara.daum.net^
 ||veta.naver.com^
+||wcs.naver.com^
 ||weblog.eseoul.go.kr^
 ||weblog2.eseoul.go.kr^
 ||ytn.co.kr/_comm/ylog.php?
@@ -28202,6 +28204,7 @@ _mongo_stats/
 @@||webcenter.tiscali.it/distribuzione/_script/audience_science.js$domain=mail.tiscali.it
 @@||detik.com/urchin.js
 @@||chancro.jp/assets/lib/googleanalytics-$script
+@@||naver.net/wcslog.js$domain=m.tv.naver.com
 @@/webtracking/*$domain=pasts.lv
 @@||gjensidige.lv/Content/dev/scripts/analytics.js
 @@||google-analytics.com/analytics.js$domain=skaties.lv
