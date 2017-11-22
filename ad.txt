@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AzqN6aUsKrhA5+r9IB8phw
+! Checksum: teKkvHfj9lUNiLKhYJiBrA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711221830
-! Last Modified: 2017年11月22日 18:30
+! Version: 201711222000
+! Last Modified: 2017年11月22日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -3299,7 +3299,6 @@ mg*.6park.com/img/$image
 ||400516.com/data/attachment/album/
 ||40064008.com/topjs/
 ||4020.la/hi
-||40407.com/images/t.png
 ||40407.com/plus/pthc/zqdl.php?
 ||40407.com/plus/rpad/
 ||40407.com/plus_rpad_
@@ -3322,7 +3321,7 @@ mg*.6park.com/img/$image
 ||4gtv.tv/4gTV_OTT.json
 ||4hu8.com/js/jquery.js
 ||4hw.com.cn/4hw
-||4kong.com/xk.jpg
+||4kong.com/9.jpg
 ||4xiaoshuo.com/js/book.js
 ||500xxxx.com/go.js
 ||5011.net/template/images/*0.gif
@@ -11142,7 +11141,6 @@ ts.cn##.tsggding
 tvhome.com##.ttt
 hualady.com##.tu_guangao
 hualady.com##.tu_guangao2
-40407.com##.tui
 iask.sina.com.cn##.tui-nav-txt
 7060.la##.tuiguang
 m.hao123.com##.tuizhan
