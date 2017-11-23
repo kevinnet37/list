@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Nv6qr1ETU7YSs9sEcOCojw
+! Checksum: E25eJZJC6E0mFHQs45blow
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711231930
-! Last Modified: 2017年11月23日 19:30
+! Version: 201711232030
+! Last Modified: 2017年11月23日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -2903,13 +2903,11 @@ mg*.6park.com/img/$image
 ||3h3.com/js/show/
 ||3qcc.com/js/bb.js
 ||3sjt.com/3sjtimg/
-||400516.com/data/attachment/album/
 ||40064008.com/topjs/
 ||4020.la/hi
 ||40407.com/plus/pthc/zqdl.php?
 ||40407.com/plus/rpad/
 ||40407.com/plus_rpad_
-||40407.com/templets/default/images/index.js
 ||40wan.com/js/www2/
 ||421688.com/d/file/p/
 ||42cao.com/ckplay/js.jpg
@@ -6705,7 +6703,6 @@ mg*.6park.com/img/$image
 ||xinminweekly.com.cn/images/*-banner
 ||xinminweekly.com.cn/images/index-985x93-
 ||xinwenren.com/index.php?m=poster&
-||xinyi.com/Public/config/Couplet/Index100.js
 ||xinyi.com/Public/config/Couplet/Index39.js
 ||xinyi.com/Public/config/Couplet/Index40.js
 ||xinyi.com/Public/config/Couplet/Index41.js
@@ -12898,6 +12895,8 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
 ||taobao.com^$popup,domain=dlkoo.com
+||kteyz.com^
+||wxmg2016.com^
 .m.23sw.net^
 .m.3dllc.cc^
 .m.beidouxin.com^
