@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ig80iYVbZItVULWEK5/hng
+! Checksum: fYpz75c8h0iy/YGwdieZgw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711240900
-! Last Modified: 2017年11月24日 09:00
+! Version: 201711240930
+! Last Modified: 2017年11月24日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1016,6 +1016,8 @@ _xiuno_com_ad/
 ##script + #rbbox
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
+||quanbailing.com^$third-party
+||sums.suning.com^$third-party
 .8ox.cn^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
@@ -7408,6 +7410,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
+baiduyunpan.com##.bdyp-sygg-ul
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -13508,7 +13511,8 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ##.a_sxp
 ##.a_sxpb
 ##.heg > .partner-list
-##a[href^="/astat.php?a="]
+##A[href^="/dasp.php?a="]
+||www.wifi588.net^*.gif
 $webrtc,domain=btdb.to
 @@||bdimg.com/libs/$domain=wuzuowei.net
 |http:$script,third-party,domain=wuzuowei.net
