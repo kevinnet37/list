@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WMQSyvCQqerVyIIMe2IUtA
+! Checksum: XpCwx7YojFGqJhYeiO1OBQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711241200
-! Last Modified: 2017年11月24日 12:00
+! Version: 201711241630
+! Last Modified: 2017年11月24日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -13808,6 +13808,7 @@ _300_250.
 ||soperson.com^$third-party
 ||bobo.com^$third-party
 ||cir-smart.baidu.com^
+||3jia5.com^$third-party
 !---------------------------Popups--------------------------------------------!
 !--------------------------Specific blocking filters--------------------------!
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.m\.[0-9a-z-]{4,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,~third-party,xmlhttprequest
@@ -14505,6 +14506,7 @@ blog.163.com###topbar_yxpArea
 /soku/giantstar/js/youlog.js
 /hunter/alog/*
 /yesky/js/counter/*
+/_3jia5_analyser.
 ||hdslb.com/js/bfd.js
 ||s.union.360.cn^
 ||d-test.39.net^
@@ -20661,7 +20663,6 @@ _mongo_stats/
 ||sbhmn-miner.com^$third-party
 ||secumine.net^$third-party
 ||supportxmr.com^$third-party
-||trezor.io^$third-party
 ||webmine.cz^$third-party
 ||xbasfbno.info^$third-party
 ||6ldu6qa.com^$third-party
