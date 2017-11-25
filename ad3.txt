@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kaCDlAqhIei+keD3nqnE2A
+! Checksum: W48/SEzU1Hua8WKyx5SQww
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711251830
-! Last Modified: 2017年11月25日 18:30
+! Version: 201711251930
+! Last Modified: 2017年11月25日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -619,6 +619,9 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||h0o33.cn^
+||gszbba.cn^
+||raeqqe.cn^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -2949,8 +2952,6 @@ mg*.6park.com/img/$image
 ||51ape.com/d/js/
 ||51bczx.com/images1/
 ||51bczx.com/js/float.js
-||51credit.com/51api/creditcard.php?mod=
-||51credit.com/credit/images/201505/ggchedai.jpg
 ||51credit.com/js/app/end-layer.js
 ||51cto.com/js/blog_top_list.php
 ||51cto.com/js/edu-ad.js
@@ -7015,6 +7016,7 @@ mg*.6park.com/img/$image
 ||pub.dnvod.tv^$xmlhttprequest
 ||s1-a2.dnvod.tv^
 ||dnvod.tv/BtT/
+||mmhktv.com/js/gwunggou/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 rising.cn###left50
