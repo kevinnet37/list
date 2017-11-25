@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lHl15XXdvIqzrrjbDut03A
+! Checksum: el4sRWDJIu8aeK/ZghlB/w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711252130
-! Last Modified: 2017年11月25日 21:30
+! Version: 201711260730
+! Last Modified: 2017年11月26日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17122,6 +17122,9 @@ weibo.com##.apps_PCD_reco_detail_right
 /quidsi.ga.js?
 /ra_track.
 /radar/trace?
+/radio-analytics.htm
+/RadioAnalytics.js
+/RadioAnalyticsIframe.js
 /radium-one.js
 /rbi_us.js
 /rbipt.gif?
@@ -17513,6 +17516,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /StatsMngrWebInterface.
 /statspider?
 /statspixel.
+/StatsRadioAnalyticsHub.htm
 /statstracker?
 /statsupdater.
 /stattracker-
@@ -20475,6 +20479,7 @@ _mongo_stats/
 ||visioncriticalpanels.com^$third-party
 ||visistat.com^$third-party
 ||visitlog.net^$third-party
+||visitor-analytics.io^$third-party
 ||visitor-analytics.net^$third-party
 ||visitor-track.com^$third-party
 ||visitorglobe.com^$third-party
@@ -21765,6 +21770,7 @@ _mongo_stats/
 ||atom-data.io/session/latest/track.html?$third-party
 ||attributiontrackingga.googlecode.com^
 ||auctiva.com/Default.aspx?query
+||audience.atex.com^
 ||audience.newscgp.com^
 ||audienceapi.newsdiscover.com.au^$third-party
 ||audienceinsights.net^$third-party
