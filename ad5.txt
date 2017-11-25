@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cfciwt5Q0YRQafK6eTlbpg
+! Checksum: bwKID8YcPxdKiH7819maZQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711251000
-! Last Modified: 2017年11月25日 10:00
+! Version: 201711251030
+! Last Modified: 2017年11月25日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6281,7 +6281,7 @@ mg*.6park.com/img/$image
 ||sinaimg.cn/mw690/a1916e89gw1dye4d74zmij.jpg
 ||sinaimg.cn/unipro/
 ||sinaimg.cn/wap/online/cms/article/formal/js/economyClup.
-||sinaimg.cn^$domain=11luba.com|11yybb.com|18board.com|18p2p.com|22ccaa.com|345qyl.com|360bifen.cc|360bifen.com|46bk.com|500xxxx.com|666hdhd.com|7mshipin.org|84fn.com|999hdhd.com|9dog.pw|a3v4.top|acglover.pw|aotu25.com|avtb006.com|bejson.com|blz20.com|blz24.com|btago.com|btbtt99.com|cangjige.net|cangjige.win|caoliuzx.com|cililian.me|dydh.tv|ems183.cn|fcw36.com|fdzone.org|freecctv.xyz|fulitxx.com|ifulidh.com|ilxdh.com|izzs.cc|kiees.cn|lifan.moe|llj22.com|motelppp.com|neonan.com|niluba.cc|qqxbt.com|qylsp8.com|rarbt.com|sbme.me|se533.com|shouyoutan.com|txtshu365.com|u9yy.com|viidii.info|vx666.com|weike22.com|wszhibo.com|yaoshe1.com|yapdd.com|yiqikanba.cn|youb444.com
+||sinaimg.cn^$domain=11luba.com|11yybb.com|18board.com|18p2p.com|22ccaa.com|345qyl.com|360bifen.cc|360bifen.com|46bk.com|500xxxx.com|666hdhd.com|7mshipin.org|84fn.com|999hdhd.com|9dog.pw|a3v4.top|acglover.pw|aotu25.com|avtb006.com|bejson.com|blz20.com|blz24.com|btago.com|btbtt99.com|cangjige.net|cangjige.win|caoliuzx.com|cililian.me|dydh.tv|ems183.cn|fcw02.com|fdzone.org|freecctv.xyz|fulitxx.com|ifulidh.com|ilxdh.com|izzs.cc|kiees.cn|lifan.moe|llj22.com|motelppp.com|neonan.com|niluba.cc|qqxbt.com|qylsp8.com|rarbt.com|sbme.me|se533.com|shouyoutan.com|txtshu365.com|u9yy.com|viidii.info|vx666.com|weike22.com|wszhibo.com|yaoshe1.com|yapdd.com|yiqikanba.cn|youb444.com
 ||sinaimg.cn^*.gif$domain=thzthz.net
 ||sinaimg.cn^*/deco/$script
 ||sinaimg.cn^*_wap_ad_
@@ -6327,7 +6327,7 @@ mg*.6park.com/img/$image
 ||sohu.com/api/labs/hotnews/c/load?
 ||sohu.com/api/labs/mp/load?
 ||sohu.com/interaction/get/
-||sohucs.com^$domain=fcw36.com
+||sohucs.com^$domain=fcw02.com
 ||sohucs.com^*_gif$domain=12580sky.com
 ||sooopu.com/asphtml/plnew.
 ||sooopu.com/js/*950.js
@@ -11964,6 +11964,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||adservice.google.com/adsid/integrator.js$domain=download.mokeedev.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|tgfcer.com|wgun.net
