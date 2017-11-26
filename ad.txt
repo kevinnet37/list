@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5w7nVANC+IMNav86anvDXA
+! Checksum: kc7yG2ZTdjzYinIoerNhNQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711262115
-! Last Modified: 2017年11月26日 21:15
+! Version: 201711262130
+! Last Modified: 2017年11月26日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -2894,7 +2894,6 @@ ubmcmm.baidustatic.com
 /front/adv/getpmadvlist
 /game/aplus/pptv/*
 /gamer/*$subdocument,domain=gamer.com.tw
-/gennie_b.htm$domain=50.7.31.228|tvboxnow.com
 /gif/*$image,domain=txzqw.cc
 /gTool.js$domain=51live.com|52waha.com|ccav5.com|zhibo7.com
 /gyw_index/*/images/ad_
@@ -2903,14 +2902,12 @@ ubmcmm.baidustatic.com
 /ifengRotatorAd.js
 /images/*.gif$domain=67.228.203.174|iu91.co|maichun5.info|mc88.info|myhhg.com|sejie.com|sejie3.us|ukhuaren.co|yh1.info|yh10.info
 /images/*gamble$domain=50.7.31.228|tvboxnow.com
-/images/888.gif$domain=50.7.31.228|tvboxnow.com
 /Images/ak47/*$domain=hanzify.net|hanzify.org
 /images/content/1436/*$domain=chineseinla.com
 /img/*$image,domain=txzqw.cc
 /img/br650.gif$domain=qzntv.com|qzwb.com
 /img/skin/*_bg.$domain=17huohu.com|firefox.com.cn|firefoxchina.cn
 /imgextra/*$domain=zqnow.com
-/ipower.htm$domain=tvboxnow.com
 /jquery.$domain=game.macx.cn
 /js/adBom.js$domain=myqcloud.com
 /js/index_$domain=ltwbook.com|ltxsw.com|ltxszw.com
@@ -3382,7 +3379,6 @@ mg*.6park.com/img/$image
 ||520bdy.com/images/888
 ||520cc.me/ad/$~collapse,domain=520cc.me
 ||520cc.me/data/attachment/common/cf/$~collapse,domain=520cc.me
-||520xs.la/js/xf.js
 ||521000.com/co/
 ||523525.com/img/20170508.jpg
 ||5278.cc/index.js
@@ -7418,6 +7414,9 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 52pk.com##.chang
+g138.com##.gg_head_l
+g138.com##.gg_head_m
+g138.com##.gg_head_r
 52pk.com##.duan
 52pk.com##.wxbox
 gpcxw.com###AA2
@@ -8145,10 +8144,6 @@ wenku.baidu.com###ggbtm-ads
 52pk.com###ggfloat
 btmee.net###ggg_tool_text
 china.com.cn###gggg
-5184.com###ggshow1
-5184.com###ggshow2
-5184.com###ggshow3
-5184.com###ggshow4
 discuss.com.hk###gid_group_restricted > .gid_group_title
 danyang.com###global-hd > div[align="center"]
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###global_notice_wrap
@@ -9088,7 +9083,6 @@ hupu.com##.ad720-90
 ifeng.com##.ad728_tit
 pujia8.com##.ad740
 it.com.cn##.ad750
-5adm.net##.ad780
 8264.com##.ad780_80
 ting89.com##.ad8
 ifeng.com,sohu.com##.ad950
@@ -10486,7 +10480,6 @@ zhuangpin.com##.mr_ad
 17huohu.com,firefoxchina.cn##.mrec-banner
 xici.net##.msgl_ad
 66rd.cn##.mst_lamu_main
-lldm.com##.mt10[style="border:1px solid #ddd; width:978px; height:110px;"]
 dnwx.com##.mt5_23
 newcger.com##.mtb17.h90
 sydneytoday.com##.mtgad
@@ -11239,7 +11232,6 @@ baidu.com##.wapAd
 xilu.com##.wap_advert
 10jqka.com.cn##.wbanner
 999.com##.web-list2 > li
-51.com##.webim_ad_word
 codeforge.cn##.webnotice-right
 ptbus.com##.weixin_ad
 baidu.com##.wgt-ads
@@ -12132,7 +12124,6 @@ verycd.gdajie.com##th[colspan="3"]
 zhangxinxu.com#?##topadout
 cartoomad.com##tr:last-child > td[align="right"] > table[width="732"]
 cartomad.com,cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
-5184.com##ul[class^="i_gg"]
 hexieba.com##ul[style="list-style-type: none;"]:first-child:last-child
 firefoxchina.cn##ul[track-key="adv_links"]
 !---------------------------------CSS Whitelist-------------------------------!
@@ -13180,7 +13171,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||pb.shuxigua.com^
 ||pingbi.diudou.com^
 ||ptw.la^
-||qanif.com^
+||psywed.com^
 ||qcjslm.com^
 ||qooic.com^
 ||qq167.com^
