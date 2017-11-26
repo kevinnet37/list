@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wBFWG+t6CHRLKnORGRBAIQ
+! Checksum: Lusy9j2UspXc9ooCk9QBUQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711252130
-! Last Modified: 2017年11月25日 21:30
+! Version: 201711260830
+! Last Modified: 2017年11月26日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1017,9 +1017,6 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
-||h0o33.cn^
-||gszbba.cn^
-||raeqqe.cn^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -1821,6 +1818,7 @@ ubmcmm.baidustatic.com
 ||gqswg.com^
 ||gs307.com^$third-party
 ||gso0.com^
+||gszbba.cn^
 ||gtmucs.cn^
 ||guangzizai.com^
 ||guduopu.com^
@@ -1837,6 +1835,7 @@ ubmcmm.baidustatic.com
 ||gzktpf.com^
 ||gzmjnx.cn^
 ||gzqudou.com^
+||h0o33.cn^
 ||h9377c.com^
 ||hailuoxiang.com^$third-party
 ||haiwengji.net^
@@ -2285,6 +2284,7 @@ ubmcmm.baidustatic.com
 ||qzkxt.com^
 ||qzzljx.com^
 ||r5g.cc^$third-party
+||raeqqe.cn^
 ||rangeblessedness.men^
 ||rayli.com.cn^$third-party
 ||rdiqt.cn^
@@ -3297,6 +3297,7 @@ mg*.6park.com/img/$image
 ||3dm.huya.com^
 ||3dmgame.com/templets/common/show_js/show_js.js
 ||3dmgame.com/templets/index/gimg/
+||3dmgame.com/templets/index/js/huandeng.js
 ||3dmgame.com/templets/xiazai/g
 ||3g.cn/baidualading/
 ||3g.cn/index.php?s=Index/adv&
@@ -4519,6 +4520,7 @@ mg*.6park.com/img/$image
 ||dnvod.tv/a/o
 ||dnvod.tv/a2/
 ||dnvod.tv/b9/
+||dnvod.tv/BtT/
 ||dnvod.tv/d4/
 ||dnvod.tv/f9/
 ||dnvod.tv/ffcX/
@@ -5880,6 +5882,7 @@ mg*.6park.com/img/$image
 ||mm111.net/api.php?mod=ad&
 ||mm387.com/images/*.gif
 ||mm387.com/images/*.gif$~collapse,domain=520cc.me
+||mmhktv.com/js/gwunggou/
 ||mmtalk.net/images/banner
 ||mnw.cn/topic/vrlive/
 ||mobile.sina.cn/public/files/image/600x150_
@@ -6205,6 +6208,7 @@ mg*.6park.com/img/$image
 ||ptbus.com/s.js
 ||ptfish.com/*/ad$image,object
 ||ptfish.com/08html/
+||pub.dnvod.tv^$xmlhttprequest
 ||pub.funshion.com^
 ||pub.mop.com^
 ||pub.stockstar.com/feedback/
@@ -6408,6 +6412,7 @@ mg*.6park.com/img/$image
 ||s.yimg.com/uv/dm/scripts/syndication.js
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||s1-a1.dnvod.tv^
+||s1-a2.dnvod.tv^
 ||s1.pplive.cn/sta.js
 ||s8bbs.com/ad/
 ||s8bbs.com/g.php?
@@ -7411,17 +7416,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||pub.dnvod.tv^$xmlhttprequest
-||s1-a2.dnvod.tv^
-||dnvod.tv/BtT/
-||mmhktv.com/js/gwunggou/
-||3dmgame.com/templets/index/js/huandeng.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-rising.cn###left50
-rising.cn###shuangshiyibid
-rising.cn###viphui
-rising.cn###viphuibg
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -8296,6 +8292,7 @@ jobbole.com###leaderboard
 baidu.com###left-promotion
 hao.360.cn###left-ria-fixed
 sdgundam.cn###left-sponsor
+rising.cn###left50
 chcj.net,cs.com.cn,cssqt.com,dvbcn.com,mxwz.com,qinbing.cn###leftDiv
 hexun.com###leftFloat
 duba.com###leftHot
@@ -8597,6 +8594,7 @@ chinaec.net###showEcAd
 100shuai.com###show_startgg
 dmzj.com###show_tip_bg
 hinews.cn###showgg
+rising.cn###shuangshiyibid
 maxthon.cn###side-game-pop
 hunantv.com,mgtv.com###side-join-ad
 iwan.baidu.com###side-xbox
@@ -8771,6 +8769,8 @@ baidu.com###video_push_box
 loldk.com###video_right_ad
 loldk.com###video_right_ad2
 aipai.com###videosRightDown
+rising.cn###viphui
+rising.cn###viphuibg
 jstv.com###vplayad
 160.com###w-advertisement
 160.com###w-btn-advertisement
