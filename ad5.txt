@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pQlbjH5tUQt/TTRXk5Si1Q
+! Checksum: kSARLSpG4Dm4R3GuexNCmw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711272330
-! Last Modified: 2017年11月27日 23:30
+! Version: 201711280730
+! Last Modified: 2017年11月28日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -22355,7 +22355,6 @@ _mongo_stats/
 ||haymarket.com/injector/deliver/
 ||heals.msgfocus.com^$third-party
 ||hearstmags.com^*/hdm-lib_hearstuser_proxy.html$third-party
-||helix.advance.net^
 ||hello.staticstuff.net^
 ||hellobar.com/ping?
 ||heraldandtimeslabs.com/sugar.js
@@ -23835,6 +23834,7 @@ _mongo_stats/
 ||tr.bt.matrixspa.it^
 ||track.adintend.com^
 ||track.cedsdigital.it^
+||track.veedio.it^
 ||track.youniversalmedia.com^
 ||tracker.bestshopping.com^
 ||tracker.iltrovatore.it^
@@ -27574,6 +27574,7 @@ _mongo_stats/
 @@||google.com/js/gweb/analytics/autotrack.js$domain=gradleplease.appspot.com
 @@||google.com/js/gweb/analytics/doubletrack.js$domain=android.com
 @@||googletagmanager.com/gtm.js?$domain=airasia.com|asus.com|bhaskar.com|broadcom.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com
+@@||googletagmanager.com/gtm.js?id=GTM-5D256R&l=aedataLayer^
 @@||googletagservices.com/tag/js/gpt.js$domain=speedtest.net
 @@||gorillanation.com/js/triggertag.js$domain=comingsoon.net|playstationlifestyle.net
 @@||grapeshot.co.uk/image-resize/$image
