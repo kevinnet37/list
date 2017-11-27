@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QJ5bTbw6VTNwD+Yy0GvDYw
+! Checksum: 3kSRm1xO2hD6gwGa2pr5GQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711272030
-! Last Modified: 2017年11月27日 20:30
+! Version: 201711272100
+! Last Modified: 2017年11月27日 21:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21923,6 +21923,7 @@ _mongo_stats/
 ||cloudfront.net/code/keen-2.1.0-min.js
 ||cloudfront.net/dough/*/recipe.js
 ||cloudfront.net/esf.js
+||cloudfront.net/i?stm=
 ||cloudfront.net/js/ca.js
 ||cloudfront.net/js/reach.js
 ||cloudfront.net/khp.js
@@ -21937,6 +21938,7 @@ _mongo_stats/
 ||cloudfront.net/track.html
 ||cloudfront.net/track?
 ||cloudfront.net/trackb.html
+||cloudfront.net/websites/sb.js
 ||cloudfront.net/zephyr.js
 ||cloudfunctions.net/ingest?
 ||cm.g.doubleclick.net^
@@ -22083,6 +22085,7 @@ _mongo_stats/
 ||d3ezl4ajpp2zy8.cloudfront.net^
 ||d3h1v5cflrhzi4.cloudfront.net^
 ||d3hr5gm0wlxm5h.cloudfront.net^
+||d3iouejux1os58.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
 ||d3l3lkinz3f56t.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
@@ -22154,6 +22157,7 @@ _mongo_stats/
 ||dtym7iokkjlif.cloudfront.net/dough/
 ||du8783wkf05yr.cloudfront.net^$third-party
 ||dufue2m4sondk.cloudfront.net^
+||duu8lzqdm8tsz.cloudfront.net^
 ||dw.cbsi.com^
 ||dw.cbsimg.net^
 ||dw.com.com^
@@ -23821,6 +23825,7 @@ _mongo_stats/
 ||stats.rcsobjects.it^
 ||stats.technopia.it^
 ||stats2.*.fdnames.com^
+||stgy.ovh^*/3rdp-censor/
 ||top100.mrwebmaster.it^
 ||top100.tuttoperinternet.it^
 ||tr.bt.matrixspa.it^
