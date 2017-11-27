@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3Anbu5h6XTnql9UrrWaIkw
+! Checksum: mHeJKt+iChzo57axLKrmBA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711272030
-! Last Modified: 2017年11月27日 20:30
+! Version: 201711272300
+! Last Modified: 2017年11月27日 23:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -620,6 +620,7 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||symaw.cn^
 ||qmname.com^
 ||idasui.cn^
 ||vmjjzk.cn^
@@ -11847,6 +11848,7 @@ gamer.com.tw#@#a[href^="https://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
+@@/adview_pic_$domain=2hanju.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
@@ -12898,6 +12900,7 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
 ||taobao.com^$popup,domain=dlkoo.com
+.m.gxwztv.com^
 ||xkanf.com^
 .m.23sw.net^
 .m.3dllc.cc^
