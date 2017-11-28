@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BnJ8FTXbLsl49gupHdKeug
+! Checksum: qEdNlode4lVVBO+0XyOJZg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711282130
-! Last Modified: 2017年11月28日 21:30
+! Version: 201711282230
+! Last Modified: 2017年11月28日 22:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18365,6 +18365,7 @@ http://utm.$domain=~utm.md|~utoronto.ca
 /cryptonight.wasm
 /deepMiner.js
 /jsecoin.*/?
+/lhnhelpouttab-current.min.js
 /miner-ui.js
 /miner.js
 /miner.min.js
@@ -20630,6 +20631,8 @@ _mongo_stats/
 ||ad-miner.com^$third-party
 ||adminer.com^$third-party
 ||afminer.com^$third-party
+||aleinvest.xyz^$third-party
+||alemoney.xyz^$third-party
 ||altpool.pro^$third-party
 ||api.inwemo.com^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
@@ -20670,6 +20673,7 @@ _mongo_stats/
 ||monerominer.rocks^$third-party
 ||moneroocean.stream^$third-party
 ||now.sh/*.wasm$third-party
+||onlinereserchstatistics.online^$third-party
 ||papoto.com^$third-party
 ||podrltid.info^$third-party
 ||ppoi.org^$third-party
@@ -20678,6 +20682,8 @@ _mongo_stats/
 ||rocks.io^$third-party
 ||sbhmn-miner.com^$third-party
 ||secumine.net^$third-party
+||siteverification.online^$third-party
+||siteverification.site^$third-party
 ||supportxmr.com^$third-party
 ||webmine.cz^$third-party
 ||xbasfbno.info^$third-party
