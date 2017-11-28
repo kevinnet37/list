@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7QKJNJNI9u5kTibmZe+rTw
+! Checksum: VPtP2eKFgD0Mt7xQ6ku2ag
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711282330
-! Last Modified: 2017年11月28日 23:30
+! Version: 201711290730
+! Last Modified: 2017年11月29日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15030,6 +15030,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .siteclarity.
 .sitetracking.
 .skimlinks.js
+.snowplowanalytics.$domain=~snowplowanalytics.com
 .social_tracking.
 .stats?action=
 .to/vtrack|
@@ -15882,6 +15883,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /domcount_
 /dot.asp?
 /dot.gif?
+/dotn?*&pg=http
 /Dotomi.
 /dotomi_abandon.
 /dotomi_tracking/*
@@ -16831,6 +16833,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /omniture.do;$image
 /omniture/sphere
 /omniture/tracking.
+/omnitureAMP.
 /OmnitureAnalytics.
 /OmnitureTracking_$object-subrequest
 /omniunih.js
@@ -18931,6 +18934,7 @@ _mongo_stats/
 ||customer.io^$third-party
 ||customerconversio.com^$third-party
 ||customerdiscoverytrack.com^$third-party
+||cux.io^$third-party
 ||cxense.com^$third-party
 ||cxt.ms^$third-party
 ||cya2.net^$third-party
@@ -19752,6 +19756,7 @@ _mongo_stats/
 ||omguk.com^$third-party
 ||omkt.co^$third-party
 ||omtrdc.net^$third-party
+||onaudience.com^$third-party
 ||ondu.ru^$third-party
 ||onecount.net^$third-party
 ||onefeed.co.uk^$third-party
@@ -20616,6 +20621,7 @@ _mongo_stats/
 ||zdbb.net^$third-party
 ||zdtag.com^$third-party
 ||zedwhyex.com^$third-party
+||zeerat.com^$third-party
 ||zenlivestats.com^$third-party
 ||zeotap.com^$third-party
 ||zesep.com^$third-party
@@ -21322,6 +21328,7 @@ _mongo_stats/
 ||webgozar.com^$third-party
 ||webgozar.ir^$third-party
 ||adstat.4u.pl^$third-party
+||clickmatic.pl^$third-party
 ||clickonometrics.pl^$third-party
 ||gostats.pl^$third-party
 ||hub.com.pl^$third-party
@@ -21329,6 +21336,7 @@ _mongo_stats/
 ||legenhit.com^$third-party
 ||ngacm.com^$third-party
 ||ngastatic.com^$third-party
+||nsaudience.pl^$third-party
 ||rejestr.org^$third-party
 ||stat.4u.pl^$third-party
 ||stat.pl^$third-party
@@ -24193,6 +24201,7 @@ _mongo_stats/
 ||analytics.adfreetime.com^
 ||analytics.archive.org^
 ||analytics.bloomberg.com^
+||analytics.ecosia.org^
 ||analytics.femalefirst.co.uk^
 ||analytics.global.sky.com^
 ||analytics.go.com^
@@ -25496,6 +25505,7 @@ _mongo_stats/
 ||proxypage.msn.com^
 ||prudential.com^*/metrics_1px.gif?
 ||ps-deals.com/aggbug.aspx
+||ps.ecosia.org^
 ||pubarticles.com/_hits.php?
 ||pubarticles.com/add_hits_by_user_click.php
 ||pulsar.ebay.
