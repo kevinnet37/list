@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nxfdVFoBn+d76RM71y7cFA
+! Checksum: vFEWZK6iwTZhoacsDGvvhg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711282000
-! Last Modified: 2017年11月28日 20:00
+! Version: 201711282030
+! Last Modified: 2017年11月28日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -12,6 +12,9 @@
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+.com/ad777.js
+.com/tonglan.js
+.com/tonglan2.js
 /js/pcbook.js?
 /pcswf/pcswf.js
 -880-80-4.jpg
@@ -5790,8 +5793,6 @@ mg*.6park.com/img/$image
 ||poster.weather.com.cn^
 ||potplayer.org/sc/
 ||poxiao.com/template/default/images/12345.js
-||ppddxx.com/ad777.js
-||ppddxx.com/tonglan
 ||ppshk.com^*banner/
 ||ppsj.com.cn/images/ppsj300.gif
 ||ppsj.com.cn/images/usa_250_120.gif
