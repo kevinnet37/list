@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: usrMreC2afG9lqfPCWhXRg
+! Checksum: 9RPrSMClVxxIsAlbeRzpXQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711291600
-! Last Modified: 2017年11月29日 16:00
+! Version: 201711291730
+! Last Modified: 2017年11月29日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7411,6 +7411,8 @@ mg*.6park.com/img/$image
 ||888dizhi.com/888/
 ||picuphost.com/2016/upload/image/20170422/42206436302.gif
 ||7893com.com/img/*.gif
+||btbtdy.com/templets/btdy/js/ad
+||btbtdy.com/templets/btdy/js/slade888.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -13288,6 +13290,9 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
 ||taobao.com^$popup,domain=dlkoo.com
+|http:$script,third-party,domain=xtzgjx.com|zzdxs.org
+|http:$script,third-party,xmlhttprequest,domain=m.biqugexsw.com|lwxiaoshuo.com|m.00ksw.org|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.cm|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewai.la|m.lewenxiaoshuo.com|m.liewen.cc|m.miaobige.com|m.qu.la|m.shenmabook.com|m.shumil.com|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.net|m.xs.la|m.xs222.tw|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
+|https:$script,third-party,xmlhttprequest,domain=m.biqugexsw.com|lwxiaoshuo.com|m.00ksw.org|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.cm|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewai.la|m.lewenxiaoshuo.com|m.liewen.cc|m.miaobige.com|m.qu.la|m.shenmabook.com|m.shumil.com|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.net|m.xs.la|m.xs222.tw|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
 ||sysadult.cn^
 ||lm.xiashu.cc^
 ||workbizs.com^
@@ -13319,9 +13324,6 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||huayange.com^
 ||hzht666.com^
 ||slvtx.com^
-|http:$script,third-party,domain=xtzgjx.com|zzdxs.org
-|http:$script,third-party,xmlhttprequest,domain=m.biqugexsw.com|lwxiaoshuo.com|m.00ksw.net|m.33yq.com|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.cm|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewaishu.net|m.lewenxiaoshuo.com|m.liewen.cc|m.miaobige.com|m.qu.la|m.shenmabook.com|m.shumilou.co|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.com|m.xs.la|m.xs222.com|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
-|https:$script,third-party,xmlhttprequest,domain=m.biqugexsw.com|lwxiaoshuo.com|m.00ksw.net|m.33yq.com|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.cm|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewaishu.net|m.lewenxiaoshuo.com|m.liewen.cc|m.miaobige.com|m.qu.la|m.shenmabook.com|m.shumilou.co|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.com|m.xs.la|m.xs222.com|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
 ||23txt.com^$third-party
 ||24haitao.net^
 ||51gpt.com^
