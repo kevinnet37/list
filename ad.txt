@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9RPrSMClVxxIsAlbeRzpXQ
+! Checksum: 3uui7Eemg7mJAbAh8k18TQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711291730
-! Last Modified: 2017年11月29日 17:30
+! Version: 201711291800
+! Last Modified: 2017年11月29日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1023,6 +1023,7 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||0571yy.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -11950,7 +11951,6 @@ dnvod.tv#?#[style*="important"]
 bbs.my0511.com##embed[width="970"][height="70"]
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(贊助))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a:-abp-contains(赞助))
-221.233.60.100##fieldset[style="width:760;border:1px dashed #a6ccf9"]
 hiapk.com##font.jammer
 3g.cn##h6[style="font-size: 18px; line-height: 32px;"]
 javlibrary.com##iframe
@@ -13293,6 +13293,13 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 |http:$script,third-party,domain=xtzgjx.com|zzdxs.org
 |http:$script,third-party,xmlhttprequest,domain=m.biqugexsw.com|lwxiaoshuo.com|m.00ksw.org|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.cm|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewai.la|m.lewenxiaoshuo.com|m.liewen.cc|m.miaobige.com|m.qu.la|m.shenmabook.com|m.shumil.com|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.net|m.xs.la|m.xs222.tw|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
 |https:$script,third-party,xmlhttprequest,domain=m.biqugexsw.com|lwxiaoshuo.com|m.00ksw.org|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.cm|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewai.la|m.lewenxiaoshuo.com|m.liewen.cc|m.miaobige.com|m.qu.la|m.shenmabook.com|m.shumil.com|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.net|m.xs.la|m.xs222.tw|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
+||cpxkvc.com^
+||bjeai.com^
+||yexfes.com^
+||heib2.top^
+||i-components.net^
+||365yigou.cn^
+||qingzhencai.net^
 ||sysadult.cn^
 ||lm.xiashu.cc^
 ||workbizs.com^
