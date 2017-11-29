@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vL6APTXhbhqjuJcn7dVAtA
+! Checksum: MFyC8ZQt5tnGszCGXaJB4w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711292100
-! Last Modified: 2017年11月29日 21:00
+! Version: 201711300730
+! Last Modified: 2017年11月30日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -14984,6 +14984,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .gif?event=
 .gif?Log=$~xmlhttprequest
 .gif?pixels=
+.Google.Tracker.js
 .googleanalytics.js
 .GoogleAnalytics/
 .gov/stat?
@@ -15500,6 +15501,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /bizo.js
 /bk-coretag.js
 /BKVTrack.js
+/blank.gif?*%
 /blank.gif?*&
 /blockstat?
 /blog/traffic/?
@@ -17146,6 +17148,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /realytics-
 /recommendtrack?
 /record-impressions.
+/record-stats?
 /record.do?
 /record_clicks.
 /record_visitor.
@@ -17304,6 +17307,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /session-hit.
 /session-tracker/tracking-
 /sessioncam.min.$script
+/sessioncam.recorder.js
 /sessioncam/*
 /set-cookie.gif?
 /set_tracking.js
@@ -17810,6 +17814,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracking_pix.
 /tracking_pixel
 /tracking_super_hot.js
+/trackingab?
 /TrackingCentral.js
 /trackingCode-
 /trackingCode.js
@@ -18110,6 +18115,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /where-go-add.js
 /who/?js
 /wholinked.com/track
+/whos.amung.us.classic.
 /whoson_*_trackingonly.js
 /wi?spot=
 /widget/s.gif?
@@ -18959,7 +18965,6 @@ _mongo_stats/
 ||data-analytics.jp^$third-party
 ||databrain.com^$third-party
 ||datacaciques.com^$third-party
-||datadome.co^$third-party
 ||datafeedfile.com^$third-party
 ||datam.com^$third-party
 ||datamind.ru^$third-party
@@ -19395,6 +19400,7 @@ _mongo_stats/
 ||infinity-tracking.net^$third-party
 ||inflectionpointmedia.com^$third-party
 ||influid.co^$third-party
+||infopro-insight.com^$third-party
 ||informz.net^$third-party
 ||inimbus.com.au^$third-party
 ||innomdc.com^$third-party
@@ -19516,6 +19522,7 @@ _mongo_stats/
 ||leadlife.com^$third-party
 ||leadmanagerfx.com^$third-party
 ||leadsius.com^$third-party
+||leadsmonitor.io^$third-party
 ||leadsrx.com^$third-party
 ||legolas-media.com^$third-party
 ||les-experts.com^$third-party
@@ -19548,6 +19555,7 @@ _mongo_stats/
 ||loggly.com^$third-party
 ||logmatic.io^$third-party
 ||lognormal.net^$third-party
+||logrocket.com^$third-party
 ||logsss.com^$third-party
 ||lookery.com^$third-party
 ||loopfuse.net^$third-party
@@ -19643,6 +19651,7 @@ _mongo_stats/
 ||mno.link^$third-party
 ||mobalyzer.net^$third-party
 ||mochibot.com^$third-party
+||momently.com^$third-party
 ||monetate.net^$third-party
 ||mongoosemetrics.com^$third-party
 ||monitis.com^$third-party
@@ -20042,6 +20051,7 @@ _mongo_stats/
 ||sageanalyst.net^$third-party
 ||sajari.com^$third-party
 ||salecycle.com^$third-party
+||salemove.com^$third-party
 ||salesgenius.com^$third-party
 ||saletrack.co.uk^$third-party
 ||sapha.com^$third-party
@@ -20307,7 +20317,6 @@ _mongo_stats/
 ||theagency.com^$third-party
 ||thebestlinks.com^$third-party
 ||thebrighttag.com^$third-party
-||thecounter.com^$third-party
 ||thefreehitcounter.com^$third-party
 ||thehairofcaptainpicard.com^$third-party
 ||thermstats.com^$third-party
@@ -25274,6 +25283,7 @@ _mongo_stats/
 ||msxml.excite.com/*.gif?
 ||mto.mediatakeout.com/viewer?
 ||mtoza.vzaar.com^
+||mts-ws.rueducommerce.fr^
 ||multiply.com/common/dot_clear.gif
 ||multiupload.com/extreme/?*&ref=$subdocument
 ||musicstack.com/livezilla/server.php?request=track
@@ -26018,7 +26028,6 @@ _mongo_stats/
 ||trade-it.co.uk/counter/
 ||tradetrucks.com.au/ga.
 ||traffic.buyservices.com^
-||traffic.omny.fm^
 ||traffic.tuberip.com^
 ||trainup.com/inc/TUPTracking.js
 ||traktr.news.com.au^
@@ -26738,6 +26747,7 @@ _mongo_stats/
 ||ea.rueducommerce.fr^
 ||editeurjavascript.com/hit-parade.php
 ||eultech.fnac.com^
+||flake.formr.io/sp.js
 ||fls-eu.amazon.fr^
 ||g.itespresso.fr^
 ||grazia.fr/ea.js
@@ -28294,7 +28304,6 @@ _mongo_stats/
 @@||nostv.pt^*/angulartics-google-analytics.js?
 @@||siteapps.com^$script,domain=netcombo.com.br
 @@||stats.g.doubleclick.net/dc.js$domain=netcombo.com.br
-@@||playwire.com/bolt/js/zeus/$script,domain=desi-tashan.com
 @@||homebank.ro/public/HomeBankLogin/js/fingerprint/fingerprint.js
 @@||adobedtm.com^*/satelliteLib-$script,domain=laredoute.ru
 @@||afisha.ru/proxy/videonetworkproxy.ashx?$xmlhttprequest
