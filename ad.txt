@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aQfVATSS1QaHgaBG7pzocQ
+! Checksum: DeWrjh0mCYrw5PbrKYXhPQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201711291830
-! Last Modified: 2017年11月29日 18:30
+! Version: 201711291900
+! Last Modified: 2017年11月29日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -3066,7 +3066,6 @@ mg*.6park.com/img/$image
 ||120askimages.com/ask/js/q
 ||120askimages.com/ask/zhenshi/templates/pub/js/loadPart.js
 ||121.40.136.114^*.htm
-||121.40.25.88/wap/
 ||121.41.60.207/m?t=
 ||121down.com/images/top/
 ||121zou.com^$subdocument
@@ -7039,7 +7038,6 @@ mg*.6park.com/img/$image
 ||wxrb.com/g/js/baidu.cbjs.m.js
 ||wyh.tv/image/upload/ad/
 ||wyzu.cn/js/3.js
-||x4399.com^*-*-
 ||xav*.com/ad1/
 ||xav*.com/attachment/Mon_
 ||xav*.com/js/float.js
@@ -13291,8 +13289,9 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||dlkoo.com/down/copy
 ||taobao.com^$popup,domain=dlkoo.com
 |http:$script,third-party,domain=xtzgjx.com|zzdxs.org
-|http:$script,third-party,xmlhttprequest,domain=m.biqugexsw.com|lwxiaoshuo.com|m.00ksw.org|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.cm|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewai.la|m.lewenxiaoshuo.com|m.liewen.cc|m.miaobige.com|m.qu.la|m.shenmabook.com|m.shumil.com|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.net|m.xs.la|m.xs222.tw|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
-|https:$script,third-party,xmlhttprequest,domain=m.biqugexsw.com|lwxiaoshuo.com|m.00ksw.org|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.cm|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewai.la|m.lewenxiaoshuo.com|m.liewen.cc|m.miaobige.com|m.qu.la|m.shenmabook.com|m.shumil.com|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.net|m.xs.la|m.xs222.tw|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
+|http:$script,third-party,xmlhttprequest,domain=m.kxs7.com|m.sanjiangge.com|m.wodexiaoshuo1.cc|m.hkslg.net|m.txt2017.com|m.x81zw.com|m.zhuaji.org|m.jjxsw.org|m.83zw.com|m.23sw.net|m.blwenku.com|m.haxwx2.com|m.fhxsw.org|m.bichi.me|m.wenxue6.com|m.fhxiaoshuo.com|m.630book.la|m.silukeke.com|m.zhenben.cc|wap.yb3.cc|m.3dllc.cc|m.shushu8.com|m.wenxuemm.com|m.suimeng.la|m.boluoxs.com|m.book9.net|m.shuqu8.com|m.brquge.com|m.lwtxt.net|m.yuyouge.com|xntk.net|m.50zw.co|m.gxwztv.com|m.xiashu.cc|m.biqugexsw.com|lwxiaoshuo.com|m.00ksw.org|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.cm|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewai.la|m.lewenxiaoshuo.com|m.liewen.cc|m.miaobige.com|m.qu.la|m.shenmabook.com|m.shumil.com|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.net|m.xs.la|m.xs222.tw|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
+|https:$script,third-party,xmlhttprequest,domain=m.kxs7.com|m.sanjiangge.com|m.wodexiaoshuo1.cc|m.hkslg.net|m.txt2017.com|m.x81zw.com|m.zhuaji.org|m.jjxsw.org|m.83zw.com|m.23sw.net|m.blwenku.com|m.haxwx2.com|m.fhxsw.org|m.bichi.me|m.wenxue6.com|m.fhxiaoshuo.com|m.630book.la|m.silukeke.com|m.zhenben.cc|wap.yb3.cc|m.3dllc.cc|m.shushu8.com|m.wenxuemm.com|m.suimeng.la|m.boluoxs.com|m.book9.net|m.shuqu8.com|m.brquge.com|m.lwtxt.net|m.yuyouge.com|xntk.net|m.50zw.co|m.gxwztv.com|m.xiashu.cc|m.biqugexsw.com|lwxiaoshuo.com|m.00ksw.org|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.cm|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewai.la|m.lewenxiaoshuo.com|m.liewen.cc|m.miaobige.com|m.qu.la|m.shenmabook.com|m.shumil.com|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.net|m.xs.la|m.xs222.tw|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
+.wap.x4399.com^
 ||czlhgz.com^
 ||symaa.cn^
 ||ktzte.cn^
@@ -13397,7 +13396,6 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||gyrtg.com^
 ||gzmzts.com^
 ||gznsyh.com^
-||hbngfy.com^
 ||hbttcc.com^
 ||hbyyzm.com^
 ||hfyxdl.com^
