@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: G7eoJPv8ERFVc9bfykt0AA
+! Checksum: 56OXrr26ihwio67Xp2QVnQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711301830
-! Last Modified: 2017年11月30日 18:30
+! Version: 201711302030
+! Last Modified: 2017年11月30日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -271,7 +271,6 @@ tieba.baidu.com##.tuijian-wrap
 /ggjs/*
 /ggpic/*
 /ggtp/*
-/guang/930x90.
 /guangao/*
 /guangg/*
 /guanggao.
@@ -6757,9 +6756,6 @@ mg*.6park.com/img/$image
 ||wxrb.com/g/js/baidu.cbjs.m.js
 ||wyh.tv/image/upload/ad/
 ||wyzu.cn/js/3.js
-||xav*.com/ad1/
-||xav*.com/attachment/Mon_
-||xav*.com/js/float.js
 ||xc.macd.cn^
 ||xc.mydrivers.com^
 ||xczhibo.com/xml/
@@ -7131,6 +7127,7 @@ mg*.6park.com/img/$image
 ||doub.io/wp-content/uploads/
 ||3dmgame.com/index.php?m=games&c=index&a=ztad&
 ||sinaimg.cn/large/006ZdrOOgy1flbrum925hg30pu01o0z0.gif
+/guang/*$domain=365xav.cf|myxav.gq|xav365.gq
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 88files.net##.ad1
