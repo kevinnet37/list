@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iGeTM5wrWwUGzjhj5ZhlEQ
+! Checksum: DfZfVzDaHPRDzCQSVK7z8w
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201711301800
-! Last Modified: 2017年11月30日 18:00
+! Version: 201711301830
+! Last Modified: 2017年11月30日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -2398,7 +2398,6 @@ ubmcmm.baidustatic.com
 ||2345.com^$popup,domain=aibibi.top
 ||300.bilibilijj.com^$popup
 ||35.188.14.213^$popup
-||550022.com^$popup
 ||76fengyun.com/vip.php$popup
 ||9100300.com^$popup
 ||acgpost.taobao.com^$popup,domain=tsdm.me|tsdm.net|tsdm.tw
@@ -4897,8 +4896,6 @@ mg*.6park.com/img/$image
 ||images.sohu.com/cs/
 ||images.sohu.com/ytv/*.jpg
 ||images.sohu.com/ytv/*.swf
-||ime666.net/wp-content/uploads/
-||ime888.com/wp-content/uploads/
 ||imedown.info/03.jpg
 ||imedown.info^*.gif
 ||imeee.cn/DA_HTML/*.js
@@ -12357,11 +12354,12 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||zimuku.net/ad/ads.js
 @@||zimuku.net/ads.js
 @@||zjol.com.cn^*/index.jsp?newsid=$elemhide
-.gif|$domain=99cc2.com|99ff5.com|99ff6.com|99re.com|99ww6.com
-/js/layer.js$domain=99cc2.com|99ff5.com|99ff6.com|99re.com|99ww6.com
-99cc2.com,99ff5.com,99ff6.com,99re.com,99ww6.com##.dmcenter
-99cc2.com,99ff5.com,99ff6.com,99re.com,99ww6.com##.spots
-||sinaimg.cn^$domain=99cc2.com|99ff5.com|99ff6.com|99re.com|99ww6.com
+.gif|$domain=99b4.com|99bb4.com|99cc9.com|99re.com
+/js/layer.js$domain=99b4.com|99bb4.com|99cc9.com|99re.com
+99b4.com,99bb4.com,99cc9.com,99re.com##.dmcenter
+99b4.com,99bb4.com,99cc9.com,99re.com##.spots
+||sinaimg.cn^$domain=99b4.com|99bb4.com|99cc9.com|99re.com
+||chuantu.biz^$domain=99b4.com|99bb4.com|99cc9.com|99re.com
 |http://*/ts.js$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 ||imgur.com^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 ||sinaimg.cn^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
