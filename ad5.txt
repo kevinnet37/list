@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: V2XMCstDxkXAknVk0MuQSQ
+! Checksum: 1fYzdwVA1Zwmm6AFDKn/pw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711302300
-! Last Modified: 2017年11月30日 23:00
+! Version: 201712010730
+! Last Modified: 2017年12月01日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -27463,6 +27463,7 @@ _mongo_stats/
 @@||cleananalytics.com/browser.js?$script,domain=cheapflights.com
 @@||clicktale.net/wrb.js$domain=microsoft.com
 @@||clicktale.net^$script,domain=cbc.ca
+@@||clicsante.ca^*/angulartics-google-tag-manager.min.js$domain=clicsante.ca
 @@||cloudflare.com/analytics?$domain=cloudflare.com
 @@||cloudflare.com^*/angulartics-google-analytics.min.js$domain=chromeexperiments.com
 @@||cloudflare.com^*/fingerprint2.min.js$domain=saavn.com
@@ -28297,6 +28298,7 @@ _mongo_stats/
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/ortc.js$domain=social.economico.pt
 @@||google-analytics.com/urchin.js$domain=record.xl.pt
 @@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|tugatech.com.pt
+@@||habibs.com.br/build/assets/js/tracking.js$domain=habibs.com.br
 @@||hit.gemius.pl/xlgemius.js$script,domain=ojogo.pt
 @@||laredoute.pt/js/byside_webcare.js
 @@||marktest.pt/netscope-gemius.js$script,domain=ojogo.pt
