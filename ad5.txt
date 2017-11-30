@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AjR3+caNRwxwkZUBHlpOkQ
+! Checksum: 0r7M5w1grDNJFVdb6x5xiQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201711302130
-! Last Modified: 2017年11月30日 21:30
+! Version: 201711302200
+! Last Modified: 2017年11月30日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -11953,6 +11953,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||delivery.wasu.cn/crossdomain.xml
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|tgfcer.com|wgun.net
@@ -21637,6 +21638,7 @@ _mongo_stats/
 ||akamai.net^*/a.visualrevenue.com/
 ||akamai.net^*/sitetracking/
 ||akamaihd.net/push.gif?
+||akamaihd.net^*.gif?d=
 ||akanoo.com/tracker/
 ||akatracking.esearchvision.com^
 ||aklamio.com/ovlbtntrk?
@@ -23811,7 +23813,6 @@ _mongo_stats/
 ||videostat.index.hu^
 ||mediaquark.com/tracker.js
 ||91.196.216.64^
-||akamaihd.net/banzai.gif?
 ||alice.it/cnt/
 ||analytics.digitouch.it^
 ||analytics.ettoredelnegro.pro^
@@ -23833,6 +23834,7 @@ _mongo_stats/
 ||eageweb.com/stats.php
 ||encoderfarmced-stats-ns.servicebus.windows.net^
 ||evnt.iol.it^
+||fb_servpub-a.akamaihd.net^
 ||fcstats.altervista.org^$third-party
 ||gazzettaobjects.it^*/tracking/
 ||glomera.com/stats
