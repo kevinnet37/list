@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dwwBpCM9zTJNQfqAHdh+xg
+! Checksum: kliiWFN0ge4P3ljjctmoDw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201712021300
-! Last Modified: 2017年12月02日 13:00
+! Version: 201712021530
+! Last Modified: 2017年12月02日 15:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -6831,7 +6831,6 @@ mg*.6park.com/img/$image
 ||yoka.com/s?z=
 ||yorkbbs.ca/yorkads/
 ||you85.*/ling/
-||youbiyao.*/gongyi.gif
 ||youiv.tv/image/*-960x80-
 ||youku.com/cms/tool/pub/get_putdata.
 ||youku.com/dress/
@@ -6852,7 +6851,6 @@ mg*.6park.com/img/$image
 ||youxi.baidu.com/tips/bdtips_min.js
 ||youxiaxiazai.com/db_top/index_top.htm
 ||youxiaxiazai.com/dm/
-||youyouby.xyz/gongyi.gif
 ||ysxs8.com/ysgg/
 ||ytbbs.com/images/index/
 ||yubei8.com/bar3.js
@@ -7022,6 +7020,7 @@ mg*.6park.com/img/$image
 ||p3.dnvod.tv^
 ||dnvod.tv/cSTR/
 ||91xporn.com/fans/
+||youyao1.xyz/gongyi.gif
 !------------------------Specific element hiding rules------------------------!
 dnvod.tv##.dnpub
 gpcxw.com###AA2
@@ -12398,6 +12397,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{10,}\.js$/$script,domain=39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|cyone.com.cn|dugoogle.com|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+||a1.sumiaowang.com^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
