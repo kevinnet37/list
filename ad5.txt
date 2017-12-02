@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TrxhJb1wHzIg/piBU73/sw
+! Checksum: BGoTV42AgavcekWfA+DACw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712022100
-! Last Modified: 2017年12月02日 21:00
+! Version: 201712030730
+! Last Modified: 2017年12月03日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16008,6 +16008,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /event-log/*
 /event-report?*&uid=
 /event-tracking.js
+/event.cgi?
 /event.gif?
 /event.php?campaign=
 /event/*/*?*&euidl=*&url=
@@ -16683,6 +16684,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /mailstatstrk/*
 /mapstats.
 /marketing-analytics.js
+/martypixel?
 /maxymiser.
 /Maxymiser/*
 /mbcom.tracking.
@@ -17599,6 +17601,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tc_throttle.js
 /TCMAnalytics_
 /tda.*/in.gif
+/tealeaf.cgi
 /TeaLeaf.js
 /TeaLeafCfg.js
 /TealeafSDK.js
@@ -18640,6 +18643,7 @@ _mongo_stats/
 ||anrdoezrs.net^$third-party
 ||answerscloud.com^$third-party
 ||anti-cheat.info^$third-party
+||ape78cn2.com^$third-party
 ||apexstats.com^$third-party
 ||apextwo.com^$third-party
 ||apicit.net^$third-party
@@ -19639,6 +19643,7 @@ _mongo_stats/
 ||mediaplex.com^$third-party
 ||mediarithmics.com^$third-party
 ||mediaseeding.com^$third-party
+||mediaweaver.jp^$third-party
 ||mediego.com^$third-party
 ||mega-stats.com^$third-party
 ||memecounter.com^$third-party
@@ -20110,6 +20115,7 @@ _mongo_stats/
 ||selipuquoe.com^$third-party
 ||sellebrity.com^$third-party
 ||sellpoints.com^$third-party
+||semantic-finder.com^$third-party
 ||semanticverses.com^$third-party
 ||semasio.net^$third-party
 ||sematext.com^$third-party
@@ -22267,6 +22273,7 @@ _mongo_stats/
 ||etahub.com^*/track?site_id
 ||etc.grab.com^$image,third-party
 ||etoro.com/tradesmonitor/
+||event-listener.air.tv^
 ||event.api.drift.com^
 ||event.loyalty.bigdoor.com^$third-party
 ||event.previewnetworks.com^
@@ -22275,6 +22282,7 @@ _mongo_stats/
 ||eventgateway.soundcloud.com^
 ||eventlog.inspsearch.com^
 ||eventlog.inspsearchapi.com^
+||events.air.tv^
 ||events.antenna.is^
 ||events.bounceexchange.com^
 ||events.eyeviewdigital.com^*.gif?r=
@@ -26353,7 +26361,8 @@ _mongo_stats/
 ||yyv.co/track/
 ||zap.dw-world.de^$image
 ||zap2it.com^*/editorial-partner/
-||zappos.com/onload.cgi?
+||zappos.com/*.cgi?
+||zappos.com/karakoram/js/main.
 ||zawya.com/zscripts/ajaxztrack.cfm?
 ||zawya.com^*/logFile.cfm?
 ||zdnet.com/wi?
