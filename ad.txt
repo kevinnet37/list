@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VWKhLGvVpnfzy5n1T4re5Q
+! Checksum: EH7/V12aKtXkem3vtHgj7w
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712012330
-! Last Modified: 2017年12月01日 23:30
+! Version: 201712020830
+! Last Modified: 2017年12月02日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1023,7 +1023,6 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
-||ty229.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -2478,6 +2477,7 @@ ubmcmm.baidustatic.com
 ||twrank.com^$third-party
 ||twzui6.com^
 ||txkjad.com^$third-party
+||ty229.com^
 ||tylll.com^
 ||tz-dsp.com^$third-party
 ||u.801t.com^$third-party
@@ -3666,6 +3666,7 @@ mg*.6park.com/img/$image
 ||abcache.com/youlaohu/
 ||ac.tc.qq.com/store_file_download?*&dir_path=/admin/swf/
 ||acfun.*/adnew.aspx?id=
+||acfun.cn/appSpreadContents/danmuad/
 ||acg.178.com^*/t_$subdocument,domain=~dmzj.com
 ||acg.tv^$image,object,domain=bilibili.com
 ||acgbenzi.com^$image
@@ -4520,6 +4521,7 @@ mg*.6park.com/img/$image
 ||dn-geekpark-new.qbox.me/uploads/ad/
 ||dnvod.tv/04/
 ||dnvod.tv/2b/
+||dnvod.tv/34DH/
 ||dnvod.tv/3a/
 ||dnvod.tv/91/
 ||dnvod.tv/a/o
@@ -4768,6 +4770,7 @@ mg*.6park.com/img/$image
 ||flightclub.cn/WidgetHot?
 ||flighty.cn/images/
 ||float.sandai.net^$object-subrequest
+||flxdaily.com/wp-content/plugins/flxdaily/script.js
 ||focus.cn/api/ads?
 ||focus.cn/common/js/adm
 ||forum.51nb.com/images/
@@ -6028,6 +6031,7 @@ mg*.6park.com/img/$image
 ||nxing.cn/uploads/uploads/*-size300x250.
 ||nz04com.com/aabdd/
 ||o6wpeop4b.bkt.clouddn.com/1.gif
+||oa-panther.data.aliyun.com^
 ||oa.hinews.cn/work/img/
 ||oeofo.com/201505/27/16-08-08-97-1.gif
 ||ofweek.com/img/proimage/2017/osl
@@ -6070,6 +6074,7 @@ mg*.6park.com/img/$image
 ||p.szonline.net^
 ||p.zol-img.com.cn^
 ||p.zol.com.cn/download/detail.js
+||p2.dnvod.tv^
 ||p4p.sina.com.cn^
 ||p8u.hinet.net^
 ||paigu.com/assets/js/paigu.js
@@ -6413,6 +6418,7 @@ mg*.6park.com/img/$image
 ||s1-a1.dnvod.tv^
 ||s1-a2.dnvod.tv^
 ||s1-a3.dnvod.tv^
+||s1-a4.dnvod.tv^
 ||s1.pplive.cn/sta.js
 ||s8bbs.com/ad/
 ||s8bbs.com/g.php?
@@ -7410,15 +7416,11 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||p2.dnvod.tv^
-||s1-a4.dnvod.tv^
-||dnvod.tv/34DH/
-||flxdaily.com/wp-content/plugins/flxdaily/script.js
-||oa-panther.data.aliyun.com^
-||acfun.cn/appSpreadContents/danmuad/
+||p3.dnvod.tv^
+||dnvod.tv/cSTR/
 !------------------------Specific element hiding rules------------------------!
+dnvod.tv##.dnpub
 gpcxw.com###AA2
-acfun.cn###goniudan
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -8148,6 +8150,7 @@ discuss.com.hk###gid_group_restricted > .gid_group_title
 danyang.com###global-hd > div[align="center"]
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###global_notice_wrap
 eprice.com.tw###goldlink
+acfun.cn###goniudan
 juqingbao.com###goog
 niwota.com###google_ad2
 gameapps.hk###google_side_ad2_top
@@ -12245,7 +12248,6 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
-@@||590103.idv.tw/advertisement.js
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|tgfcer.com|wgun.net
@@ -12360,6 +12362,7 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||58.com/adJump?adType=
 @@||58cdn.com.cn/tuiguang/center/
 @@||58huanbao.com/skin/defaultcs2660/images/ad
+@@||590103.idv.tw/advertisement.js
 @@||5i5j.*/images/ad$domain=5i5j.com
 @@||61.164.108.104:4275/*/*.gif
 @@||61.164.108.184/tb/*.gif
