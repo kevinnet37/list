@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Wp2XqhTgurkKPdAxKySWXQ
+! Checksum: z9gCBtlWlpiER9gYXpAc2g
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712040000
-! Last Modified: 2017年12月04日 00:00
+! Version: 201712040730
+! Last Modified: 2017年12月04日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7133,6 +7133,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||bttt.la/static/index960.js
+||jmydm.com/jspage/ftt.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -15060,6 +15061,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .social_tracking.
 .stats?action=
 .to/vtrack|
+.track.actions.get?
 .track_Visit?
 .trackArticleAction&
 .tracking.js?dpv=
@@ -15564,6 +15566,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /buzz_stats.
 /byside_webcare.
 /c.gif?daid
+/c.php?r=
 /c.wrating.com/*
 /c2_count.js
 /C4ATracker.
@@ -15705,6 +15708,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /clicktrends/*
 /clicky.js
 /client-event-logger.
+/client-event.axd?
 /client_pathlog.asp?
 /clientdatacollector/*
 /clientlibs/ga.js
@@ -17995,6 +17999,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /vendemologserver-
 /vertical-stats.
 /vglnk.js
+/vgwort/*
 /video_count.php?
 /videoanalytic/*
 /videoAnalytics.
@@ -18678,6 +18683,7 @@ _mongo_stats/
 ||autoaffiliatenetwork.com^$third-party
 ||autoaudience.com^$third-party
 ||autoid.com^$third-party
+||autoline-top.com^$third-party
 ||avantlink.com^$third-party
 ||avastats.com^$third-party
 ||avazudsp.net^$third-party
@@ -18690,6 +18696,7 @@ _mongo_stats/
 ||axf8.net^$third-party
 ||azalead.com^$third-party
 ||azera-s014.com^$third-party
+||azointel.com^$third-party
 ||b1img.com^$third-party
 ||b1js.com^$third-party
 ||b2c.com^$third-party
@@ -20202,6 +20209,7 @@ _mongo_stats/
 ||sometrics.com^$third-party
 ||sophus3.com^$third-party
 ||spamanalyst.com^$third-party
+||spanglefish.com^$third-party
 ||spectate.com^$third-party
 ||speed-trap.com^$third-party
 ||speedcurve.com^$third-party
@@ -21690,6 +21698,7 @@ _mongo_stats/
 ||amazonaws.com/ds-dd/data/data.gif?$domain=slickdeals.net
 ||amazonaws.com/fstrk.net/
 ||amazonaws.com/g.aspx$third-party
+||amazonaws.com/gaL.js
 ||amazonaws.com/initialize/$third-party
 ||amazonaws.com/js/reach.js
 ||amazonaws.com/ki.js/
@@ -26694,6 +26703,7 @@ _mongo_stats/
 ||rtlradio.de/stats.php?
 ||rtlradio.lu/stats.php?
 ||rwt.reichelt.de^
+||s.edeka.de^
 ||s.fsphp.t-online.de^
 ||salzburg.com/nwas/count.php?
 ||secreta.de/tinc?
