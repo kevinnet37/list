@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: C6koG/P+jBCD1DCaaYDHAQ
+! Checksum: N4VnIqply57BtSkARdJcZA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712031200
-! Last Modified: 2017年12月03日 12:00
+! Version: 201712032300
+! Last Modified: 2017年12月03日 23:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -338,7 +338,6 @@ tieba.baidu.com##.tuijian-wrap
 /meinv/js/_ads_tuku.js
 /module/adsview/*
 /moneymaker-banners/ads_
-/naimabdd_1010/*
 /nanrenpeng/ads/*
 /new_site_topad^
 /ntes-ad-cloud.
@@ -2595,15 +2594,12 @@ ubmcmm.baidustatic.com
 /^http://www\.tt1069\.com\/(?!bbs)/$script,domain=tt1069.com
 /a83b3cdeacac5a503717469ca5084ebc.
 /adcg/*
-/Addsa.dsj/Bsdd_1010/*Baidu
 /adnow.js$domain=50.7.31.228|tvboxnow.com
 /adscript/crazyad.js
 /aeiou/*$domain=discuss.com.hk|uwants.com
-/Aemplate/dd_1010/baidu
 /aServ_channl.$domain=9gui.net|miejw.com
 /aServ_header.$domain=9gui.net|miejw.com
 /assets/sidebar/*$domain=v2ex.com
-/Atemplate/dd_1010/baidu
 /avshow_cn1.gif
 /baha/*$subdocument,domain=gamer.com.tw
 /banner.js$domain=28188.com|28188.net
@@ -2648,7 +2644,6 @@ ubmcmm.baidustatic.com
 /moneymaker/js/tmpp.js
 /moneymaker/js/videoplayer.js
 /mydisplay.$domain=400gb.com|bego.cc|ctfile.com|pipipan.com
-/nimabdd_1010/*baidu
 /nowscore/ad/*
 /opbb/float.js
 /opbb/obpp.tpl
