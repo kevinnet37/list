@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /OExCxd+CnBPZBm/Ykcqcg
+! Checksum: EPu3smaID530WGlGuTsArw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712060000
-! Last Modified: 2017年12月06日 00:00
+! Version: 201712060730
+! Last Modified: 2017年12月06日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -738,6 +738,7 @@ _xiuno_com_ad/
 ##script + #rbbox
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
+||cssdiv.club^
 .8ox.cn^
 ||biquge22.com^$third-party
 .cn/show?id=$script,third-party
@@ -7108,8 +7109,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||sinaimg.cn^$domain=ooxx999.com
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ooxx999.com##DIV[id^="love"]
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -17363,6 +17366,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /SEOTracking.
 /serve/mtrcs_
 /server.php?request=track&output=
+/server/detect.php?
 /services/analytics/*
 /services/counter/*
 /services/counters/*
@@ -17536,6 +17540,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /statistics?eventType=
 /StatisticService.m?
 /statlogger.
+/stats-amp.
 /stats-js.cgi?
 /stats-tracking.js
 /stats.asp?id
@@ -18823,6 +18828,7 @@ _mongo_stats/
 ||bstk.co^$third-party
 ||bstn-14-ma.com^$third-party
 ||btbuckets.com^$third-party
+||btserve.com^$third-party
 ||btstatic.com^$third-party
 ||btttag.com^$third-party
 ||bubblestat.com^$third-party
@@ -24596,6 +24602,7 @@ _mongo_stats/
 ||clvk.viki.io^
 ||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
+||cnn.com/pv?
 ||cnt.nicemix.com^
 ||cnt.nuvid.com^
 ||cnt.vivatube.com^
@@ -25305,6 +25312,7 @@ _mongo_stats/
 ||metrics.apartments.com^
 ||metrics.aws.sitepoint.com^
 ||metrics.cbn.com^
+||metrics.cbslocal.com^
 ||metrics.cnn.com^
 ||metrics.dailymotion.com^
 ||metrics.ee.co.uk^
@@ -25334,6 +25342,7 @@ _mongo_stats/
 ||mirror.co.uk^*/stats/
 ||mitpress.mit.edu/wusage_screen_properties.gif
 ||ml.com/js/ml_dcs_tag_
+||mms.cnn.com^
 ||mms.deadspin.com^
 ||mms.gizmodo.com^
 ||mms.jalopnik.com^
