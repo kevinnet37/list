@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3WLKGpLoh36Y+db/lg+1bw
+! Checksum: xOe07jehhy0A/g3N6w7Hvg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712082300
-! Last Modified: 2017年12月08日 23:00
+! Version: 201712090730
+! Last Modified: 2017年12月09日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17670,6 +17670,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /swfaddress.js?tracker=
 /swptrk.
 /syn/mail_s.php?
+/sync.gif?partner_
 /synd.aspx
 /syndication/metrics/*
 /syndstats.
@@ -17876,6 +17877,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracking.relead.
 /tracking.vidt
 /tracking/*/agof-
+/tracking/?c_
 /tracking/addview/*
 /tracking/adobe.js
 /tracking/adobe/*
@@ -20804,6 +20806,7 @@ _mongo_stats/
 ||coinlab.biz^$third-party
 ||coinminerz.com^$third-party
 ||coinnebula.com^$third-party
+||coinpot.co^$third-party
 ||cookiescript.info^$third-party
 ||crypto-coins.club^$third-party
 ||crypto-loot.com^$third-party
@@ -22634,6 +22637,7 @@ _mongo_stats/
 ||kiwari.com^*/impressions.asp?
 ||kmib.co.kr/ref/
 ||kununu.com^*/tracking/
+||kxcdn.com/track.js
 ||l-host.net/etn/omnilog?
 ||l.coincident.tv^
 ||l.fairblocker.com^$third-party
@@ -22946,6 +22950,7 @@ _mongo_stats/
 ||pornhost.com/count_hit_player.php
 ||postageapp.com/receipt/$third-party
 ||postpixel.vindicosuite.com^
+||postquare.com^*/event.json?
 ||poweredbyeden.com/widget/tracker/
 ||powersearch.us.com^
 ||ppx.com/tracking/
@@ -23140,6 +23145,7 @@ _mongo_stats/
 ||stats.clickability.com^
 ||stats.clipprtv.com^$third-party
 ||stats.cloudwp.io^
+||stats.cmcigroup.com^
 ||stats.cnevids.com^
 ||stats.complex.com^
 ||stats.datahjaelp.net^
@@ -23280,6 +23286,7 @@ _mongo_stats/
 ||tinypass.com^*/track?
 ||tinyurl.com/pixel.gif/
 ||tl.tradetracker.net^
+||tm-awx.com/felix.min.js
 ||tm.tradetracker.net^
 ||tmgrup.com.tr/Statistic/
 ||top-fwz1.mail.ru^
