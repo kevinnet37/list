@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QfbQ4RykQvzf4Vf/Y+YzCQ
+! Checksum: eNmn5eHgGZhAb3EJhpXFZA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712100000
-! Last Modified: 2017年12月10日 00:00
+! Version: 201712100730
+! Last Modified: 2017年12月10日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -14976,6 +14976,7 @@ weibo.com##.apps_PCD_reco_detail_right
 -analitycs/metrica.
 -analytics-tagserver-
 -analytics/insight.
+-appanalytics-
 -asset-tag.
 -audience-science-pixel/
 -baynote.
@@ -15617,6 +15618,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /beacon/vtn_loader.gif?
 /beacon?
 /beacon_async.
+/beacon_img?
 /beaconconfigs/*
 /beaconimg.php?
 /beacons?data=
@@ -17223,6 +17225,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /prum.
 /pstats.
 /pt.gif?type=
+/ptmd?t=
 /ptrack.
 /pub/as?_ri_=$image
 /pubimppixel/*
@@ -19412,6 +19415,7 @@ _mongo_stats/
 ||globase.com^$third-party
 ||globel.co.uk^$third-party
 ||globetrackr.com^$third-party
+||gnpge.com^$third-party
 ||go-mpulse.net^$third-party
 ||goaltraffic.com^$third-party
 ||godhat.com^$third-party
@@ -20811,7 +20815,8 @@ _mongo_stats/
 ||zqtk.net^$third-party
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
-.space/*.wasm$third-party
+.space^$third-party,websocket
+.space^*.wasm$third-party
 |http://api.*/lib/native.wasm$third-party
 |https://api.*/lib/native.wasm$third-party
 ||1beb2a44.space^$third-party
@@ -20864,6 +20869,8 @@ _mongo_stats/
 ||listat.biz^$third-party
 ||lmodr.biz^$third-party
 ||mataharirama.xyz^$third-party
+||megabanners.cf^$third-party
+||megabanners.cf^$websocket
 ||minecrunch.co^$third-party
 ||minemytraffic.com^$third-party
 ||miner.pr0gramm.com^$third-party
@@ -21818,6 +21825,7 @@ _mongo_stats/
 ||akamai.net/chartbeat.
 ||akamai.net^*/a.visualrevenue.com/
 ||akamai.net^*/sitetracking/
+||akamaihd.net/javascripts/browserfp.
 ||akamaihd.net/push.gif?
 ||akamaihd.net^*.gif?d=
 ||akanoo.com/tracker/
@@ -23028,6 +23036,7 @@ _mongo_stats/
 ||px.reactrmod.com^
 ||px.spiceworks.com^
 ||px.topspin.net^
+||pxlgnpgecom-a.akamaihd.net^
 ||qlog.adap.tv^$object-subrequest
 ||qos.video.yimg.com^
 ||qq.com/heatmap/
@@ -24494,6 +24503,7 @@ _mongo_stats/
 ||atracktive.collegehumor.com^
 ||att.com/csct.gif?
 ||attachmate.com*/pv.aspx?
+||audible.*/uedata?
 ||audible.com^*/uedata/
 ||audit.macworld.co.uk^
 ||audit.pcadvisor.co.uk^
