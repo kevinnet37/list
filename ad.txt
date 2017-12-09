@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zuWswMASLqdHqfs/uMc9KQ
+! Checksum: yxtdX+baiQ6mUEO4U0k/Dw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712082300
-! Last Modified: 2017年12月08日 23:00
+! Version: 201712090830
+! Last Modified: 2017年12月09日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -4106,6 +4106,7 @@ mg*.6park.com/img/$image
 ||btbtt.*/upload/lilaixy.gif
 ||btbtt.*/view/image/backimg.jpg
 ||btbtt.*/view/image/QT_
+||btbtt88.com/slade.js
 ||btc38.com/statics/img/partner/
 ||btcerise.com/adm.js
 ||btcerise.net/adm.js
@@ -7400,13 +7401,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||btbtt88.com/slade.js
-/\.dnvod\.tv\/Movie\/\w+$/$xmlhttprequest,domain=dnvod.tv
-||dnvod.tv/Qfj/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-2345.com###J_act_openD
-2345.com###J_act_openE
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -7479,6 +7475,8 @@ duba.com###J_BottomAdBan_bg
 duba.com###J_FloorWave
 duba.com###J_FloorWrap
 duba.com###J_S11
+2345.com###J_act_openD
+2345.com###J_act_openE
 2345.com###J_acts11_footerfixed
 jin10.com###J_ad_t
 xiami.com###J_albumSale
@@ -11943,8 +11941,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="right_qunar_hotel"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="soft"] > .c-border
 zuoye.baidu.com##dl[class="card related"]
 bbs.my0511.com##embed[width="970"][height="70"]
-facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(赞助内容))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(贊助))
+facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(赞助内容))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-properties(content: "贊助"))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-properties(content: "赞助内容"))
 hiapk.com##font.jammer
@@ -13296,6 +13294,8 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
 ||taobao.com^$popup,domain=dlkoo.com
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.dnvod\.tv\/Movie\/\w+/$xmlhttprequest,domain=dnvod.tv
+||dnvod.tv/DBqW/
 dnvod.tv###box
 dnvod.tv###msg_win
 dnvod.tv###msg_winw
@@ -13310,6 +13310,7 @@ dnvod.tv##.gg
 dnvod.tv##.ggw
 dnvod.tv##.ggw-l
 dnvod.tv##.r-gg
+/\.dnvod\.tv\/Movie\/\w+$/$xmlhttprequest,domain=dnvod.tv
 /\.dnvod\.tv\/[^\.]+$/$object-subrequest,domain=dnvod.tv
 /\.dnvod\.tv\/\w{2}\/[\w-]+\./$image,object-subrequest,domain=dnvod.tv
 /\/[a-z0-9]{9,}\.swf/$domain=dnvod.tv
@@ -13328,6 +13329,7 @@ dnvod.tv#?#[style*="important"]
 ||dnvod.tv/BtT/
 ||dnvod.tv/Home/ObtainPublic
 ||dnvod.tv/LbP/
+||dnvod.tv/Qfj/
 ||dnvod.tv/Scripts/jquery.public-
 ||dnvod.tv/WlCk/
 ||dnvod.tv/a/$xmlhttprequest
