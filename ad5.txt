@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KfHxQOPRbEvkJsiYeKHxtQ
+! Checksum: wJpkVldLmIm6EmE2IApvCQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712111200
-! Last Modified: 2017年12月11日 12:00
+! Version: 201712111300
+! Last Modified: 2017年12月11日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -12517,6 +12517,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{10,}\.js$/$script,domain=39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|cyone.com.cn|dugoogle.com|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+||bd1.flfgw.cn^
 ||as1.m.hao123.com^
 ###cpro_container
 ##a[href*="/mobads.php?"]
@@ -13047,13 +13048,10 @@ dnvod.tv##.ggw
 dnvod.tv##.ggw-l
 dnvod.tv##.r-gg
 /\.dnvod\.tv\/(?=[A-Z]*[a-zA-Z])(?=[a-z]*[a-zA-Z])[a-zA-Z]+\/\d+\.(gif|jpg|png)/$domain=dnvod.tv
-/\.dnvod\.tv\/Movie\/\w+$/$xmlhttprequest,domain=dnvod.tv
 /\.dnvod\.tv\/[^\.]+$/$object-subrequest,domain=dnvod.tv
 /\.dnvod\.tv\/\w{2}\/[\w-]+\./$image,object-subrequest,domain=dnvod.tv
 /\/[a-z0-9]{9,}\.swf/$domain=dnvod.tv
-/^https?:\/\/(?!www\.)[0-9a-z-]+\.dnvod\.tv\/Movie\/\w+/$xmlhttprequest,domain=dnvod.tv
-@@||hcad.dnvod.tv/Movie/GetResource.ashx?device=0&id=*&type=htm
-@@||hvvx.dnvod.tv/Movie/GetResource.ashx?device=0&id=*&type=htm
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.dnvod\.tv\/Movie\/GetResource\.ashx\?device=0&id=\w+=htm/$xmlhttprequest,domain=dnvod.tv
 dnvod.tv##[style*="important"]
 dnvod.tv##a[href^="http://yoyou."]
 dnvod.tv##a[style="display:inline;visibility:visible"] > img
