@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7SsmQNQeb92uq8Q3zL8eNg
+! Checksum: KfHxQOPRbEvkJsiYeKHxtQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712111100
-! Last Modified: 2017年12月11日 11:00
+! Version: 201712111200
+! Last Modified: 2017年12月11日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -13467,6 +13467,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
 ! EasyList Lite
+/ad1_
 ##.ad-r
 ##.widget_advert
 ##.ad_hover_href
@@ -14165,7 +14166,12 @@ _300_250.
 ||sinaimg.cn/finance/*/hqMainTopBanner.js
 ||sinaimg.cn/finance/hq_finapp_ad/
 ||sinaimg.cn/tech/*/sidebar.js
+||qyerstatic.com/common/models/common/component/footerBanner/
+||qyer.com/qcross/home/ajax?action=banner
+||eastmoney.com/Extends/GetReferralLinkJavaScriptObj
 !------------------------Specific element hiding rules------------------------!
+eastmoney.com##DIV[id^="em_important_"]
+qyer.com###zpui-head-ad
 sohu.com###apkBanner
 ifeng.com##.newbagicon
 zhihu.com##.AdblockBanner
@@ -14672,6 +14678,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||qyer.com^*/base_beacon_ga.js
 ||hdslb.com/js/bfd.js
 ||s.union.360.cn^
 ||d-test.39.net^
