@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6Y3FiZTXiOOWTa7wPvxgxA
+! Checksum: Khveyv4q53576zAatAUDMQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712112130
-! Last Modified: 2017年12月11日 21:30
+! Version: 201712120730
+! Last Modified: 2017年12月12日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -22129,6 +22129,7 @@ _mongo_stats/
 ||canvas-usage-v2.conduit-data.com^
 ||capture.bi.movideo.com/dc?
 ||capture.camify.com/dc?
+||capture.condenastdigital.com^
 ||carambo.la/analytics/
 ||carambo.la/logging/
 ||carl.pubsvs.com^
@@ -22343,6 +22344,7 @@ _mongo_stats/
 ||d2xgf76oeu9pbh.cloudfront.net^
 ||d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com^
 ||d3135glefggiep.cloudfront.net^
+||d31bfnnwekbny6.cloudfront.net/customers/
 ||d33im0067v833a.cloudfront.net^
 ||d34ko97cxuv4p7.cloudfront.net^
 ||d36lvucg9kzous.cloudfront.net^
@@ -23775,6 +23777,7 @@ _mongo_stats/
 ||lr-port.de/tracker/
 ||mapandroute.de/log.xhr?
 ||mastertag.kpcustomer.de^
+||mastertag.q-sis.de^
 ||mehrwertdienstekompetenz.de/cp/$third-party
 ||met.vgwort.de^
 ||mindwerk.net/zaehlpixel.php?
@@ -23798,6 +23801,7 @@ _mongo_stats/
 ||plista.com/iframeShowItem.php
 ||pyroactive.de/counter/
 ||rc.aol.de^*/getrcmd.js
+||retrack.q-divisioncdn.de^
 ||retresco.de^*/stats/$third-party
 ||script.idgentertainment.de/gt.js
 ||sec-web.com/stats/
@@ -23855,6 +23859,7 @@ _mongo_stats/
 ||trck.spoteffects.net^
 ||uni-duesseldorf.de/cgi-bin/nph-count?
 ||uni-leipzig.de^*/stats/
+||urtracker.q-sis.de^
 ||veeseo.com^*/url.gif?
 ||veeseo.com^*/view/$image
 ||vertical-n.de/scripts/*/immer_oben.js
@@ -24898,6 +24903,8 @@ _mongo_stats/
 ||ebay-us.com/fp/
 ||ebay.com/op/t.do?event
 ||ebayobjects.com/*;dc_pixel_url=$image
+||ebaystatic.com^*/agof_survey_
+||ebaystatic.com^*/iam_
 ||ec2-prod-tracker.babelgum.com^
 ||economist.com/geoip.php
 ||ectnews.com/shared/missing.gif?
@@ -26958,6 +26965,7 @@ _mongo_stats/
 ||web.de/pic?
 ||webnews.de^*/loglib.js
 ||webts.adac.de^
+||welt.de/t/js
 ||wer-weiss-was.de/indication/clue_*.gif?
 ||wienerzeitung.at/__webtrends/
 ||wirtschaftspresse.biz/pshb?
