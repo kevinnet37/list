@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EncJqQAHnNf7nbYt6Jh/0A
+! Checksum: 6Iu2cZb6FoSvY3TaOvEe0g
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712120830
-! Last Modified: 2017年12月12日 08:30
+! Version: 201712120930
+! Last Modified: 2017年12月12日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -124,6 +124,7 @@ tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
+/js/index_adfloat.js
 -1688-wp-media/ads/
 -880-80-4.jpg
 -HollandOne_GIF2.gif
@@ -6668,7 +6669,7 @@ mg*.6park.com/img/$image
 ||vodtw.com/m-
 ||vpszt.com/images/bbssidebar/
 ||vriooi.com/web/ad/ad.js
-||vsimg.com/sjt.gif
+||vsimg.com/sh2.gif
 ||vuejs.org/images/geekbang
 ||vupload.duowan.com^
 ||vvvdj.com/sms/
@@ -7127,7 +7128,6 @@ mg*.6park.com/img/$image
 ||zuishulou.com/assets/scripts/m.js
 ||zuoche.com/promo/*.jspx
 ||zuqiu.me/js/AD_
-||zuqiu.me/js/index_adfloat.js
 ||zww.me^*?action=Ajax_
 ||zx98.com/mm/
 ||zx98.com/tb0
@@ -7143,7 +7143,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||vsimg.com/h2.js
+||vsimg.com/yt2.gif
 !------------------------Specific element hiding rules------------------------!
+vs.cm##DIV[align="center"] > SCRIPT + A[href^="http"]
 gpcxw.com###AA2
 dilidili.wang#?#[style*="fixed"]
 hc360.com,yaolan.com###AD
