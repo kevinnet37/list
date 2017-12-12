@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n62cSJk6mH+SLJZgeeMwiw
+! Checksum: 5GwkpReESPnduoV6/1F9qQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712130000
-! Last Modified: 2017年12月13日 00:00
+! Version: 201712130730
+! Last Modified: 2017年12月13日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15526,6 +15526,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /analyticstracking_
 /analyticstrain-
 /analyticsUnitaire?
+/analyticsUrlToDataMappings.
 /analyze.js
 /analyzer.gif?
 /analyzer2.
@@ -15932,6 +15933,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /contentiq.js
 /ContentTrackingCall.
 /control/tracking.php?
+/conversion_async.
 /convertro.js
 /cookie.crumb
 /cookie/visitor/*
@@ -16223,6 +16225,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /fb-tracking.js
 /fbanalytics/*
 /fbcounter/*
+/fbevents-amd.js
 /fe/track/*
 /federated-analytics.
 /files/ga.js
@@ -16909,6 +16912,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /mmclient.js
 /mmcore.js
 /mmetrix.mobi/*
+/mms.*/pv?
 /mngi/tracking/*
 /mnt/imp?
 /mobify_ga.gif
@@ -17084,6 +17088,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /page_analytics.
 /page_counter.
 /page_imp;
+/pagead/conversion_
 /PageCount.php?
 /pageCounter.adp?
 /pagedot.gif?
@@ -18682,6 +18687,7 @@ _mongo_stats/
 ||99counters.com^$third-party
 ||99stats.com^$third-party
 ||9nl.eu^$third-party
+||a-cast.jp^$third-party
 ||a-counters.com^$third-party
 ||a-pagerank.net^$third-party
 ||a013.com^$third-party
@@ -20253,6 +20259,7 @@ _mongo_stats/
 ||rumanalytics.com^$third-party
 ||rumpelstiltskinhead.com^$third-party
 ||rztrkr.com^$third-party
+||s-onetag.com^$third-party
 ||s3s-main.net^$third-party
 ||sageanalyst.net^$third-party
 ||sajari.com^$third-party
@@ -21519,7 +21526,8 @@ _mongo_stats/
 ||whoseesyou.com^$third-party
 ||wstatslive.com^$third-party
 ||zt-dst.com^$third-party
-||a-cast.jp^$third-party
+||admatrix.jp^$third-party
+||analyticsip.net^$third-party
 ||bb-analytics.jp^$third-party
 ||beanscattering.jp^$third-party
 ||bigmining.com^$third-party
@@ -21529,21 +21537,26 @@ _mongo_stats/
 ||deteql.net^$third-party
 ||docodoco.jp^$third-party
 ||e-kaiseki.com^$third-party
+||ec-concier.com^$third-party
 ||ec-optimizer.com^$third-party
 ||eco-tag.jp^$third-party
 ||fout.jp^$third-party
 ||gmodmp.jp^$third-party
 ||hitgraph.jp^$third-party
 ||i2i.jp^$third-party
+||iogous.com^$third-party
 ||japanmetrix.jp^$third-party
 ||keyword-match.com^$third-party
+||marsflag.com^$third-party
 ||mobylog.jp^$third-party
 ||omiki.com^$third-party
 ||owldata.com^$third-party
+||pagoda56.com^$third-party
 ||research-artisan.com^$third-party
 ||rtoaster.jp^$third-party
 ||sibulla.com^$third-party
 ||socdm.com^$third-party
+||tgknt.com^$third-party
 ||trackfeed.com^$third-party
 ||ukw.jp^$third-party
 ||wonder-ma.com^$third-party
@@ -24142,6 +24155,7 @@ _mongo_stats/
 ||imgstat.ameba.jp^$third-party
 ||l.popin.cc^
 ||lcs.livedoor.net^
+||macromill.com/imp/
 ||mofa.go.jp^*/count.cgi?
 ||otoshiana.com/ufo/
 ||rd.rakuten.co.jp^
@@ -24766,7 +24780,6 @@ _mongo_stats/
 ||clvk.viki.io^
 ||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
-||cnn.com/pv?
 ||cnt.nicemix.com^
 ||cnt.nuvid.com^
 ||cnt.vivatube.com^
@@ -26212,6 +26225,7 @@ _mongo_stats/
 ||totalporn.com/videos/tracking/?url=
 ||tottenhamhotspur.com/media/javascript/google/
 ||toyota.com/analytics/
+||toyota.jp/onetag/
 ||tp.ranker.com^
 ||tqn.com/px/?
 ||tracelog.www.alibaba.com^
