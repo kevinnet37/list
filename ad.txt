@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TQWTbLplAkWj566xDiqbBw
+! Checksum: PqgeLnCNWaP1bJl0mm1Eyg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712131130
-! Last Modified: 2017年12月13日 11:30
+! Version: 201712131230
+! Last Modified: 2017年12月13日 12:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -13344,6 +13344,8 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
 ||taobao.com^$popup,domain=dlkoo.com
+||dnvod.tv/abb/$domain=dnvod.tv
+/\.dnvod.tv\/upload\/video\/\d+\./$domain=dnvod.tv
 @@||dnvod.tv/Movie/Readyplay.aspx?id=$genericblock
 ||dnvod.tv/Movie/$xmlhttprequest
 ||dnvod.tv^*.jpg$object-subrequest,domain=dnvod.tv
