@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uhevAd5EBi+qPCNB0EavcA
+! Checksum: 6VBz8PaPxtMyCjbbItDIJA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712131830
-! Last Modified: 2017年12月13日 18:30
+! Version: 201712132030
+! Last Modified: 2017年12月13日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15170,6 +15170,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .gatracking.js
 .gif?ad=
 .gif?event=
+.gif?hit_
 .gif?Log=$~xmlhttprequest
 .gif?pixels=
 .Google.Tracker.js
@@ -15598,6 +15599,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /at.gif?
 /atapixel.js
 /atatus.js
+/athena.gif?
+/athenastgbeacon.
 /atlas_track.
 /atrk.gif?
 /atrk.js
@@ -16539,6 +16542,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /i?e=*&page=*&cookie=
 /i?redir=*&page=*&cookie=
 /i?siteid=
+/i?stm=*&refr=*&url=
 /ics/2/pview.gif?
 /id?d_visid_ver=
 /iframe.tracker.js
@@ -22562,6 +22566,7 @@ _mongo_stats/
 ||fastcounter.bcentral.com^
 ||fastcounter.onlinehoster.net^
 ||fastly.net/collect?
+||fastly.net/i?
 ||fbpixel.network.exchange^
 ||feed.informer.com/fdstats
 ||feedblitz.com/imp?$third-party
