@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ElUP8fiKTagIq2wVPhG+nQ
+! Checksum: YDGbX4UHvjOJ503Q1aKS3w
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712131730
-! Last Modified: 2017年12月13日 17:30
+! Version: 201712131830
+! Last Modified: 2017年12月13日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7443,6 +7443,7 @@ mg*.6park.com/img/$image
 ||sinaimg.cn^$domain=63ig.com
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+wenku.baidu.com##.wubai-wrap
 maplestage.com##.nav-left-module__info-wrapper___35CLR
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -11543,7 +11544,7 @@ loveplay123.blogspot.com##a[href^="http://vbtrax.com/track/"]
 kankan.com##a[href^="http://vip.kankan.com/topics/finance/"]
 qq.com##a[href^="http://www.10100000.com/"]
 zhanqi.tv##a[href^="http://www.2133."]
-backchina.com##a[href^="http://www.21usdeal."]
+backchina.com##A[href*=".21usdeal.com"]
 40407.com##a[href^="http://www.40407.com/g.php?"]
 souqiu8.com##a[href^="http://www.444365.org/"]
 allyingshi.com,zimuzu.tv##a[href^="http://www.6.cn/coop/"]
