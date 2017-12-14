@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BtbGmcVZ2jomkZTQSH7M2Q
+! Checksum: Mqgu3/08YpiDMUjrmD0OyA
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201712031200
-! Last Modified: 2017年12月03日 12:00
+! Version: 201712141530
+! Last Modified: 2017年12月14日 15:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -646,11 +646,8 @@ ebusinessreview.cn##div.header,.adarticle,div.ad_s,[id^=ad_]
 www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f
 ||www.epinv.com/wp-content/themes/ep/tu/
 ||firefoxchina.cn/html/$subdocument
-ftchinese.com##.app-download-container,div[data-id|=banner],div[data-id|=storympu],div[data-id|=mpu],div.o-barrier
-||ftchinese.com/m/marketing/$subdocument
-||static.ftchinese.com/n/main-barrier.js
-|http://dolphin.ftimg.net/$script
-|http://www.ftchinese.com/index.php/jsapi/
+cn.ft.com##.app-download-container,div[data-id|=banner],div[data-id|=storympu],div[data-id|=mpu],div.o-barrier
+||cn.ft.com/m/marketing/$subdocument
 ||orz.hupu.com
 ||t1.hoopchina.com.cn/$subdocument
 hupu.com##.sidebar-ad-A,.sidebar-ad-B,.sidebar-ad-C,[id|=div-gpt-ad],[class^=nba-ad],[class^=hp-ad],.sidebar>div[class^=ad],div.ad980-60,div.ad720-90
@@ -684,7 +681,7 @@ qiushibaike.com##div.shopwindow
 ||galaxy.sogoucdn.com/galaxy/
 ||api.huo360.com/www/back/$image
 ||www.toutiao.com/api/web_ads/
-toutiao.com##div.adTab,div.carAd,#pagelet-detailadd,iframe[onload^="var adWrap"],li.item.J_add,div[ad_name],li[ad_id]
+toutiao.com##div.adTab,div.carAd,#pagelet-detailadd,iframe[onload^="var adWrap"],li.item.J_add,div[ad_name]
 u17.com##[id^=u17-advert-fix-ad],div.ad_wrap
 |http://tj.u17t.com/$script
 www.v2ex.com##.sidebar_units,.sidebar_compliance
