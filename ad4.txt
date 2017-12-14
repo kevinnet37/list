@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iDCRrganFGMyJ1FK+pqEGg
+! Checksum: 9zJquuqXK2aLDtLiwLTMZQ
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201712140830
-! Last Modified: 2017年12月14日 08:30
+! Version: 201712141500
+! Last Modified: 2017年12月14日 15:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -580,19 +580,11 @@ baidu.com##.rmb-carsousel-position-bottom
 baidu.com##.rmb-growth-common-tpl-1-wrapper
 po.baidu.com###shareBoxBlank
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div[id]:-abp-has(>.bf-close-btn)
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="0"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="1"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="2"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="3"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="4"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="5"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="6"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="7"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="8"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="9"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
 baidu.com##.app-guide
 baidu.com##.banner-active
-baijiahao.baidu.com##.openBox-shareEntry
+baidu.com##.openBox-shareEntry
 mobile.baidu.com##.p_fixed_lb
 baidu.com###exp-fixed-bottom
 baidu.com##.home-app-promotion
