@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +ziwA2vCHxPCOvVtksZFYQ
+! Checksum: 41ZXfSMp+70x4mXzsWaR2w
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712142115
-! Last Modified: 2017年12月14日 21:15
+! Version: 201712142130
+! Last Modified: 2017年12月14日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -289,6 +289,7 @@ youku.com###FullPromotion
 ||static.youku.com/*/index/js/tdstat.js
 ||passport.youku.com/index_loginregGuide/$subdocument
 ||k.youku.com/player/getFlvPath/sid/*&vl=0$domain=www.doyoudo.com
+||g.alicdn.com/ku/ykbannerLoader/
 ! Youtube
 youtube.com###contents>ytd-search-pyv-renderer
 youtube.com###video-masthead
@@ -13354,6 +13355,8 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
 ||taobao.com^$popup,domain=dlkoo.com
+@@||api.dnvod.tv^$xmlhttprequest
+@@||dnvod.tv/ActionProvider/$xmlhttprequest
 ||dnvod.tv^$xmlhttprequest
 /\.dnvod.tv\/upload\/video\/\d+\./$domain=dnvod.tv
 @@||dnvod.tv/Movie/Readyplay.aspx?id=$genericblock
