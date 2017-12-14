@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ym7eOQbJm/EW7taUFkDFDw
+! Checksum: TuGOxeXGpnUv/oE7jWC37A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712142330
-! Last Modified: 2017年12月14日 23:30
+! Version: 201712150730
+! Last Modified: 2017年12月15日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15039,6 +15039,7 @@ weibo.com##.apps_PCD_reco_detail_right
 -comscore.
 -criteo.
 -datacollection.
+-dtaectolog-
 -event-tracking.
 -ga-track.
 -gatracker.
@@ -16263,6 +16264,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /footerpixel.gif?
 /fora_player_tracking.
 /foresee/*
+/fortvision-fb-web.
 /forumPixLog.
 /FoxAnalyticsExtension.
 /FoxBlueKaiPlugIn.
@@ -21324,6 +21326,7 @@ _mongo_stats/
 ||7x4.fr^$third-party
 ||7x5.fr^$third-party
 ||abcompteur.com^$third-party
+||admo.tv^$third-party
 ||adthletic.com^$third-party
 ||affilizr.com^$third-party
 ||alkemics.com^$third-party
@@ -23957,6 +23960,7 @@ _mongo_stats/
 ||m6web.fr/statsd/
 ||makazi.com/tracker-
 ||neteventsmedia.be/hit.cfm?
+||netreviews.eu/index.php?action=act_access&$third-party
 ||nvc.n1bus-exp.com^
 ||nws.naltis.com^
 ||optinproject.com/rt/visit/
@@ -24319,6 +24323,7 @@ _mongo_stats/
 ||stat.rum.cdnvideo.ru^
 ||stat.sputnik.ru^
 ||stat.tvigle.ru^
+||stats-*.p2pnow.ru^
 ||stats.internet-yadro.com^
 ||stats.seedr.com^
 ||t.pusk.ru^
@@ -24339,7 +24344,6 @@ _mongo_stats/
 ||ulogin.ru/js/stats.js
 ||upstats.yadro.ru^
 ||uptolike.com/widgets/*/imp?
-||vgtrk.com/js/stat.js
 ||viewstat.promoblocks.ru^
 ||wapson.ru/counter.php?
 ||webtrack.biz^$third-party
@@ -28633,6 +28637,7 @@ _mongo_stats/
 @@||matchid.adfox.yandex.ru/?url=$script,domain=ctc.ru
 @@||megafon.ru/static/?files=*/tealeaf.js
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
+@@||player.vgtrk.com/js/stat.js?
 @@||ssp.rambler.ru/acp/capirs_main.$script,domain=afisha.ru
 @@||ssp.rambler.ru/capirs.js$domain=afisha.ru
 @@||swa.mail.ru/cgi-bin/counters?$script
