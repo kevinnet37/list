@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 98yzTEWbhFjAcqbnsPTAXQ
+! Checksum: fdr+codQXRT2jII2V1isHA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712151100
-! Last Modified: 2017年12月15日 11:00
+! Version: 201712151130
+! Last Modified: 2017年12月15日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -13069,7 +13069,7 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 /\.dnvod.tv\/upload\/video\/\d+\./$domain=dnvod.tv
 @@||api.dnvod.tv^$xmlhttprequest
 @@||dnvod.tv/ActionProvider/$xmlhttprequest
-@@||dnvod.tv/Movie/Readyplay.aspx?id=$genericblock
+@@||dnvod.tv^*/Readyplay.aspx?id=$genericblock
 ||dnvod.tv/abb/$domain=dnvod.tv
 ||dnvod.tv/Movie/$xmlhttprequest
 ||dnvod.tv^$xmlhttprequest
@@ -13097,6 +13097,7 @@ dnvod.tv##a[href^="http://yoyou."]
 dnvod.tv##a[style="display:inline;visibility:visible"] > img
 dnvod.tv##div[class][data-type="popup"]
 dnvod.tv##div[data-code][data-img]
+dnvod.tv##DIV[data-code]:not([id])
 dnvod.tv##div[id][style*="top:"][style*="block"]
 dnvod.tv#?#[style*="important"]
 ||dnvod.tv/04/
