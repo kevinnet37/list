@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cpLPKTD5OYV5ZoRAAddZIA
+! Checksum: la6+/2MXSh2bSQa+PoXdnQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712151900
-! Last Modified: 2017年12月15日 19:00
+! Version: 201712160730
+! Last Modified: 2017年12月16日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15663,8 +15663,10 @@ weibo.com##.apps_PCD_reco_detail_right
 /baynote_
 /baynoteobserver/*
 /bc/clk?
+/bcbot-nomin.js
 /bcn.gif?
 /bcn?
+/bctrackers/*
 /beacon-cookie.
 /beacon.cgi?
 /beacon.gif?
@@ -16739,6 +16741,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /lib/tracking/*
 /library/svy/*/broker.js
 /library/svy/broker.js
+/library_analytics.
 /libs/tracker.js
 /lingabot.
 /link_track.
@@ -18968,6 +18971,7 @@ _mongo_stats/
 ||bookforest.biz^$third-party
 ||boomerang.com.au^$third-party
 ||boomtrain.com^$third-party
+||botman.ninja^$third-party
 ||botsvisit.com^$third-party
 ||bouncex.com^$third-party
 ||bpmonline.com^$third-party
@@ -19679,6 +19683,8 @@ _mongo_stats/
 ||ipinyou.com.cn^$third-party
 ||iplocationtools.com^$third-party
 ||ipro.com^$third-party
+||iproanalytics.com^$third-party
+||iprotrk.com^$third-party
 ||ipstat.com^$third-party
 ||ipv6monitoring.eu^$third-party
 ||iqfp1.com^$third-party
@@ -22465,6 +22471,7 @@ _mongo_stats/
 ||djibeacon.djns.com^
 ||dkj2m377b0yzw.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
+||dlvkf5067xruv.cloudfront.net^
 ||dmcdn.net/behavior/
 ||dmdentertainment.com^*/video_debug.gif?
 ||dn-net.com/cc.js
