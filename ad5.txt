@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: la6+/2MXSh2bSQa+PoXdnQ
+! Checksum: uvIUrZS50qfYqMCGFWgkZA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712160730
-! Last Modified: 2017年12月16日 07:30
+! Version: 201712160830
+! Last Modified: 2017年12月16日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6985,6 +6985,7 @@ mg*.6park.com/img/$image
 ||youxiaxiazai.com/dm/
 ||youyao1.xyz/gongyi.gif
 ||ysxs8.com/ysgg/
+||yt-adp.nosdn.127.net^
 ||ytbbs.com/images/index/
 ||yubei8.com/bar3.js
 ||yubei8.com/boximg/
@@ -7152,7 +7153,6 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||yt-adp.nosdn.127.net^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -13070,9 +13070,9 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 /\.dnvod.tv\/upload\/video\/\d+\./$domain=dnvod.tv
 @@||api.dnvod.tv^$xmlhttprequest
 @@||dnvod.tv/ListProvider/ajaxlist.async.ashx$xmlhttprequest
-@@||dnvod.tv^*ActionProvider/$xmlhttprequest
-@@||dnvod.tv^*/Readyplay.aspx?id=$genericblock
 @@||dnvod.tv/Movie/Play.aspx?id=$genericblock
+@@||dnvod.tv^*/Readyplay.aspx?id=$genericblock
+@@||dnvod.tv^*ActionProvider/$xmlhttprequest
 ||dnvod.tv/abb/$domain=dnvod.tv
 ||dnvod.tv/Movie/$xmlhttprequest
 ||dnvod.tv^$xmlhttprequest
@@ -13099,8 +13099,8 @@ dnvod.tv##[style*="important"]
 dnvod.tv##a[href^="http://yoyou."]
 dnvod.tv##a[style="display:inline;visibility:visible"] > img
 dnvod.tv##div[class][data-type="popup"]
+dnvod.tv##div[data-code]:not([id])
 dnvod.tv##div[data-code][data-img]
-dnvod.tv##DIV[data-code]:not([id])
 dnvod.tv##div[id][style*="top:"][style*="block"]
 dnvod.tv#?#[style*="important"]
 ||dnvod.tv/04/
