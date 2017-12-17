@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 81jrAGVeOepgy5dtDEwOqg
+! Checksum: LyMkOT9AuQOd5jZQFBG7kg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712172330
-! Last Modified: 2017年12月17日 23:30
+! Version: 201712180730
+! Last Modified: 2017年12月18日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15253,6 +15253,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .tv/log?event
 .tv/t.png?
 .uk/o.gif?
+.uk/pv?
 .uk/t.gif?
 .uk/track?
 .uk/traffic/?
@@ -16302,6 +16303,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /ga-custom-vars.
 /ga-explorations.
 /ga-links.js
+/ga-lite.
 /ga-multidomain.
 /ga-script.
 /ga-se-async.js
@@ -23198,6 +23200,7 @@ _mongo_stats/
 ||reports.maxperview.com^
 ||reports.pagesuite-professional.co.uk^
 ||reports.tstlabs.co.uk^
+||res.rbl.ms^
 ||researchintel.com^$third-party
 ||reverbnation.com/widgets/trk/
 ||rhapsody.com^*/pixel?
@@ -25559,6 +25562,7 @@ _mongo_stats/
 ||metrics.tbliab.net^
 ||metrics.ted.com^
 ||metrics.washingtonpost.com^
+||metro.co.uk/js/ga-
 ||metro.us/api/trackPage/
 ||metroweekly.com/tools/blog_add_visitor/
 ||mf2fm.com/php/stats.php?
@@ -28333,6 +28337,7 @@ _mongo_stats/
 @@||walmartimages.com/webanalytics/omniture/omniture.jsp$domain=walmart.com
 @@||walmartimages.com/webanalytics/wmStat/wmStat.jsp$domain=walmart.com
 @@||washingtonexaminer.com/s3/wex15/js/analytics.js?$script
+@@||washingtonpost.com/wp-stat/analytics/latest/main.js
 @@||washingtonpost.com/wp-stat/analytics/main.js$domain=subscribe.washingtonpost.com
 @@||wbshop.com/fcgi-bin/iipsrv.fcgi?
 @@||websimages.com/JS/Tracker.js
