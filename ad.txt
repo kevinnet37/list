@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: E+L1YpcmQsTveCRVm85yYw
+! Checksum: zsNZcaDRYdU8WQd3nWTsQg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712171100
-! Last Modified: 2017年12月17日 11:00
+! Version: 201712171200
+! Last Modified: 2017年12月17日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12842,6 +12842,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{10,}\.js$/$script,domain=39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|cyone.com.cn|dugoogle.com|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+||bd1.52che.com^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
