@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ODOIeMbR8NS0rVJMMdoZsw
+! Checksum: S8vEnX+wtSFeLxaJ34EMsg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201712171930
-! Last Modified: 2017年12月17日 19:30
+! Version: 201712172130
+! Last Modified: 2017年12月17日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -630,8 +630,10 @@ _xiuno_com_ad/
 ##script + #rbbox
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
+##.couplet_9cb0d
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||adsbang.top^
 ||tamedia.com.tw^$third-party
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
@@ -7042,6 +7044,8 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||51test.net/js_new/a/right_wx.js
 ||591hx.com/images/2017-12-01/2017120181851-7674.JPG
+||nanrenvip.co/d/js/*style.js
+||alicdn.com^$domain=viidii.info
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 52ch.net##.ad650
@@ -9325,7 +9329,6 @@ duba.com##.cool_textlink
 cnbeta.com##.cooperation
 weike31.com,weike32.com##.copy
 wnacg.org##.couplet
-duopapa.info##.couplet_9cb0d
 tigtag.com##.couplet_l
 tigtag.com##.couplet_r
 app01.com.tw##.coverAD
@@ -13358,7 +13361,6 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||atanx.alicdn.com/t/tanxssp.js$domain=www.taobao.com|www.tmall.com
 @@||autohome.com.cn/javascript/fingerprint.js
 @@||bagehd.com/iplookup.
-@@||bilibili.com/log/web?$xmlhttprequest
 @@||cnzz.com/c.php?id=30070167$domain=m.tieyou.com
 @@||count.video.sina.com.cn^*?video_ids=
 @@||cupid.iqiyi.com/crossdomain.xml
@@ -13370,7 +13372,6 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||googletagmanager.com/gtm.js?$domain=support.amd.com
 @@||guahao.cn/common/js/plugins/fingerprint.js
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
-@@||hdslb.com/bfs/seed/log/report/log-reporter.js
 @@||hk01.com^*/ga_trace.js
 @@||hk01.com^*/scripts/ga.js
 @@||hm.baidu.com/h.js$domain=baomihua.com
