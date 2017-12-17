@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wvgAFMiyyTybxN+j0UfS6A
+! Checksum: BUnu30CemZ6kIR9uX5Y+6Q
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712171300
-! Last Modified: 2017年12月17日 13:00
+! Version: 201712171630
+! Last Modified: 2017年12月17日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -14260,7 +14260,6 @@ _300_250.
 /wp-content/plugins/upprev/*
 /shenmago_download_app_
 /3dmgamegzh.png
-/znds/dbsc98060.gif
 /to8to_pc/chunks/slide_and_popup_
 !------------------------General element hiding rules-------------------------!
 ###b_login
@@ -14504,6 +14503,7 @@ _300_250.
 ||qyerstatic.com/common/models/common/component/footerBanner/
 ||qyer.com/qcross/home/ajax?action=banner
 ||eastmoney.com/Extends/GetReferralLinkJavaScriptObj
+||zndsssp.dangbei.net^
 !------------------------Specific element hiding rules------------------------!
 eastmoney.com##DIV[id^="em_important_"]
 qyer.com###zpui-head-ad
