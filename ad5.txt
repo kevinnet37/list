@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: C0zT1ayPQRKi0BLxxrL6Ww
+! Checksum: PJYSrq+IPMw5cseytZSyWw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712191100
-! Last Modified: 2017年12月19日 11:00
+! Version: 201712191200
+! Last Modified: 2017年12月19日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -3225,8 +3225,6 @@ mg*.6park.com/img/$image
 ||70.86.24.120:8060/
 ||70mao.com/520/
 ||72bbb.com/images/12.gif
-||733dm.net/skin/footer.js
-||733dm.net/skin/middle.js
 ||75.125.41.29:8080/
 ||76.73.85.179/js/v1.js
 ||7654.com/index.php?m=index&c=api&a=getData&
@@ -13397,8 +13395,10 @@ dnvod.tv#?#[style*="important"]
 ||zzhszj.com^
 ||zzsdjq.com^
 ||zzsno1.com^
-|http:$script,third-party,xmlhttprequest,domain=m.mzitu.com|m.umei.cc
-|https:$script,third-party,xmlhttprequest,domain=m.mzitu.com|m.umei.cc
+|http:$script,third-party,xmlhttprequest,domain=m.733dm.net|m.mzitu.com|m.umei.cc
+|https:$script,third-party,xmlhttprequest,domain=m.733dm.net|m.mzitu.com|m.umei.cc
+||yljiaoluo.com^
+||diogv.com^
 ||yqjxzw.com^
 ||shyanche.net^
 ###j-new-ad
