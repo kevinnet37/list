@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DBx+7hAQi8JujkEVnc87JQ
+! Checksum: kXUQffEYoGJIIZwgDhLujw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201712191000
-! Last Modified: 2017年12月19日 10:00
+! Version: 201712191030
+! Last Modified: 2017年12月19日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7033,6 +7033,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+baidu.com##.afd-item
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -13385,6 +13386,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
 ! EasyList Lite
+/footer_ad.
 /ad1_
 ##.ad-r
 ##.widget_advert
@@ -14088,6 +14090,9 @@ _300_250.
 ||eastmoney.com/Extends/GetReferralLinkJavaScriptObj
 ||zndsssp.dangbei.net^
 !------------------------Specific element hiding rules------------------------!
+news.baidu.com###detail-HotScrollNews-wrapper
+news.baidu.com##.swipe-backflow-container
+baijiahao.baidu.com,feed.baidu.com##BODY > DIV[id$="-container"]:last-child
 eastmoney.com##DIV[id^="em_important_"]
 qyer.com###zpui-head-ad
 sohu.com###apkBanner
@@ -14585,6 +14590,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||bytecdn.cn/ta/resource/v0/analytics.js
 ||qyer.com^*/base_beacon_ga.js
 ||hdslb.com/js/bfd.js
 ||s.union.360.cn^

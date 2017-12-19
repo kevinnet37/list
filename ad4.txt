@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PMSrWjEBNZ6dn19nzU33gA
+! Checksum: nB35sJy2Xz190eufhKgYfQ
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201712151400
-! Last Modified: 2017年12月15日 14:00
+! Version: 201712191030
+! Last Modified: 2017年12月19日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -190,6 +190,7 @@ tieba.baidu.com##.tuijian-wrap
 ||sp*.baidu.com^*.gif?
 ||tieba.baidu.com/f/urlcheck?
 ||youxi.baidu.com/tips/bdtips_min.js
+baidu.com##.afd-item
 baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2)
 baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2) + .f13:last-child
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .t > a[href^="http://www.baidu.com/baidu.php?"]
@@ -578,6 +579,9 @@ baidu.com#@#.share-list
 ||baidu.com/cms/lemmaconfig/navbarAd.
 ||cpu.baidu.com^
 ||baidu.com^*/app/banner_
+news.baidu.com###detail-HotScrollNews-wrapper
+news.baidu.com##.swipe-backflow-container
+baijiahao.baidu.com,feed.baidu.com##BODY > DIV[id$="-container"]:last-child
 baidu.com##.download-app-parent
 baidu.com##.openAppCommonTpl-100
 baidu.com##.rmb-carsousel-position-bottom
