@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2p8VI1jqx5U+C04Yl0DUbQ
+! Checksum: SAn3kGdG4y5JkUAqszcDSQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712201700
-! Last Modified: 2017年12月20日 17:00
+! Version: 201712201730
+! Last Modified: 2017年12月20日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7142,6 +7142,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||zol-img.com.cn/ad/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 78dm.net##.container-fluid > A[href*=".taobao.com"]
@@ -12125,7 +12126,6 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||ad.ourgame.com^
 @@||ad.thsi.cn/siteHome/
 @@||ad.unimhk.com/show.php?$domain=mnighthk.net
-@@||ad4.on.cc/web/$script,xmlhttprequest
 @@||adcdn.pingan.com^
 @@||addon.discuz.com/resource/*/ad
 @@||adjs.8591.com.tw^$script
@@ -12336,7 +12336,6 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||nod32key.xyz^$generichide
 @@||nthu.edu.tw/list_ad.php
 @@||omusic.com.tw/backend/uploadpic/adindex/
-@@||on.cc/html/AC_RunActiveContent.js
 @@||online.unionpay.com/ads/$script
 @@||pagead2.googlesyndication.com/pagead/$script,domain=download.mokeedev.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=gamer.com.tw
@@ -12403,7 +12402,6 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||sozi.cn/images/ad/tj
 @@||static.atm.youku.com^*.swf
 @@||static.hdslb.com/ad-images/$image
-@@||stickyadstv.com/vast/vpaid-adapter/$domain=on.cc
 @@||studioclassroom.com/ad/
 @@||sudupan.com^*/*.gif
 @@||swsc.com.cn/download/ad_images/
