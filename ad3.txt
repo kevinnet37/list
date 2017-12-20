@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: w9S7et9ofGtTgRF5nqFPWQ
+! Checksum: 2/+IpVSzoSbIsoSREzvJoA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201712201000
-! Last Modified: 2017年12月20日 10:00
+! Version: 201712201100
+! Last Modified: 2017年12月20日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -4397,7 +4397,6 @@ mg*.6park.com/img/$image
 ||fun.ynet.com^
 ||fun8.us^$domain=cartomad.com|cartonmad.com|cartoomad.com|cartoonad.com|cartoonmad.com
 ||func.tw/image/func2.png
-||funshion.net.cn/ad?
 ||funtude.com/include/inc/ad_data.
 ||fwindy.win/asd/
 ||fwindy.win/js/s*.gif
@@ -5198,7 +5197,7 @@ mg*.6park.com/img/$image
 ||jyfw.cn/nav/cf_
 ||jz5u.com/js/tl$script
 ||jz5u.com/new/
-||k.77vcd.com^
+||k.16vcd.com^
 ||k.youku.com/player/getFlvPath/sid/*&vl=
 ||k.youku.com^$domain=flvcd.com
 ||k618.cn/gg$image
