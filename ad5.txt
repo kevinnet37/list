@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HO0DM4H6pQIm22L9TBJt/w
+! Checksum: 6dypOwrTV/KdN3hBdSXuEg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712212130
-! Last Modified: 2017年12月21日 21:30
+! Version: 201712212200
+! Last Modified: 2017年12月21日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15680,6 +15680,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /beaconimg.php?
 /beacons?data=
 /BehaviourCaptureHandler.
+/benchmarketingsmarttag/*
 /betamax_tracker.gif?
 /betamax_tracker.js
 /bg_j.gif?
@@ -18929,6 +18930,7 @@ _mongo_stats/
 ||belstat.fr^$third-party
 ||belstat.nl^$third-party
 ||benchit.com^$third-party
+||benchtag2.co^$third-party
 ||berg-6-82.com^$third-party
 ||best-top.de^$third-party
 ||bestcontactform.com^$~image,third-party
@@ -23169,6 +23171,8 @@ _mongo_stats/
 ||rackcdn.com^$script,domain=buysubscriptions.com|cbsnews.com|cbssports.com|cnet.com|dailystar.co.uk|express.co.uk|gamerant.com|gamespot.com|giantbomb.com|inyt.com|metacritic.com|metrolyrics.com|page3.com|rotoworld.com|scout.com|sh.st|thesun.co.uk|thesun.ie|thesundaytimes.co.uk|thetimes.co.uk|tv.com|tvguide.com|zdnet.com
 ||rackcdn.com^*/analytics.js
 ||radiocompanion.com/count.php?
+||radiotime.com/Report.ashx?
+||radiotime.com/reports/
 ||ramp.purch.com^
 ||rbl.ms/res/users/tracking/
 ||readcube.com/tracking/
