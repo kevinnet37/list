@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5vw7dP6VXF4VNGIiiLbQsA
+! Checksum: HO0DM4H6pQIm22L9TBJt/w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712212000
-! Last Modified: 2017年12月21日 20:00
+! Version: 201712212130
+! Last Modified: 2017年12月21日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7147,6 +7147,7 @@ mg*.6park.com/img/$image
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 8264.com##.ewmbox
+sina.com.cn##.top-banner
 douban.com##.ad
 douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban."])
 douban.com##.rec_topics_name[href^="https://erebor.douban."]
@@ -15179,6 +15180,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .io/track?
 .io/w.gif?
 .it/s.gif?
+.jp/pv?
 .jsp/?Log=
 .lms-analytics/
 .me/geoip/
@@ -17880,6 +17882,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /track/visits/?
 /track2.php
 /track;adv
+/track?*&ref=
 /track?browserId
 /track?event=
 /track?name=
@@ -21566,6 +21569,7 @@ _mongo_stats/
 ||wstatslive.com^$third-party
 ||zt-dst.com^$third-party
 ||admatrix.jp^$third-party
+||aid-ad.jp^$third-party
 ||analyticsip.net^$third-party
 ||bb-analytics.jp^$third-party
 ||beanscattering.jp^$third-party
@@ -21583,6 +21587,7 @@ _mongo_stats/
 ||gmodmp.jp^$third-party
 ||hitgraph.jp^$third-party
 ||i2i.jp^$third-party
+||im-apps.net^$third-party
 ||iogous.com^$third-party
 ||japanmetrix.jp^$third-party
 ||keyword-match.com^$third-party
@@ -21591,6 +21596,7 @@ _mongo_stats/
 ||omiki.com^$third-party
 ||owldata.com^$third-party
 ||pagoda56.com^$third-party
+||polymorphicads.jp^$third-party
 ||research-artisan.com^$third-party
 ||rtoaster.jp^$third-party
 ||sibulla.com^$third-party
@@ -24207,6 +24213,7 @@ _mongo_stats/
 ||lcs.livedoor.net^
 ||macromill.com/imp/
 ||mofa.go.jp^*/count.cgi?
+||omt.shinobi.jp^
 ||otoshiana.com/ufo/
 ||rd.rakuten.co.jp^
 ||seesaa.jp/ot_square.pl?
