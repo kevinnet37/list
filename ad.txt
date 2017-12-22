@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: z3yhFbiIMJtxlQrbwF50Xw
+! Checksum: 3PUYLdq4//UwL1SHvpqm2g
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712221300
-! Last Modified: 2017年12月22日 13:00
+! Version: 201712221330
+! Last Modified: 2017年12月22日 13:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7435,6 +7435,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||eastmoney.com/js/news_fixed_
+||dfcfw.com/public/js/left.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -13408,11 +13410,17 @@ ifeng.com##[data-cl]
 ifeng.com##[iscl]
 ||as.g4.ifeng.com^
 ||ifengimg.com^*/jj.js
-||ifengimg.com/01ifeng/
+||ifengimg.com/0
 ifeng.com##.i_con + *:not(.i_con):not([href="javascript:void(0);"])
 ifeng.com##A[href*=".deliver."][style*="block"]
 ifeng.com##[style*="position"][style*="fixed"]
-||ifeng.com^*?*&cl=
+||ifeng.com^*?*cl=
+~imall.ifeng.com,ifeng.com##A[href*="imall.ifeng."]
+~g.ifeng.com,ifeng.com##A[href*="/g.ifeng."]
+ifeng.com##.i_con[href*=".ifeng.com/go?"]
+ifeng.com###golddigger_bottom
+ifeng.com###linkrat_bottom
+ifeng.com##.newbagicon
 |http:$script,third-party,domain=xtzgjx.com|zzdxs.org
 |http:$script,third-party,xmlhttprequest,domain=3g.wenxuemm.com|lwxiaoshuo.com|m.00ksw.org|m.16kxsw.com|m.23sw.net|m.2kxs.com|m.31wxw8.com|m.360118.com|m.37zw.net|m.3dllc.cc|m.3kw.cc|m.50zw.co|m.50zw.la|m.50zww.com|m.52biquge.com|m.555zw.com|m.55xs.com|m.58xs.tw|m.5ccc.net|m.630book.la|m.67shu.com|m.69shu.org|m.6mao.com|m.80txt.com|m.83zw.com|m.88106.com|m.88dushu.com|m.98xiaoshuo.com|m.aiquxs.com|m.amu520.com|m.aszw.org|m.baishulou8.com|m.baoliny.com|m.beijingaishu.net|m.bichi.me|m.biqudu.com|m.biquge.cm|m.biquge.com.tw|m.biquge.info|m.biquge.tw|m.biqugego.com|m.biqugexsw.com|m.biqugezw.com|m.biqumo.com|m.biquwu.cc|m.blwenku.com|m.boluoxs.com|m.book9.net|m.booktxt.net|m.bqg5200.com|m.brquge.com|m.bxwx9.org|m.chuanyue8.net|m.daizhuzai.com|m.dashubao.cc|m.ddxsw.net|m.dhzw.org|m.duanwenxue.com|m.fhxiaoshuo.com|m.fhxsw.org|m.gsdaquan.com|m.gulizw.com|m.gxwztv.com|m.haxwx2.com|m.heiyanwang.com|m.hkslg.net|m.jjxsw.org|m.kewai.la|m.konlan.org|m.kxs7.com|m.lanseshuba.com|m.lbxs.com|m.leduwo.com|m.lewenxiaoshuo.com|m.liewen.cc|m.lkshu.com|m.longtanxs.com|m.luoqiu.com|m.lwtxt.net|m.miaobige.com|m.miaoshufang.com|m.mishug.com|m.mpzw.com|m.panqis.cn|m.qianrenge.cc|m.qu.la|m.sanjiangge.com|m.shengyan.org|m.shenmabook.com|m.shuanshu.com|m.shuketxt.net|m.shumil.com|m.shuqu8.com|m.shuquge.com|m.shushu8.com|m.silukeke.com|m.sjtxt.com|m.snwx8.com|m.sosoxiaoshuo.cc|m.sqsxs.com|m.suimeng.la|m.tingshuge.com|m.tmetb.net|m.tsxsw.com|m.ttzw.com|m.txt2017.com|m.tywxw.la|m.vodtw.com|m.wanjuanba.com|m.wantxt.com|m.wenxue6.com|m.wenxuemi.com|m.wenxuemm.com|m.wodeshucheng.com|m.wodexiaoshuo1.cc|m.x81zw.com|m.xbxwx.net|m.xiaoxiaoshuwu.net|m.xiashu.cc|m.xinshula.com|m.xs.la|m.xs222.tw|m.xuwange.com|m.xyshu8.net|m.yawenb.com|m.ybdu.com|m.yssm.org|m.yuyouge.com|m.zbzw.com|m.zhenben.cc|m.zhuaji.org|m.zwdu.com|wap.xxbiquge.com|wap.yb3.cc|xntk.net|zaidudu.net
 |https:$script,third-party,xmlhttprequest,domain=3g.wenxuemm.com|lwxiaoshuo.com|m.00ksw.org|m.16kxsw.com|m.23sw.net|m.2kxs.com|m.31wxw8.com|m.360118.com|m.37zw.net|m.3dllc.cc|m.3kw.cc|m.50zw.co|m.50zw.la|m.50zww.com|m.52biquge.com|m.555zw.com|m.55xs.com|m.58xs.tw|m.5ccc.net|m.630book.la|m.67shu.com|m.69shu.org|m.6mao.com|m.80txt.com|m.83zw.com|m.88106.com|m.88dushu.com|m.98xiaoshuo.com|m.aiquxs.com|m.amu520.com|m.aszw.org|m.baishulou8.com|m.baoliny.com|m.beijingaishu.net|m.bichi.me|m.biqudu.com|m.biquge.cm|m.biquge.com.tw|m.biquge.info|m.biquge.tw|m.biqugego.com|m.biqugexsw.com|m.biqugezw.com|m.biqumo.com|m.biquwu.cc|m.blwenku.com|m.boluoxs.com|m.book9.net|m.booktxt.net|m.bqg5200.com|m.brquge.com|m.bxwx9.org|m.chuanyue8.net|m.daizhuzai.com|m.dashubao.cc|m.ddxsw.net|m.dhzw.org|m.duanwenxue.com|m.fhxiaoshuo.com|m.fhxsw.org|m.gsdaquan.com|m.gulizw.com|m.gxwztv.com|m.haxwx2.com|m.heiyanwang.com|m.hkslg.net|m.jjxsw.org|m.kewai.la|m.konlan.org|m.kxs7.com|m.lanseshuba.com|m.lbxs.com|m.leduwo.com|m.lewenxiaoshuo.com|m.liewen.cc|m.lkshu.com|m.longtanxs.com|m.luoqiu.com|m.lwtxt.net|m.miaobige.com|m.miaoshufang.com|m.mishug.com|m.mpzw.com|m.panqis.cn|m.qianrenge.cc|m.qu.la|m.sanjiangge.com|m.shengyan.org|m.shenmabook.com|m.shuanshu.com|m.shuketxt.net|m.shumil.com|m.shuqu8.com|m.shuquge.com|m.shushu8.com|m.silukeke.com|m.sjtxt.com|m.snwx8.com|m.sosoxiaoshuo.cc|m.sqsxs.com|m.suimeng.la|m.tingshuge.com|m.tmetb.net|m.tsxsw.com|m.ttzw.com|m.txt2017.com|m.tywxw.la|m.vodtw.com|m.wanjuanba.com|m.wantxt.com|m.wenxue6.com|m.wenxuemi.com|m.wenxuemm.com|m.wodeshucheng.com|m.wodexiaoshuo1.cc|m.x81zw.com|m.xbxwx.net|m.xiaoxiaoshuwu.net|m.xiashu.cc|m.xinshula.com|m.xs.la|m.xs222.tw|m.xuwange.com|m.xyshu8.net|m.yawenb.com|m.ybdu.com|m.yssm.org|m.yuyouge.com|m.zbzw.com|m.zhenben.cc|m.zhuaji.org|m.zwdu.com|wap.xxbiquge.com|wap.yb3.cc|xntk.net|zaidudu.net
@@ -13785,6 +13793,8 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
 ! EasyList Lite
+/adkingpro-
+/adkingpro/*
 /adpic.
 /footer_ad.
 /ad1_
@@ -14285,7 +14295,6 @@ _300_250.
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.m\.[0-9a-z-]{4,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,~third-party,xmlhttprequest
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,third-party,xmlhttprequest
 ||igo.cn/liuxue/js/slideBar
-||eastmoney.com/js/news_fixed_
 ||dahe.cn/indiboy/ads/
 ||tianya.cn/shang/*/index.shtml
 ||bjsxt.com/statics/js/bjsxt/js.js
@@ -14373,7 +14382,6 @@ _300_250.
 ||fydisk.com/images/showvip.gif
 ||pconline.com.cn/intf/hot_
 ||offcn.com/offcnewm/
-||eastmoney.com/trade/hqb_
 ||jc001.cn/img/yhj.gif
 ||jc001.cn/indexnew/js/yuyue.js
 ||goodcome.com.tw/block/ad/rndtopad.php
@@ -14403,7 +14411,6 @@ _300_250.
 ||pstatp.com^*/bannersdk/
 ||kuwo.cn/static/swf/xctg.swf
 ||blog.sina.com.cn/lm/mini/
-||dfcfw.com/public/js/left.js
 ||wbiao.cn/common/adapi/
 ||wbiao.cn/common/newsbannerAds/
 ||sinaimg.cn/finance/wanghong_
@@ -14501,7 +14508,6 @@ baijiahao.baidu.com,feed.baidu.com##BODY > DIV[id$="-container"]:last-child
 eastmoney.com##DIV[id^="em_important_"]
 qyer.com###zpui-head-ad
 sohu.com###apkBanner
-ifeng.com##.newbagicon
 zhihu.com##.AdblockBanner
 zhihu.com##.Card[data-za-module="ContentList"]
 zhihu.com##.Card[data-za-detail-view-path-module="ContentList"]
@@ -14532,8 +14538,6 @@ qq.com##.yscoin-box
 baidu.com##.openAppCommonTpl-100
 baidu.com##.rmb-carsousel-position-bottom
 baidu.com##.rmb-growth-common-tpl-1-wrapper
-ifeng.com###golddigger_bottom
-ifeng.com###linkrat_bottom
 163.com##.m-slider-footer
 iciba.com##.ad-sign
 iciba.com##.info-product
