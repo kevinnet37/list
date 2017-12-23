@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: URsag6mpxZhgkAMzQoz16A
+! Checksum: mGy+eOj/vH4QXvHtySFVBw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712232130
-! Last Modified: 2017年12月23日 21:30
+! Version: 201712240730
+! Last Modified: 2017年12月24日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15673,6 +15673,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /beacon.html?
 /beacon.js
 /beacon/b.ashx?
+/beacon/metrics
 /beacon/timing?
 /beacon/track/*
 /beacon/vtn_loader.gif?
@@ -18966,6 +18967,7 @@ _mongo_stats/
 ||blogscounter.com^$third-party
 ||blogsontop.com^$third-party
 ||blogtoplist.com^$third-party
+||bloomjoy.com^$third-party
 ||bluecava.com^$third-party
 ||blueconic.net^$third-party
 ||bluekai.com^$third-party
@@ -22139,6 +22141,7 @@ _mongo_stats/
 ||beacon.securestudies.com^
 ||beacon.sojern.com^
 ||beacon.squixa.net^
+||beacon.statful.com^
 ||beacon.thred.woven.com^
 ||beacon.viewlift.com^
 ||beacon2.indieclick.com^
