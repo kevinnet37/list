@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sF61j1o411IU0iegBx1V+w
+! Checksum: QZM8VzlXX++84mn9caOqQQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201712231130
-! Last Modified: 2017年12月23日 11:30
+! Version: 201712231200
+! Last Modified: 2017年12月23日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7036,6 +7036,7 @@ mg*.6park.com/img/$image
 ||zimuku.*/images/zfbhb.jpg
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+96weixin.com##A[href^="/show/ads/"]
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -7100,8 +7101,6 @@ diyifanwen.com###Hzh2
 21ic.com###IC2008Ad
 gq.com.tw###IndexCover
 wuxi.cn###Information
-96weixin.com###J-adBd
-96weixin.com###J-adBd2
 dj97.com###J_A_B
 duba.com###J_BottomAdBan
 duba.com###J_BottomAdBan_bg
@@ -9127,7 +9126,6 @@ gdzjdaily.com.cn##.big_news + div
 sgcn.com##.bigaimg
 rkanr.com##.bill
 gywb.cn##.bill-vertical
-9766.com##.billing
 3987.com##.bizhi-recom
 sogou.com##.bizr_rb
 chinairn.com##.bizrpt
@@ -9343,7 +9341,6 @@ bbs.it168.com##.daoh2 + .bor8
 newxue.com##.dashuggtop
 newxue.com##.dashuggtop1
 v1.cn##.db_right_ad
-96weixin.com##.dbgg
 ggcj.com##.dbxf
 games.qq.com##.dc-kf_list
 pan.baidu.com##.decrease-active
@@ -9726,7 +9723,6 @@ fanyi.baidu.com##.hot-link-middle
 mop.com##.hot-rec-ad
 douyu.com,douyutv.com##.hot-sign-1
 douyu.com,douyutv.com##.hot-sign-2
-9766.com##.hot-site
 piaoliang.com##.hot990
 cnqiang.com##.hotBox
 itheat.com##.hot_ad
@@ -10540,7 +10536,6 @@ soku.com##.sk_banner
 fuli.us##.slick
 baidu.com##.slide-bner-adv-ret
 ksbbs.com,kshot.com##.slideAdvert
-9766.com##.slideAutoplay
 cnbeta.com##.slide_area a[href^="http"]:not([href^="http://www.cnbeta."])
 duba.com##.slidebar
 duba.com##.slidebar + .extend
