@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HmTkMOSsOi1oC/L6dqlYDA
+! Checksum: 6y+/pcQtwUvQ24j8coNgJA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201712240830
-! Last Modified: 2017年12月24日 08:30
+! Version: 201712240900
+! Last Modified: 2017年12月24日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -3443,8 +3443,8 @@ mg*.6park.com/img/$image
 ||ashow.pcpop.com^
 ||asia-home.com.cn/js/yt/ytadshow
 ||asimgs.pplive.cn^$object,object-subrequest
-||asp300.net/2012js/
-||asp300.net/2017js/
+||asp300.com/2012js/
+||asp300.com/2017js/
 ||aspjzy.com/jsweb/js/
 ||aspku.com/z/
 ||astrill.com/bnrs/
@@ -7037,6 +7037,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+airav.cc###diy_right
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -10653,8 +10654,8 @@ mail.qq.com##.tipbook-top
 e0575.cn##.tips
 3gsc.com.cn##.tipsA
 gamefy.cn,sitv.com.cn##.tit > span[style="float:right; width:285px;"]
-asp300.net##.tit01 > a
-asp300.net##.tit02 > a
+asp300.com##.tit01 > a
+asp300.com##.tit02 > a
 bilibili.com##.title > span > a[href^="http"]:not([href*=".bilibili."])
 chinaz.com##.titright
 www.duba.com##.tiyan_a
