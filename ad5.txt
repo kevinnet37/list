@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lI+1emhuKfDKK4piKbQaQw
+! Checksum: 5L6yUU50qNljW02N6qUxsA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712250930
-! Last Modified: 2017年12月25日 09:30
+! Version: 201712251000
+! Last Modified: 2017年12月25日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -20945,6 +20945,8 @@ _mongo_stats/
 ||api.inwemo.com^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||azvjudwr.info^$third-party
+||chainblock.science^$third-party
+||chainblock.science^$websocket
 ||cloudcoins.co^$third-party
 ||cnhv.co^$third-party
 ||coin-have.com^$third-party
@@ -20969,6 +20971,7 @@ _mongo_stats/
 ||deepc.cc^$third-party
 ||gus.host^$third-party
 ||hashforcash.us^$third-party
+||hashing.win^$third-party
 ||jroqvbvw.info^$third-party
 ||jsccnn.com^$third-party
 ||jscdndel.com^$third-party
@@ -21008,6 +21011,7 @@ _mongo_stats/
 ||webmine.cz^$third-party
 ||wty46.com^$third-party
 ||xbasfbno.info^$third-party
+||ywtjdckysve.com^$third-party
 ||6ldu6qa.com^$third-party
 ||aheadday.com^$third-party
 ||anxiousapples.com^$third-party
