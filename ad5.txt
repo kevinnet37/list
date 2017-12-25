@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cpa0VY98tgQrHFXgbQaGSA
+! Checksum: PrhTvihlNFngl1GvmCU+og
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712252030
-! Last Modified: 2017年12月25日 20:30
+! Version: 201712252100
+! Last Modified: 2017年12月25日 21:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15467,6 +15467,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /analytics-event-
 /analytics-ingress-
 /analytics-js.
+/analytics-ping.
 /analytics-plugin/*
 /analytics-post-
 /analytics-tag.
@@ -17122,6 +17123,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /other-analitycs/*
 /ovstats.
 /ow_analytics.
+/owa.Analytics.
 /owa.tracker-combined-min.js
 /ox_stats.
 /oxtracker.
@@ -28622,6 +28624,7 @@ _mongo_stats/
 @@||haaretz.co.il/logger/p.gif?$image,xmlhttprequest
 @@||mixpanel.com/track/?data=$xmlhttprequest,domain=eloan.co.il
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=eloan.co.il
+@@||player.bizportal.co.il/scripts/GoogleAnalytics.js$domain=bizportal.co.il
 @@||player.flix.co.il/scripts/GoogleAnalytics.js
 @@||stats.g.doubleclick.net/dc.js$domain=reshet.tv
 @@||tapuz.co.il/general/dotomi/statistics.js?$~third-party
