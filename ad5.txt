@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /r4pQVpYpxy3FHI8wVneXg
+! Checksum: sC3LHyFn9111/KyJc9Baog
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712261500
-! Last Modified: 2017年12月26日 15:00
+! Version: 201712261530
+! Last Modified: 2017年12月26日 15:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -743,6 +743,7 @@ _xiuno_com_ad/
 ##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ span[class^="f"] > span > a[onmouseover="this.style.background='#DEF5CD';"]:first-child:last-child
 ##script + #rbbox
 ##script + .sptable[cellpadding="5"]
+~umeng.com##A[href*=".umeng.com"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
@@ -7168,7 +7169,11 @@ mg*.6park.com/img/$image
 ||ifengimg.com/ec678ccfb805f8ee201751.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-ifeng.com##[style*="position"][style*="relative"]
+acg18.us##.buyaoa-below
+ifeng.com##[id^="mobile_gg"]
+ifeng.com#?#.i_con + div:-abp-has(span:-abp-contains(告))
+ifeng.com#?#.i_con:-abp-has(span:-abp-contains(告))
+ifeng.com#?#.slLis > li:-abp-has(span:-abp-contains(告))
 ifeng.com##[id^="dl"]
 m.thepaper.cn#?#.t_news:-abp-has(img[alt="广告"])
 hc360.com,yaolan.com###AD
