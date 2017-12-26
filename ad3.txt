@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bLO3DEBLIpFC6fVTV4FHxA
+! Checksum: 73keIocsQ1LdbFRwpKInmw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201712261330
-! Last Modified: 2017年12月26日 13:30
+! Version: 201712261500
+! Last Modified: 2017年12月26日 15:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7052,8 +7052,11 @@ mg*.6park.com/img/$image
 ||xitongzhijia.net/theme/2017/js/total_soft.js
 ||baidu.com^$domain=android100.org
 ||adpai.thepaper.cn^
+||ifengimg.com/ec678ccfb805f8ee201751.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ifeng.com##[style*="position"][style*="relative"]
+ifeng.com##[id^="dl"]
 m.thepaper.cn#?#.t_news:-abp-has(img[alt="广告"])
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -11649,7 +11652,6 @@ lolshipin.com##script + .box:nth-child(2)
 acg18.us##script + a
 qqlubo.net##script + br ~ a
 csj.xinhuanet.com##script + center > a > img
-m.thepaper.cn##script[src="http://ad.thepaper.cn/s?z=paper&c=26"] + .t_news + .t_news
 ~cbachina.sports.sohu.com,sohu.com##sohuadcode
 bbs.my0511.com##span.smalltxt
 163.com##span[class^="gg"]
