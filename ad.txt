@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IaDVtAgN0l6VlTIB05YG6Q
+! Checksum: UDVMd++mPQqsT6Lnqjk/Cw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712260930
-! Last Modified: 2017年12月26日 09:30
+! Version: 201712261030
+! Last Modified: 2017年12月26日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -6367,7 +6367,6 @@ mg*.6park.com/img/$image
 ||qzss.cn/ssad
 ||qzwb.com/gb/img/9465.files/1G3G.gif
 ||r3.ykimg.com^$object-subrequest
-||r3sub.com/images/banners/
 ||rakuten-static.com^$domain=cwyuni.tw
 ||rar8.net/htmljs/
 ||ratedxbiz.com/d/
@@ -13426,7 +13425,7 @@ ifeng.com,~imall.ifeng.com##a[href*="imall.ifeng."]
 ||as.g4.ifeng.com^
 ||ifeng.com^*?*cl=
 ||ifengimg.com/0
-||ifengimg.com/d9678dcfb805f8ee201751.js
+||ifengimg.com/d9
 ||ifengimg.com^*/jj.js
 ||ifengimg.com^*/jk.js
 ||ifengimg.com^*/m/sources
@@ -13703,6 +13702,10 @@ ifeng.com,~imall.ifeng.com##a[href*="imall.ifeng."]
 ||shyanche.net^
 ||yljiaoluo.com^
 ||yqjxzw.com^
+||scupio.com^$domain=r3sub.com
+||r3sub.com/images/banners/$domain=r3sub.com
+||h12-media.com^$domain=r3sub.com
+@@||r3sub.com^$genericblock,generichide
 ###j-new-ad
 ##.a_sxfl
 ##.a_sxmu
