@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mrDxtxEfxtypbmUNNyvS+w
+! Checksum: xqhMMxhdQuAFZyYiDlT3Gw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712261130
-! Last Modified: 2017年12月26日 11:30
+! Version: 201712261300
+! Last Modified: 2017年12月26日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7455,6 +7455,7 @@ mg*.6park.com/img/$image
 ||k1kan.cc/template/blank/ads/
 ||xitongzhijia.net/theme/2017/images/temp/ad_
 ||xitongzhijia.net/theme/2017/js/total_soft.js
+||baidu.com^$domain=android100.org
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -12823,6 +12824,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{10,}\.js$/$script,domain=39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|cyone.com.cn|dugoogle.com|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+||a.android100.org^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
