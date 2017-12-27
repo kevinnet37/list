@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: t9hX2ez4y8Aq8l8c5AvyXA
+! Checksum: IKUcs62WsZYpQYqUz3rCJw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712272330
-! Last Modified: 2017年12月27日 23:30
+! Version: 201712280730
+! Last Modified: 2017年12月28日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21736,6 +21736,7 @@ _mongo_stats/
 ||2ip.ua^$third-party
 ||a-counter.com.ua^$third-party
 ||a-counter.kiev.ua^$third-party
+||adx.com.ru^$third-party
 ||announcement.ru^$third-party
 ||apkonline.ru^$third-party
 ||audsp.com^$third-party
@@ -21751,6 +21752,7 @@ _mongo_stats/
 ||countstat.ru^$third-party
 ||cpaevent.ru^$third-party
 ||cszz.ru^$third-party
+||directcrm.ru^$third-party
 ||e-kuzbass.ru^$third-party
 ||exe.bid^$third-party
 ||faststart.ru^$third-party
@@ -21817,6 +21819,7 @@ _mongo_stats/
 ||tpm.pw^$third-party
 ||trbna.com^$third-party
 ||uarating.com^$third-party
+||upravel.com^$third-party
 ||uptolike.com^$third-party
 ||uzrating.com^$third-party
 ||vidigital.ru^$third-party
@@ -24424,6 +24427,7 @@ _mongo_stats/
 ||target.smi2.net^
 ||target.smi2.ru^
 ||tbe.tom.ru^
+||tms-st.cdn.ngenix.net^
 ||top.bur-bur.ru^
 ||top.elec.ru^
 ||top.sec.uz^
