@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MO7KKe5i/8CGOago2FRR1A
+! Checksum: sxv2f2TcGSBP2eEl8Q5JOw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712271300
-! Last Modified: 2017年12月27日 13:00
+! Version: 201712271430
+! Last Modified: 2017年12月27日 14:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -2524,7 +2524,7 @@ ubmcmm.baidustatic.com
 .com/?Intr=$popup,third-party
 /BadwebRemindPage.aspx?param=$popup,third-party
 /hndxweb/push$popup,third-party
-/htmm/2022.php$popup
+/htmm/20*.php$popup
 /item.htm?$popup,domain=tsdm.me|tsdm.net|tsdm.tw
 /portalwlanad/pages/*$popup
 /pushportal/PushPortalServer$popup,third-party
@@ -7167,6 +7167,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||picuphost.com/imghost/upload/image/20171222/122200094524.gif
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 webhek.com##A[href$="/tb.html"]
@@ -13133,7 +13134,7 @@ dnvod.tv#?#[style*="important"]
 ||s1-a1.dnvod.tv^
 ||s1-a2.dnvod.tv^
 ||s1-a3.dnvod.tv^
-||ifengimg.com/8c678ccfb805f8ee201751.js
+||ifengimg.com/8c67
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
 ifeng.com##.i_con + :not(.i_con):not([href="javascript:void(0);"])
