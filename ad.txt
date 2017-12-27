@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ocWO4MxREf9SmgN7iZB/lw
+! Checksum: lEqYshsB0GzEFgfXg6bqMw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201712271430
-! Last Modified: 2017年12月27日 14:30
+! Version: 201712271900
+! Last Modified: 2017年12月27日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -219,18 +219,20 @@ xhamster.com##.sponsorBottom
 ||zencdn.net^$domain=freegaypornsex.net|www.gayvl.info
 ||zrblog.net/zanzhu/
 ! BiliBili
-live.bilibili.com##.announcement-container
-live.bilibili.com##.check-my-title
-live.bilibili.com##.gift-msg
-live.bilibili.com##.guard-icon-small
-live.bilibili.com##.live-ad-full
+live.bilibili.com##.fans-medal-item-ctnr
+live.bilibili.com##.gift-item
 live.bilibili.com##.live-haruna-ctnr
-live.bilibili.com##.live-icon.vip-color.v-middle
-live.bilibili.com##.live-title-icon
-live.bilibili.com##.medal-icon
-live.bilibili.com##.supergift
-live.bilibili.com##.system-msg
+live.bilibili.com##.outlink
+live.bilibili.com##.penury-gift-msg
+live.bilibili.com##.title-label
 live.bilibili.com##.user-level-icon
+live.bilibili.com##.vip-icon
+live.bilibili.com##.welcome-guard
+live.bilibili.com##.welcome-msg
+!live.bilibili.com##.announcement-container
+!live.bilibili.com##.live-ad-full
+!live.bilibili.com##.supergift
+!live.bilibili.com##.system-msg
 ! Cam4
 ||cam4.com/ads/
 ||cam4.com/buygift/
