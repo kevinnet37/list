@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NF9mRAzj4YXYBKRDLRVD/g
+! Checksum: orbJSW2iaRrO/oR4+VaMOA
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201712262000
-! Last Modified: 2017年12月26日 20:00
+! Version: 201712271000
+! Last Modified: 2017年12月27日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -137,6 +137,7 @@ tieba.baidu.com##.tuijian-wrap
 ||baidu.com/baidu.php?url=$popup
 /11431a7ff0f5.swf$domain=tieba.baidu.com
 /r/video/*$domain=youxi.baidu.com
+||baidu.com/?action=getadsdata&
 ||baidu.com/adver?
 ||baidu.com/api/proxyapi?tag=adv&
 ||baidu.com/api/wikiui/guesslike?
@@ -149,6 +150,7 @@ tieba.baidu.com##.tuijian-wrap
 ||baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d.jpg
 ||baidu.com/game/asset/common/performance.
 ||baidu.com/img/iknow/wenku*85.
+||baidu.com/newspage/api/getmobads?
 ||baidu.com/po/api/configure/show.jsonp
 ||baidu.com/rec?platform=wise&ms=1&rset=ad&
 ||baidu.com/resource/ads/
@@ -175,7 +177,7 @@ tieba.baidu.com##.tuijian-wrap
 ||baidu.com/WerbungAjax/getTonglan?
 ||baidu.com/xda?
 ||baidu.com/xpage/interface/get
-||baidu.com^$domain=pos.baidu.com
+||baidu.com^$domain=android100.org|pos.baidu.com
 ||baidu.com^$subdocument,domain=dm5.com|dm5.hk
 ||baidu.com^*/interface/ad?
 ||baifen.music.baidu.com^
@@ -190,10 +192,6 @@ tieba.baidu.com##.tuijian-wrap
 ||sp*.baidu.com^*.gif?
 ||tieba.baidu.com/f/urlcheck?
 ||youxi.baidu.com/tips/bdtips_min.js
-||baidu.com^$domain=android100.org
-||baidu.com/newspage/api/getmobads?
-||baidu.com/?action=getadsdata&
-baidu.com##.sf-wrap > .c-back + DIV[id]:last-child
 baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2)
 baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2) + .f13:last-child
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .t > a[href^="http://www.baidu.com/baidu.php?"]
@@ -456,6 +454,7 @@ image.baidu.com##.sample2
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.score_ecr_wrapper
 baidu.com##.search-aside-adWrap
 map.baidu.com##.search-item[data-stat-code="poisearch.damoce.item"]
+baidu.com##.sf-wrap > .c-back + div[id]:last-child
 baidu.com##.sfc-image-content-adtext
 baidu.com##.sfc-image-content-waterfall-item > div:not([class]) > .sfc-image-content-cell
 iwan.baidu.com##.side-banner
