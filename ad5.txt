@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +6K62h1HyxAYyzPUbPHVkA
+! Checksum: oDHYh4HOGeyL+2NAf+U70w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712281030
-! Last Modified: 2017年12月28日 10:30
+! Version: 201712281100
+! Last Modified: 2017年12月28日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15367,6 +15367,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /activetrackphp.php?
 /activity-track/?
 /activity.gif?
+/ad-iptracer.
 /ad_1_trans.
 /ad_imp.
 /adam.js
@@ -16282,6 +16283,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /exittracker.
 /exittraffic.
 /expcount/*
+/extBnr.gif?
 /extendedAnalytics.
 /external-promo-metrics.
 /external-tracking.
@@ -16702,6 +16704,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /iplookup.php
 /iporganictrack.
 /ips-invite.iperceptions.com/*
+/iptracer.
 /iqtm.js
 /istat.aspx?
 /ists.tag?
@@ -18526,7 +18529,9 @@ weibo.com##.apps_PCD_reco_detail_right
 ://sett.*/log.js
 ://sp.*/xyz?$image
 ://tracking.*/beacon/
+;1x1inv=
 ;manifest-analytics.js
+;sz=1x1;ord=
 =&cs_Referer=
 =ATAtracker&
 =get_preroll_cookie&
@@ -21526,6 +21531,8 @@ _mongo_stats/
 ||ztcadx.com^$third-party
 ||dotmetrics.net^$third-party
 ||xclaimwords.net^$third-party
+||analights.com^$third-party
+||dopc.cz^$third-party
 ||ibillboard.com^$third-party
 ||itop.cz^$third-party
 ||lookit.cz^$third-party
@@ -21535,6 +21542,7 @@ _mongo_stats/
 ||performax.cz^$third-party
 ||pocitadlo.cz^$third-party
 ||programmatic.cz^$third-party
+||semnicneposilejte.cz^$third-party
 ||agillic.eu^$third-party
 ||andersenit.dk^$third-party
 ||chart.dk^$third-party
@@ -24168,7 +24176,9 @@ _mongo_stats/
 ||w3t.cn^*/fx.js
 ||yigouw.com/c.js
 ||tracking.vid4u.org^
+||bnr.alza.cz^
 ||counter.cnw.cz^
+||fimg-resp.seznam.cz^
 ||h.imedia.cz^
 ||hit.skrz.cz^
 ||i.imedia.cz^
@@ -26285,6 +26295,7 @@ _mongo_stats/
 ||t.eharmony.com^
 ||t.hulu.com/beacon/
 ||t.kck.st^
+||t.my.jobs^
 ||t.paypal.com^
 ||t.vimeo.com^
 ||t.wayfair.com^
@@ -27391,6 +27402,7 @@ _mongo_stats/
 ||jutarnji.hr/template/js/eph_analytics.js
 ||kbmg.cz/tracker.js
 ||o2.cz^*-ga_o2cz_bundle.js?
+||stat.novinky.cz^
 ||klik.nrc.nl/ping?
 ||logs.ggweb.nl^
 ||marktplaats.nl/add_counter_image.
