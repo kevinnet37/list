@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VVw+H/tXXbQrG168gyBQTQ
+! Checksum: 24OmtSL+9cM8rm+lCnQcdQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712281300
-! Last Modified: 2017年12月28日 13:00
+! Version: 201712281400
+! Last Modified: 2017年12月28日 14:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5896,7 +5896,6 @@ mg*.6park.com/img/$image
 ||piclect.com^*.gif$third-party
 ||pics.wanlibo.com/js/pagemodulestat.js
 ||pics.xgo-img.com.cn^
-.gif|$domain=uptorrentfilespacedownhostabc.club
 ||picuphost.com^$domain=mmload.info
 ||picyq.com/index.php/Home/run/get_ad/
 ||pifa.fobshanghai.com/link/
@@ -7170,6 +7169,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||glgoo.*/gimage/ad/
+.gif|$domain=uptorrentfilespacedownhostabc.club|uptorrentfilespacedownhostabc.info|uptorrentfilespacedownhostabc.rocks
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -13139,6 +13139,8 @@ dnvod.tv#?#[style*="important"]
 ||s1-a1.dnvod.tv^
 ||s1-a2.dnvod.tv^
 ||s1-a3.dnvod.tv^
+/\.ifengimg\.com\/[0-9a-z]{22}\.js/$script,domain=ifeng.com
+||ifengimg.com^*679.js
 .*.ifeng.com^$xmlhttprequest
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
