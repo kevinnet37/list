@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KvRotE+rA4K4Fl10gARXiQ
+! Checksum: eMaoZThVrHPdBvyuGn9hHQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712281430
-! Last Modified: 2017年12月28日 14:30
+! Version: 201712282200
+! Last Modified: 2017年12月28日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -28251,6 +28251,7 @@ _mongo_stats/
 @@||popeater.com/traffic/?$script,domain=popeater.com
 @@||popmoney.com^*/jquery.analytics.js
 @@||pp-serve.newsinc.com^*/unitsdata.js?$domain=timesfreepress.com
+@@||primevideo.com/watchlist/ajax/addRemove.html/$xmlhttprequest,domain=primevideo.com
 @@||productads.hlserve.com^$script,domain=argos.co.uk
 @@||propelmedia.com/resources/images/load.gif
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
@@ -28719,6 +28720,7 @@ _mongo_stats/
 @@||gemius.pl/gstream.js
 @@||kropka.onet.pl^*/onet.js$domain=tvnwarszawa.pl
 @@||ninja.onap.io/ninja-cee.js$domain=olx.pl
+@@||olx.pl^*/js/tracking/ninja.js$domain=olx.pl
 @@||stat24.com/crossdomain.xml$domain=ipla.tv
 @@||wp.pl^*/dot.gif?$xmlhttprequest,domain=open.fm|wp.tv
 @@||77.91.202.130/js/20050/xiti.js$domain=custojusto.pt
