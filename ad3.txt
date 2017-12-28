@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yfazvLqtpDVYC3BagrM/Qg
+! Checksum: KIAID8WuB8dz4zoPIwVlfA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201712281430
-! Last Modified: 2017年12月28日 14:30
+! Version: 201712282330
+! Last Modified: 2017年12月28日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -3867,8 +3867,6 @@ mg*.6park.com/img/$image
 ||china.com/zh_cn/ads/
 ||china.com/zh_cn/etc/gghead
 ||chinaacc.com^$domain=100ksw.com
-||chinabidding.com.cn/public/cblcn/index3/images/gxyg_10.jpg
-||chinabidding.com.cn/public/static/images/lg296x265.jpg
 ||chinabyte.com/w/$subdocument
 ||chinabyte.com/w/a/201612/wangting.jpg
 ||chinacar.com.cn/Public/index/images/banner_
@@ -7059,7 +7057,12 @@ mg*.6park.com/img/$image
 ||picuphost.com/2016/upload/image/20170422/42206436302.gif
 ||picuphost.com/imghost/upload/image/20171226/122600098149.gif
 ||sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s.gif
+||chinabidding.cn/gys.ad/
 !------------------------Specific element hiding rules------------------------!
+chinabidding.cn###erweima_l
+chinabidding.cn###erweima_r
+chinabidding.cn##.TB-focus
+chinabidding.cn##.ggw
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
