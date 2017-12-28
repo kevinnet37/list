@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: J29Br2XdFu7iXvFJsLhqBg
+! Checksum: NwVXBMD5cIUniaxd4ZyBPA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712282330
-! Last Modified: 2017年12月28日 23:30
+! Version: 201712290730
+! Last Modified: 2017年12月29日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15758,6 +15758,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /BKVTrack.js
 /blank.gif?*%
 /blank.gif?*&
+/block/pixel?
 /blockstat?
 /blog/traffic/?
 /blogsectiontracking.
@@ -17368,6 +17369,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /pushlog.
 /pv.gif?url
 /pv.txt?
+/pv/new?
 /pv?place=
 /pv?token=
 /pv_count.
@@ -24835,6 +24837,7 @@ _mongo_stats/
 ||broadbandchoices.co.uk/track.js
 ||broadwayworld.com/regionalbug.cfm?
 ||brobible.com/?ACT
+||bulb.76.my^
 ||bulgari.com/bulgari/wireframe_script/BulgariGa.js
 ||business.com/images2/anal.gif?
 ||businessinsider.com/tracker.js
@@ -25780,6 +25783,7 @@ _mongo_stats/
 ||novatech.co.uk^*/tracking?
 ||novell.com^*/metrics.js
 ||novinite.com/tz.php
+||nst.com.my/statistic/
 ||nydailynews.com/tracker.js
 ||nydailynews.com^*/tracker.js
 ||nymag.com/js/2/metrony
@@ -27959,6 +27963,7 @@ _mongo_stats/
 @@||dw.cbsi.com/anonc.js$domain=cnet.com|gamespot.com|giantbomb.com
 @@||dw.cbsi.com/js/dw.js$domain=cnet.com
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|cnet.com|gamespot.com|tv.com
+@@||e2e-comms.pearson.com/osbrowserchecker/prd/thirdPartyCookie.html?$subdocument,domain=pearsonmylabandmastering.com
 @@||ec.atdmt.com/b/$domain=starwoodhotels.com
 @@||ecostream.tv/js/ecos.js
 @@||edgedatg.com/aws/apps/datg/web-player-unity/*/AppMeasurement.js$domain=abc.go.com
