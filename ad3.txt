@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wf2q6aZHyKplP35xIpgvmg
+! Checksum: u8arqY9mYnUIeoq+GSaRfw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201712311000
-! Last Modified: 2017年12月31日 10:00
+! Version: 201712311230
+! Last Modified: 2017年12月31日 12:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -14145,6 +14145,13 @@ _300_250.
 ||asp300.com/2017images/kefu.js
 ||douyu.com/dygev/*.swf
 !------------------------Specific element hiding rules------------------------!
+baidu.com##.rmb-growth-common-tpl-1-wrapper
+baidu.com##.commentEmbed-backHomeCard
+baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
+baidu.com##.openAppCarsouselTpl
+haokan.baidu.com##.eye-catching-tpl-container
+baidu.com#?#.rec-item:-abp-has(> div > a > .rn-footer > .open-bdbox-title)
+ifeng.com##A[href*=".app"]
 douyu.com##.double-festival-pop
 douyu.com##.pendant-wrap
 96weixin.com##.pop
@@ -14648,6 +14655,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||mixer.sina.cn^
 ||bytecdn.cn/ta/resource/v0/analytics.js
 ||qyer.com^*/base_beacon_ga.js
 ||hdslb.com/js/bfd.js
