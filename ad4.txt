@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AnfAlVliqIWEk+OPJB76kQ
+! Checksum: yrdOC31DGZDbTRTn796G+w
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201712312000
-! Last Modified: 2017年12月31日 20:00
+! Version: 201712312030
+! Last Modified: 2017年12月31日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -209,7 +209,7 @@ baidu.com###asideLeft
 baidu.com###asideRight
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###attention-game-wraper_dialog
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###baiduweishiDown
-18avhub.com,18avtube.com,360.cn,adultwefong.com,aijiatxt.com,avmimi.com,iwatch365.com,meipian.cn,mm-cg.com,news.shangdu.com,qiqu888.com,sports.qq.com,suopao.org,ting56.com,xxsy.net,youxi.baidu.com,zgfznews.com###banner
+18avhub.com,18avtube.com,360.cn,adultwefong.com,avmimi.com,iwatch365.com,meipian.cn,mm-cg.com,news.shangdu.com,qiqu888.com,sports.qq.com,suopao.org,ting56.com,xxsy.net,youxi.baidu.com,zgfznews.com###banner
 iwan.baidu.com###banner-box
 iwan.baidu.com###banner-info
 baidu.com###bdyx_float_rb
