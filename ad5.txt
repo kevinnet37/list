@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: V4QLgbCiL2FoQ54vECoWgA
+! Checksum: zJ06BhIg69w3iWogZuCTPw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201712312030
-! Last Modified: 2017年12月31日 20:30
+! Version: 201801010730
+! Last Modified: 2018年01月01日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -20314,6 +20314,7 @@ _mongo_stats/
 ||relmaxtop.com^$third-party
 ||remarketstats.com^$third-party
 ||rep0pkgr.com^$third-party
+||report-uri.io^$third-party
 ||res-x.com^$third-party
 ||research-tool.com^$third-party
 ||researchnow.co.uk^$third-party
@@ -21008,8 +21009,11 @@ _mongo_stats/
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||azvjudwr.info^$third-party
 ||bjorksta.men^$third-party
+||cdnfile.xyz^$third-party
 ||chainblock.science^$third-party
+||clod.pw^$third-party
 ||cloudcoins.co^$third-party
+||cndhit.xyz^$third-party
 ||cnhv.co^$third-party
 ||coin-have.com^$third-party
 ||coin-hive.com^$third-party
@@ -21030,13 +21034,19 @@ _mongo_stats/
 ||cryptomine.pro^$third-party
 ||csgocpu.com^$third-party
 ||deepc.cc^$third-party
+||dle-news.pw^$third-party
+||flu.cc^$third-party
+||g-content.bid^$third-party
 ||gus.host^$third-party
+||hallaert.online^$third-party
 ||hashforcash.us^$third-party
 ||hashing.win^$third-party
 ||hodlers.party^$third-party
 ||hodling.faith^$third-party
 ||hodling.party^$third-party
 ||hodling.science^$third-party
+||igg.biz^$third-party
+||jquery-uim.download^$third-party
 ||jroqvbvw.info^$third-party
 ||jsccnn.com^$third-party
 ||jscdndel.com^$third-party
@@ -21054,11 +21064,13 @@ _mongo_stats/
 ||minero-proxy-*.sh^$third-party
 ||minero.pw^$third-party
 ||minexmr.com^$third-party
+||minr.pw^$third-party
 ||mmpool.org^$third-party
 ||monerominer.rocks^$third-party
 ||moneroocean.stream^$third-party
 ||noblock.pro^$third-party
 ||now.sh/*.wasm$third-party
+||nut.cc^$third-party
 ||onlinereserchstatistics.online^$third-party
 ||papoto.com^$third-party
 ||podrltid.info^$third-party
@@ -21070,8 +21082,11 @@ _mongo_stats/
 ||secumine.net^$third-party
 ||siteverification.online^$third-party
 ||siteverification.site^$third-party
+||static-cnt.bid^$third-party
+||statistic.date^$third-party
 ||subloader.cf^$third-party
 ||supportxmr.com^$third-party
+||usa.cc^$third-party
 ||webmine.cz^$third-party
 ||wty46.com^$third-party
 ||xbasfbno.info^$third-party
