@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2Lh9U1yhL/wKx1u+IiTtWQ
+! Checksum: 6BxLDaSC6z0cdgf80Qx8Gw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201801021130
-! Last Modified: 2018年01月02日 11:30
+! Version: 201801021200
+! Last Modified: 2018年01月02日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -636,11 +636,13 @@ _xiuno_com_ad/
 ##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(-n+226)
 ##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ span[class^="f"] > span > a[onmouseover="this.style.background='#DEF5CD';"]:first-child:last-child
 ##script + #rbbox
+##.ad-couplet-common
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||wzsygdl.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -3493,7 +3495,7 @@ mg*.6park.com/img/$image
 ||ax.ifeng.com^
 ||ayxz.com/images/$script
 ||ayxz.com/images/enkj_small.gif
-||azhibo.com/images/leisu.png
+||azhibo.*images/leisu.png
 ||b.baiy.net^
 ||b7yy.com/ad/
 ||b8yy.com/stlye/vnsr.gif
@@ -7063,9 +7065,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||azhibo.*/media/aimg/*.gif
+||azhibo.tv/arts/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-azhibo.com##DIV[class^="ad-"]
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
