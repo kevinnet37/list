@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CP4+gdE4Hhmiz25yyd9NpA
+! Checksum: fqefaMecSHwIP30bfk34/Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801021700
-! Last Modified: 2018年01月02日 17:00
+! Version: 201801021730
+! Last Modified: 2018年01月02日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -124,6 +124,7 @@ tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
+/640_120_javhd.jpg
 -1688-wp-media/ads/
 -880-80-4.jpg
 -HollandOne_GIF2.gif
@@ -756,6 +757,7 @@ _xiuno_com_ad/
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
 ||wzsygdl.com^
+||xwgbfrnppyoc.bid^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -7179,6 +7181,7 @@ mg*.6park.com/img/$image
 ||azhibo.*/media/aimg/*.gif
 ||azhibo.tv/arts/
 ||100.pncdn.cn^
+.bid^$domain=thisav.com
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -13026,8 +13029,8 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ||zxw51.com^$third-party
 ##.footer > #box[style="width:100%;height:100%;position:fixed;top:0"]
 ##a[href^="http://yunbofangbt."]
-|http:$script,third-party,xmlhttprequest,domain=alicili.pw|btdiggs.com|btlibrary.ws|cilidaquan.xyz|cnbtkitty.com|diggbt.fyi|savebt.org|storebt.biz|torrentkitty.uno|zhongzicili.me|zhongzifuli.pw
-|https:$script,third-party,xmlhttprequest,domain=alicili.pw|btdiggs.com|btlibrary.ws|cilidaquan.xyz|cnbtkitty.com|diggbt.fyi|savebt.org|storebt.biz|torrentkitty.uno|zhongzicili.me|zhongzifuli.pw
+|http:$script,third-party,xmlhttprequest,domain=alicili.pw|btdiggs.com|btlibrary.ws|cilidaquan.xyz|cnbtkitty.com|diggbt.fyi|diggbts.com|savebt.org|storebt.biz|torrentkitty.uno|zhongzicili.me|zhongzifuli.pw
+|https:$script,third-party,xmlhttprequest,domain=alicili.pw|btdiggs.com|btlibrary.ws|cilidaquan.xyz|cnbtkitty.com|diggbt.fyi|diggbts.com|savebt.org|storebt.biz|torrentkitty.uno|zhongzicili.me|zhongzifuli.pw
 ||mengchengbao.com^
 ||0377shujuhuifu.top^
 ||258ydh.com^
