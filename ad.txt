@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zxocxxAQ1dMbQ7WLIstlzw
+! Checksum: Kxaa/w+lKO9j4K42IlZATQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201801021200
-! Last Modified: 2018年01月02日 12:00
+! Version: 201801021300
+! Last Modified: 2018年01月02日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -3841,7 +3841,6 @@ mg*.6park.com/img/$image
 ||anqu.com/b.js
 ||anruan.com/images/1200x90.gif
 ||anywlan.com/link/*.gif
-||anywlan.com/link/ikuai.jpg
 ||anzhuotan.com/Runtime/js/bofangye.js
 ||aolusb.com/forever/
 ||api.bilibili.com/x/ad/
@@ -3872,7 +3871,6 @@ mg*.6park.com/img/$image
 ||aspjzy.com/jsweb/js/
 ||aspku.com/z/
 ||astrill.com/bnrs/
-||asxxg.cn/Public/config/Couplet/
 ||atiws.aipai.com^
 ||atm.youku.com^
 ||atool.org/res/ads/
@@ -7474,6 +7472,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||azhibo.*/media/aimg/*.gif
 ||azhibo.tv/arts/
+||100.pncdn.cn^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -9489,7 +9488,6 @@ aguitar.cn##.banner7
 jinhua.com.cn##.banner935
 80smp4.com,yaolan.com##.banner960
 iqiyi.com##.banner980
-a67.com##.banner990
 box.poco.cn##.banner994
 niutuku.com##.bannerAD
 afzhan.com##.bannerAdv
