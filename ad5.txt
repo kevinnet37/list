@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5CHf2hmRrl1Q+0Gz1v5TPw
+! Checksum: AMv/o8Qg6V4Uj9Q658SkQQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801031200
-! Last Modified: 2018年01月03日 12:00
+! Version: 201801031600
+! Last Modified: 2018年01月03日 16:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7183,6 +7183,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||bianzhirensheng.com/img/bianzhiji.jpg
+||eastday.com/mmad.
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -21006,8 +21007,16 @@ _mongo_stats/
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
 .cf^*.wasm$third-party
+.date^$third-party,websocket
+.faith^$third-party,websocket
+.men^$third-party,websocket
+.party^$third-party,websocket
+.rocks^$third-party,websocket
+.science^$third-party,websocket
 .site^$third-party,websocket
 .space^$third-party,websocket
+.stream^$third-party,websocket
+.xyz^$third-party,websocket
 /lib/cn.wasm$third-party
 /noblock.js
 ://api.*/lib/native.wasm$third-party
@@ -21032,6 +21041,7 @@ _mongo_stats/
 ||api.inwemo.com^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||azvjudwr.info^$third-party
+||baiduccdn1.com^$third-party
 ||bjorksta.men^$third-party
 ||cdnfile.xyz^$third-party
 ||chainblock.science^$third-party
@@ -21062,6 +21072,7 @@ _mongo_stats/
 ||dle-news.pw^$third-party
 ||flu.cc^$third-party
 ||g-content.bid^$third-party
+||goredirect.party^$third-party
 ||gus.host^$third-party
 ||hallaert.online^$third-party
 ||hashforcash.us^$third-party
@@ -21070,6 +21081,7 @@ _mongo_stats/
 ||hodling.faith^$third-party
 ||hodling.party^$third-party
 ||hodling.science^$third-party
+||host.d-ns.ga^$third-party
 ||igg.biz^$third-party
 ||jquery-uim.download^$third-party
 ||jroqvbvw.info^$third-party
@@ -21093,8 +21105,10 @@ _mongo_stats/
 ||mmpool.org^$third-party
 ||monerominer.rocks^$third-party
 ||moneroocean.stream^$third-party
+||nahnoji.cz^$third-party
 ||noblock.pro^$third-party
 ||now.sh/*.wasm$third-party
+||now.sh^$third-party,websocket
 ||nut.cc^$third-party
 ||onlinereserchstatistics.online^$third-party
 ||papoto.com^$third-party
