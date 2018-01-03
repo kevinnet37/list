@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AMv/o8Qg6V4Uj9Q658SkQQ
+! Checksum: 00FB1fN3tOG4wRtbXwGi5A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801031600
-! Last Modified: 2018年01月03日 16:00
+! Version: 201801031800
+! Last Modified: 2018年01月03日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -125,6 +125,7 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+/gg_details_
 -880-80-4.jpg
 -HollandOne_GIF2.gif
 .cc/js/ads/
@@ -15255,6 +15256,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .htm?imprId=
 .html?wpl=
 .idge/js/analytics/
+.iframetracker/
 .in/c.gif?
 .io/0.gif?
 .io/track?
@@ -16762,6 +16764,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /jquery.google-analytics.
 /jquery.trackstar.
 /jquery.unica.
+/JqueryEtracker.
 /js/analitycs_
 /js/analytics.
 /js/count.js.
@@ -21042,6 +21045,7 @@ _mongo_stats/
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||azvjudwr.info^$third-party
 ||baiduccdn1.com^$third-party
+||biberukalap.com^$third-party
 ||bjorksta.men^$third-party
 ||cdnfile.xyz^$third-party
 ||chainblock.science^$third-party
@@ -21073,6 +21077,7 @@ _mongo_stats/
 ||flu.cc^$third-party
 ||g-content.bid^$third-party
 ||goredirect.party^$third-party
+||gridiogrid.com^$third-party
 ||gus.host^$third-party
 ||hallaert.online^$third-party
 ||hashforcash.us^$third-party
@@ -23008,7 +23013,6 @@ _mongo_stats/
 ||log.olark.com^
 ||log.outbrain.com^
 ||log.pinterest.com^
-||log.prezi.com^
 ||log000.goo.ne.jp^$third-party
 ||log1.survey.io^
 ||logger.logidea.info^
