@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EOr+en2ncTC54BWjJtkohQ
+! Checksum: d1XNj9hm3sYN8SKrLD8TWg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201801031930
-! Last Modified: 2018年01月03日 19:30
+! Version: 201801041000
+! Last Modified: 2018年01月04日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -419,7 +419,6 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
-/gg_details_
 -880-80-4.jpg
 -HollandOne_GIF2.gif
 .cc/js/ads/
@@ -568,6 +567,7 @@ tieba.baidu.com##.tuijian-wrap
 /gg4.
 /gg5.
 /gg6.
+/gg_details_
 /ggao.
 /ggao/*
 /ggclass/*
@@ -1053,7 +1053,6 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
-||kh2134.com^ ;http://erwqw.kh2134.com/?uid=4317
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -2083,6 +2082,7 @@ ubmcmm.baidustatic.com
 ||kfluoa.com^
 ||kgcjgsa8.net^
 ||kguke.com^
+||kh2134.com^ ;http://erwqw.kh2134.com/?uid=4317
 ||khgj.cn^$third-party
 ||kicnse.com^
 ||kiees.com^$image,subdocument,third-party
@@ -2907,6 +2907,7 @@ ubmcmm.baidustatic.com
 ||yy18.info^*thanks$popup
 !----------------------Specific advert blocking filters-----------------------!
 .adsame.libaclub.com^
+.bd-film.*/r/cms/www/movie/js/cms-sidebar
 .bid^$domain=thisav.com
 .com/562723/$domain=banyungong.org
 .com/az.js$domain=btpkw.com|hrszyl.com|jiuzhiling.com|myt520.com|xtzgjx.com|zchot.com
@@ -4000,7 +4001,6 @@ mg*.6park.com/img/$image
 ||bcc.com.tw/imgs/adv/
 ||bccn.net/aab/
 ||bccnsoft.com/aab/
-.bd-film.*/r/cms/www/movie/js/cms-sidebar
 ||bdimg.com/brands/yxtg/source/juhe-v2.js
 ||bdimg.com/muzhi/adwap/top-banner.jpg
 ||bdimg.com/newmap/static/common/images/nav-ad_
@@ -4054,6 +4054,7 @@ mg*.6park.com/img/$image
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
 ||bian-min.com/javascript/a/detail.js
 ||bianzhirensheng.com/img/banner.jpg
+||bianzhirensheng.com/img/bianzhiji.jpg
 ||biaoge.tv/fa
 ||biketo.com/d/file/p/
 ||bilibili.com/x/web-show/res/loc?*&aid=
@@ -4670,6 +4671,7 @@ mg*.6park.com/img/$image
 ||eastday.com/assets/js/resources/detail/
 ||eastday.com/gg_channel.html
 ||eastday.com/k.js
+||eastday.com/mmad.
 ||eastmoney.com/js/headbiggg_
 ||eastmoney.com/js/news_fixed_
 ||eat-travel.com.tw^$third-party
@@ -7476,8 +7478,6 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||bianzhirensheng.com/img/bianzhiji.jpg
-||eastday.com/mmad.
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
