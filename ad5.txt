@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Mc6HK3vVsByxAB0KHzqu7A
+! Checksum: saq+HdFWRfAh2tKgFN+qUA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801042130
-! Last Modified: 2018年01月04日 21:30
+! Version: 201801042200
+! Last Modified: 2018年01月04日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -754,6 +754,7 @@ _xiuno_com_ad/
 ##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(-n+226)
 ##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ span[class^="f"] > span > a[onmouseover="this.style.background='#DEF5CD';"]:first-child:last-child
 ##script + #rbbox
+##.bdyp-sygg-ul
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
@@ -7187,6 +7188,7 @@ mg*.6park.com/img/$image
 ||mipengine.baidu.com/common?
 ||11kkzz.com/se/wf/
 ||xxsy.net/mxxsynet/hyxdxx.jpg
+||applinzi.com^$domain=soyunpan.com
 !------------------------Specific element hiding rules------------------------!
 xxsy.net##DIV[id^="tanx-s-mm_"]
 baidu.com##.tc-card[tpl="fc_before_fixads"]
@@ -9257,7 +9259,6 @@ cnscore.com##.bdbanner
 e23.cn##.bdggtb
 baidu.com##.bds-list-ads
 yesky.com##.bdtj
-baiduyunpan.com##.bdyp-sygg-ul
 pinshan.com##.bea_adv2
 smzdm.com##.beiwo
 muchong.com##.bg > .wrapper:nth-child(14) > .forum_Post_index
