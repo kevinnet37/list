@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zvR02TsNDnlvtsE04kl5bw
+! Checksum: 7iZCsBt0dacz2xHa1Ui4bg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201801041100
-! Last Modified: 2018年01月04日 11:00
+! Version: 201801041130
+! Last Modified: 2018年01月04日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7072,6 +7072,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||mipengine.baidu.com/common?
+||11kkzz.com/se/wf/
 !------------------------Specific element hiding rules------------------------!
 baidu.com##.tc-card[tpl="fc_before_fixads"]
 gpcxw.com###AA2
@@ -13918,6 +13919,7 @@ _300_250.
 ###appIn
 ###upprev_box
 ###appqrcode
+###bottomApp
 !-----------------------------Union&third-party-------------------------------!
 ||live800.com^$third-party
 ||meiqia.com^$third-party
@@ -14155,6 +14157,7 @@ _300_250.
 ||showguide.cn/templets/*/qqcenter.js
 ||showguide.cn/templets/*/sg-ad.js
 !------------------------Specific element hiding rules------------------------!
+yaofangwang.com##.bad
 crsky.com##A[href^="http://count."][href$=".exe"]
 aiyuke.com##.index_app_down_ad
 baidu.com##.rmb-growth-common-tpl-1-wrapper
@@ -14667,6 +14670,8 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||reportlog.dftoutiao.com^
+||stat.download.xunlei.com^
 ||mlog.aipai.com^
 ||mixer.sina.cn^
 ||bytecdn.cn/ta/resource/v0/analytics.js
