@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sbcmO5hcwCp0yVelKFkwQg
+! Checksum: M1X8hqxUSXlZttVOKQ2C0A
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201801042200
-! Last Modified: 2018年01月04日 22:00
+! Version: 201801042300
+! Last Modified: 2018年01月04日 23:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -3562,7 +3562,6 @@ mg*.6park.com/img/$image
 ||baidu.com^$subdocument,domain=dm5.com|dm5.hk
 ||baidu.com^*/interface/ad?
 ||baidud.cn/aoao/down_
-||baiduyunpan.com/images/201711011058787.jpg
 ||baiduyunpan.net/t/
 ||baifen.music.baidu.com^
 ||baihei.net/data/attachment/album/
@@ -6196,7 +6195,6 @@ mg*.6park.com/img/$image
 ||sinaimg.cn/large/828dc694gy1ficej1ib5yg20l402igod.gif
 ||sinaimg.cn/large/83e2e207jw1f98ya56rvkg208c08cwid.gif
 ||sinaimg.cn/large/8c8bd65d$domain=loldk.com
-||sinaimg.cn/large/afdba6bfjw1f6opvuolasg20qo02idns.gif
 ||sinaimg.cn/large/bf2d8b8dgw1f83avu4kexj207s03w3ym.jpg
 ||sinaimg.cn/large/d63ab74bjw1fb16iy59gmj20g402sq3x.jpg
 ||sinaimg.cn/large/d63ab74bly1fgyw685bojj20ok02sgow.jpg
@@ -7078,6 +7076,7 @@ mg*.6park.com/img/$image
 ||applinzi.com^$domain=soyunpan.com
 !------------------------Specific element hiding rules------------------------!
 xxsy.net##DIV[id^="tanx-s-mm_"]
+bilibili.com##.adpos
 baidu.com##.tc-card[tpl="fc_before_fixads"]
 jnnc.com###float_layer
 jnnc.com##.basehr + DIV
