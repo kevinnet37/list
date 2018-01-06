@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Hm0r6TwQNPGLucA29eEsJg
+! Checksum: 6dP3ewXe6onmBOkVPTotyw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201801062230
-! Last Modified: 2018年01月06日 22:30
+! Version: 201801062300
+! Last Modified: 2018年01月06日 23:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -72,7 +72,7 @@ xhamster.com##.sponsorBottom
 |http:$popup,domain=gaypornsexfree.net|gaybonegdage.com|openload.co|uploadrocket.net|mybtfiles.com|www.mirrorcreator.com
 |http:$script,domain=imagebam.com|imagevenue.com|playvid.com|4horlover.com
 |http:$subdocument,domain=imagebam.com|playvid.com|gaypornsexfree.net|gaybonegdage.com
-|http:$third-party,domain=92kkdy.com|biquge.tw|biqudao.com|bookbao8.com|lewenxsw.com|linkshrink.net|mybtfiles.com|piaov.com|ranwen.org|xqianqian.com|xxbiquge.com
+|http:$third-party,domain=92kkdy.com|biquge.tw|biqudao.com|bookbao8.com|lewenxsw.com|linkshrink.net|mybtfiles.com|piaov.com|ranwen.org|xqianqian.com|xxbiquge.com|m.biquge.tv
 |https:$third-party,domain=linkshrink.net
 @@|http:$image,domain=92kkdy.com|lewenxsw.com|xqianqian.com
 @@|http:$generichide,domain=nibblebit.com|www.aiwanba.net
@@ -298,6 +298,7 @@ youku.com###FullPromotion
 ! Youtube
 youtube.com###contents>ytd-search-pyv-renderer
 youtube.com###video-masthead
+youtube.com###masthead-ad
 m.youtube.com###koya_child_6
 !m.youtube.com##._menb>._mab:nth-child(1)
 ||youtube.com/get_video_info?*=adunit&
