@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bhJDpdH03/4hM5c1xkyx2A
+! Checksum: H+GnEHmP5FcoTqKU2S/NoA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201801061900
-! Last Modified: 2018年01月06日 19:00
+! Version: 201801061930
+! Last Modified: 2018年01月06日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -2451,7 +2451,6 @@ ubmcmm.baidustatic.com
 ||133gp.com^$popup
 ||189.cn/actpush/$popup,third-party
 ||2345.com^$popup,domain=aibibi.top
-||300.bilibilijj.com^$popup
 ||35.188.14.213^$popup
 ||76fengyun.com/vip.php$popup
 ||9100300.com^$popup
@@ -2491,7 +2490,7 @@ ubmcmm.baidustatic.com
 ||qx568.com^$popup
 ||sohu.com/i/?pvid=$popup
 ||son999.com^$popup,third-party
-||taobao.com^$popup,domain=bilibilijj.com|gaoqingkong.com|iqiyi.com
+||taobao.com^$popup,domain=gaoqingkong.com|iqiyi.com
 ||tmall.com^$popup,domain=iqiyi.com
 ||todayapp.tv^$popup,third-party
 ||u26u.com^$popup,third-party
@@ -3662,7 +3661,6 @@ mg*.6park.com/img/$image
 ||bilibili.com/x/web-show/res/locs?*&pf=0&ids=124%
 ||bilibili.com/x/web-show/res/locs?*&pf=0&ids=4
 ||bilibili.com/x/web-show/res/locs?*=getAdCallback&
-||bilibilijj.com/Squall/
 ||binhuo.com/bhjs/
 ||bio-equip.com/dimg/
 ||bio-equip.com/dimgs/
@@ -7086,8 +7084,10 @@ mg*.6park.com/img/$image
 ||fbcinema.com/wp-content/uploads/2017/12/138bet
 ||wp.com/fbcinema.com/wp-content/uploads/20*?w=640
 ||u9yy.com/js/js/
+||jijistatic.duapp.com/Squall/1.jpg
 !------------------------Specific element hiding rules------------------------!
 sonimei.cn##.style01
+jijidown.com##[-abp-properties='data:*cursor: pointer;']
 sonimei.cn##.style03
 gpcxw.com###AA2
 sonimei.cn###leftDiv
@@ -8553,8 +8553,6 @@ qiqu888.com##.Axing_add_Page2
 le.com,letv.com##.Banner
 china.com.cn##.Banner_left
 china.com.cn##.Banner_right
-bilibilijj.com##.Box > div > div > div > :first-child
-bilibilijj.com##.Box > script + div[class]:not([style])
 18avhub.com,18avtube.com,mm-cg.com##.CN_qmvtoy
 ifeng.com##.ColBLAvt
 ifeng.com##.ColBRAvt
@@ -11013,13 +11011,11 @@ v7v3.com##.zzsl
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##:not(.tbui_slideshow_slide) > div[data-daid]
-www.bilibilijj.com,www.jiji.party,www.jijidown.com##:not(form):not(textarea):not(br):not(canvas):not(html):not(body):not(div):not(img):not(input):not(a):not(span):not(iframe):not(ul):not(li):not(.BGZZ)
 yb983.com##A[href*="/ClickAd"]
 tingvoa.com##A[href*="/ClickAd?"]
 loldk.com##A[href*="?ADTAG="]
 instrument.com.cn##A[href^="http://image.instrument.com.cn/ad/adweb/AdCount/"]
 3g.cn##A[id^="randomAd_"]
-bilibilijj.com##[class$="_Game"]
 tiexue.net##[class*="junph"]
 gamme.com.tw##[class^="sidead_"]
 sina.cn##[data-href*="://sax"]
@@ -11033,14 +11029,9 @@ e0575.cn##[id^="ads_c_"]
 ifeng.com##[id^="cl"]
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##[id^="spreadad_"]
 sinolub.com##[id^="xker"]
-bilibilijj.com##[onclick*=".taobao."]
-bilibilijj.com##[style*=" background-size: 100%"]
-bilibilijj.com##[style*="background-image:"]:not(.UserInfo)
 dilidili.wang##[style*="fixed"]
-bilibilijj.com##[style="height:100%;"]
 acgnx.se##a > img[src^="/images/"]
 1haza.com##a > img[src^="/template/1haza/images/"]
-bilibilijj.com##a > img[style*="data"]
 tieba.baidu.com,wapp.baidu.com##a.fixed_bar
 maiche.com##a.some-img
 chexun.com##a[attr-outside-ad]
@@ -11113,7 +11104,6 @@ ccav1.com##a[href*="meidebi."]
 jd.com,~wan.jd.com##a[href*="wan.jd.com/"]
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##a[href*="www.clinique."]
 zdfans.com##a[href*="zdzdm."]
-bilibilijj.com##a[href="##"]
 7xtiyu.com##a[href="/bc/xinli.html"]
 bilibili.com##a[href="/video/av8587236/?tg"]
 gaoqingkong.com##a[href="go?mm"]
@@ -11217,7 +11207,6 @@ gamersky.com##a[style*="display:inline-block;"][style*="z-index:1;"]
 acg12.com##a[style*="relative"]
 btago.com##a[style="width:610px;height:80px;display:block;margin:5px 0"]
 houdao.com##a[style^="background:url"]
-bilibilijj.com##a[style^="height"][href="#"]
 html-js.com##a[style^="margin-top:20px;"]
 youtubeto.com##a[style^="position: fixed; top: 0px; left: 0px; width:"]
 muchong.com##a[target="_blank"][style="display: inherit!important;"]
@@ -11279,8 +11268,6 @@ iciba.com##div[class="ad_list"]
 ifeng.com##div[class="adbox02"]
 ithome.com.tw##div[class="span4"]
 tieba.baidu.com##div[class][lgoinprompt="prompt"]
-bilibilijj.com##div[class][style$=" margin-top 1.5s cubic-bezier(0.2,0.2,0,1);height:100%;"]
-bilibilijj.com##div[class][style^="height:100%"]
 cyol.com##div[class^="AD"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[class^="EC_pla_"]
 ali213.net##div[class^="GG"]
@@ -11461,7 +11448,6 @@ u17.com##div[id^="u17-advert"]
 lnd.com.cn##div[id^="wflash"]
 eyuyao.com##div[id^="x_ad_"]
 ebiotrade.com##div[id^=adA]
-bilibilijj.com##div[onclick$="]);"]
 muchong.com##div[onclick^="location.href='http://muchong.com/bbs/a"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[srcid="13602"] > .c-border
 tuwan.com##div[style$="height:90px;"]
@@ -11512,7 +11498,6 @@ sinoca.com##div[style="float:right;height:280px;width:336px;clear:left;backgroun
 ckdzb.com##div[style="float:right;margin:10px 10px;clear:right;height:310px;width:336px;"]
 m.wallstreetcn.com##div[style="height: 130px;"]
 ting89.com,tingshuge.com##div[style="height: 280px"]
-bilibilijj.com##div[style="height: 462px;"]
 360doc.com##div[style="height: 90px; padding-top: 13px;"]
 huabian.com##div[style="height:250px;"]
 sj33.cn##div[style="height:250px;padding:10px 0 20px 0;"]
@@ -11556,10 +11541,9 @@ subhd.com##div[style="text-align:center;height:270px;padding:10px 0;"]
 buzzhand.com##div[style="text-align:left;margin-top:0px;height:600px;"]
 v2ex.com##div[style="width: 240px; margin: 0px auto 0px auto; text-align: left;"]
 eastmoney.com##div[style="width: 300px; height: 250px; margin-top: 10px;"]
-bilibilijj.com,jiji.party,jijidown.com##div[style="width: 500px;"]:last-child
-jiji.party,jijidown.com##div[style="width: 525px;"]:last-child
+jijidown.com##div[style="width: 500px;"]:last-child
+jijidown.com##div[style="width: 525px;"]:last-child
 pixnet.net##div[style="width: 620px; height: 250px; padding-bottom: 10px;"]
-bilibilijj.com##div[style="width: 676px;"]:last-child
 shmet.com##div[style="width:1000px; height:90px; margin:10px auto;"]
 mnw.cn##div[style="width:1000px;height:140px;margin: 0px auto 5px;"]
 jq-school.com##div[style="width:1060px; height:auto; margin:0 auto;overflow:hidden;"]
@@ -12097,8 +12081,6 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||bdstatic.com/??*,*,*,
 @@||bdstatic.com/static/common/widget/ui/admanager/
 @@||beyondsoft.com/dataservice/img/ad_
-@@||bilibilijj.com/APIword/$elemhide
-@@||bilibilijj.com/old$elemhide
 @@||bing.com/translator/api/Translate/TranslateArray?$third-party,xmlhttprequest
 @@||bingfeng.tw^$generichide
 @@||briian.com/advert.
@@ -12232,7 +12214,6 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||ja.gamersky.com/common/down_info.js
 @@||jd.com/adclick?$popup,~third-party
 @@||jdfood.com.tw/Upload/ADImages/*Image.jpg
-@@||jijidown.com/chrome/$elemhide
 @@||jinhongweiqi.com/ad/update/
 @@||jj.5ccc.net/scripts/new/pagetop.js
 @@||jjjgame.com/plus/ad_
