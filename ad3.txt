@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pp6O2BuvpqmCVCChfDl5Jg
+! Checksum: HY9yQgYjRuKEqQGiHMRXGA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201801081230
-! Last Modified: 2018年01月08日 12:30
+! Version: 201801081300
+! Last Modified: 2018年01月08日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7086,6 +7086,9 @@ mg*.6park.com/img/$image
 ||suning.com/getCpcDatas?
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+jd.com##.ab-goods
+jd.com##.gl-i-wrap A[href*=".jd.com/dsp/"]
+jd.com##.gl-i-wrap IMG[data-url*=".jd.com/dsp/"]
 taobao.com#?#.item-ad
 taobao.com###J_shopkeeper
 taobao.com###J_shopkeeper_bottom
@@ -13465,6 +13468,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
 ! EasyList Lite
+##.item-ad
 /adkingpro-
 /adkingpro/*
 /adpic.
@@ -14133,7 +14137,6 @@ _300_250.
 ||21sq.org/js/downloadbanner.js
 ||dwstatic.com^*/newsPopup/
 ||kaoyan.com/school/js/yz.school.packed.js
-||sinaimg.cn^$domain=678pan.com
 ||webservice.360doc.com^
 ||hjfile.cn/lib/uzhi/uzt.
 ||hjfile.cn/lib/hui/footer/0.1.0/footer.js
@@ -14176,7 +14179,11 @@ _300_250.
 ||douyu.com/dygev/*.swf
 ||showguide.cn/templets/*/qqcenter.js
 ||showguide.cn/templets/*/sg-ad.js
+||hanjutv.com/public/js/layer/layer.js
 !------------------------Specific element hiding rules------------------------!
+tmall.com##.mui-mbarp-qrcode
+suning.com###sn-sidebar-change-code
+hanjutv.com##.ggw_fr
 zimuzu.tv##.key-result > LI > A[href*=".taobao.com"]
 yaofangwang.com##.bad
 crsky.com##A[href^="http://count."][href$=".exe"]
