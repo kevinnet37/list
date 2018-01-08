@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3GPDfghDJe/8YUIK3d24qg
+! Checksum: R1cGrYGrmH0eOW9aXA1Qwg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801081600
-! Last Modified: 2018年01月08日 16:00
+! Version: 201801081630
+! Last Modified: 2018年01月08日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18749,6 +18749,7 @@ http://utm.$domain=~utm.md|~utoronto.ca
 /cryptonight-worker.js
 /cryptonight.wasm
 /deepMiner.js
+/hash.wasm$script,websocket
 /jsecoin.*/?
 /lhnhelpouttab-current.min.js
 /miner-ui.js
@@ -21136,6 +21137,7 @@ _mongo_stats/
 ||lmodr.biz^$third-party
 ||mataharirama.xyz^$third-party
 ||megabanners.cf^$third-party
+||mine.nahnoji.cz^
 ||mine.torrent.pw^$third-party
 ||minecrunch.co^$third-party
 ||minemytraffic.com^$third-party
@@ -21147,6 +21149,7 @@ _mongo_stats/
 ||mmpool.org^$third-party
 ||monerominer.rocks^$third-party
 ||moneroocean.stream^$third-party
+||morningdigit.com^$third-party
 ||nahnoji.cz^$third-party
 ||noblock.pro^$third-party
 ||now.sh/*.wasm$third-party
