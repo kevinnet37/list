@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: R1cGrYGrmH0eOW9aXA1Qwg
+! Checksum: I8CquWMtR9DCRc4CEjr93w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801081630
-! Last Modified: 2018年01月08日 16:30
+! Version: 201801081700
+! Last Modified: 2018年01月08日 17:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7198,6 +7198,7 @@ mg*.6park.com/img/$image
 ||suning.com/cpc/getCpcSearchDatasRev?
 ||suning.com/getCpcDatas?
 ||ifengimg.com/edsd
+||gome.com.cn/flight?
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 jd.com##.ab-goods
@@ -18750,6 +18751,7 @@ http://utm.$domain=~utm.md|~utoronto.ca
 /cryptonight.wasm
 /deepMiner.js
 /hash.wasm$script,websocket
+/inject.js?key=$script
 /jsecoin.*/?
 /lhnhelpouttab-current.min.js
 /miner-ui.js
@@ -21048,8 +21050,10 @@ _mongo_stats/
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
 .cf^*.wasm$third-party
+.club^$third-party,websocket
 .date^$third-party,websocket
 .faith^$third-party,websocket
+.me^$third-party,websocket
 .men^$third-party,websocket
 .party^$third-party,websocket
 .rocks^$third-party,websocket
@@ -21073,6 +21077,7 @@ _mongo_stats/
 ||3c0cb3b4.space^$third-party
 ||3d0cb547.space^$third-party
 ||77.162.125.199^$third-party
+||abc.pema.cl^third-party
 ||ad-miner.com^$third-party
 ||adminer.com^$third-party
 ||afminer.com^$third-party
@@ -21161,6 +21166,7 @@ _mongo_stats/
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
 ||reasedoper.pw^$third-party
+||reservedoffers.club^$third-party
 ||rocks.io^$third-party
 ||sbhmn-miner.com^$third-party
 ||secumine.net^$third-party
@@ -21172,6 +21178,7 @@ _mongo_stats/
 ||supportxmr.com^$third-party
 ||usa.cc^$third-party
 ||webmine.cz^$third-party
+||wsp.marketgid.com^$third-party
 ||wty46.com^$third-party
 ||xbasfbno.info^$third-party
 ||ywtjdckysve.com^$third-party
