@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PO12w49JygXo42R7QVvk1g
+! Checksum: 00ZetzBSYusPNHi5P6MHzA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201801101300
-! Last Modified: 2018年01月10日 13:00
+! Version: 201801101800
+! Last Modified: 2018年01月10日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -73,11 +73,12 @@ xhamster.com##.sponsorBottom
 |http:$popup,domain=gaypornsexfree.net|gaybonegdage.com|openload.co|uploadrocket.net|mybtfiles.com|www.mirrorcreator.com
 |http:$script,domain=imagebam.com|imagevenue.com|playvid.com|4horlover.com
 |http:$subdocument,domain=imagebam.com|playvid.com|gaypornsexfree.net|gaybonegdage.com
-|http:$third-party,domain=92kkdy.com|biquge.tw|biqudao.com|bookbao8.com|lewenxsw.com|linkshrink.net|mybtfiles.com|piaov.com|ranwen.org|xqianqian.com|xxbiquge.com|m.biquge.tv
+|http:$third-party,domain=92kkdy.com|biquge.tw|biqudao.com|bookbao8.com|lewenxsw.com|linkshrink.net|m.biquge.tv|mybtfiles.com|piaov.com|ranwen.org|xhxswz.com|xqianqian.com|xxbiquge.com
 |https:$third-party,domain=linkshrink.net
 @@|http:$image,domain=92kkdy.com|lewenxsw.com|xqianqian.com
 @@|http:$generichide,domain=nibblebit.com|www.aiwanba.net
 @@||apis.google.com^
+@@||cdn.bootcss.com^
 @@||googleapis.com^
 @@||libs.baidu.com^$domain=biquge.tw|biqudao.com|ranwen.org
 @@?url=$domain=92kkdy.com
