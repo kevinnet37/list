@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: s+BuD3nGq+OJYuqlL0ijtA
+! Checksum: tDaGx1uQ5bwoAxUb4myZTw
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201801091030
-! Last Modified: 2018年01月09日 10:30
+! Version: 201801101000
+! Last Modified: 2018年01月10日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -328,6 +328,7 @@ baidu.com##.afd-item
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
 fanyi.baidu.com##.appbanner
 wenku.baidu.com##.area[href*="/adclick?aid="]
+zhidao.baidu.com##.aside-inner > div[style*="height:"]
 jingyan.baidu.com##.aside-pro-container
 iwan.baidu.com##.banner-container
 baidu.com##.banner-cover
@@ -497,7 +498,6 @@ zhidao.baidu.com##.wgt-bottom-ask
 zhidao.baidu.com##.wgt-bottom-union
 muzhi.baidu.com##.wgt-container
 zhidao.baidu.com##.wgt-union
-zhidao.baidu.com##.aside-inner > DIV[style*="height:"]
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.worldcup_info_banner_dialog
 image.baidu.com##.wrapper_dot_box.dot_black
 wenku.baidu.com##.wubai-wrap
