@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tdbv/SSTGF015v/ylWajKA
+! Checksum: AzGaIY3cA40EuIUhkmyWEg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201801111830
-! Last Modified: 2018年01月11日 18:30
+! Version: 201801112130
+! Last Modified: 2018年01月11日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7080,6 +7080,7 @@ mg*.6park.com/img/$image
 ||bx0635.com/tx/hnr.gif
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+acg.tf###custom_html-6
 bitauto.com##.special-section3 > .row > INS[data-type="ad_play"]
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -12972,6 +12973,10 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
 ||taobao.com^$popup,domain=dlkoo.com
+dnvod.tv##[data-code] > [target="_blank"]
+dnvod.tv#?#[data-code] > [target="_blank"]
+dnvod.tv##[data-code] > :not(object)
+dnvod.tv#?#[data-code] > :not(object)
 /\.dnvod.tv\/upload\/video\/\d+\./$domain=dnvod.tv
 /\.dnvod\.tv\/(?!(listprovider/ajaxlist.async.ashx|ActionProvider))/$match-case,~third-party,xmlhttprequest
 @@||dnvod.tv/Movie/Play.aspx?id=$genericblock
