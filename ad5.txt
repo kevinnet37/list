@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lp6UozP5Y9NlB5swWOzMaQ
+! Checksum: L3F1w1wKhCRx4bhjqrktuQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801132200
-! Last Modified: 2018年01月13日 22:00
+! Version: 201801140730
+! Last Modified: 2018年01月14日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21094,6 +21094,7 @@ _mongo_stats/
 ||zqtk.net^$third-party
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
+.bid^$third-party,websocket
 .cf^*.wasm$third-party
 .club^$third-party,websocket
 .date^$third-party,websocket
@@ -21106,6 +21107,7 @@ _mongo_stats/
 .space^$third-party,websocket
 .stream^$third-party,websocket
 .xyz^$third-party,websocket
+/helper.wasm$third-party
 /lib/cn.wasm$third-party
 /noblock.js
 ://api.*/lib/native.wasm$third-party
@@ -21129,12 +21131,14 @@ _mongo_stats/
 ||alemoney.xyz^$third-party
 ||altpool.pro^$third-party
 ||api.inwemo.com^$third-party
+||aqqgli3vle.bid^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||azvjudwr.info^$third-party
 ||bablace.com^$third-party
 ||baiduccdn1.com^$third-party
 ||biberukalap.com^$third-party
 ||bjorksta.men^$third-party
+||c0i8h8ac7e.bid^$third-party
 ||cdnfile.xyz^$third-party
 ||chainblock.science^$third-party
 ||clod.pw^$third-party
@@ -21162,6 +21166,8 @@ _mongo_stats/
 ||csgocpu.com^$third-party
 ||deepc.cc^$third-party
 ||dle-news.pw^$third-party
+||dovinate.top^$third-party
+||fge9vbrzwt.bid^$third-party
 ||flu.cc^$third-party
 ||g-content.bid^$third-party
 ||goredirect.party^$third-party
@@ -21202,8 +21208,6 @@ _mongo_stats/
 ||morningdigit.com^$third-party
 ||nahnoji.cz^$third-party
 ||noblock.pro^$third-party
-||now.sh/*.wasm$third-party
-||now.sh^$third-party,websocket
 ||nut.cc^$third-party
 ||onlinereserchstatistics.online^$third-party
 ||papoto.com^$third-party
@@ -21223,6 +21227,7 @@ _mongo_stats/
 ||subloader.cf^$third-party
 ||supportxmr.com^$third-party
 ||usa.cc^$third-party
+||vcfs6ip5h6.bid^$third-party
 ||webmine.cz^$third-party
 ||wsp.marketgid.com^$third-party
 ||wty46.com^$third-party
