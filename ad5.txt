@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 971G58z9Of2pKlzW/ycFlg
+! Checksum: 4zhLnaqWm4udEaP68EKmQQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801131730
-! Last Modified: 2018年01月13日 17:30
+! Version: 201801131800
+! Last Modified: 2018年01月13日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -12030,7 +12030,7 @@ chinatimes.com#@#.page_ad
 fjsen.com,nuomi.com#@#.right-ad
 perfectmatch.tw#@#.right_ad
 360zhibo.com#@#.rightad
-andylain.blogspot.com#@#.vertical-ads
+blogspot.com,blogspot.tw,blogspot.hk,blogspot.jp#@#.vertical-ads
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 gamer.com.tw#@#a[href^="http://bs.serving-sys.com/"]
 gamer.com.tw#@#a[href^="https://ad.doubleclick.net/"]
@@ -14371,8 +14371,7 @@ eastmoney.com##DIV[id^="em_important_"]
 qyer.com###zpui-head-ad
 sohu.com###apkBanner
 zhihu.com##.AdblockBanner
-zhihu.com##.Card[data-za-module="ContentList"]
-zhihu.com##.Card[data-za-detail-view-path-module="ContentList"]
+zhihu.com##.Sticky > .Card[data-za-detail-view-path-module="ContentList"]
 tw.yahoo.com###abu-live
 yahoo.com##.wrapper-border > .Pos\(r\) > .VideoPlayer.D\(b\).Pos\(r\)
 csdn.net##.padb0
