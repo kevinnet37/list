@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ikuqeKpJSXpJNuLgj7fR1w
+! Checksum: BnVt9eF36Hn092VZhUJAzw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801131100
-! Last Modified: 2018年01月13日 11:00
+! Version: 201801131130
+! Last Modified: 2018年01月13日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5111,7 +5111,6 @@ mg*.6park.com/img/$image
 ||imgur.com/4SbDoav.jpg
 ||imgur.com/df53F09.jpg
 ||imgur.com/hkYNDSj.gif
-||imgur.com/qHtXzOk.jpg
 ||imgur.com^$domain=9dog.pw|hdarea.co|moe-acg.cc|wgun.net
 ||imgur.com^*.gif$domain=18p2p.com
 ||imooc.com/open/courselistrandjs
@@ -11303,7 +11302,6 @@ finance.sina.com.cn##a[href^="http://sax.sina.com.cn/click?"]
 ydt.com.cn##a[href^="http://static.ydt.com.cn/my/u.php?"]
 mop.com##a[href^="http://trackx.mop.com/"]
 9tour.cn##a[href^="http://union.zhuna.cn/"]
-loveplay123.blogspot.com##a[href^="http://vbtrax.com/track/"]
 kankan.com##a[href^="http://vip.kankan.com/topics/finance/"]
 qq.com##a[href^="http://www.10100000.com/"]
 zhanqi.tv##a[href^="http://www.2133."]
@@ -12211,8 +12209,6 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||atm.youku.com/cast/getFlvUrl.
 @@||autohome.com.cn/adfront/deliver?*%*%*%*%*%*%*%*&pageid=
 @@||av30.xyz/cs/2.js
-@@||avmo.pw^$generichide
-@@||avso.pw^$generichide
 @@||bahamut.com.tw/JS/ad/mobileBigBanner.js
 @@||baidustatic.com^$domain=xoyo.com
 @@||banma.com/statics/js/??
