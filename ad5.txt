@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kxaQLxJaBbe7+AG3IzL1HA
+! Checksum: uioYBqY9bdSRhkEVmo7ggw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801141600
-! Last Modified: 2018年01月14日 16:00
+! Version: 201801141830
+! Last Modified: 2018年01月14日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21111,8 +21111,11 @@ _mongo_stats/
 .site^$third-party,websocket
 .space^$third-party,websocket
 .stream^$third-party,websocket
+.trade^$third-party,websocket
+.webcam^$third-party,websocket
 .win^$third-party,websocket
 .xyz^$third-party,websocket
+/bootstrap.wasm$third-party
 /cn.wasm$third-party
 /helper.wasm$third-party
 /lib/cn.wasm$third-party
@@ -21234,11 +21237,13 @@ _mongo_stats/
 ||secumine.net^$third-party
 ||siteverification.online^$third-party
 ||siteverification.site^$third-party
+||smectapop12.pl^$third-party
 ||sparnove.com^$third-party
 ||static-cnt.bid^$third-party
 ||statistic.date^$third-party
 ||subloader.cf^$third-party
 ||supportxmr.com^$third-party
+||ue696vbd9l.bid^$third-party
 ||usa.cc^$third-party
 ||vcfs6ip5h6.bid^$third-party
 ||webassembly.stream^$third-party
