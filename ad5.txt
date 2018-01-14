@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: L3F1w1wKhCRx4bhjqrktuQ
+! Checksum: Pc7ja0vAcqmW8ydtVlayBg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801140730
-! Last Modified: 2018年01月14日 07:30
+! Version: 201801140800
+! Last Modified: 2018年01月14日 08:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21095,23 +21095,29 @@ _mongo_stats/
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
 .bid^$third-party,websocket
-.cf^*.wasm$third-party
+.cf^$third-party,websocket
 .club^$third-party,websocket
 .date^$third-party,websocket
 .faith^$third-party,websocket
+.fun^$third-party,websocket
+.ga^$third-party,websocket
 .men^$third-party,websocket
+.ml^$third-party,websocket
 .party^$third-party,websocket
 .rocks^$third-party,websocket
 .science^$third-party,websocket
 .site^$third-party,websocket
 .space^$third-party,websocket
 .stream^$third-party,websocket
+.win^$third-party,websocket
 .xyz^$third-party,websocket
+/cn.wasm$third-party
 /helper.wasm$third-party
 /lib/cn.wasm$third-party
 /noblock.js
 ://api.*/lib/native.wasm$third-party
 ||1beb2a44.space^$third-party
+||1q2w3.fun^$third-party
 ||1q2w3.me^$third-party
 ||300ca0d0.space^$third-party
 ||310ca263.space^$third-party
@@ -21136,6 +21142,7 @@ _mongo_stats/
 ||azvjudwr.info^$third-party
 ||bablace.com^$third-party
 ||baiduccdn1.com^$third-party
+||befirstcdn.com^$third-party
 ||biberukalap.com^$third-party
 ||bjorksta.men^$third-party
 ||c0i8h8ac7e.bid^$third-party
@@ -21176,6 +21183,7 @@ _mongo_stats/
 ||hallaert.online^$third-party
 ||hashforcash.us^$third-party
 ||hashing.win^$third-party
+||hemnes.win^$third-party
 ||hodlers.party^$third-party
 ||hodling.faith^$third-party
 ||hodling.party^$third-party
@@ -21189,10 +21197,12 @@ _mongo_stats/
 ||jsecoin.com^$third-party
 ||jyhfuqoh.info^$third-party
 ||kdowqlpt.info^$third-party
+||kinoprofi.org^$third-party
 ||listat.biz^$third-party
 ||lmodr.biz^$third-party
 ||mataharirama.xyz^$third-party
 ||megabanners.cf^$third-party
+||mercy.ga^$third-party
 ||mine.nahnoji.cz^
 ||mine.torrent.pw^$third-party
 ||minecrunch.co^$third-party
@@ -21209,6 +21219,7 @@ _mongo_stats/
 ||nahnoji.cz^$third-party
 ||noblock.pro^$third-party
 ||nut.cc^$third-party
+||okeyletsgo.ml^$third-party
 ||onlinereserchstatistics.online^$third-party
 ||papoto.com^$third-party
 ||podrltid.info^$third-party
@@ -21228,6 +21239,7 @@ _mongo_stats/
 ||supportxmr.com^$third-party
 ||usa.cc^$third-party
 ||vcfs6ip5h6.bid^$third-party
+||webassembly.stream^$third-party
 ||webmine.cz^$third-party
 ||wsp.marketgid.com^$third-party
 ||wty46.com^$third-party
