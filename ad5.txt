@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uioYBqY9bdSRhkEVmo7ggw
+! Checksum: MDCS54otcE4/Y6rqsN0++A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801141830
-! Last Modified: 2018年01月14日 18:30
+! Version: 201801141900
+! Last Modified: 2018年01月14日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21095,10 +21095,13 @@ _mongo_stats/
 ||zqtk.net^$third-party
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
+.accountant^$third-party,websocket
 .bid^$third-party,websocket
 .cf^$third-party,websocket
 .club^$third-party,websocket
+.cricket^$third-party,websocket
 .date^$third-party,websocket
+.download^$third-party,websocket
 .faith^$third-party,websocket
 .fun^$third-party,websocket
 .ga^$third-party,websocket
@@ -21106,6 +21109,8 @@ _mongo_stats/
 .ml^$third-party,websocket
 .party^$third-party,websocket
 .pro^$third-party,websocket
+.racing^$third-party,websocket
+.review^$third-party,websocket
 .rocks^$third-party,websocket
 .science^$third-party,websocket
 .site^$third-party,websocket
@@ -21148,6 +21153,7 @@ _mongo_stats/
 ||bablace.com^$third-party
 ||baiduccdn1.com^$third-party
 ||befirstcdn.com^$third-party
+||berserkpl.net.pl^$websocket
 ||biberukalap.com^$third-party
 ||bjorksta.men^$third-party
 ||c0i8h8ac7e.bid^$third-party
