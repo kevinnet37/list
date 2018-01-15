@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aF+aLAVgQiBD6V6ArUgR5Q
+! Checksum: htwvNSrN3UL8+MpJPKi29Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801151930
-! Last Modified: 2018年01月15日 19:30
+! Version: 201801152000
+! Last Modified: 2018年01月15日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18951,6 +18951,7 @@ _mongo_stats/
 ||adku.co^$third-party
 ||adku.com^$third-party
 ||admantx.com^$third-party
+||admaster.com.cn^$third-party
 ||admitad.com^$third-party
 ||admother.com^$third-party
 ||adobedtm.com^$third-party
@@ -19221,6 +19222,7 @@ _mongo_stats/
 ||cccpmo.com^$third-party
 ||ccgateway.net^$third-party
 ||cdnanalytics.xyz^$third-party
+||cdnmaster.com^$third-party
 ||cdntrf.com^$third-party
 ||cedexis.com^$third-party
 ||cedexis.net^$third-party
@@ -21680,7 +21682,6 @@ _mongo_stats/
 ||99click.com^$third-party
 ||acs86.com^$third-party
 ||ad7.com^$third-party
-||admaster.com.cn^$third-party
 ||adskom.com^$third-party
 ||adxvip.com^$third-party
 ||appier.net^$third-party
@@ -23181,6 +23182,7 @@ _mongo_stats/
 ||mail.ru/grstat?
 ||mail.ru/k?
 ||mailmax.co.nz/login/open.php$third-party
+||makantime.tv/analytics.js
 ||mandrillapp.com/track/
 ||mangomolo.com/tracking/
 ||mansion.com/mts.tracker.js
