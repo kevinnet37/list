@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tJCD9eOyCopuvKt4t0UsqA
+! Checksum: 2iES4mvQXFT3qJ9NkJuH0w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801150800
-! Last Modified: 2018年01月15日 08:00
+! Version: 201801151000
+! Last Modified: 2018年01月15日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -3445,7 +3445,6 @@ mg*.6park.com/img/$image
 ||ad-img.diyidan.net^
 ||ad-resource.huanqiu.com^
 ||ad.12306.cn/res/*.html
-||ad.bjmama.net^
 ||ad.walkgame.com^
 ||adadmin.house365.com^
 ||adbox.sina.com.cn^
@@ -3801,7 +3800,6 @@ mg*.6park.com/img/$image
 ||biz37.net^*.swf?uid=
 ||bjcathay.com/s?z=
 ||bjmama.net/a/spc_
-||bjmama.net/s/
 ||bjmxw.net/bd/
 ||bjxxw.com/tpIndex/?s=/home/index/ads/
 ||bkill.com/css/js/abcbl.js
@@ -3879,7 +3877,6 @@ mg*.6park.com/img/$image
 ||business.92wy.com^
 ||buy.sina.com.tw/js/sina_popup.php
 ||buyhouse.yam.com/plugin/newsplugin.php
-||buytong.cn/images/*%*.swf
 ||buzzhand.com/images/$subdocument
 ||bx0635.com/downimg/2000.gif
 ||bx0635.com/downimg/ban.gif
@@ -3887,13 +3884,6 @@ mg*.6park.com/img/$image
 ||bx0635.com/tx/vip.gif
 ||bxwns.com/blz/
 ||bxwns.com/player/ad.html
-||bxwx9.org/1.js
-||bxwx9.org/banner
-||bxwx9.org/caipiao.js
-||bxwx9.org/js/$subdocument
-||bxwx9.org/js/box_
-||bxwx9.org/myabc/
-||bxwxtxt.com/a/bxwx/indextan.js
 ||by8974.com^
 ||bytravel.cn/images/cus/
 ||bytravel.cn/images/t/usa_250_120.gif
@@ -3979,7 +3969,6 @@ mg*.6park.com/img/$image
 ||chengdu.cn/acts/phoneqss/openCornerWin/
 ||chengruide.com/ad_js/
 ||chengtu.com/api.php?mod=ad&adid=
-||chengtu.com/data/attachment/forum/201301/29/250minbanner.gif
 ||chewen.com/pics/2013/09/13/02013091317191365.jpg
 ||chexun.com/images/sales/201601/
 ||chidir.com^
@@ -4020,8 +4009,6 @@ mg*.6park.com/img/$image
 ||chinatimes.com/Scripts/bennerad.
 ||chinatruck.org/index.php?m=poster&
 ||chinauui.com/fumeiti.js
-||chinawutong.com/js/indexfudong.js
-||chinawutong.com/WutongManager//UploadFiles/ImgAdvert/
 ||chinayes.com/Include%5Cad%5C
 ||chinayk.com/js/float.js
 ||chinaz.com/code_img/
@@ -4085,7 +4072,6 @@ mg*.6park.com/img/$image
 ||cndzys.com/huanlian/
 ||cnfol.com/f=ud/Js/Ad
 ||cnfol.com/tui/
-||cnforex.com/assets/ezwinfx_
 ||cngold.org/cngold_float
 ||cngoldres.com/advservice/
 ||cngoldres.com/web/js/*_advs
@@ -8972,7 +8958,8 @@ ubetween.com##.ad_pt
 sogou.com##.ad_result
 cngba.com##.ad_ri
 bitauto.com,cnblogs.com,hc360.com##.ad_right
-cnlinfo.net##.ad_room
+cnlinfo.net##.guanggao-left
+cnlinfo.net##.guanggao-right
 9upk.com,orsoon.com,ouyaoxiazai.com##.ad_show
 orsoon.com##.ad_show_1
 orsoon.com##.ad_show_2
@@ -9914,7 +9901,6 @@ epinv.com##.huadong > a
 9000wy.com##.huazhonghua
 skinme.cc##.huodong
 iqiyi.com##.hwLink
-buytong.cn##.hy_top_left
 52pk.com##.hz_adv
 99.com.cn##.hzh_botleft
 haodou.com##.i-ad
