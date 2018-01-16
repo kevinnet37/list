@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Cgfrajp88AxVASR4hvbvfw
+! Checksum: l6u/VGyFdIkr6DBLtIxD6Q
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201801160930
-! Last Modified: 2018年01月16日 09:30
+! Version: 201801161030
+! Last Modified: 2018年01月16日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -648,6 +648,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||5x5q.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -7070,8 +7071,10 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||jfrft.com/muban/js/w234.js$domain=dilidili.wang
+||ggg.xiangjiao.xxx^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+csdn.net##.tracking-ad
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -12464,6 +12467,7 @@ ck101.com,datehub.co,gamer.com.tw#@#.text_ads
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[0-9a-z]){9,}\.js$/$script,domain=39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|cyone.com.cn|dugoogle.com|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|ysts8.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+||cee1.iteye.com^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
@@ -13076,6 +13080,7 @@ dnvod.tv#?#[style*="important"]
 ||s1-a1.dnvod.tv^
 ||s1-a2.dnvod.tv^
 ||s1-a3.dnvod.tv^
+||ifengimg.com/sfs-6536a6d5.js
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
 .*.ifeng.com^$xmlhttprequest
