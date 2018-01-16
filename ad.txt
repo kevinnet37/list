@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kYitZqAZHGqahywdAJP6KA
+! Checksum: rabBVFx8fgUTlR9jCbQ8Pw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201801161900
-! Last Modified: 2018年01月16日 19:00
+! Version: 201801161930
+! Last Modified: 2018年01月16日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1602,7 +1602,6 @@ ubmcmm.baidustatic.com
 ||cctyly.com^
 ||cd-best.cn^
 ||cdnny.com^
-||cdntxt.com^
 ||cdyqc.com^
 ||cfboo.com^
 ||cg2017.com^
@@ -2923,7 +2922,6 @@ ubmcmm.baidustatic.com
 .adsame.libaclub.com^
 .bd-film.*/r/cms/www/movie/js/cms-sidebar
 .bid^$domain=thisav.com
-.com/562723/$domain=banyungong.org
 .com/az.js$domain=btpkw.com|hrszyl.com|jiuzhiling.com|myt520.com|xtzgjx.com|zchot.com
 .com/tps/$domain=ocucn.com
 .gif|$domain=7mshipin.org|aotu25.com
@@ -7483,6 +7481,8 @@ mg*.6park.com/img/$image
 ||ggg.xiangjiao.xxx^
 ||jinse.com/promotion/
 ||sass.hk/js/ggcn.js
+||cdntxt.com/m1/
+||cdntxt.com/t1/
 !------------------------Specific element hiding rules------------------------!
 jinse.com##.banner1200_new
 chinabidding.com.cn##.advert
