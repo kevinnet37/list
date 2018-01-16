@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FqTkYQStRQ4g48pTRX6ygw
+! Checksum: o/1mc8hAy1R9kJtmx4c32A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801161830
-! Last Modified: 2018年01月16日 18:30
+! Version: 201801161900
+! Last Modified: 2018年01月16日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7192,7 +7192,7 @@ chinabidding.com.cn##.advert
 chinabidding.com.cn##.innovate + .layer
 chinabidding.com.cn##.train
 gpcxw.com###AA2
-csdn.net##.tracking-ad
+csdn.net###layerd
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -28360,7 +28360,7 @@ _mongo_stats/
 @@||maxmind.com/app/country.js$domain=lenovo.com|nationalgeographic.com|paypal.fr
 @@||maxmind.com/geoip/v2.0/country/$xmlhttprequest,domain=elgato.com
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|coolsport.tv|dereon.com|dr.dk|everydaysource.com|fab.com|girlgames4u.com|incgamers.com|ip-address.cc|maaduu.com|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com
-@@||maxmind.com^*/geoip2.js$domain=elgato.com|fallout4.com|metronews.ca|mtv.com.lb|teslamotors.com
+@@||maxmind.com^*/geoip2.js$domain=elgato.com|fallout4.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
 @@||mec.ca/media/javascript/resxclsx.js
 @@||media-imdb.com^*/clickstream.js
 @@||media.ft.com/j/optimost-$domain=ft.com
