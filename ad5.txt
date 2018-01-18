@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +bV46zIXrxYiQoym67UndQ
+! Checksum: d4dM+owRzXiRAf/dX26soA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801181830
-! Last Modified: 2018年01月18日 18:30
+! Version: 201801181930
+! Last Modified: 2018年01月18日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -4145,7 +4145,6 @@ mg*.6park.com/img/$image
 ||cssqt.com/a/images/indexsd.gif
 ||cssqt.com/a/images/right
 ||ctags.cn/9/j2.js
-||ctanet.cn/aq/JS/
 ||ctfile.com/img/alipay_qhb.gif
 ||ctfile.com/iz.php?
 ||ctrip.com/amd/*960x90.
@@ -7191,8 +7190,10 @@ mg*.6park.com/img/$image
 ||zimuku.*/images/v2/js/bn.js
 ||chazidian.com/czd_gg.js
 ||ssgg.chazidian.com^
+||ctanet.cn/aqq/JS/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ctanet.cn##A[href*="/GoTo.asp?ID="] > img
 acg18.us##A[href*=".caromag.cn"]
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -7726,7 +7727,6 @@ weather.com.cn###di_tan
 ttmeiju.com###dialog-overlay
 iciba.com###dict_right5
 chinanews.com###dingtong
-chzhw.com###diqilai
 3boys2girls.com###displayadb1
 3boys2girls.com###displayadbu3
 szhk.com###div01
@@ -8185,7 +8185,6 @@ live.win007.com###notify > a[target="_blank"]
 qq.com###nqsnqsad02
 ssnn.net###nrk_gg
 pt80.net###nv_forum > div[align="center"]
-chzhw.com###nview > a > img[style$="width:326px;"]
 3g.qq.com###omgad-wechat-bigpic
 duba.com###one-mid
 duba.com###oneTip
@@ -11264,7 +11263,6 @@ ainuody.com##a[href="http://www.zhuzhuquan.com.cn"]
 zhiboba.cc##a[href^="//shang.qq.com/wpa/"]
 bigear.cn##a[href^="/?module=dantian&"]
 sdgundam.cn##a[href^="/aclk/"]
-ctanet.cn##a[href^="/aq/GoTo.asp?ID="] > img
 hacg.wiki,llss.fun,llss.me,llss.tv##a[href^="/gg2/"]
 shaoit.com##a[href^="/go/"]
 acg18.us##a[href^="/jp"]
@@ -14316,7 +14314,6 @@ _300_250.
 ||hjfile.cn/lib/hui/footer/0.1.0/footer.js
 ||6pan.cc/ps/vip.jpg
 ||51cto.com/iframe/get-station-ads
-||autohome.com.cn/news/new_*/index_css?
 ||bendibao.com/weixin_
 ||jia.com/js/tuku/footBanner_
 ||daf-rs.com/imageViewer/wpAd
@@ -14330,9 +14327,6 @@ _300_250.
 ||bdstatic.com/searchbox/icms/searchbox/img/*.jpg
 ||howbuy.com/subject/js/layer/layer.js
 ||xnimg.cn^*/liveinc/rightlive.js
-||autohome.com.cn/news/img_resource/source/
-||autohome.com.cn/news/cdn_resource/source/userfiles
-||autohome.com.cn/news/see_myactive/look/pass.html
 ||sinaimg.cn^*/everyoneReading.js
 ||baidu.com^*/app/banner_
 ||dangbei.net/img/db/downdangbei.gif
@@ -14356,7 +14350,10 @@ _300_250.
 ||hanjutv.com/public/js/layer/layer.js
 ||alicdn.com/mtb/lib-smartbanner-
 ||w3cschool.cn/attachments/image/20170919/1505817817281252.jpg
+||chazidian.com/all/gg_
+||autohome.com.cn/news/$script
 !------------------------Specific element hiding rules------------------------!
+maiziedu.com##.msg
 baixing.com##.listing-fixed-bottom-promo
 baixing.com##.guide-video-app
 baixing.com##.red-package
@@ -14877,6 +14874,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||count.candou.com^
 ||analyse.weather.com.cn^
 ||btime.com/api/weblog?
 ||reportlog.dftoutiao.com^
