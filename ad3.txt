@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JdyLV16DEsX1PGaGP3fgPg
+! Checksum: PIpTL9EsSw7k42xGvykIMQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201801192030
-! Last Modified: 2018年01月19日 20:30
+! Version: 201801192200
+! Last Modified: 2018年01月19日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -14374,7 +14374,8 @@ co188.com##.suspen
 hjenglish.com##.fix_questionnaire_btn
 kaoyan.com##.floatQrcode
 shejiben.com##.bottom_zb_box
-bilibili.com##A[href*=".biligame."]
+bilibili.com,~game.bilibili.com##A[href*=".biligame."]
+bilibili.com,~game.bilibili.com##A[data-target-url*=".biligame."]
 dianyingbar.com###jihuaslide
 dianyingbar.com##.alert_windows
 dianyingbar.com##.recover
