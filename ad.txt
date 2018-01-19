@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TQbd5sU9fWroriAP0d2TCA
+! Checksum: UaYaMMPN6JG7ZsMJFD17Vg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201801191730
-! Last Modified: 2018年01月19日 17:30
+! Version: 201801191800
+! Last Modified: 2018年01月19日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -11451,7 +11451,7 @@ tingvoa.com##A[href*="/ClickAd?"]
 loldk.com##A[href*="?ADTAG="]
 instrument.com.cn##A[href^="http://image.instrument.com.cn/ad/adweb/AdCount/"]
 3g.cn##A[id^="randomAd_"]
-jijidown.com##[-abp-properties='data:*cursor: pointer;']
+jijidown.com##[-abp-properties='background-image:*data:']
 tiexue.net##[class*="junph"]
 gamme.com.tw##[class^="sidead_"]
 sina.cn##[data-href*="://sax"]
