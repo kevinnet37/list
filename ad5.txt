@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aJh4aSi6B++fr3HHCEhEZQ
+! Checksum: /Lh4Eeo72+gBV/8ZnIy/hQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801202130
-! Last Modified: 2018年01月20日 21:30
+! Version: 201801202330
+! Last Modified: 2018年01月20日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -13222,6 +13222,13 @@ dnvod.tv#?#[style*="important"]
 ||s1-a1.dnvod.tv^
 ||s1-a2.dnvod.tv^
 ||s1-a3.dnvod.tv^
+uliba.net###content > DIV:first-child > A:first-child:last-child
+uliba.net###content > UL[style="list-style-type: none;"]
+uliba.net###menu-nav > .menu-item:nth-child(n+4):not(:last-child)
+uliba.net###sidebar > DIV:first-child
+uliba.net##.entry-content > DIV[style^="float:right"]
+uliba.net##.right-banner
+uliba.net##.tool_news1
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
 .*.ifeng.com^$xmlhttprequest
