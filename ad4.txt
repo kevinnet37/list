@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bbMYy9Gfo66WJa+flC/M2g
+! Checksum: K9Ux4l8CHaDOAaZnLBG1ig
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201801201200
-! Last Modified: 2018年01月20日 12:00
+! Version: 201801201545
+! Last Modified: 2018年01月20日 15:45
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -65,7 +65,6 @@ jump.bdimg.com,tieba.baidu.com##.star_nav_ico_tuan
 ! Sides
 jump.bdimg.com,tieba.baidu.com###aside_ad
 jump.bdimg.com,tieba.baidu.com###aside_ad_wrapper
-jump.bdimg.com,tieba.baidu.com###nani_app_download_box
 jump.bdimg.com,tieba.baidu.com###novel-ranking
 jump.bdimg.com,tieba.baidu.com###tieba-notice.region_bright
 jump.bdimg.com,tieba.baidu.com##.app_download_box
@@ -73,6 +72,7 @@ jump.bdimg.com,tieba.baidu.com##.app_forum_rank_float
 jump.bdimg.com,tieba.baidu.com##.aside_region.celebrity
 jump.bdimg.com,tieba.baidu.com##.fansparty-wrap
 jump.bdimg.com,tieba.baidu.com##.guess-sidebar-container
+jump.bdimg.com,tieba.baidu.com##.nani_app_download_box
 jump.bdimg.com,tieba.baidu.com##.platform_aside_tieba_partner
 jump.bdimg.com,tieba.baidu.com##.profile_bottom
 jump.bdimg.com,tieba.baidu.com##.region_bright.celebrity
