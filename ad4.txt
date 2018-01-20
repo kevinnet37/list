@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: K9Ux4l8CHaDOAaZnLBG1ig
+! Checksum: 8slGm+AdWbDO2r1I8EBCFQ
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201801201545
-! Last Modified: 2018年01月20日 15:45
+! Version: 201801202030
+! Last Modified: 2018年01月20日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -575,6 +575,8 @@ v.baidu.com#@#.has-ad
 ||as1.wenku.baidu.com^
 ||cm.baidu.com^
 ||f*.baidu.com/it/u=*,*&fm=$third-party
+@@||baidu.com/js/opensug.js$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cnbtkitty.com|diggbt.fyi|diggbts.com|savebt.org|storebt.cc|torrentkitty.uno|zhongzicili.me|zhongzifuli.pw
+@@||unionsug.baidu.com^$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cnbtkitty.com|diggbt.fyi|diggbts.com|savebt.org|storebt.cc|torrentkitty.uno|zhongzicili.me|zhongzifuli.pw
 zhidao.baidu.com#@#.share-area
 baidu.com#@#.share-line
 baidu.com#@#.share-list
