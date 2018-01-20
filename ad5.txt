@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yGCdpQHXAJANQzW+JQyLBw
+! Checksum: +WY6g9OBJclBOlMO2GFJFg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801201000
-! Last Modified: 2018年01月20日 10:00
+! Version: 201801201130
+! Last Modified: 2018年01月20日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7192,7 +7192,10 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||chengtongled.com/gg/
+||cww.net.cn/js/adspaces.js
+||cww.net.cn/js/urdev.js
 !------------------------Specific element hiding rules------------------------!
+cww.net.cn##.ggbar
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -18819,11 +18822,14 @@ _zag_cookie.
 cgi-bin/counter
 http://utm.$domain=~utm.md|~utoronto.ca
 ||meetrics.netbb-
+.ga/*.wasm
 /aj-crypto-miner/*
+/bootstrap.wasm$third-party
 /c-hive.js
 /c.wasm
 /cloudcoins.js
 /cloudcoins.min.js
+/cn.wasm
 /coinblind.js
 /coinblind_beta.
 /coinhive.min.js
@@ -18831,7 +18837,8 @@ http://utm.$domain=~utm.md|~utoronto.ca
 /cryptonight-worker.js
 /cryptonight.wasm
 /deepMiner.js
-/hash.wasm$script,websocket
+/hash.wasm
+/helper.wasm$third-party
 /inject.js?key=$script
 /jsecoin.*/?
 /lhnhelpouttab-current.min.js
@@ -18839,6 +18846,8 @@ http://utm.$domain=~utm.md|~utoronto.ca
 /miner.js
 /miner.min.js
 /miner?key=
+/nano.wasm
+/noblock.js
 /obfus.min.js
 /projectpoi.min.js
 /wproxy$~third-party,websocket
@@ -21144,7 +21153,6 @@ _mongo_stats/
 .download^$third-party,websocket
 .faith^$third-party,websocket
 .fun^$third-party,websocket
-.ga/*.wasm
 .ga^$third-party,websocket
 .men^$third-party,websocket
 .ml^$third-party,websocket
@@ -21163,14 +21171,6 @@ _mongo_stats/
 .win^$third-party,websocket
 .xyz^$third-party,websocket
 .zone^$third-party,websocket
-/bootstrap.wasm$third-party
-/cn.wasm$third-party
-/hash.wasm
-/helper.wasm$third-party
-/lib/cn.wasm$third-party
-/nano.wasm
-/noblock.js
-://api.*/lib/native.wasm$third-party
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
 ||1q2w3.me^$third-party
@@ -21324,6 +21324,7 @@ _mongo_stats/
 ||wty46.com^$third-party
 ||xbasfbno.info^$third-party
 ||ywtjdckysve.com^$third-party
+||zlx.com.br^$third-party
 ||6ldu6qa.com^$third-party
 ||aheadday.com^$third-party
 ||anxiousapples.com^$third-party
