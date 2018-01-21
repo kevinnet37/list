@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CNicnl5DO0QZqzWXKQ7FzA
+! Checksum: 8MYQooErKjSFDm0qzCHP/A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801212200
-! Last Modified: 2018年01月21日 22:00
+! Version: 201801220730
+! Last Modified: 2018年01月22日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19313,6 +19313,7 @@ _mongo_stats/
 ||clickable.net^$third-party
 ||clickaider.com^$third-party
 ||clickalyzer.com^$third-party
+||clickcease.com^$third-party
 ||clickclick.net^$third-party
 ||clickcloud.info^$third-party
 ||clickconversion.net^$third-party
@@ -19381,6 +19382,7 @@ _mongo_stats/
 ||cooladata.com^$third-party
 ||copacast.net^$third-party
 ||copperegg.com^$third-party
+||coralogix.com^$third-party
 ||core-cen-54.com^$third-party
 ||coremetrics.com^$third-party
 ||coremotives.com^$third-party
@@ -20371,6 +20373,7 @@ _mongo_stats/
 ||pntrs.com^$third-party
 ||pointomatic.com^$third-party
 ||popsample.com^$third-party
+||popt.in^$third-party
 ||populr.me^$third-party
 ||porngraph.com^$third-party
 ||portfold.com^$third-party
@@ -21162,6 +21165,7 @@ _mongo_stats/
 .faith^$third-party,websocket
 .fun^$third-party,websocket
 .ga^$third-party,websocket
+.gq^$third-party,websocket
 .men^$third-party,websocket
 .ml^$third-party,websocket
 .party^$third-party,websocket
@@ -21211,6 +21215,7 @@ _mongo_stats/
 ||biberukalap.com^$third-party
 ||bjorksta.men^$third-party
 ||bowithow.com^$third-party
+||byebye.ml^$third-party
 ||c0i8h8ac7e.bid^$third-party
 ||candid.zone^$third-party
 ||cdnfile.xyz^$third-party
@@ -21243,6 +21248,7 @@ _mongo_stats/
 ||dovinate.top^$third-party
 ||fastcast.nz^$third-party
 ||fge9vbrzwt.bid^$third-party
+||flare-analytics.com^$third-party
 ||flu.cc^$third-party
 ||g-content.bid^$third-party
 ||goredirect.party^$third-party
@@ -21310,6 +21316,7 @@ _mongo_stats/
 ||siteverification.online^$third-party
 ||siteverification.site^$third-party
 ||smectapop12.pl^$third-party
+||sparechange.io^$third-party
 ||sparnove.com^$third-party
 ||static-cnt.bid^$third-party
 ||statistic.date^$third-party
@@ -28456,6 +28463,7 @@ $websocket,xmlhttprequest,domain=a-o.ninja|lewd.ninja|love-drama.pl|oload.info|o
 @@||myqnapcloud.com^*.angular-google-analytics.js$script
 @@||narf-archive.com^*/clickstream.js
 @@||nasa.gov/js/libraries/angulartics/angulartics-google-analytics.js
+@@||nationalcar.com^*/analytics.min.js
 @@||nationalgeographic.com/assets/scripts/utils/event-tracking.js
 @@||nationaljournal.com/js/bizo.js
 @@||nationalreview.com^*/chartbeat.js
