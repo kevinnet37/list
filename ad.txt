@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7ibidh1EchlG/tUr6XEWxw
+! Checksum: 5CvpIHcILu1FXjWrH5mraQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201801211530
-! Last Modified: 2018年01月21日 15:30
+! Version: 201801211730
+! Last Modified: 2018年01月21日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -2092,7 +2092,7 @@ ubmcmm.baidustatic.com
 ||kfluoa.com^
 ||kgcjgsa8.net^
 ||kguke.com^
-||kh2134.com^ ;http://erwqw.kh2134.com/?uid=4317
+||kh2134.com^
 ||khgj.cn^$third-party
 ||kicnse.com^
 ||kiees.com^$image,subdocument,third-party
@@ -12217,7 +12217,7 @@ mp4ba.la##td[width="300"][height="300"]
 enread.com##td[width="326"][height="250"]
 62422.cn##td[width="760"][height="75"]
 verycd.gdajie.com##th[colspan="3"]
-zhangxinxu.com#?##topadout
+zhangxinxu.com#?##topAdOut
 cartoomad.com##tr:last-child > td[align="right"] > table[width="732"]
 cartomad.com,cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 firefoxchina.cn##ul[track-key="adv_links"]
