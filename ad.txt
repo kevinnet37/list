@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1YB4c2SLrvgmbw7GeKjbbg
+! Checksum: BYjX9THetYWNlIs/UqcReQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201801241900
-! Last Modified: 2018年01月24日 19:00
+! Version: 201801241930
+! Last Modified: 2018年01月24日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1535,7 +1535,6 @@ ubmcmm.baidustatic.com
 ||at98.com^
 ||atanx.alicdn.com^
 ||av8d.net^$third-party
-||avefyjulko.bid^
 ||awifi.cn^$third-party
 ||awkjs.com^
 ||axhxa.com^
@@ -2156,7 +2155,6 @@ ubmcmm.baidustatic.com
 ||lnr1.com^$third-party
 ||loandatec.com^
 ||log.interest.mix.sina.com.cn^
-||lorpidlfpbu.bid^
 ||lovestyl.com^
 ||lsper.top^
 ||lsxmg.com^
@@ -2321,7 +2319,6 @@ ubmcmm.baidustatic.com
 ||qdxrhg.com^$third-party
 ||qgss8.com^
 ||qhaif.com^
-||qhrdwjummidz.bid^
 ||qi-duo.com^
 ||qiailm.com^
 ||qidou.com^$third-party
@@ -2722,7 +2719,6 @@ ubmcmm.baidustatic.com
 ||xul478.com^
 ||xulizui6.com^
 ||xvtpvc.cn^
-||xwgbfrnppyoc.bid^
 ||xxad.cc^
 ||xxhrd.com^
 ||xxwkjl.com^
@@ -2929,7 +2925,7 @@ ubmcmm.baidustatic.com
 !----------------------Specific advert blocking filters-----------------------!
 .adsame.libaclub.com^
 .bd-film.*/r/cms/www/movie/js/cms-sidebar
-.bid^$domain=thisav.com
+|http://www.*.js|$script,third-party,domain=thisav.com
 .com/az.js$domain=btpkw.com|hrszyl.com|jiuzhiling.com|myt520.com|xtzgjx.com|zchot.com
 .com/tps/$domain=ocucn.com
 .gif|$domain=7mshipin.org|aotu28.com|avaotu.net
@@ -13902,6 +13898,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@/urchin.js$domain=on.cc
 @@=mm_12852562_1778064_$domain=www.taobao.com|www.tmall.com
 @@=mm_33231655_8000000_$domain=www.taobao.com
+@@/fingerprint2.js$domain=fangcloud.com
 @@||126.net/images/blank.gif
 @@||7m.cn/v2/js/analyse.js
 @@||adidasoriginals-lookbook.com.tw/js/adtracking.js
