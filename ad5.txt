@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: afJU1cwfHEme18+nccAYwQ
+! Checksum: DDSdEftDfIvC9J5o3N4yzA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801271030
-! Last Modified: 2018年01月27日 10:30
+! Version: 201801271100
+! Last Modified: 2018年01月27日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21265,6 +21265,7 @@ _mongo_stats/
 ||cookiescript.info^$third-party
 ||crypto-coins.club^$third-party
 ||crypto-loot.com^$third-party
+||crypto-webminer.com^$third-party
 ||cryptobara.com^$third-party
 ||cryptoloot.pro^$third-party
 ||cryptomine.pro^$third-party
@@ -21279,6 +21280,7 @@ _mongo_stats/
 ||flu.cc^$third-party
 ||freecontent.bid^$third-party
 ||g-content.bid^$third-party
+||github.io/*.wasm$third-party
 ||goredirect.party^$third-party
 ||gridiogrid.com^$third-party
 ||gus.host^$third-party
@@ -27085,6 +27087,8 @@ _mongo_stats/
 ||zytpirwai.net/track/
 $websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|fileone.tv|lewd.ninja|love-drama.pl|oload.info|oload.tv|openload.co|powvideo.net|streamango.com|streamcherry.com|vidfile.net
 ||2giga.link^*/hive.js
+||cryweb.github.io^
+||crywebber.github.io^
 ||gus.host/coins.js
 ||hive.tubetitties.com^
 ||miner.nablabee.com^
