@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ay2gtNIKCWzAkDojCqeHuQ
+! Checksum: JvJSNwMPeQfBd7Y5xfiMYQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801270830
-! Last Modified: 2018年01月27日 08:30
+! Version: 201801270930
+! Last Modified: 2018年01月27日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18842,6 +18842,8 @@ http://utm.$domain=~utm.md|~utoronto.ca
 ||meetrics.netbb-
 .ga/*.wasm
 /aj-crypto-miner/*
+/ajcm-inject.
+/ajcryptominer/*
 /bootstrap.wasm$third-party
 /c-hive.js
 /c.wasm
@@ -18855,6 +18857,7 @@ http://utm.$domain=~utm.md|~utoronto.ca
 /cryptonight-worker.js
 /cryptonight.wasm
 /deepMiner.js
+/deepMiner.min.js
 /hash.wasm
 /helper.wasm$third-party
 /inject.js?key=$script
@@ -21180,6 +21183,7 @@ _mongo_stats/
 .gq^$third-party,websocket
 .men^$third-party,websocket
 .ml^$third-party,websocket
+.ovh^$third-party,websocket
 .party^$third-party,websocket
 .pro^$third-party,websocket
 .racing^$third-party,websocket
@@ -21212,6 +21216,7 @@ _mongo_stats/
 ||ad-miner.com^$third-party
 ||adminer.com^$third-party
 ||afminer.com^$third-party
+||ajplugins.com^$third-party
 ||aleinvest.xyz^$third-party
 ||alemoney.xyz^$third-party
 ||altpool.pro^$third-party
@@ -21254,6 +21259,7 @@ _mongo_stats/
 ||cryptobara.com^$third-party
 ||cryptoloot.pro^$third-party
 ||cryptomine.pro^$third-party
+||cryptonoter.com^$third-party
 ||csgocpu.com^$third-party
 ||deepc.cc^$third-party
 ||dle-news.pw^$third-party
@@ -21262,6 +21268,7 @@ _mongo_stats/
 ||fge9vbrzwt.bid^$third-party
 ||flare-analytics.com^$third-party
 ||flu.cc^$third-party
+||freecontent.bid^$third-party
 ||g-content.bid^$third-party
 ||goredirect.party^$third-party
 ||gridiogrid.com^$third-party
@@ -27067,10 +27074,11 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
-$websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|lewd.ninja|love-drama.pl|oload.info|oload.tv|openload.co|powvideo.net|streamango.com|streamcherry.com|vidfile.net
+$websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|fileone.tv|lewd.ninja|love-drama.pl|oload.info|oload.tv|openload.co|powvideo.net|streamango.com|streamcherry.com|vidfile.net
 ||2giga.link^*/hive.js
 ||gus.host/coins.js
 ||hive.tubetitties.com^
+||miner.nablabee.com^
 ||rawgit.com/Pocketart/$script,third-party
 ||reactor.cc^*.wasm
 ||vidfile.net^$third-party,websocket,xmlhttprequest
