@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EmvenNUWkKsNOWdrH83TcQ
+! Checksum: L5amrnxfOd2URgH3jPwobw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201801271430
-! Last Modified: 2018年01月27日 14:30
+! Version: 201801271600
+! Last Modified: 2018年01月27日 16:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -652,6 +652,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||youmw.com^$third-party
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -3142,7 +3143,6 @@ mg*.6park.com/img/$image
 ||63007.com/haodxi.js
 ||64.120.16.146/hsk_update/upload/*.gif
 ||64bobo.com/ckplay/js.jpg
-||65yw.com/i.html
 ||66.fmx.cn/js/
 ||6620070.com/js/
 ||66384.com/templets/js/stats.js
@@ -4075,7 +4075,6 @@ mg*.6park.com/img/$image
 ||dbw.cn/eap/js/db/dbwad_
 ||dbw.cn/eap/js/hl/hlj_ad
 ||dbw.cn/eap/js/ss/
-||dbw365.com/skin/yblog/js/thea
 ||dcfever.com/campaigns/
 ||ddd.yuyouge.com^
 ||ddooo.com/ddshow/
@@ -7316,7 +7315,7 @@ qidian.com###ad_yxword_a
 hs90.net###ad_zpy
 141hongkong.com###adan
 localking.com.tw###adbannerurl
-dahanju.com,xskhome.com,yxdown.com###adbg
+xskhome.com,yxdown.com###adbg
 tbtdg.com###adblockWarning
 lzep.cn###add
 fhm.com.tw###add-box
@@ -7346,7 +7345,7 @@ ishuati.com###adsh
 weather.com.cn###adtop_r
 sina.com.cn###adtopad
 btspreadcn.com###adultwarningmask
-dahanju.com,dm530.net,hxnews.com###adv
+dm530.net,hxnews.com###adv
 b5m.com###adv-bottom
 chinabyte.com###adv-button
 js0573.com###adv1
@@ -10748,7 +10747,6 @@ cnbeta.com##.tks
 fqlook.cn##.tl20160901
 fqlook.cn##.tl20160901 + .main_center_z
 qq.com##.tl_ad
-dizo.com.cn##.tl_ad1
 tieba.baidu.com##.tl_spread
 esnai.com##.tlgg
 maxthon.cn##.tmall-nav-v2
