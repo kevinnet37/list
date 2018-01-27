@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2jjvTNpxVnr7+g2rO1zR3g
+! Checksum: ucjoKZEk8/85qtleu81NZA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801272330
-! Last Modified: 2018年01月27日 23:30
+! Version: 201801280730
+! Last Modified: 2018年01月28日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15970,6 +15970,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /buffermetrics/*
 /bugcounter.php?
 /BuiltRegister.aspx?upt=
+/bundle/analytics.
 /bundles/cm.js|
 /bundles/tracciamento?
 /buzz_stats.
@@ -28064,6 +28065,7 @@ $websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|fileone.t
 @@/cdn-cgi/pe/bag2?*skimlinks.js$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs$domain=amazingpics.net
 @@/cdn-cgi/pe/bag2?*yieldbot.intent.js$domain=droid-life.com
+@@/cgi-bin/counter_module?action=list_models$subdocument,~third-party
 @@/wp-content/mu-plugins/google-analytics-for-wordpress/*$script,stylesheet,~third-party
 @@/wp-content/mu-plugins/google-analytics-premium/*$script,stylesheet,~third-party
 @@/wp-content/plugins/google-analytics-dashboard-for-wp/*$script,stylesheet,~third-party
