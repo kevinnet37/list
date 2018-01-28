@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ujBQs44RAOXw4/I9Jbr+VA
+! Checksum: Q0/vY/gbwJxPwoP3YCygUA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201801281130
-! Last Modified: 2018年01月28日 11:30
+! Version: 201801281300
+! Last Modified: 2018年01月28日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -3347,7 +3347,6 @@ mg*.6park.com/img/$image
 ||adadmin.house365.com^
 ||adbox.sina.com.cn^
 ||adcast.fblife.com^
-||add.dz19.net^
 ||add.freeimg8.com^
 ||adf.dahe.cn^
 ||adhome.1fangchan.com^
@@ -7080,6 +7079,8 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||wew.dushiwenxue.net^
+||dz19.net/addimg/
+||downkr.com/statics/images/download.gif
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 tucao.tv##A[href^="http://www.tucao.tv/index.php?m=poster&"]
@@ -7656,7 +7657,6 @@ chinafix.com###diy_col_1-3
 5imx.com###diy_mxnewsad01
 airav.cc###diy_right
 0517w.com,lysq.com###diyad
-dz19.net###diyad2
 pingpang.info###diycity1103
 im286.net###diyflash
 0517w.com,0743ds.com,365kl.net,3dezu.com,52ch.net,bbs.qbaobei.com,chcj.net,chinafix.com,cnyw.net,gz0668.com,luanren.com,mahoupao.net,mcncc.com,qilindao.com###diynavtop
