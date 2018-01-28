@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RhJbyFARX80rMlbK8rbiKw
+! Checksum: N0maIKpQ17LTr9QgixaJIA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201801281030
-! Last Modified: 2018年01月28日 10:30
+! Version: 201801281130
+! Last Modified: 2018年01月28日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -767,6 +767,8 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
+||dlads.cn^$third-party
+||mbai.cn^$third-party
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -4315,7 +4317,6 @@ mg*.6park.com/img/$image
 ||duba.com/static/v3/images/*.swf
 ||dufile.com/jsa/
 ||dup.baidustatic.com^
-||dushiwenxue.com/add/
 ||dvbcn.com/index.php?m=poster&
 ||dvbcn.com/phpcms/templates/2012/news.html
 ||dvbcn.com/uploadfile/2015/0202/20150202050700880.png
@@ -7192,6 +7193,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||wew.dushiwenxue.net^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 tucao.tv##A[href^="http://www.tucao.tv/index.php?m=poster&"]
@@ -10770,7 +10772,6 @@ heiguang.com##.syAdTopTxt
 zhifang.com##.sytl
 bcbay.com,creaders.net##.syzx
 17ok.com##.t-bann
-dushiwenxue.com##.t1
 17yy.com##.t2_3
 17yy.com##.t2r_3
 suopao.org##.t5[style^="margin-top:8px;"]
@@ -12288,7 +12289,6 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||dolc.de/source/plugin/unadblock/
 @@||down.cc/down/js/ad.js
 @@||download.mokeedev.com^$generichide,script,xmlhttprequest
-@@||dushiwenxue.com/add/article/pagetop.js
 @@||dvbcn.com/caches/poster_js/23.js
 @@||dzwww.com/ad/jsfiles/fillCon.js
 @@||e.cn.miaozhen.com/r/k=*=http
@@ -21297,6 +21297,7 @@ _mongo_stats/
 ||hodling.science^$third-party
 ||host.d-ns.ga^$third-party
 ||igg.biz^$third-party
+||igrid.org^$third-party
 ||ingorob.com^$third-party
 ||jquery-uim.download^$third-party
 ||jroqvbvw.info^$third-party
@@ -21328,6 +21329,7 @@ _mongo_stats/
 ||nahnoji.cz^$third-party
 ||noblock.pro^$third-party
 ||nut.cc^$third-party
+||ogrid.org^$third-party
 ||okeyletsgo.ml^$third-party
 ||onlinereserchstatistics.online^$third-party
 ||papoto.com^$third-party
@@ -21363,6 +21365,7 @@ _mongo_stats/
 ||usa.cc^$third-party
 ||vcfs6ip5h6.bid^$third-party
 ||veritrol.com^$third-party
+||vzhjnorkudcxbiy.com^$third-party
 ||webassembly.stream^$third-party
 ||webmine.cz^$third-party
 ||webmine.pro^$third-party
@@ -27087,7 +27090,7 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
-$websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|fileone.tv|lewd.ninja|love-drama.pl|oload.info|oload.tv|openload.co|powvideo.net|streamango.com|streamcherry.com|vidfile.net
+$websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|fileone.tv|jkanime.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|streamango.com|streamcherry.com|vidfile.net
 ||2giga.link^*/hive.js
 ||cryweb.github.io^
 ||crywebber.github.io^
