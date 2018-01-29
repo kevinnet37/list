@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gTVSENVsBu4OdNK4FynzOw
+! Checksum: Zx0ElS8IjGD3/ma8/MWHKQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201801291100
-! Last Modified: 2018年01月29日 11:00
+! Version: 201801291230
+! Last Modified: 2018年01月29日 12:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12670,6 +12670,7 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||ifengimg.com/pdt/cfg/mudu/aplayer.xml$domain=v.ifeng.com
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|now.com|xuite.net
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=udn.com
 @@||img.ybbbs.com/2014/*app
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||ips.ifeng.com^*.mp4$domain=v.ifeng.com
