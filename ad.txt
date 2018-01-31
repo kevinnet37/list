@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uu/yIkMfCRYimeQzfintfQ
+! Checksum: cDW6dXuVpy/nWK/7o//Q4g
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201801311730
-! Last Modified: 2018年01月31日 17:30
+! Version: 201801311830
+! Last Modified: 2018年01月31日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7492,6 +7492,7 @@ mg*.6park.com/img/$image
 ||alicdn.com^$domain=46pj.com
 ||sinaimg.cn/mw690/7d1c8e96gw1e6f70r8mwcj20qe082q40.jpg
 ||sinaimg.cn/large/006UijYYgy1fjcaf2sjbqj30sc09q49o.jpg
+||cdndm5.com^*/ad_360_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 baidu.com##.rec-feeditem
@@ -7838,7 +7839,6 @@ acfun.cn###bd_ad1
 makaidong.com###bdcs
 sogou.com###bdfs0
 baidu.com###bdyx_float_rb
-docin.com###beforeAd
 loldk.com###before_video_ad
 1kkk.com,bukade.com,dm5.com,dm5.hk,manmankan.com,sfacg.com###beitou
 eeyy.com###beitou_box
@@ -8111,7 +8111,6 @@ letv.com###egg
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###encourage_entry
 hc360.com###endAccessories1
 hc360.com###endAdBanner
-docin.com###endSwfAd
 123.sogou.com###engineHotWord
 ent.qq.com###ent_ad
 360kan.com,360kan.letv.com###erweima
