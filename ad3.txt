@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jLeSf9+iVLFOtp/qRmDgsQ
+! Checksum: HbD0MKimQYnxSbE5j6ho2g
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201802011800
-! Last Modified: 2018年02月01日 18:00
+! Version: 201802011830
+! Last Modified: 2018年02月01日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -4078,7 +4078,6 @@ mg*.6park.com/img/$image
 ||daweijita.com/2014/08/ad_head
 ||daweijita.com/2015/10/shopad
 ||dayanzai.me/Computer.png
-||db28.cn/cache/ads.js
 ||dbw.cn/eap/js/db/dbwad_
 ||dbw.cn/eap/js/hl/hlj_ad
 ||dbw.cn/eap/js/ss/
@@ -4143,7 +4142,6 @@ mg*.6park.com/img/$image
 ||dm456.com/m/
 ||dm530.net/js/newjs/
 ||dm530.net/pic/fgr/*.js
-||dmfans.net/template/haokandemanhhua/images/g_js/
 ||dmhy*.aewb.cn^*?$image
 ||dmhy.ml^*g?$image
 ||dmzj.com/js/m_BtmApp.js
@@ -7077,6 +7075,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||sinaimg.cn/large/a561b538ly1fm4k7bze5cj206o09sjt9.jpg
+||down12.com^*/bdvert.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 udn.com###ad-pall
@@ -7321,9 +7320,6 @@ jia360.com###adl
 jia360.com###adr
 ahtv.cn,frdic.com,fububu.com,huasing.net,it168.com,piao.com.cn,qinbing.cn###ads
 nownews.com###ads-footer-bar
-dmfans.net###ads_250_250
-dmfans.net###ads_980_90
-dmfans.net###ads_980_90_1
 disp.cc###ads_page_b
 disp.cc###ads_page_r
 libaclub.com###adsame
@@ -9420,7 +9416,6 @@ dl.pconline.com.cn##.dlTips
 gfan.com##.dl_AD
 letv.com##.dl_mobile
 itavcn.com##.dlggw-g
-dmfans.net##.dm_ads_wrap
 moe-acg.cc##.dmengslide-wrapper
 360doc.com##.doc360article_content > div[class]:first-child
 qq.com##.dongfengad
