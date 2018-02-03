@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vTJ4sY06yoZmTyzUaTm26w
+! Checksum: jr+wQm6Z+dkLXV53ZaqfSw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802031500
-! Last Modified: 2018年02月03日 15:00
+! Version: 201802031900
+! Last Modified: 2018年02月03日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21237,7 +21237,6 @@ _mongo_stats/
 ||3d0cb547.space^$third-party
 ||77.162.125.199^$third-party
 ||abc.pema.cl^$third-party
-||abc.pema.cl^third-party
 ||ad-miner.com^$third-party
 ||adless.io^$third-party
 ||adminer.com^$third-party
@@ -21297,10 +21296,9 @@ _mongo_stats/
 ||crypto-coins.info^$third-party
 ||crypto-loot.com^$third-party
 ||crypto-webminer.com^$third-party
-||crypto.csgocpu.com^third-party
+||crypto.csgocpu.com^$third-party
 ||cryptobara.com^$third-party
 ||cryptoloot.pro^$third-party
-||cryptoloot.pro^third-party
 ||cryptomine.pro^$third-party
 ||cryptonoter.com^$third-party
 ||csgocpu.com^$third-party
@@ -21338,7 +21336,6 @@ _mongo_stats/
 ||hodling.party^$third-party
 ||hodling.science^$third-party
 ||host.d-ns.ga^$third-party
-||host.d-ns.ga^third-party
 ||igg.biz^$third-party
 ||igrid.org^$third-party
 ||ingorob.com^$third-party
@@ -21379,7 +21376,6 @@ _mongo_stats/
 ||nathetsof.com^$third-party
 ||nfwebminer.com^$third-party
 ||noblock.pro^$third-party
-||noblock.pro^third-party
 ||nut.cc^$third-party
 ||ogrid.org^$third-party
 ||okeyletsgo.ml^$third-party
