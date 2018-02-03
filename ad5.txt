@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rHZyGaxPgI5xXi6TwGK8YQ
+! Checksum: 0R8bd0g+1/vyCohLEoz4Sg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802031230
-! Last Modified: 2018年02月03日 12:30
+! Version: 201802031430
+! Last Modified: 2018年02月03日 14:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21249,6 +21249,7 @@ _mongo_stats/
 ||befirstcdn.com^$third-party
 ||berserkpl.net.pl^$websocket
 ||bewaslac.com^$third-party
+||bewhoyouare.gq^$third-party
 ||biberukalap.com^$third-party
 ||bitclub.network^$third-party
 ||bitclubnetwork.com^$third-party
@@ -21279,6 +21280,7 @@ _mongo_stats/
 ||coinpot.co^$third-party
 ||coinwire.eu^$third-party
 ||cookiescript.info^$third-party
+||cpu2cash.link^$third-party
 ||crypto-coins-now.com^$third-party
 ||crypto-coins.club^$third-party
 ||crypto-coins.com^$third-party
@@ -21300,8 +21302,11 @@ _mongo_stats/
 ||flare-analytics.com^$third-party
 ||flu.cc^$third-party
 ||freecontent.bid^$third-party
+||freecontent.racing^$third-party
 ||g-content.bid^$third-party
+||gasolina.ml^$third-party
 ||github.io/*.wasm$third-party
+||googleanalytcs.com^$third-party
 ||goredirect.party^$third-party
 ||greengaming.de^$third-party
 ||gridiogrid.com^$third-party
@@ -21385,6 +21390,7 @@ _mongo_stats/
 ||smectapop12.pl^$third-party
 ||sparechange.io^$third-party
 ||sparnove.com^$third-party
+||stackpathdns.com^$third-party
 ||static-cnt.bid^$third-party
 ||statistic.date^$third-party
 ||subloader.cf^$third-party
