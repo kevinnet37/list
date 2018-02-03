@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1RRdqV1SOxE+gk2E+w50HQ
+! Checksum: 1DavIuOr2zAAm/yabCfoOQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201802022030
-! Last Modified: 2018年02月02日 20:30
+! Version: 201802030830
+! Last Modified: 2018年02月03日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -4620,6 +4620,7 @@ mg*.6park.com/img/$image
 ||dxlwwang.com/style/js/jeminMain.
 ||dxrc.cn/ad1/
 ||dxrc.cn/images/sy.gif
+||dy2018.com/js17/
 ||dy2018.com/jsdd/
 ||dydab.com^
 ||dyguo.com/pc/*0.js
@@ -7487,12 +7488,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||dy2018.com/js17/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-zhidao.baidu.com##STYLE[id^="s-m"] + DIV[id^="m"]
-toutiao.com#?#.J_ad
-toutiao.com#?#.J_add
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -12133,6 +12130,7 @@ www.tiexue.net##style + p + div[class]
 tiexue.net##style + script + div + div[class]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##style[id^="s-"] + script + div[id]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##style[id^="s-"] + script + script + div[id]
+zhidao.baidu.com##style[id^="s-m"] + div[id^="m"]
 3773.com.cn##table:nth-child(4) > tbody > tr > td[width="280"] > table > tbody > tr:nth-child(2n+1)
 cnjxol.com##table[background$="/searchbg.gif"] ~ table[height="5"]
 rmdown.com##table[bgcolor="#003366"]:nth-child(2)
@@ -12217,6 +12215,8 @@ enread.com##td[width="326"][height="250"]
 62422.cn##td[width="760"][height="75"]
 verycd.gdajie.com##th[colspan="3"]
 zhangxinxu.com#?##topadout
+toutiao.com#?#.J_ad
+toutiao.com#?#.J_add
 cartoomad.com##tr:last-child > td[align="right"] > table[width="732"]
 cartomad.com,cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 firefoxchina.cn##ul[track-key="adv_links"]
