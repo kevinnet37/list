@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xemJAlJT1xyM2oVimXLj2w
+! Checksum: 8nVW52ciNI5D9/k9LCdSPg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802040830
-! Last Modified: 2018年02月04日 08:30
+! Version: 201802040900
+! Last Modified: 2018年02月04日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -20733,7 +20733,6 @@ _mongo_stats/
 ||spotmx.com^$third-party
 ||spring.de^$third-party
 ||springmetrics.com^$third-party
-||springserve.com^$third-party
 ||sptag.com^$third-party
 ||sptag1.com^$third-party
 ||sptag2.com^$third-party
@@ -28205,6 +28204,7 @@ $websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.w
 @@||att.com/webtrends/scripts/dcs_tag.js
 @@||audi.co.uk^*/js/tracking/$script
 @@||autoscout24.net/unifiedtracking/ivw.js
+@@||avpwidgets.qbrick.com/playplugins/*/ga/ga.min.js$script
 @@||azure.com/api/*/analytics/$~third-party,xmlhttprequest
 @@||azureedge.net/trackmeet-profilepicture/$image,domain=gotrackmeet.com
 @@||azureedge.net^*/eventtracking.js$domain=crimemapping.com
@@ -28656,6 +28656,7 @@ $websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.w
 @@||pshared.5min.com/Scripts/OnePlayer/Loggers/ComScore.StreamSense.js
 @@||pshared.5min.com/Scripts/OnePlayer/Loggers/ComScore.Viewability.js
 @@||push2check.com/stats.php
+@@||qbrick.com/framework/modules/analytics/analytics.min.js$script
 @@||quantcast.com/wp-content/themes/quantcast/$domain=quantcast.com
 @@||quantserve.com/quant.js$domain=apps.facebook.com|caranddriver.com|g4tv.com|nymag.com|salon.com|theblaze.com
 @@||query.petametrics.com^
