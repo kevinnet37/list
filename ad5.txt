@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZTqx9lx7W2TxVkRTHrLBlg
+! Checksum: oToZCFIOViJAWCUJ5Qx1Xw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802051630
-! Last Modified: 2018年02月05日 16:30
+! Version: 201802060730
+! Last Modified: 2018年02月06日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21268,6 +21268,7 @@ _mongo_stats/
 ||cnhv.co^$third-party
 ||coin-have.com^$third-party
 ||coin-hive.com^$third-party
+||coin-service.com^$third-party
 ||coinblind.com^$third-party
 ||coincheck.com^$third-party
 ||coinerra.com^$third-party
@@ -21300,6 +21301,7 @@ _mongo_stats/
 ||devphp.org.ua^$third-party
 ||dle-news.pw^$third-party
 ||dovinate.top^$third-party
+||duckdns.org^$third-party,websocket
 ||etnhashpool.tk^$third-party
 ||evengparme.com^$third-party
 ||fastcast.nz^$third-party
@@ -21311,6 +21313,7 @@ _mongo_stats/
 ||g-content.bid^$third-party
 ||gasolina.ml^$third-party
 ||github.io/*.wasm$third-party
+||github.io^$third-party,websocket
 ||googleanalytcs.com^$third-party
 ||goredirect.party^$third-party
 ||greengaming.de^$third-party
@@ -21345,9 +21348,11 @@ _mongo_stats/
 ||kedtise.com^$third-party
 ||kinoprofi.org^$third-party
 ||l33tsite.info^$third-party
+||ledhenone.com^$third-party
 ||ledinund.com^$third-party
 ||listat.biz^$third-party
 ||lmodr.biz^$third-party
+||marcycoin.org^$third-party
 ||mataharirama.xyz^$third-party
 ||megabanners.cf^$third-party
 ||mercy.ga^$third-party
@@ -21357,12 +21362,14 @@ _mongo_stats/
 ||minemytraffic.com^$third-party
 ||miner.pr0gramm.com^$third-party
 ||minero-proxy-*.sh^$third-party
+||minero.cc^$third-party
 ||minero.pw^$third-party
 ||minescripts.info^$third-party
 ||minexmr.com^$third-party
 ||mining.best^$third-party
 ||minr.pw^$third-party
 ||mmpool.org^$third-party
+||monerise.com^$third-party
 ||monerominer.rocks^$third-party
 ||moneroocean.stream^$third-party
 ||morningdigit.com^$third-party
@@ -21401,7 +21408,6 @@ _mongo_stats/
 ||smectapop12.pl^$third-party
 ||sparechange.io^$third-party
 ||sparnove.com^$third-party
-||stackpathdns.com^$script,third-party
 ||static-cnt.bid^$third-party
 ||statistic.date^$third-party
 ||subloader.cf^$third-party
@@ -27154,8 +27160,10 @@ $websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|akvideo.s
 ||gus.host/coins.js
 ||hive.tubetitties.com^
 ||miner.nablabee.com^
+||piti.bplaced.net^
 ||rawgit.com/Pocketart/$script,third-party
 ||reactor.cc^*.wasm
+||stackpathdns.com/assets/javascript/cr.js
 ||vidfile.net^$third-party,websocket,xmlhttprequest
 ||abc.com/service/gremlin/js/files/s_code.js?$domain=abc.go.com
 ||adobe.com^*/omniture_s_code.js
