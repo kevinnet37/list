@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oToZCFIOViJAWCUJ5Qx1Xw
+! Checksum: DtAi7fREhLog1VtA5XpKbw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802060730
-! Last Modified: 2018年02月06日 07:30
+! Version: 201802060830
+! Last Modified: 2018年02月06日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -767,6 +767,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||shandongkuntuo.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -5614,6 +5615,7 @@ mg*.6park.com/img/$image
 ||miniye.xjts.cn^
 ||mipengine.baidu.com/common?
 ||misaka.cn^*/600px-
+||missevan.com^$domain=jijidown.com
 ||missyuan.com/sy/
 ||mitbbs.*/servicedata/static_ad.php
 ||mitbbs.*/tggl_img/
@@ -7191,12 +7193,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||missevan.com^$domain=jijidown.com
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-jijidown.com##[-abp-properties="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACaCA"]
-jijidown.com##[-abp-properties="data:image/jpeg;base64,/9j/"]
-jijidown.com##[-abp-properties="data:image/gif;base64,R0lGODlhLAGaAPf/"]
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -11154,6 +11152,9 @@ tingvoa.com##A[href*="/ClickAd?"]
 loldk.com##A[href*="?ADTAG="]
 instrument.com.cn##A[href^="http://image.instrument.com.cn/ad/adweb/AdCount/"]
 3g.cn##A[id^="randomAd_"]
+jijidown.com##[-abp-properties="data:image/gif;base64,R0lGODlhLAGaAPf/"]
+jijidown.com##[-abp-properties="data:image/jpeg;base64,/9j/"]
+jijidown.com##[-abp-properties="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACaCA"]
 tiexue.net##[class*="junph"]
 gamme.com.tw##[class^="sidead_"]
 sina.cn##[data-href*="://sax"]
