@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iJpXWoh8fCXg2Z7YLt4K0g
+! Checksum: U/SxrkotWe99FR75MewLog
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802071000
-! Last Modified: 2018年02月07日 10:00
+! Version: 201802072000
+! Last Modified: 2018年02月07日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -4288,7 +4288,6 @@ mg*.6park.com/img/$image
 ||douyu.com/member/gamegift/gameList/
 ||douyucdn.cn/common/simplayer/assets/effect/cpsUI_
 ||down.admin5.com/z/
-||down12.com/common/js/bdvert.js
 ||down12.com^*/bdvert.js
 ||downbank.cn/js/g.js
 ||downcc.com/images/700060.gif
@@ -8031,7 +8030,7 @@ qidian.com###j-topBgBox
 qidian.com###j-topHeadBox
 yaolan.com###j_focus_img
 tieba.baidu.com###j_light_see_index
-1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com#?##j_p_postlist > :-abp-properties(width: 739px;)
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com#?#.p_postlist > :-abp-properties(width: 739px;)
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_star_bus_before
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_ten_years
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_worldcup_info_banner
@@ -10694,7 +10693,7 @@ i.maxthon.cn##.site-ad-container
 iqiyi.com##.site-title_right
 icoc.cc,icoc.in##.siteAdvertisement_box
 v.qq.com##.site_bg_variety
-hao.qq.com,qq.com##.site_words
+qq.com##.site_words
 findprice.com.tw##.sitemajiad
 hao123.com##.siye
 iask.sina.com.cn##.sj680x90
@@ -11269,8 +11268,6 @@ hacg.wiki,llss.fun,llss.me,llss.tv##a[href^="/gg2/"]
 shaoit.com##a[href^="/go/"]
 acg18.us##a[href^="/jp"]
 96weixin.com##a[href^="/show/ads/"]
-muchong.com##a[href^="a"][target="_blank"][href$=".html"]
-muchong.com##a[href^="a"][target="_blank"][href$=".html"] > img
 muchong.com##a[href^="adlog."] > img[height="90"]
 muchong.com##a[href^="adlog.php?adid="]
 muchong.com##a[href^="alog.php?id="]
@@ -12039,6 +12036,7 @@ gamer.com.tw#@#a[href^="https://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
+@@||dlkoo.com^$generichide
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
