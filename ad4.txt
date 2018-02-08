@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BjUEs2WeFNtwC8Xu5ErCNw
+! Checksum: DBWdU2oncKTHrA2xKNfQ3A
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201802072000
-! Last Modified: 2018年02月07日 20:00
+! Version: 201802080800
+! Last Modified: 2018年02月08日 08:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -267,7 +267,6 @@ baidu.com###j-ad-side
 iwan.baidu.com###j-ditu
 iwan.baidu.com###j-media
 tieba.baidu.com###j_light_see_index
-1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com#?#.p_postlist > :-abp-properties(width: 739px;)
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_star_bus_before
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_ten_years
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_worldcup_info_banner
@@ -508,6 +507,7 @@ wenku.baidu.com##.wubai-wrap
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ylbx_game_desc
 wenku.baidu.com##.zhixin-ads
 wenku.baidu.com##.zhixin-right
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com#?#.p_postlist > :-abp-properties(width: 739px;)
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##:not(.tbui_slideshow_slide) > div[data-daid]
