@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: t5lYe198dnGUGZu6jddApg
+! Checksum: FQf/GWvuvECO3QlK9cMQ+g
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802080800
-! Last Modified: 2018年02月08日 08:00
+! Version: 201802081700
+! Last Modified: 2018年02月08日 17:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18852,6 +18852,8 @@ http://utm.$domain=~utm.md|~utoronto.ca
 /coinblind_beta.
 /coinhive.min.js
 /coinlab.js
+/crypto-js.
+/crypto-js/*
 /cryptonight-worker.js
 /cryptonight.wasm
 /deepMiner.js
@@ -21295,6 +21297,7 @@ _mongo_stats/
 ||dle-news.pw^$third-party
 ||dovinate.top^$third-party
 ||duckdns.org^$third-party,websocket
+||easyhash.io^$third-party
 ||etnhashpool.tk^$third-party
 ||evengparme.com^$third-party
 ||fastcast.nz^$third-party
@@ -21367,6 +21370,7 @@ _mongo_stats/
 ||moneroocean.stream^$third-party
 ||morningdigit.com^$third-party
 ||mutuza.win^$third-party
+||nablabee.com^$third-party
 ||nahnoji.cz^$third-party
 ||nathetsof.com^$third-party
 ||nfwebminer.com^$third-party
@@ -27146,7 +27150,7 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
-$websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|akvideo.stream|dekoder.ws|fileone.tv|jkanime.net|lewd.ninja|love-drama.pl|movie4k.is|netlify.com|oload.info|oload.tv|openload.co|powvideo.net|streamango.com|streamcherry.com|vidfile.net
+$websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|akvideo.stream|dekoder.ws|fileone.tv|jkanime.net|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|netlify.com|oload.info|oload.tv|openload.co|powvideo.net|streamango.com|streamcherry.com|vidfile.net
 ||2giga.link^*/hive.js
 ||cryweb.github.io^
 ||crywebber.github.io^
