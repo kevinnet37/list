@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BNfd8hi/cZLMltuQkvXTbg
+! Checksum: PghSLRLhTA0TpU9LVB+oog
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201802091230
-! Last Modified: 2018年02月09日 12:30
+! Version: 201802091330
+! Last Modified: 2018年02月09日 13:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -4246,7 +4246,6 @@ mg*.6park.com/img/$image
 ||eastmoney.com/js/headbiggg_
 ||eastmoney.com/js/news_fixed_
 ||eat-travel.com.tw^$third-party
-||ebiotrade.com/jslibrary/js
 ||ebiotrade.com/netother/sy2013.ashx?type=quanping
 ||ebiotrade.com/newsf/js/inpic.js
 ||ebiotrade.com/newsf/js/news_top_banner.js
@@ -7077,6 +7076,8 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||miguyu.com/AD/
+||ebioweb.com/jslibrary/js
+||ebiotrade.com/jslibrary/js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 ydss.cn###jd_test
@@ -12156,7 +12157,6 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||e701.net^$script,domain=2mn.im
 @@||e701.net^*=300&$subdocument,domain=2mn.im
 @@||e70123.com^$script,domain=2mn.im
-@@||ebiotrade.com/jslibrary/js44.js
 @@||ecitic.com/source/*/pop
 @@||ecma.bdimg.com/holmes/*.svg
 @@||eden.international/script/ad_banner/
