@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: v9hJw7DPqBFRLZ6u1OJ5VQ
+! Checksum: IGRu+mRlYLO4ApAY8hE6OQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802101100
-! Last Modified: 2018年02月10日 11:00
+! Version: 201802102000
+! Last Modified: 2018年02月10日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15679,6 +15679,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /analytics.gif?
 /analytics.google.js
 /analytics.html?
+/analytics.init.js
 /analytics.min.
 /analytics.php.
 /analytics.php?
@@ -16301,6 +16302,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /didna-pixel-
 /disp_cnt.
 /dispatch.fcgi?
+/diva-analytics.js
 /divolte.js
 /dl_counter.
 /dla_tracker.
@@ -27157,7 +27159,7 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
-$websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|akvideo.stream|dekoder.ws|fileone.tv|jkanime.net|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|netlify.com|oload.info|oload.tv|openload.co|powvideo.net|streamango.com|streamcherry.com|vidfile.net
+$websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|akvideo.stream|dekoder.ws|fileone.tv|jkanime.net|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|netlify.com|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|vidfile.net
 ||2giga.link^*/hive.js
 ||cryweb.github.io^
 ||crywebber.github.io^
@@ -27167,6 +27169,7 @@ $websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|akvideo.s
 ||piti.bplaced.net^
 ||rawgit.com/Pocketart/$script,third-party
 ||reactor.cc^*.wasm
+||shrink-service.it/js/cM.js
 ||stackpathdns.com/assets/javascript/cr.js
 ||vidfile.net^$third-party,websocket,xmlhttprequest
 ||abc.com/service/gremlin/js/files/s_code.js?$domain=abc.go.com
