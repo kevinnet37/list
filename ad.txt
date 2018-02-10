@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xIS88bL/B7ji9p3gGsMitg
+! Checksum: 16OZHKlOP7c8bK2yjU+wkA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201802102130
-! Last Modified: 2018年02月10日 21:30
+! Version: 201802102200
+! Last Modified: 2018年02月10日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -5708,8 +5708,6 @@ mg*.6park.com/img/$image
 ||lagou.com/js/cooperation/
 ||laiqi.net/templets/wap/js/laiqi.js
 ||laixi.com/tp/20
-||lancdn.com/ptm1/
-||lancdn.com/tmp
 ||language-center.com.tw/udn/
 ||langxi.org/langxi/*900$image,object
 ||langya.cn/2014html/2014ad_
@@ -7493,7 +7491,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||lancdn.com/landian/banner/tools/
+||lancdn.com/ptm
 !------------------------Specific element hiding rules------------------------!
+landiannews.com##DIV[class^="NOTICE"]
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -9010,7 +9011,6 @@ edu.qq.com##.L
 cwan.com##.L_ad_12
 cwan.com##.L_ad_22
 shenchuang.com##.MainR_ad3
-landiannews.com##.NOTICE1
 07073.com##.No1
 bing.com##.OpInNwWndw
 chinaz.com##.Postcon-ad
@@ -10557,7 +10557,6 @@ v.qq.com##.module-image[style*="width:1240px;"]
 i.maxthon.cn##.module.tools-main[data-s-n="bottom"]
 autohome.com.cn##.monkey_box
 autohome.com.cn##.monkey_box_big
-landiannews.com##.more
 tiexue.net##.moveBox
 jmw.com.cn##.mr_1
 zhuangpin.com##.mr_ad
