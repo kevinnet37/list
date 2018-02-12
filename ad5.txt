@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: j5fuEBphQL3UWaoztk0pMQ
+! Checksum: YWBR1elYzYJzfIo7uHc9kw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802121900
-! Last Modified: 2018年02月12日 19:00
+! Version: 201802122000
+! Last Modified: 2018年02月12日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6282,7 +6282,6 @@ mg*.6park.com/img/$image
 ||sinaimg.cn/large/$domain=360zhibo.com|btshoufa.net|chakd.com|qqlubo.net|seehd.so|zhainanfulishe.net
 ||sinaimg.cn/large/*.gif$domain=henbt.com|mp4ba.la
 ||sinaimg.cn/large/005EuLLtgw1eji5kzbgvlg30r801ogpy.gif
-||sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo.gif
 ||sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0.gif
 ||sinaimg.cn/large/00637iPCgy1fgkzscfre3g30qo01odre.gif
 ||sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w.gif
@@ -7199,6 +7198,7 @@ mg*.6park.com/img/$image
 ||bdstatic.com/static/searchresult/widget/pageDisorderTip/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+5dm.tv##A > IMG[src*=".sinaimg."]
 sina.com.cn###tg_tiger
 xitongcheng.com##.hzj_adv
 hc360.com,yaolan.com###AD
@@ -17828,7 +17828,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /small.gif?type
 /smarta.
 /smartpixel-1.js
-/smartpixel.
+/smartpixel.$domain=~smartpixel.tv
 /smartserve-
 /smarttag-prod.
 /smarttag.js
