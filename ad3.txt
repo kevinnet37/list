@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FQSS7kvhnduzjYZiTA/bkA
+! Checksum: /MveW7NFV093YfCfC9lQRg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201802130900
-! Last Modified: 2018年02月13日 09:00
+! Version: 201802131930
+! Last Modified: 2018年02月13日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -3454,8 +3454,8 @@ mg*.6park.com/img/$image
 ||alicdn.com/app/wxbpromotion/*/js/cpm/cpm_jq.js
 ||alicdn.com/g/mm/afp-cdn/JS/
 ||alicdn.com/imgextra/i1/3491683832/TB2A4QaisjI8KJjSsppXXXbyVXa_
-||alicdn.com/mt/TB1onkZXz3z9KJjy0FmXXXiwXXa-529-46.png
-||alicdn.com/tfs/TB16PHEaBfH8KJjy1XbXXbLdXXa-467-150.png
+||alicdn.com/tfs/TB1yql1kgvD8KJjy0FlXXagBFXa-234-71.png
+||alicdn.com/tfs/TB1OuRKkm_I8KJjy0FoXXaFnVXa-525-48.png
 ||alicdn.com/tps/*-950-90.
 ||alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
 ||alicdn.com/tps/TB19bnbJVXXXXXhXXXXXXXXXXXX-860-100.gif
@@ -7082,8 +7082,12 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+|https:$subdocument,domain=nod32key.xyz
+||popads.net^$domain=nod32key.xyz
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+nod32key.xyz##.AdBanner
+nod32key.xyz##.mobile-ad
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -12276,7 +12280,7 @@ gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
 @@||netsh.org^$script,~third-party,xmlhttprequest,domain=serve.netsh.org
 @@||news.u17i.com/advert/
 @@||noahedu.com/ad/$domain=noahedu.com
-@@||nod32key.xyz^$generichide
+@@||nod32key.xyz^$genericblock,generichide
 @@||nthu.edu.tw^*ad
 @@||omusic.com.tw/backend/uploadpic/adindex/
 @@||online.unionpay.com/ads/$script
