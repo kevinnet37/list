@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: A8VlRXPaQuWkaICijDjOpQ
+! Checksum: 4WC/G2r1ia6uozDEuyjfNA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802141700
-! Last Modified: 2018年02月14日 17:00
+! Version: 201802150730
+! Last Modified: 2018年02月15日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -26380,7 +26380,7 @@ _mongo_stats/
 ||rambler.ru/cnt/
 ||rangers.co.uk^*/tracking.js
 ||rarefilmfinder.com^*/cnt-gif1x1.php
-||rat.rakuten.co.jp^
+||rat.rakuten.co.jp^$~xmlhttprequest
 ||razor.tv/site/servlet/tracker.jsp
 ||rd.meebo.com^
 ||reachlocal.com/js/tracklandingpage.js
@@ -27918,7 +27918,7 @@ $websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|ajplugins.com|akvideo.s
 ||ln.ameba.jp^
 ||mtc.nhk.or.jp^
 ||nhk.or.jp^*/bc.js
-||ppf.rakuten.co.jp^
+||ppf.rakuten.co.jp^$~script
 ||rakuten.co.jp/gw.js
 ||sankei.co.jp/js/analytics/
 ||seesaawiki.jp/img/rainman.gif?
