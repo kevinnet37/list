@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: A/+gDKoSnxswa/Ipxeg/UQ
+! Checksum: eFbymjRhmksRugCIpMWiGA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802151830
-! Last Modified: 2018年02月15日 18:30
+! Version: 201802151900
+! Last Modified: 2018年02月15日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -766,6 +766,9 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
+##A[href*=".123ch.cn"]
+##A[href*=".9xiazaiqi.com"]
+##A[href*=".qpzqxz.com"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 .cn/show?id=$script,third-party
@@ -7205,6 +7208,13 @@ mg*.6park.com/img/$image
 ||mwsl.org.cn/wp-content/uploads/*-250
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+188soft.com##.download
+duote.com##.dl_banner
+pc0359.cn##.dl-ico:nth-child(-n+7)
+pc0359.cn##.downnow
+pc0359.cn##.xx_yd
+uzzf.com##.address_like:nth-child(-n+7)
+huacolor.com##.soft-downUrl-list.underline
 pc6.com##.ad-download
 pc6.com##.downnow
 downxia.com###gaosu_div0
