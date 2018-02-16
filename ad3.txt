@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YrrY02BytOfwMnayHZ33CQ
+! Checksum: ajgNPtoSjPwnb8bQbq+ejQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201802160830
-! Last Modified: 2018年02月16日 08:30
+! Version: 201802160930
+! Last Modified: 2018年02月16日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -632,7 +632,7 @@ _xiuno_com_ad/
 ##a[href*=".com/Register?a="]
 ##a[href*=".com?aff="]
 ##a[href*=".com?intr="]
-##a[href*=".qpzqxz.com"]
+##a[href*=".qpzqxz.com/"]
 ~umeng.com##a[href*=".umeng.com"]
 ##a[href*="/?INTR="]
 ##a[href*="/?Intr="]
@@ -655,6 +655,8 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
+##A[href*=".tudown.com/"]
+##A[href*=".222bz.com/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 .cn/show?id=$script,third-party
