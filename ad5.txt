@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PDjcPkPT04MapiY684VRuA
+! Checksum: 2DsnpNxMYG2dkBWYxkyyNw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802170800
-! Last Modified: 2018年02月17日 08:00
+! Version: 201802171300
+! Last Modified: 2018年02月17日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16194,6 +16194,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /CntRpt.aspx?
 /cnvtr.js
 /cnwk.1d/*/apex.js
+/coAnalytics.
 /CofinaHits.
 /cognitive_match/*
 /collect/kf?
@@ -17067,6 +17068,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /log/jserr.php
 /log/log.php?
 /log/p.gif?
+/log/pageview
 /log/report/*
 /log/web?
 /log2.php?
@@ -18256,10 +18258,12 @@ weibo.com##.apps_PCD_reco_detail_right
 /trackimps?
 /tracking-active/*
 /tracking-ad/*
+/tracking-aws.
 /tracking-cookie.
 /tracking-hits.
 /tracking-info.gif?
 /tracking-init.
+/tracking-jquery-shim.
 /tracking-pixel.
 /tracking-pixel/*
 /tracking-portlet/*
@@ -25022,7 +25026,7 @@ _mongo_stats/
 ||airbnb.*/tracking/
 ||airfrance.com/s/?tcs=
 ||airspacemag.com/g/g/button/
-||akamai.net^$script,domain=newscientist.com
+||akamai.net^$script,domain=newscientist.com|upwork.com
 ||akamai.net^*/button.clickability.com/
 ||akamaihd.net/pixelkabam/
 ||alarabiya.net/track_content_
@@ -26522,6 +26526,7 @@ _mongo_stats/
 ||satellite-tv-guides.com/stat/
 ||sayac.hurriyettv.com^
 ||sb.vevo.com^
+||scdn.co/build/js/tracking-
 ||sciencedaily.com/blank.htm
 ||sciencedaily.com/cache.php?
 ||scluster3.cliphunter.com^
@@ -26626,6 +26631,7 @@ _mongo_stats/
 ||sporcle.com/adn/yaktrack.php?
 ||sportingnews.com/px/
 ||sportsmole.co.uk/track*.gif?
+||spotify.com^*/metric
 ||spotlight.accuweather.com^
 ||spreaker.com^*/statistics/
 ||squidoo.com/track/
@@ -27131,6 +27137,7 @@ _mongo_stats/
 ||xbox.com^*/vortex_tracking.js
 ||xda-cdn.com/analytics.js
 ||xda-developers.com/ping.php
+||xfinity.com/event/
 ||xhamster.com/ajax.php?act=track_event
 ||xhamster.com/embed.log/
 ||xhcdn.com/js/track.min.js?
