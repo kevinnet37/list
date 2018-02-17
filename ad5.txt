@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: woHo8SYIHTHsdYAPat0jxQ
+! Checksum: Ds6MvAFi+9pjAR+BdzcGPw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802172330
-! Last Modified: 2018年02月17日 23:30
+! Version: 201802180730
+! Last Modified: 2018年02月18日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21220,6 +21220,7 @@ _mongo_stats/
 ||xyztraffic.com^$third-party
 ||y-track.com^$third-party
 ||yamanoha.com^$third-party
+||yandex-metrica.ru^$third-party
 ||yaudience.com^$third-party
 ||ybotvisit.com^$third-party
 ||ycctrk.co.uk^$third-party
@@ -21279,7 +21280,7 @@ _mongo_stats/
 .trade^$third-party,websocket
 .webcam^$third-party,websocket
 .win^$third-party,websocket
-.xyz^$third-party,websocket,domain=~webtorrent.io
+.xyz^$third-party,websocket,domain=~btorrent.xyz|~webtorrent.io
 .zone^$third-party,websocket
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
@@ -21486,6 +21487,7 @@ _mongo_stats/
 ||sparechange.io^$third-party
 ||sparnove.com^$third-party
 ||static-cnt.bid^$third-party
+||staticsfs.host^$third-party
 ||statistic.date^$third-party
 ||subloader.cf^$third-party
 ||supportxmr.com^$third-party
@@ -27239,7 +27241,7 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
-$websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|dekoder.ws|estream.to|fileone.tv|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|vidfile.net
+$websocket,xmlhttprequest,domain=300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|dekoder.ws|estream.to|fileone.tv|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|vidfile.net
 ||2giga.link^*/hive.js
 ||browsealoud.com/plus/scripts/$script
 ||cryweb.github.io^
