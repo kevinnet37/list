@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2DsnpNxMYG2dkBWYxkyyNw
+! Checksum: T5kUetiCQW9O9vknX1HxmQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802171300
-! Last Modified: 2018年02月17日 13:00
+! Version: 201802171330
+! Last Modified: 2018年02月17日 13:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -24308,6 +24308,7 @@ _mongo_stats/
 ||zoomtv.me^*?pixel=
 ||zoover.co.uk/tracking/
 ||zope.net^*/ghs_wa.js
+||zvsuhljiha-a.akamaihd.net^
 !-----------------International third-party tracking services-----------------!
 ||78.46.19.203^$third-party,domain=~sprueche-zitate.net.ip
 ||adc-srv.net/retargeting.php
@@ -25026,7 +25027,7 @@ _mongo_stats/
 ||airbnb.*/tracking/
 ||airfrance.com/s/?tcs=
 ||airspacemag.com/g/g/button/
-||akamai.net^$script,domain=newscientist.com|upwork.com
+||akamai.net^$script,domain=argos.co.uk|newscientist.com|upwork.com
 ||akamai.net^*/button.clickability.com/
 ||akamaihd.net/pixelkabam/
 ||alarabiya.net/track_content_
@@ -26584,6 +26585,7 @@ _mongo_stats/
 ||sixpack.udimg.com^
 ||sky.com^*/hightrafficsurveycode.js
 ||sky.com^*/incomeGeneratingDevicesExpanding.js
+||sky.com^*/metrics/
 ||skype.com^*/inclient/
 ||skype.com^*/track_channel.js
 ||skypeassets.com/i/js/jquery/tracking.js
@@ -27079,6 +27081,7 @@ _mongo_stats/
 ||webcamgalore.com/aslog.js
 ||webcollage.net/apps/el?
 ||webcrawler.com/__kl.gif
+||webengage.sky.com^$xmlhttprequest
 ||webjam.com/Actions/Hit.jam?
 ||weblog.strawberrynet.com^
 ||weblogger01.data.disney.com^
