@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: O1MOLRxYNM0BPJ36QVcKZw
+! Checksum: a4Ebh9MZXb0qJB6JkITWqA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802181700
-! Last Modified: 2018年02月18日 17:00
+! Version: 201802181730
+! Last Modified: 2018年02月18日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -4359,12 +4359,7 @@ mg*.6park.com/img/$image
 ||e.yycqc.com^
 ||e0514.com/data/attachment/portal/
 ||e0514.com/gglist/
-||e0575.cn/images/v1/dl/
-||e0575.cn/js/advBigPopup/
-||e0575.cn/js/float.js
-||e0575.com/attachment/image/*_flash.swf
 ||e0575.com/index.php
-||e0575.com/pic/AD_
 ||e23.cn/js/aaa.js
 ||e3ol.com/inc/
 ||e4dy.com/style/
@@ -5084,8 +5079,6 @@ mg*.6park.com/img/$image
 ||img1.126.net^
 ||img1.jczqw.com/img/
 ||img2.126.net^
-||img2.e0575.com*/upload/image/
-||img2.e0575.com//upload/adv/
 ||img2.plures.net^*.gif
 ||img2.titan007.com^
 ||img2.win007.com/image/*.jpg
@@ -5490,7 +5483,6 @@ mg*.6park.com/img/$image
 ||licai18.com/images/Licai-
 ||licai18.com/pic/*.swf
 ||liepin.com/event/jobadver/
-||life.e0575.com^
 ||lihuasoft.net/images/ad_
 ||liisex.com/images/banners/
 ||linecg.com/uploads/banner/
@@ -7225,6 +7217,8 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||javhub.net/img/r18_banner1.jpg
+||e0575.com/attachment/image/
+||e0575.cn/js/corea/jquery.popup.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -8462,7 +8456,6 @@ showtv.com.tw###sub-ad
 yxdown.com###sy
 windowszj.com###system_type
 tom365.com,tw116.com###t365
-e0575.cn###t_2 + .tac
 voicetube.com###tab-ad-site
 sogou.com###tab857
 ezvivi.com###table1[width="336"]
@@ -10881,7 +10874,6 @@ iqiyi.com##.thumbnail_item[href^="http"]:not([href*=".iqiyi.com/"])
 news.qq.com##.time > a[style="position: absolute;top: -8px;left: 296px;"]
 2345.com,hao774.com##.tip_stopXP
 mail.qq.com##.tipbook-top
-e0575.cn##.tips
 3gsc.com.cn##.tipsA
 gamefy.cn,sitv.com.cn##.tit > span[style="float:right; width:285px;"]
 asp300.com##.tit01 > a
