@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eJot5CXoB4rP2FfTQOsGlQ
+! Checksum: B3GtopMaMP0czl0Dg16J7Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802182130
-! Last Modified: 2018年02月18日 21:30
+! Version: 201802190730
+! Last Modified: 2018年02月19日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16868,6 +16868,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /impression.pl?
 /impression.track?
 /impression/widget?
+/impression?*.loadAds&
 /impression?bid
 /impression_tracker.
 /impression_tracking.
@@ -17063,6 +17064,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /log/report/*
 /log/web?
 /log2.php?
+/Log?*&adID=
 /log?action=
 /log?data=
 /log?documentUrl=
@@ -20153,6 +20155,7 @@ _mongo_stats/
 ||m-pathy.com^$third-party
 ||m1ll1c4n0.com^$third-party
 ||m6r.eu^$third-party
+||mabipa.com^$third-party
 ||macandcheeseandads.com^$third-party
 ||magiq.com^$third-party
 ||magnetmail1.net^$third-party
@@ -22373,6 +22376,7 @@ _mongo_stats/
 ||208.91.157.30/viewtrack/
 ||209.15.236.80^$third-party,domain=~crosspixelmedia.ip
 ||213.8.137.51/Erate/$third-party,domain=~ynet-il.ip
+||216.18.176.4/logger/
 ||219.232.238.60/count.$domain=~caixin.com.ip
 ||23.20.0.197^$third-party,domain=~tritondigital.net.ip
 ||23.23.22.172/ping/$third-party,domain=~newjerseynewsroom.com.ip
@@ -22797,6 +22801,7 @@ _mongo_stats/
 ||cloudfront.net/rc.js?
 ||cloudfront.net/rum/bacon.min.js
 ||cloudfront.net/sentinel.js
+||cloudfront.net/sitegainer_
 ||cloudfront.net/sso.js
 ||cloudfront.net/track.html
 ||cloudfront.net/track?
@@ -22899,6 +22904,7 @@ _mongo_stats/
 ||d10lpsik1i8c69.cloudfront.net^
 ||d169bbxks24g2u.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
+||d191y0yd6d0jy4.cloudfront.net^
 ||d1cdnlzf6usiff.cloudfront.net^
 ||d1cerpgff739r9.cloudfront.net^
 ||d1clfvuu2240eh.cloudfront.net^
@@ -26550,6 +26556,7 @@ _mongo_stats/
 ||search.usa.gov/javascripts/stats.js
 ||search.yahoo.com/ra/click?
 ||searchenginewatch.com/utils/article_track/
+||searchyc-naity.ru/analytics.js
 ||seatgeek.com/sixpack/participate?
 ||secondspace.com^*/blank.gif
 ||securepaynet.net/image.aspx?
@@ -28431,6 +28438,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net
 @@||docodoco.jp^*/docodoco?key=$script,domain=nidec-copal-electronics.com
 @@||dopemagazine.com/wp-content/plugins/masterslider/public/assets/css/blank.gif?
 @@||doubleclick.net/activityi;src=$object-subrequest,domain=cicispizza.com
+@@||dplay.com^*/comscore.streaming.min.js
 @@||dplay.com^*/google_analytics.js
 @@||dpm.demdex.net/id?$script,domain=gamespot.com
 @@||dtdc.in/tracking/tracking_results_$subdocument,domain=dtdc.com
