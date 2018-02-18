@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BH3ytLr+Job7bn88DC11RQ
+! Checksum: TuM2pRcRvoWZrAUGGMIbYQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201802182100
-! Last Modified: 2018年02月18日 21:00
+! Version: 201802182130
+! Last Modified: 2018年02月18日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -9639,7 +9639,6 @@ sina.com.cn##.gamead1
 qidian.com##.games-op-wrap
 cpbl.com.tw##.gap_t10
 so.com##.garllery_ad
-epinv.com##.gave
 115.com##.gb-advs
 qzone.qq.com##.gb-bill-area
 sucaijiayuan.com##.gbox1000
@@ -12210,7 +12209,6 @@ myself-bbs.com#@##adsense
 @@||edu.cn/epstar/*/gg/
 @@||eiv.baidu.com/hmt/icon/21.gif
 @@||emome.net/files/advertising/
-@@||epinv.com/dl/$genericblock
 @@||exoclick.com/iframe.php?idzone=*&size=468x60$domain=porn77.info
 @@||exosrv.com/ads-iframe-display.$script,domain=avgle.com
 @@||exosrv.com/ads-iframe-display.php?idzone=2725470&$subdocument,domain=avgle.com
