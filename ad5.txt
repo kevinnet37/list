@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: j/RmLg94ji98rc+01GFvNA
+! Checksum: FNBSmojN7JKdC8Rp0cwtXg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802182030
-! Last Modified: 2018年02月18日 20:30
+! Version: 201802182100
+! Last Modified: 2018年02月18日 21:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7217,6 +7217,7 @@ mg*.6park.com/img/$image
 ||javhub.net/img/r18_banner1.jpg
 ||e0575.com/attachment/image/
 ||e0575.cn/js/corea/jquery.popup.js
+||epinv.com/wp-content/themes/ep/tu/hkw.jpg
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 eworldship.com##.topbanner
@@ -21269,6 +21270,7 @@ _mongo_stats/
 .space^$third-party,websocket
 .stream^$third-party,websocket
 .tk^$third-party,websocket
+.top^$third-party,websocket
 .trade^$third-party,websocket
 .webcam^$third-party,websocket
 .win^$third-party,websocket
@@ -21277,6 +21279,7 @@ _mongo_stats/
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
 ||1q2w3.me^$third-party
+||1q2w3.top^$third-party
 ||300ca0d0.space^$third-party
 ||310ca263.space^$third-party
 ||320ca3f6.space^$third-party
@@ -21318,6 +21321,7 @@ _mongo_stats/
 ||byebye.ml^$third-party
 ||c0i8h8ac7e.bid^$third-party
 ||candid.zone^$third-party
+||cdn-jquery.host^$third-party
 ||cdnfile.xyz^$third-party
 ||chainblock.science^$third-party
 ||chmproxy.bid^$third-party
@@ -26097,6 +26101,7 @@ _mongo_stats/
 ||metro.us/api/trackPage/
 ||metroweekly.com/tools/blog_add_visitor/
 ||mf2fm.com/php/stats.php?
+||microsoft.com/_log?
 ||microsoft.com/blankpixel.gif
 ||microsoft.com/click/
 ||microsoft.com/collect/
@@ -27235,7 +27240,7 @@ _mongo_stats/
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
 $websocket,domain=300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|vidfile.net
-$xmlhttprequest,domain=alltube.tv
+$xmlhttprequest,domain=alltube.tv|powvideo.net
 ||2giga.link^*/hive.js
 ||browsealoud.com/plus/scripts/$script
 ||cryweb.github.io^
