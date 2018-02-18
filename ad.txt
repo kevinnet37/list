@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zXOOWddrw/z2Tk93VbM32w
+! Checksum: N1N1O4EMbZkN9S4giKVYfw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201802172330
-! Last Modified: 2018年02月17日 23:30
+! Version: 201802181030
+! Last Modified: 2018年02月18日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12389,6 +12389,7 @@ gamer.com.tw#@#a[href^="http://bs.serving-sys.com/"]
 gamer.com.tw#@#a[href^="https://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk,m.gamer.com.tw#@#div[id^="div-gpt-ad"]
+myself-bbs.com#@##adsense
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
