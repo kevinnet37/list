@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DUKH/Lf6eqzc9hqHYaJLtg
+! Checksum: /7HTjAJmzJ4bIhvH9lBo7w
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201802190830
-! Last Modified: 2018年02月19日 08:30
+! Version: 201802191030
+! Last Modified: 2018年02月19日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -9747,13 +9747,10 @@ eweiqi.com##.guoqing
 21cn.com##.h-gg
 999.com##.h-test
 ting56.com##.h1000
-www.eastmoney.com##.h160
 ting56.com##.h336
 hebei.com.cn##.h50px
-www.eastmoney.com##.h60
 mumayi.com##.h80
 jjwxc.net##.h8px + div[align="center"]
-www.eastmoney.com##.h90
 cnblogs.com##.h_ads
 kekenet.com##.h_news_c
 bkill.com##.half-ads
@@ -9947,7 +9944,7 @@ sogou.com##.jd-box
 tiexue.net##.jiangWuTang + .mTop10
 jin10.com##.jin-jads
 oschina.net##.jj
-eastmoney.com##.jjph_box
+eastmoney.com##.jjph_important
 m.autohome.com.cn##.jmp-promote
 qq.com##.jpBanner
 ifeng.com##.jp_list
