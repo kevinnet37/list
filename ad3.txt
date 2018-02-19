@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /7HTjAJmzJ4bIhvH9lBo7w
+! Checksum: +YSaW3BD5aYIgXWRWzkAzQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201802191030
-! Last Modified: 2018年02月19日 10:30
+! Version: 201802191130
+! Last Modified: 2018年02月19日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -4325,7 +4325,6 @@ mg*.6park.com/img/$image
 ||ettoday.net^*/ad/
 ||everyonepiano.cn/Public/*0x
 ||eweiqi.com/affiche.
-||eworldship.com/uploadfile/cbw/2016/0822/0822.swf
 ||eyuyao.com/yyad/
 ||ezaozi.com/detail/*.js
 ||ezprice.com.tw/ezysm/
@@ -4363,7 +4362,6 @@ mg*.6park.com/img/$image
 ||fff.yuyouge.com^
 ||ffsky.net^$domain=moe-acg.cc
 ||fh21.com.cn/partners/
-||fharr.com/assets/plugins/BlockAdBlock/
 ||file.cloud.sogou.com/*/superzone/
 ||file.ws.126.net/house/jn/*.swf
 ||file.ws.126.net/house/nj/*.swf
@@ -4419,13 +4417,10 @@ mg*.6park.com/img/$image
 ||fun8.us^$domain=cartomad.com|cartonmad.com|cartoomad.com|cartoonad.com|cartoonmad.com|comicnad.com
 ||func.tw/image/func2.png
 ||funtude.com/include/inc/ad_data.
-||fwindy.win/asd/
-||fwindy.win/js/s*.gif
 ||fwxgx.com/u/ad/show_type/
 ||fx114.net/images/bangbaotao.jpg
 ||fx678.com/proxy
 ||fxxz.com/skin/know/
-||fydisk.com/img/*.gif
 ||fzbm.com/bbs/static/js/bma.js
 ||fzlol.com/images/$script
 ||fzpchome.com/txt/$script
