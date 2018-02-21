@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IeTN8LE800llvluw7LGV9w
+! Checksum: 1xdBL9/JqaEvH3ZonDNxhA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802210900
-! Last Modified: 2018年02月21日 09:00
+! Version: 201802210930
+! Last Modified: 2018年02月21日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6117,7 +6117,7 @@ mg*.6park.com/img/$image
 ||rfidworld.com.cn/js/a.js
 ||rfidworld.com.cn/js/b.js
 ||rfidworld.com.cn/js/c.html
-||rfmet.com/tb/
+||g-years.com/tb/
 ||rh.qq.com^
 ||rhehe.com/imge/*.gif
 ||riaoao2.com/topjs/
@@ -17089,6 +17089,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /LogImpression?
 /logLoad/?
 /LogMediaClick?
+/logo.gif?a=
 /LogPage.aspx?
 /logprogress.
 /logpstatus.
@@ -18342,6 +18343,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /trackpxl?
 /trackr.swf
 /TrackShopAnalytics.
+/tracksrk.
 /trackstats?
 /tracksubprop.
 /trackTimings.gif?
@@ -25208,6 +25210,7 @@ _mongo_stats/
 ||beacons.vessel-static.com/xff?
 ||beacons.vessel-static.com^*/pageView?
 ||beap-bc.yahoo.com^
+||beeg.com/logo.gif?
 ||bench.uc.cn^
 ||bermudasun.bm/stats/
 ||bestofmedia.com/i/tomsguide/a.gif
