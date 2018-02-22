@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IUUBmq0opXz4xGzb2So6jQ
+! Checksum: 3ULDZ48qb/PzoXnu47leog
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802221200
-! Last Modified: 2018年02月22日 12:00
+! Version: 201802221230
+! Last Modified: 2018年02月22日 12:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15909,6 +15909,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /betamax_tracker.gif?
 /betamax_tracker.js
 /bg_j.gif?
+/bglog.gif?
 /bh_counter.js
 /bi.tracking/*
 /bicomscore.
@@ -16457,6 +16458,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /exittracker.
 /exittraffic.
 /expcount/*
+/expose.gif?
 /extBnr.gif?
 /extendedAnalytics.
 /external-promo-metrics.
@@ -16630,6 +16632,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /get_statistics.php?screen_width=
 /get_tracking_id?
 /get_tracking_url.
+/getbglog.js
 /getclicky.
 /getclicky_
 /getPixels?*&referer=
@@ -17004,6 +17007,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /log-reporter.
 /log-view.
 /Log.ashx?
+/log.aspx?
 /log.bi?
 /log.cfm?
 /log.collect.
@@ -17245,6 +17249,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /newlog.php?
 /newscount/*
 /newSophus/*
+/newsstat/*
 /newstat/*
 /newstatsinc.
 /nextPerformanceRetargeting.
@@ -17285,6 +17290,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /null.gif?
 /numericAnalyticsFramework.
 /o_code.js
+/o_tealium.
 /oas_analytics.
 /object_stats.
 /observations/capture?
@@ -18424,6 +18430,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /URLSplitTrack?
 /us.gif?
 /userfly.js
+/UserTraceCookie?
 /usertrack.aspx?
 /usertracking.js
 /usertrackingajax.php?
@@ -18659,6 +18666,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /WWTracking_
 /wysistat.js
 /wz_logging.
+/x/x.gif?
 /xboxcom_pv?c=$image
 /xgemius.
 /xgemius_lv.
@@ -21906,6 +21914,7 @@ _mongo_stats/
 ||clicki.cn^$third-party
 ||cnzz.net^$third-party
 ||cr-nielsen.com^$third-party
+||ctags.cn^$third-party
 ||datamaster.com.cn^$third-party
 ||emarbox.com^$third-party
 ||eyeota.net^$third-party
@@ -22167,6 +22176,7 @@ _mongo_stats/
 ||24log.ru^$third-party
 ||24smi.info^$third-party
 ||2ip.ua^$third-party
+||3wnp9.ru^$third-party
 ||a-counter.com.ua^$third-party
 ||a-counter.kiev.ua^$third-party
 ||adx.com.ru^$third-party
@@ -24567,6 +24577,7 @@ _mongo_stats/
 ||da.netease.com^
 ||dw.cbsi.com.cn^$third-party
 ||etwun.com:8080/counter.php?
+||g.yccdn.com^
 ||haostat.qihoo.com^
 ||idigger.qtmojo.com^
 ||ifengimg.com/sta_collection.*.js
@@ -25161,6 +25172,7 @@ _mongo_stats/
 ||autosite.com/scripts/markerfile.bin?
 ||autotrader.co.uk/page-tracking/
 ||autotrader.co.za/log/
+||autozone.com^*/analytics.js
 ||avg.com^*/stats.js
 ||avira.com/site/datatracking?
 ||avitop.com^*/hitlist.asp
@@ -27716,6 +27728,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net
 ||baofeng.com/script/baidu_
 ||bc.qunar.com^
 ||bdwblog.eastmoney.com^
+||bglog.bitauto.com^
 ||btrace.qq.com^
 ||cast.ra.icast.cn^
 ||cdn.baidupcs.com/monitor.jpg?
@@ -27771,6 +27784,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net
 ||letv.com/op?
 ||log*.ku6.com^
 ||log.51cto.com^
+||log.bitauto.com^
 ||log.flight.qunar.com^
 ||log.kuwo.cn^
 ||log.ynet.com^
