@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3ULDZ48qb/PzoXnu47leog
+! Checksum: PNM34eye8+g3H0hnvW/0vQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802221230
-! Last Modified: 2018年02月22日 12:30
+! Version: 201802221300
+! Last Modified: 2018年02月22日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -777,6 +777,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||walibao.com^$third-party
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -4630,7 +4631,6 @@ mg*.6park.com/img/$image
 ||gongfupian.com/js/wuxiatui/
 ||gongfupian.com/template/new2014/gftui/
 ||goods.tudou.com/api?
-||gopher.qiniudn.com/bar/submail-
 ||goproxy.cc/api.php
 ||goto.www.iciba.com^
 ||gotourl.xyz^
@@ -15289,12 +15289,16 @@ weibo.com##.apps_PCD_reco_detail_right
 .be/uts/
 .beacon.min.js
 .cc/s.gif?
+.cn/0.gif?
 .cn/1.gif?
 .cn/2.gif?
 .cn/a.gif?
 .cn/b.gif?
+.cn/jc.gif?
+.cn/pv.gif?
 .cn/r.gif?
 .cn/s.gif?
+.cn/sl.gif?
 .cn/z.gif?
 .co/e.gif?
 .com.au/HG?hc=
@@ -16908,6 +16912,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /Javascript/ga.js
 /javascripts/ga.js
 /javascripts/tracking_
+/jc.gif?1=
 /jcaffiliatesystem/*
 /jgs_portal_log_bildschirm.php?
 /jkidd_cookies?
@@ -17555,6 +17560,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /public/visitor/create?
 /pubstats.
 /pushlog.
+/pv.gif?1=
 /pv.gif?url
 /pv.txt?
 /pv/new?
@@ -17836,6 +17842,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /skstats-
 /skstats_
 /skype-analytics.
+/sl.gif?1=
 /slimstat/*
 /small.gif?type
 /smarta.
@@ -27806,6 +27813,8 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net
 ||pptv.com/stg/add?
 ||pptv.com/webdelivery/
 ||pv.ltn.com.tw^
+||pv.xcar.com.cn^
+||pvx.xcar.com.cn^
 ||qq.com/kvcollect?
 ||qq.com/p?
 ||qq.com/qqcom/
