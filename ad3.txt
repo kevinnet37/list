@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Sj82r4ixg6L+x7yBIUdOsA
+! Checksum: TfFzfYCulaKaFEzkDiPKBA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201802221900
-! Last Modified: 2018年02月22日 19:00
+! Version: 201802222100
+! Last Modified: 2018年02月22日 21:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -4522,10 +4522,10 @@ mg*.6park.com/img/$image
 ||gotourl.xyz^
 ||gougou2018.com/js/item
 ||gouhb.com/skin/jww/images/20141029114*.png
-||goupu.org/1commonfile/*.gif
-||goupu.org/1commonfile/*.htm
-||goupu.org/1commonfile/*.swf
-||goupu.org/1commonfile/guidebar/
+||goupu.org/1files/*.swf
+||goupu.org/1files/guidebar/
+||goupu.org/1files/*.htm
+||goupu.org/1files/*.gif
 ||gp.jstv.com^
 ||gpcxw.com/file/js/img/*.gif
 ||gpsuu.com/yhj.gif
@@ -5931,7 +5931,6 @@ mg*.6park.com/img/$image
 ||qq.com/games/videogame.htm
 ||qq.com/getadv.
 ||qq.com/happyfarm/hotspot_v_9.swf
-||qq.com/iframe/player.$subdocument,domain=gdmm.com
 ||qq.com/Index/getAdsAndHotspot
 ||qq.com/livemsg?
 ||qq.com/minivideo_v1/vd/res/enttencentvideo.xml
@@ -10571,7 +10570,6 @@ uraban.me##.sider > a
 qq.com##.sider_ad
 docin.com##.sider_gg
 mopxing.com##.sideul1
-gdmm.com##.sign > li > a[href^="http://bbs.gdmm."]
 aibang.com##.similarlike
 sina.com.cn##.sinaads
 uuu9.com##.sindex_ad1
