@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: c9UX/P6dg/CEaQrFFLbmWw
+! Checksum: IUUBmq0opXz4xGzb2So6jQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802221030
-! Last Modified: 2018年02月22日 10:30
+! Version: 201802221200
+! Last Modified: 2018年02月22日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16117,6 +16117,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /client-event.axd?
 /client_pathlog.asp?
 /clientdatacollector/*
+/clientlibs/analytics.
 /clientlibs/ga.js
 /clientstat?
 /clk?utmwv=
@@ -19924,6 +19925,7 @@ _mongo_stats/
 ||ilogbox.com^$third-party
 ||imanginatium.com^$third-party
 ||immanalytics.com^$third-party
+||impactradius-event.com^$third-party
 ||impcounter.com^$third-party
 ||imrtrack.com^$third-party
 ||imrworldwide.com^$third-party
@@ -21802,6 +21804,7 @@ _mongo_stats/
 ||universaltrackingcontainer.com^$third-party
 ||up-rank.com^$third-party
 ||urstats.de^$third-party
+||usemaxserver.de^$third-party
 ||verypopularwebsite.com^$third-party
 ||viewar.org^$third-party
 ||vinsight.de^$third-party
@@ -21852,6 +21855,7 @@ _mongo_stats/
 ||do09.net^$third-party
 ||edt02.net^$third-party
 ||emailretargeting.com^$third-party
+||ew3.io^$third-party
 ||ezakus.net^$third-party
 ||ferank.fr^$third-party
 ||fogl1onf.com^$third-party
@@ -22230,6 +22234,7 @@ _mongo_stats/
 ||retag.xyz^$third-party
 ||rnet.plus^$third-party
 ||ru.net^$third-party
+||rutarget.ru^$third-party
 ||sarov.ws^$third-party
 ||sas.com^$third-party
 ||sensor.org.ua^$third-party
@@ -23114,6 +23119,7 @@ _mongo_stats/
 ||fliqz.com/metrics/$~object-subrequest
 ||flix360.com/beat?
 ||flixster.com^*/analytics.
+||flocktory.com^*/tracks/
 ||fls-na.amazon.com^
 ||fluidsurveys-com.fs.cm^$third-party
 ||flux.com/geo.html?
@@ -24020,6 +24026,7 @@ _mongo_stats/
 ||track.strife.com^
 ||track.tcppu.com^
 ||track.td3x.com^
+||track.uniqodo.com^
 ||track.untd.com^
 ||track.vscash.com^
 ||track.written.com^
@@ -27439,6 +27446,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net
 ||extszm.web.de^
 ||fanfiktion.de^*/s.js
 ||faz.net^*/ivw/
+||fc.vodafone.de^
 ||feed-reader.net/tracking.php
 ||fireball.de/statistikframe.asp?
 ||fls-eu.amazon.de^
@@ -27590,6 +27598,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net
 ||tvcommunity.at/filmpicture.aspx?count=1&
 ||ui-portal.de/brbtpixel/
 ||unser-star-fuer-oslo.de^*/stats.php
+||vfd2dyn.vodafone.de^
 ||videovalis.tv/tracking/
 ||vip.de^*/tracking.js
 ||viviano.de/cgi-bin/stat_gateway.cgi?
@@ -27633,6 +27642,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net
 ||ea.monsieurmanuel.com^
 ||ea.rueducommerce.fr^
 ||editeurjavascript.com/hit-parade.php
+||elr.sfr.fr^
 ||eultech.fnac.com^
 ||flake.formr.io/sp.js
 ||fls-eu.amazon.fr^
@@ -27837,6 +27847,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net
 ||tmall.com/add?
 ||tongji2.vip.duba.net/__infoc.gif?
 ||top.baidu.com/js/nsclick.js
+||toutiao.com^*/user_log/
 ||tracker.live.tudou.com^
 ||tv.sohu.com/upload/trace/
 ||uestat.video.qiyi.com^
