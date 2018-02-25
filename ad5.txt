@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sdrl+caAkWZtiEQGMOVDgA
+! Checksum: XrkqcRLU7Qi6pXoSMZzGPw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802251730
-! Last Modified: 2018年02月25日 17:30
+! Version: 201802252030
+! Last Modified: 2018年02月25日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21308,6 +21308,7 @@ _mongo_stats/
 ||api.inwemo.com^$third-party
 ||aqqgli3vle.bid^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
+||averoconnector.com^$third-party
 ||axoncoho.tk^$third-party
 ||azvjudwr.info^$third-party
 ||bablace.com^$third-party
@@ -21375,6 +21376,7 @@ _mongo_stats/
 ||easyhash.io^$third-party
 ||etnhashpool.tk^$third-party
 ||evengparme.com^$third-party
+||ewtuyytdf45.com^$third-party
 ||fge9vbrzwt.bid^$third-party
 ||flare-analytics.com^$third-party
 ||flu.cc^$third-party
@@ -27275,8 +27277,8 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
-$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidup.me
-$xmlhttprequest,domain=alltube.tv|powvideo.net|vidfile.net
+$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|ddmix.net|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidup.me
+$xmlhttprequest,domain=adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|powvideo.net|vidfile.net
 ||2giga.link^*/hive.js
 ||browsealoud.com/plus/scripts/$script
 ||cryweb.github.io^
