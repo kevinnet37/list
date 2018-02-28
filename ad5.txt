@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RtJniDITcphzqS8uHAvH+w
+! Checksum: Pxp2EY+sU6gltT9Tkr5piA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802281000
-! Last Modified: 2018年02月28日 10:00
+! Version: 201802281030
+! Last Modified: 2018年02月28日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7193,6 +7193,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||static.lancdn.com^*/$image
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
@@ -13649,6 +13650,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
 ! EasyList Lite
+##.trc-content-sponsored
 ##.mks_ads_widget
 /advideo.$domain=~advideo.pro
 /adsame1.
@@ -14616,7 +14618,7 @@ sina.com.cn###J_forAutoShow
 wasu.cn##.qp
 wasu.cn###scan_qrcode
 163.com##.ns-side-qrcode
-firefoxchina.cn##.side-mod[track-key="side_tpth"]
+firefox.com.cn,firefoxchina.cn##.side-mod[track-key="side_tpth"]
 oschina.net##.recruitment
 hjenglish.com,hujiang.com##.lamu_banner
 hjenglish.com###regscrollcontainer
@@ -14902,6 +14904,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||58cdn.com.cn/resource/xxzl/xxfw/
 ||count.candou.com^
 ||analyse.weather.com.cn^
 ||btime.com/api/weblog?
@@ -25499,6 +25502,7 @@ _mongo_stats/
 ||data.mic.com^
 ||data.ninemsn.com.au/*GetAdCalls
 ||data.ryanair.com^
+||data.tradingview.com^
 ||data.younow.com^
 ||datacollector.coin.scribol.com^
 ||datehookup.com/strk/dateadvertreg?
@@ -26833,6 +26837,7 @@ _mongo_stats/
 ||ted.metro.co.uk^
 ||ted1.metro.co.uk^
 ||telegraph.co.uk^*/tmglmultitrackselector.js
+||telemetry.tradingview.com^
 ||tesco.com/cgi-bin3/buyrate?type=
 ||tfl.gov.uk/tfl-global/scripts/stats-config.js
 ||tfl.gov.uk/tfl-global/scripts/stats.js
