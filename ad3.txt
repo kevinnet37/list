@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: H92YBk+Rhu6Sy0179NdOvQ
+! Checksum: e5tEOjWUulBxcbaimVVxmw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201802281030
-! Last Modified: 2018年02月28日 10:30
+! Version: 201802281130
+! Last Modified: 2018年02月28日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -12,6 +12,7 @@
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+.com/Runtime/js/psData.js
 -880-80-4.jpg
 -HollandOne_GIF2.gif
 .cc/js/ads/
@@ -664,6 +665,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||e-demx.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -6340,7 +6342,6 @@ mg*.6park.com/img/$image
 ||sznews.com/*.files/$image,object
 ||szonline.net/banner_top.jpg
 ||szonline.net/zhongyuan
-||szyk11.com/Runtime/js/ps
 ||t57.cn/cert.php
 ||taboola.com^$domain=sinovision.net
 ||taiyingshi.com/js/960_
