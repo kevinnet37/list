@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YJzRsb3eY2KUJj1U34y2GQ
+! Checksum: RtJniDITcphzqS8uHAvH+w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802280900
-! Last Modified: 2018年02月28日 09:00
+! Version: 201802281000
+! Last Modified: 2018年02月28日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15661,6 +15661,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /analyticReportingAS3.$domain=~miniclip.com
 /analytics-assets/*
 /analytics-beacon-
+/analytics-cdn.
 /analytics-dotcom/*
 /analytics-event-
 /analytics-ingress-
@@ -15681,6 +15682,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /analytics.google.js
 /analytics.html?
 /analytics.init.js
+/analytics.js/v1/*
 /analytics.min.
 /analytics.php.
 /analytics.php?
@@ -16306,6 +16308,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /dfp-gpt.
 /Diagnostics?hit=
 /didna-pixel-
+/digitalice_tag.js
 /disp_cnt.
 /dispatch.fcgi?
 /diva-analytics.js
@@ -21695,6 +21698,7 @@ _mongo_stats/
 ||gratisbacklink.de^$third-party
 ||greatviews.de^$third-party
 ||grfz.de^$third-party
+||healte.de^$third-party
 ||hiddencounter.de^$third-party
 ||hitmaster.de^$third-party
 ||hot-count.com^$third-party
@@ -22105,6 +22109,7 @@ _mongo_stats/
 ||zt-dst.com^$third-party
 ||admatrix.jp^$third-party
 ||aid-ad.jp^$third-party
+||amoad.com^$third-party
 ||analyticsip.net^$third-party
 ||bb-analytics.jp^$third-party
 ||beanscattering.jp^$third-party
@@ -22135,9 +22140,11 @@ _mongo_stats/
 ||owldata.com^$third-party
 ||pagoda56.com^$third-party
 ||polymorphicads.jp^$third-party
+||r-ad.ne.jp^$third-party
 ||research-artisan.com^$third-party
 ||rtoaster.jp^$third-party
 ||sibulla.com^$third-party
+||smartnews-ads.com^$third-party
 ||socdm.com^$third-party
 ||tgknt.com^$third-party
 ||trackfeed.com^$third-party
@@ -22572,6 +22579,7 @@ _mongo_stats/
 ||analytics.performable.com^
 ||analytics.photorank.me^
 ||analytics.piksel.com^
+||analytics.prezly.com^
 ||analytics.prod.aws.ecnext.net^
 ||analytics.r17.com^
 ||analytics.radiatemedia.com^
@@ -25669,6 +25677,7 @@ _mongo_stats/
 ||fishki.net/counter/
 ||fishki.net/informer1/
 ||flashget.org/cow_$script
+||flickr.com/beacon/
 ||flickr.com/beacon_client_api_timings.gne
 ||flickr.com/beacon_page_timings.gne
 ||fling.com/zeftour/t_i.php?
@@ -28037,6 +28046,8 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|pow
 ||tsite.jp/static/analytics/
 ||visit.geocities.jp^
 ||yahoo.co.jp/b?p=
+||yahoo.co.jp/s?s=
+||yjtag.yahoo.co.jp^
 ||211.106.66.62^*/statistics/$domain=yonhapnews.co.kr
 ||chosun.com/hitlog/
 ||count.munhwa.com^
