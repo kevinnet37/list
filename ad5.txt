@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KmPYNwXar7gZIuj0AUOicQ
+! Checksum: KPo8c0XVgFeFVVz+qw0xDA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802281630
-! Last Modified: 2018年02月28日 16:30
+! Version: 201802281700
+! Last Modified: 2018年02月28日 17:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15466,7 +15466,6 @@ weibo.com##.apps_PCD_reco_detail_right
 .webmetrics.js
 .webstats.
 /!crd_prm!.
-/$file/analytics.
 //feedproxy.*/~r/*$image
 /0.png?ver=
 /0pixel.php?
@@ -25243,6 +25242,7 @@ _mongo_stats/
 ||barrons.com^*/blank.htm
 ||bat.adforum.com^
 ||bats.video.yahoo.com^
+||batsa.co.za^*/analytics/
 ||baxter.com/includes/wtss.js
 ||bayer.com^*/sp.gif?
 ||bbc.co.uk/analytics?
@@ -29059,6 +29059,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|pow
 @@||ad.de.doubleclick.net/imp;$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adclear.teufel.de^*/acv?*&ms=http$image,domain=gewinnspiele.freenet.de
 @@||addicted-sports.com/piwik/piwik.js
+@@||adobedtm.com^*/satelliteLib-$script,domain=sbb.ch
 @@||alternate.de/js/emos2.js
 @@||analytics.edgesuite.net/html5/akamaihtml5-min.js?$domain=ardmediathek.de
 @@||belboon.de/adtracking/$subdocument,domain=gutscheindoktor.de|preis-vergleich.tv|preismafia.com
