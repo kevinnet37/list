@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KcjV5E5e1OQfdgonrsxhuA
+! Checksum: YnFxPwrlE8IFfYyBfaqZ+g
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201802282000
-! Last Modified: 2018年02月28日 20:00
+! Version: 201803010730
+! Last Modified: 2018年03月01日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16329,6 +16329,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /dmtracking2.
 /DNATracking.
 /dni_reporting.js
+/doctracking.
 /doIperceptionsRegulator.
 /dolWebAnalytics.
 /domcount.
@@ -18558,6 +18559,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /vtracker.
 /vTracker_
 /vuukle-analytics.
+/vwFiles/analytics/*
 /vztrack.gif?
 /vzTracker/*
 /wa01.gif?log=
@@ -19606,6 +19608,7 @@ _mongo_stats/
 ||dynatrace.com^$third-party
 ||dynatracesaas.com^$third-party
 ||dyntrk.com^$third-party
+||e-goi.com^$third-party
 ||e-pagerank.net^$third-party
 ||e-referrer.com^$third-party
 ||e-webtrack.net^$third-party
@@ -23849,6 +23852,7 @@ _mongo_stats/
 ||spot.im/api/tracker/
 ||spread.ly^*/statistics.php
 ||ssl-images-amazon.com/images/*/common/1x1._*.gif$domain=~amazon.com
+||st.cdnco.us^
 ||stat.boredomtherapy.com^
 ||stat.easydate.biz^
 ||stat.ed.cupidplc.com^
@@ -24530,6 +24534,7 @@ _mongo_stats/
 ||analytics.freespee.com^
 ||analytics.grupogodo.com^
 ||analytics.ladmedia.fr^
+||audience.acpm.fr^
 ||bbtrack.net^$third-party
 ||blogoutils.com/online-$third-party
 ||blogrankings.com/img_$third-party
@@ -25244,7 +25249,6 @@ _mongo_stats/
 ||barrons.com^*/blank.htm
 ||bat.adforum.com^
 ||bats.video.yahoo.com^
-||batsa.co.za^*/analytics/
 ||baxter.com/includes/wtss.js
 ||bayer.com^*/sp.gif?
 ||bbc.co.uk/analytics?
@@ -25505,7 +25509,6 @@ _mongo_stats/
 ||data.mic.com^
 ||data.ninemsn.com.au/*GetAdCalls
 ||data.ryanair.com^
-||data.tradingview.com^
 ||data.younow.com^
 ||datacollector.coin.scribol.com^
 ||datehookup.com/strk/dateadvertreg?
