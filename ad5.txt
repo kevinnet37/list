@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dA3jZhD/2Ienyac26UANYQ
+! Checksum: R5trvNSmEjVqIDoEcMD3Qw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803011300
-! Last Modified: 2018年03月01日 13:00
+! Version: 201803011530
+! Last Modified: 2018年03月01日 15:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -11904,7 +11904,7 @@ mp4ba.la##td[width="300"][height="300"]
 enread.com##td[width="326"][height="250"]
 62422.cn##td[width="760"][height="75"]
 verycd.gdajie.com##th[colspan="3"]
-zhangxinxu.com#?##topadout
+zhangxinxu.com#?#.top_da_out
 toutiao.com#?#.J_ad
 toutiao.com#?#.J_add
 cartoomad.com##tr:last-child > td[align="right"] > table[width="732"]
@@ -14438,8 +14438,7 @@ autohome.com.cn###packetsWrap
 gitee.com##.float-left-box
 to8to.com##.ad-commom
 to8to.com##.quoted-outside
-cnbeta.com##DIV[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
-cnbeta.com#?#DIV[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
+cnbeta.com#?#div[style^="display:block !important;"]
 55haitao.com##.bbs-bottom-popup
 55haitao.com##.global-dialog
 gov.cn###ippad01
