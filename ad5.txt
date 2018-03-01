@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mk5xVzGHpXgKPBugphOSWQ
+! Checksum: j9kGh8zzTzpBmwRTaVegDQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803012230
-! Last Modified: 2018年03月01日 22:30
+! Version: 201803020730
+! Last Modified: 2018年03月02日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15290,10 +15290,8 @@ weibo.com##.apps_PCD_reco_detail_right
 .analysis.pv.
 .analytics.min.
 .asis?Log=
-.at/t.gif?
 .au/c.gif?
 .au/t.ashx?
-.au/t.gif?
 .be/uts/
 .beacon.min.js
 .cc/s.gif?
@@ -15359,7 +15357,6 @@ weibo.com##.apps_PCD_reco_detail_right
 .com/ss/*sessionId=
 .com/stats.ashx?
 .com/stats.aspx?
-.com/t.gif?
 .com/tp.php?
 .com/track?$~object
 .com/tracker.jsp
@@ -15374,6 +15371,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .com/x.gif?
 .com/x0.gif?
 .com/z.gif?
+.composeTrack.htm
 .core.tracking-min-
 .de/e.gif?
 .de/h.gif?
@@ -15420,13 +15418,11 @@ weibo.com##.apps_PCD_reco_detail_right
 .net/ping.php?
 .net/px.js?
 .net/s.gif?
-.net/t.gif?
 .net/tp.gif?
 .net/trck/
 .net/vtrack|
 .net/z.gif?
 .ntpagetag.
-.nz/t.gif?
 .org/?js|
 .org/js/ga-
 .ovh/presbyters.js
@@ -15444,9 +15440,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .PixelNedstatStatistic/
 .png?cpn=
 .pt/n.gif?
-.pt/t.gif?
 .ru/0.gif?
-.sg/t.gif?
 .sharecounter.$third-party
 .sitecatalyst.js
 .siteclarity.
@@ -15465,7 +15459,6 @@ weibo.com##.apps_PCD_reco_detail_right
 .tv/t.png?
 .uk/o.gif?
 .uk/pv?
-.uk/t.gif?
 .uk/track?
 .uk/traffic/?
 .usertracking_script.js
