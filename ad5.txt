@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0WtvMTzqbMs9tCWdlJsqsw
+! Checksum: 8H6mZay6L0sCZ4fXungmAA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803011930
-! Last Modified: 2018年03月01日 19:30
+! Version: 201803012030
+! Last Modified: 2018年03月01日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7194,8 +7194,11 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||htcui.com/xtfen.gif
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+htcui.com##.adsense
+htcui.com##.qqanimate
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -24328,6 +24331,7 @@ _mongo_stats/
 ||wondershare.es/jslibs/track.js
 ||woolik.com/__el.gif?
 ||woolik.com^*^tracker^
+||wordpress.com/geo/
 ||worldssl.net/reporting.js$third-party
 ||wp-stat.s3.amazonaws.com^
 ||wpdigital.net/metrics/
@@ -25089,6 +25093,7 @@ _mongo_stats/
 ||akamaihd.net/pixelkabam/
 ||alarabiya.net/track_content_
 ||alarabiya.net^*/googleid.js
+||alb.reddit.com^$third-party
 ||alibaba.com/js/beacon_
 ||alicdn.com/js/aplus_*.js
 ||alicdn.com^*/log.js
@@ -26509,6 +26514,7 @@ _mongo_stats/
 ||recomendedsite.com/addon/upixel/
 ||recommendation.24.com^
 ||redding.com/metrics/
+||reddit.com^*.gif?$third-party
 ||redditmedia.com/gtm/jail?
 ||redeye.williamhill.com^
 ||rediff.com^*/?rkey=
