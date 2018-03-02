@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Qrpu1utvuHcgrOWdGo6ECw
+! Checksum: U7pzOjatlY5VeXM83dwYNA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803020930
-! Last Modified: 2018年03月02日 09:30
+! Version: 201803021000
+! Last Modified: 2018年03月02日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -11928,7 +11928,6 @@ cgvoo.com,mrmad.com.tw,myself-bbs.com,pbhz.com,zhuihd.com#@##adsense
 182.18.61.50#@##adslist
 leduwo.com,wenku8.com,yaerwen.com#@##adtop
 union.58.com#@##advertise
-rjno1.com#@##banner_ad
 wenjian.cn#@##contentAd
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 game.macx.cn#@##google-ad
@@ -12037,6 +12036,9 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||rjno1.com^$generichide
+@@.gif#$domain=rjno1.com
+@@||ez3c.tw^$generichide
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|tgfcer.com|wgun.net
@@ -17465,6 +17467,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /pixel-page.html
 /pixel-render/*
 /pixel.*/track/*
+/pixel.aspx?
 /pixel.cgi?
 /pixel.gif?
 /pixel.jsp?
@@ -27317,7 +27320,7 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
-$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|ddmix.net|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|szukajka.tv|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidup.me
+$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|ddmix.net|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|szukajka.tv|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidup.me|vidzi.si|vidzi.tv
 $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|powvideo.net|szukajka.tv|vidfile.net
 ||2giga.link^*/hive.js
 ||browsealoud.com/plus/scripts/$script

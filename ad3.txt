@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wRAQtdACSVc6bD2fvvteUw
+! Checksum: Yxtyp2ibQV9FwxZoXzwWKw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201803020900
-! Last Modified: 2018年03月02日 09:00
+! Version: 201803021000
+! Last Modified: 2018年03月02日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -11814,7 +11814,6 @@ cgvoo.com,mrmad.com.tw,myself-bbs.com,pbhz.com,zhuihd.com#@##adsense
 182.18.61.50#@##adslist
 leduwo.com,wenku8.com,yaerwen.com#@##adtop
 union.58.com#@##advertise
-rjno1.com#@##banner_ad
 wenjian.cn#@##contentAd
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 game.macx.cn#@##google-ad
@@ -11923,6 +11922,9 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||rjno1.com^$generichide
+@@.gif#$domain=rjno1.com
+@@||ez3c.tw^$generichide
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|tgfcer.com|wgun.net
