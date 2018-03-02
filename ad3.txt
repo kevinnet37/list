@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: afuePTmh3KwdgpOYKZvfBQ
+! Checksum: 18C4MUkYyy1o1Fq4cmWHJw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201803021200
-! Last Modified: 2018年03月02日 12:00
+! Version: 201803021700
+! Last Modified: 2018年03月02日 17:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7082,6 +7082,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+gamersky.com##.ngg_down
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -11988,7 +11989,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/show_ad_$domain=wb.qq.com
 @@/show_ads_impl.js$domain=serve.netsh.org
 @@/store_ad/*$domain=pcstore.com.tw
-@@/unadblock/adjs_$domain=bingfeng.tw|hdmee.com|hepan.com|hh010.com
+@@/unadblock/adjs_$domain=bingfeng.tw|hepan.com|hh010.com
 @@=mywebloadt1&$domain=myweb.hinet.net
 @@?adType=$domain=taotaosou.com
 @@?sid=ads$domain=126.com|mail.163.com
@@ -12205,7 +12206,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||hhtt.cn/web.php/ad/show
 @@||hichannel.hinet.net^$object-subrequest
 @@||hkjc.com/banners/
-@@||hkt-eye.com/banners/
 @@||hunantv.com/FrameWork/AFP/
 @@||i3.sinaimg.cn/video/deco/2013/0325/js/
 @@||ibf.tw^$elemhide
