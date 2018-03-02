@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1/8KyyFqH5/n/pcuHbUeQQ
+! Checksum: Qrpu1utvuHcgrOWdGo6ECw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803020900
-! Last Modified: 2018年03月02日 09:00
+! Version: 201803020930
+! Last Modified: 2018年03月02日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21917,6 +21917,7 @@ _mongo_stats/
 ||goyavelab.com^$third-party
 ||graphinsider.com^$third-party
 ||hunkal.com^$third-party
+||lead-analytics.biz^$third-party
 ||leadium.com^$third-party
 ||libstat.com^$third-party
 ||livestats.fr^$third-party
@@ -22983,6 +22984,7 @@ _mongo_stats/
 ||d2pxb4n3f9klsc.cloudfront.net^
 ||d2ry9vue95px0b.cloudfront.net^
 ||d2so4705rl485y.cloudfront.net^
+||d2tcg4i9q4js4a.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2xgf76oeu9pbh.cloudfront.net^
 ||d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com^
@@ -24535,6 +24537,7 @@ _mongo_stats/
 ||analytics.traidnt.net^
 ||shofonline.org/javashofnet/ti.js
 ||01net.com/track/
+||179.43.173.134^$third-party
 ||46.101.168.189^$third-party,domain=lematin.ch
 ||46.101.246.10^$third-party,domain=lematin.ch
 ||abs.proxistore.com^
@@ -24549,6 +24552,7 @@ _mongo_stats/
 ||btstats.devtribu.fr^
 ||calotag.com^$third-party
 ||cdn-analytics.ladmedia.fr^
+||cloudfront.net^$script,domain=gentside.com
 ||collecte.audience.acpm.fr^
 ||compteur.websiteout.net^
 ||da-kolkoz.com/da-top/track/
@@ -24975,6 +24979,7 @@ _mongo_stats/
 ||contadores.miarroba.es^
 ||enetres.net/StatisticsV1/
 ||epimg.net/js/vr/vrs.
+||g-stats.openhost.es^
 ||hits.eluniversal.com.mx^
 ||leadzu.com^$third-party
 ||maik.ff-bt.net^
@@ -26083,6 +26088,7 @@ _mongo_stats/
 ||livesupport.zol.co.zw/image_tracker.php?
 ||lm.pcworld.com/db/*/1.gif
 ||loc.gov/js/ga.js
+||localads-statistics.maps.me^
 ||log.data.disney.com^
 ||log.deutschegrammophon.com^
 ||log.go.com^
@@ -26822,6 +26828,7 @@ _mongo_stats/
 ||sysomos.com/track/
 ||t-ak.hulu.com^
 ||t.9gag.com^
+||t.appsflyer.com^
 ||t.blinkist.com^
 ||t.cinemablend.com^
 ||t.dailymail.co.uk^
@@ -26941,6 +26948,7 @@ _mongo_stats/
 ||track.workablemetro.com^
 ||track.zalando.
 ||track.zomato.com^
+||tracker-api.my.com^
 ||tracker.anandtech.com^
 ||tracker.calameo.com^
 ||tracker.cpapath.com^
@@ -29072,6 +29080,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|pow
 @@||walmart.com/b/ss/$image
 @@||heatmap.it^$domain=heatmap.me
 @@||google.*/analytics/js/$~third-party
+@@||gstatic.com^*/analytics.js$domain=google.com
 !----------------Whitelists to fix broken international sites-----------------!
 @@||a.visualrevenue.com/vrs.js$domain=t-online.de
 @@||a.wikia-beacon.com/__track/view?v=v1&c=*&lc=de&lid=62&x=devroniplag&y=$script,domain=vroniplag.wikia.com
