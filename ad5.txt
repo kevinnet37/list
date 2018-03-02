@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GDIZIMHnSW3d+a7PK7dtDQ
+! Checksum: qTvDTnj9LqDEkzgJ+eSIxg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803022230
-! Last Modified: 2018年03月02日 22:30
+! Version: 201803030730
+! Last Modified: 2018年03月03日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15248,6 +15248,7 @@ weibo.com##.apps_PCD_reco_detail_right
 -boomerang_
 -ClickTale.
 -comscore.
+-conversion-tracking-
 -criteo.
 -datacollection.
 -dspcookiematching.
@@ -15989,6 +15990,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /capture_client.js
 /CaptureStat.
 /cbanalytics.
+/CBM.Tracking.js?
 /cc?a=
 /cclickTracking.
 /ccm_sj?
@@ -16278,6 +16280,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /CustomTrackingScript.
 /cv_pixel.
 /cwTRACK.js
+/cwtracking-
 /cx-video-analytics.js
 /cx_tracking.js
 /cXense-Analytics-
@@ -16307,6 +16310,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /deskanalytics.js
 /detective.gif?
 /dfp-gpt.
+/di-tealium.
 /Diagnostics?hit=
 /didna-pixel-
 /digitalice_tag.js
@@ -16435,6 +16439,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /event/?ra=
 /event/pageview/*
 /event/pageview?
+/event/pageviewgeodevice/*
 /event/rumdata?
 /event/v3?
 /event?&event=
@@ -17715,6 +17720,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /rwtag.js
 /rwtaghome.js
 /s-pcjs.php
+/s.ashx?u=
 /s.aspx?r=
 /s.gif?a=
 /s.gif?l=
@@ -17978,11 +17984,13 @@ weibo.com##.apps_PCD_reco_detail_right
 /stats/CounterPage.
 /stats/dlcount_
 /stats/et_track.asp?
+/stats/event.js?
 /stats/ga.
 /stats/impression
 /stats/imr.
 /stats/init.
 /stats/log.
+/stats/lp.min.
 /stats/mark?
 /stats/metrica.
 /stats/metrics/*
@@ -18076,6 +18084,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /TealeafSDKConfig.js
 /tealium-analytics.
 /tealium-api/*
+/tealium-udo.
+/tealium-web/*
 /tealium.js
 /tealiumpixel.
 /textlink.php?text
@@ -19193,6 +19203,7 @@ _mongo_stats/
 ||arsdev.net^$third-party
 ||artefact.is^$third-party
 ||arturtrack.com^$third-party
+||ascend.ai^$third-party
 ||assoctrac.com^$third-party
 ||astro-way.com^$third-party
 ||atatus.com^$third-party
@@ -22147,6 +22158,7 @@ _mongo_stats/
 ||genieedmp.com^$third-party
 ||gmodmp.jp^$third-party
 ||hitgraph.jp^$third-party
+||i2ad.jp^$third-party
 ||i2i.jp^$third-party
 ||im-apps.net^$third-party
 ||iogous.com^$third-party
@@ -24658,6 +24670,7 @@ _mongo_stats/
 ||js.letvcdn.com/js/*/stats/
 ||js.static.m1905.cn/pingd.js
 ||log.hiiir.com^
+||log.tagtic.cn^
 ||log.v.iask.com^
 ||look.urs.tw^$third-party
 ||mlt01.com/cmp.htm$third-party
