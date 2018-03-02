@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: U7pzOjatlY5VeXM83dwYNA
+! Checksum: 5oH0nRe2Vp3KOT/YeEsAnQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803021000
-! Last Modified: 2018年03月02日 10:00
+! Version: 201803021030
+! Last Modified: 2018年03月02日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17592,6 +17592,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /pxl.cgi?
 /pxlctl.
 /pxls/*
+/pxlspamanalyst-
 /pxtrk.gif
 /pzn/proxysignature
 /qtracker-
@@ -20062,6 +20063,7 @@ _mongo_stats/
 ||keen.io^$third-party,domain=~keen.github.io|~keen.io
 ||keyade.com^$third-party
 ||keymetric.net^$third-party
+||keytiles.com^$third-party
 ||keywee.co^$third-party
 ||keywordmax.com^$third-party
 ||keywordstrategy.org^$third-party
@@ -21011,6 +21013,7 @@ _mongo_stats/
 ||triggit.com^$third-party
 ||triptease.io^$third-party
 ||trkjmp.com^$third-party
+||trklvs.com^$third-party
 ||trkn.us^$third-party
 ||trksrv44.com^$third-party
 ||trovus.co.uk^$third-party
@@ -27714,9 +27717,9 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|pow
 ||zdf.de^*/trackingivw?
 ||zeit.de/js/rsa.js
 ||zeit.de/js/rsa2.js
-/acceptable.$domain=750g.com|allocine.fr|chartsinfrance.net|jeuxvideo.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
-/autopromo.$domain=750g.com|allocine.fr|chartsinfrance.net|jeuxvideo.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
-/autopromotion.$domain=750g.com|allocine.fr|chartsinfrance.net|jeuxvideo.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+/acceptable.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+/autopromo.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
+/autopromotion.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 ||accn.allocine.net^
 ||analytics.rtbf.be^
 ||arte.tv/includes/xiti/
