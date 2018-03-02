@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EYimhR3zPn2XSw4qjgDLNw
+! Checksum: BFRmJaUqaFHiTaMjtAYGzw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803021300
-! Last Modified: 2018年03月02日 13:00
+! Version: 201803021330
+! Last Modified: 2018年03月02日 13:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -27324,7 +27324,7 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
-$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|ddmix.net|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|szukajka.tv|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidgg.to|vidup.me|vidzi.si|vidzi.tv
+$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|ddmix.net|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|szukajka.tv|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidgg.to|vidtod.me|vidup.me|vidzi.si|vidzi.tv
 $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|powvideo.net|szukajka.tv|vidfile.net|vidgg.to
 ||2giga.link^*/hive.js
 ||browsealoud.com/plus/scripts/$script
