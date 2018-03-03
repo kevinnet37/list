@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0PxUZDVqLZA1B+p4rQgXjw
+! Checksum: ZDdXRaSncCDbpnngV5LdPg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803030830
-! Last Modified: 2018年03月03日 08:30
+! Version: 201803030900
+! Last Modified: 2018年03月03日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16154,6 +16154,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /coAnalytics.
 /CofinaHits.
 /cognitive_match/*
+/collect.php?data=
 /collect/kf?
 /collect/sdk?
 /collect?callback=
@@ -16289,6 +16290,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /cxense/cx.js
 /cyberestat/*
 /dart_wrapper.html?
+/data.do?session_
 /data/collect/*$xmlhttprequest
 /dc-storm-track.
 /dc-storm.js
@@ -16915,6 +16917,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /IVWTracker.swf
 /iwa.js
 /iwstat.js
+/j.gif?act=
 /javascript/analytics/*
 /javascript/ci/*landing.js$script
 /Javascript/ga.js
@@ -18724,6 +18727,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /yahooTracker/*
 /yalst/pixel*.php?
 /yandex-metrika.js
+/yastat.js
 /ybn_pixel/*
 /yell-analytics-
 /yell-analytics.
@@ -21968,6 +21972,7 @@ _mongo_stats/
 ||99click.com^$third-party
 ||acs86.com^$third-party
 ||ad7.com^$third-party
+||adop.cc^$third-party
 ||adskom.com^$third-party
 ||adxvip.com^$third-party
 ||appier.net^$third-party
@@ -22023,6 +22028,7 @@ _mongo_stats/
 ||webdissector.com^$third-party
 ||xtgreat.com^$third-party
 ||yigao.com^$third-party
+||youle55.com^$third-party
 ||zampda.net^$third-party
 ||ztcadx.com^$third-party
 ||dotmetrics.net^$third-party
@@ -22186,6 +22192,7 @@ _mongo_stats/
 ||ukw.jp^$third-party
 ||wonder-ma.com^$third-party
 ||ziyu.net^$third-party
+||contentsfeed.com^$third-party
 ||logger.co.kr^$third-party
 ||cms.lv^$third-party
 ||erotop.lv^$third-party
@@ -24692,6 +24699,7 @@ _mongo_stats/
 ||sitemaji.com/nownews.php?
 ||sobeycloud.com/Services/Stat.
 ||sohu.com/pvpb.gif?
+||stargame.com/g.js
 ||stat.ws.126.net^
 ||stat.youku.com^
 ||t.hypers.com.cn^
@@ -27837,6 +27845,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|pow
 ||btrace.qq.com^
 ||cast.ra.icast.cn^
 ||cdn.baidupcs.com/monitor.jpg?
+||click.ali213.net^
 ||click.suning.cn^
 ||clkstat.qihoo.com^
 ||cmstool.youku.com^
