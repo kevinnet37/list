@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: P8CDCbj0IMfl70lCTDNlNQ
+! Checksum: xVg/UPL2wfMWHRnM1O1Y5Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803031430
-! Last Modified: 2018年03月03日 14:30
+! Version: 201803031600
+! Last Modified: 2018年03月03日 16:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21400,6 +21400,7 @@ _mongo_stats/
 ||devphp.org.ua^$third-party
 ||didnkinrab.com^$third-party
 ||dle-news.pw^$third-party
+||dogrose18.com^$third-party
 ||dovinate.top^$third-party
 ||dronml.ml^$third-party
 ||duckdns.org^$third-party,websocket
@@ -21532,6 +21533,7 @@ _mongo_stats/
 ||supportxmr.com^$third-party
 ||thatresha.com^$third-party
 ||tokyodrift.ga^$third-party
+||tulip18.com^$third-party
 ||ue696vbd9l.bid^$third-party
 ||ukp2pool.uk^$third-party
 ||usa.cc^$third-party
@@ -27351,8 +27353,8 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
-$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|ddmix.net|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|szukajka.tv|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidgg.to|vidtod.me|vidup.me|vidzi.si|vidzi.tv
-$xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|powvideo.net|szukajka.tv|vidfile.net|vidgg.to
+$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|ddmix.net|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|powvideo.net|shrink-service.it|streamango.com|streamcherry.com|szukajka.tv|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidgg.to|vidto.me|vidtod.me|vidup.me|vidzi.si|vidzi.tv
+$xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|auroravid.to|ddmix.net|dekoder.ws|powvideo.net|szukajka.tv|vidfile.net|vidgg.to|wholecloud.net
 ||2giga.link^*/hive.js
 ||browsealoud.com/plus/scripts/$script
 ||cryweb.github.io^
