@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Sula8rEXEih/YLfghjYAOA
+! Checksum: EKBALa/IHRrHUjCQ5RKzGw
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201803021900
-! Last Modified: 2018年03月02日 19:00
+! Version: 201803030930
+! Last Modified: 2018年03月03日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -196,8 +196,6 @@ tieba.baidu.com##.tuijian-wrap
 ||tieba.baidu.com/f/urlcheck?
 ||wenku.baidu.com/browse/interface/getrec?
 ||youxi.baidu.com/tips/bdtips_min.js
-ipv6.baidu.com,www.baidu.com,www1.baidu.com##div:not([id]) > style[id^="s-"] + style + div[id]
-ipv6.baidu.com,www.baidu.com,www1.baidu.com#?#div:not([id]) > style[id^="s-"] + style + div[id]
 baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2)
 baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2) + .f13:last-child
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .t > a[href^="http://www.baidu.com/baidu.php?"]
@@ -528,6 +526,7 @@ baidu.com#?#.ec_wise_ad
 api.so.lianmeng.360.cn,pos.baidu.com##body
 ipv6.baidu.com,www.baidu.com,www1.baidu.com#?##content_left > [style*="important"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div:not([id]) > style[id^="s-"] + div[id]
+ipv6.baidu.com,www.baidu.com,www1.baidu.com##div:not([id]) > style[id^="s-"] + style + div[id]
 zhidao.baidu.com##div[class$="-ecom-ads"]
 wenku.baidu.com##div[class*="tiger-"][class*="-dialog"]
 tieba.baidu.com##div[class][lgoinprompt="prompt"]
@@ -555,6 +554,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="qunar_hotel"] > .c-border
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="right_qunar_hotel"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="soft"] > .c-border
 zuoye.baidu.com##dl[class="card related"]
+ipv6.baidu.com,www.baidu.com,www1.baidu.com#?#div:not([id]) > style[id^="s-"] + style + div[id]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com#?#div[id="1"] /deep/ div[id="1"]
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##li[data-daid]
 news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
