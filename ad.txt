@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RnI3VBYJy1TNn+WDv0RWqw
+! Checksum: +BLdEx+TIlgXut1bhTuVUQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201803042130
-! Last Modified: 2018年03月04日 21:30
+! Version: 201803050000
+! Last Modified: 2018年03月05日 00:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12564,8 +12564,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||exosrv.com/ads-iframe-display.php?idzone=2725470&$subdocument,domain=avgle.com
 @@||exosrv.com/ads.js$domain=avgle.com
 @@||ez3c.tw^$generichide
-@@||feng.com/images/5a826553042d2.png
-@@||feng.com/images/5a8288efb474a.png
+@@||feng.com/images/5a82895d5b459.png
+@@||feng.com/images/5a828710395fa.png
 @@||feng.com/view.php?what=zone:241&
 @@||feng.com/view.php?what=zone:242&
 @@||fharr.com^$generichide
