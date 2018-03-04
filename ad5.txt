@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cbuOYWE8Y6eTgixrpR35lQ
+! Checksum: gtOWH4BOaiKkZu3wPsa5cg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803050000
-! Last Modified: 2018年03月05日 00:00
+! Version: 201803050730
+! Last Modified: 2018年03月05日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16379,6 +16379,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /edateAdTrack?
 /edgemesh.track.
 /EDigitalSurvey_
+/ee-tagging.
 /effectivemeasure.
 /EfficientFrontier.
 /eftracking.
@@ -17138,6 +17139,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /maxymiser.
 /Maxymiser/*
 /mbcom.tracking.
+/mbox/at/*
 /mcookie.aspx
 /MCookieCheck.aspx
 /MCookieReturn.aspx
@@ -26498,6 +26500,7 @@ _mongo_stats/
 ||pluto.airbnb.com^*.php?uuid=
 ||pnet.co.za/js/ga.js
 ||pokernews.com/track-views.php?
+||policeone.com/stat/
 ||pong.gannettdigital.com^
 ||popcap.com^*/interstitial_zones.js
 ||porndoo.com/lib/ajax/track.php
@@ -29133,6 +29136,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|auroravid.to|ddmix.net|d
 @@||stat.safeway.com/b/ss/$image
 @@||walmart.com/b/ss/$image
 @@||heatmap.it^$domain=heatmap.me
+@@||google.*/analytics/css/$~third-party
 @@||google.*/analytics/js/$~third-party
 @@||gstatic.com^*/analytics.js$domain=google.com
 !----------------Whitelists to fix broken international sites-----------------!
