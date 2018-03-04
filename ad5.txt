@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QRTZ2D1dm0skk5W9vCv9hQ
+! Checksum: bFa4Y3KJkIVlip9T7WKvNg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803041100
-! Last Modified: 2018年03月04日 11:00
+! Version: 201803041200
+! Last Modified: 2018年03月04日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19171,7 +19171,6 @@ _mongo_stats/
 ||analysistools.net^$third-party
 ||analytics-egain.com^$third-party
 ||analytics-engine.net^$third-party
-||analytics.blue^$third-party
 ||analyticschecker.com^$third-party
 ||analyticswizard.com^$third-party
 ||analytk.com^$third-party
@@ -21394,7 +21393,6 @@ _mongo_stats/
 ||crypto-coins.info^$third-party
 ||crypto-loot.com^$third-party
 ||crypto-webminer.com^$third-party
-||crypto.csgocpu.com^$third-party
 ||cryptobara.com^$third-party
 ||cryptoloot.pro^$third-party
 ||cryptomine.pro^$third-party
@@ -21567,7 +21565,6 @@ _mongo_stats/
 ||whathyx.com^$third-party
 ||willacrit.com^$third-party
 ||witthethim.com^$third-party
-||wp-monero-miner.com^$third-party
 ||wsp.marketgid.com^$third-party
 ||wty46.com^$third-party
 ||xbasfbno.info^$third-party
@@ -24603,7 +24600,6 @@ _mongo_stats/
 ||calotag.com^$third-party
 ||cdn-analytics.ladmedia.fr^
 ||cloudfront.net^$script,domain=gentside.com
-||collecte.audience.acpm.fr^
 ||compteur.websiteout.net^
 ||da-kolkoz.com/da-top/track/
 ||devtribu.fr/t.php?
@@ -24635,7 +24631,6 @@ _mongo_stats/
 ||stats.buzzea.com^
 ||stats.ipmgroup.be^
 ||t.planvip.fr^$third-party
-||tag.audience.acpm.fr^
 ||tag.leadplace.fr^
 ||tmgr.ccmbg.com^
 ||tra.pmdstatic.net^
@@ -26553,7 +26548,6 @@ _mongo_stats/
 ||radio-canada.ca/lib/TrueSight/markerFile.gif?
 ||rainbow-uk.mythings.com^
 ||rakuten-static.com/com/rat/
-||rakuten.com/dtagent_
 ||ralphlauren.com^*/icg.metrics.js
 ||rambler.ru/cnt/
 ||rangers.co.uk^*/tracking.js
@@ -27378,7 +27372,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|auroravid.to|ddmix.net|d
 ||crywebber.github.io^
 ||gus.host/coins.js
 ||hive.tubetitties.com^
-||miner.nablabee.com^
 ||piti.bplaced.net^
 ||rawgit.com/Pocketart/$script,third-party
 ||reactor.cc^*.wasm
