@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dGOFwXQL/4tFrZQzZHkFug
+! Checksum: IWfN4K0U2oZzpIG3QMfkIg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803042000
-! Last Modified: 2018年03月04日 20:00
+! Version: 201803042130
+! Last Modified: 2018年03月04日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5176,7 +5176,6 @@ mg*.6park.com/img/$image
 ||iwanad.baidu.com^
 ||iweihai.cn/js/float.js
 ||ixiumei.com/otherhtml/zd800-100.jpg
-||iyaxi.com/hz/
 ||iyaxin.com^*/m.js
 ||iyaxin.com^*/o.js
 ||iyaxin.com^*/os.js
@@ -7180,8 +7179,10 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||haokoo.com/mobi_js/pic.js
+||yaxi.net/hz/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+yaxi.net###tk-slider
 hinews.cn##DIV[id^="hi_gg_"]
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -9880,7 +9881,6 @@ duba.com##.hot_push > .hot_movie
 jyacht.com##.hot_reoc_adve
 bkjia.com,zol.com.cn##.hot_tj
 703804.com##.hotad
-iyaxi.com##.hotarticlead
 sogou.com##.hotel-pic
 sogou.com##.hotel_tit
 sogou.com##.hotel_tj
