@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xcahNV4WUspW7rSohBCHGQ
+! Checksum: dGOFwXQL/4tFrZQzZHkFug
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803041900
-! Last Modified: 2018年03月04日 19:00
+! Version: 201803042000
+! Last Modified: 2018年03月04日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -4803,7 +4803,6 @@ mg*.6park.com/img/$image
 ||hiad.vmall.com^
 ||hiao.com/node/node_27508.htm
 ||hiapk.com/uploads/AD/
-||hifidiy.net/Uploads/Picture/2015-07-27/55b58576cfca7.gif
 ||hifidiy.net/www/2015/08/18/HIFIDIY_Compat.swf
 ||hinet.net/radio/getAdcode.do
 ||hinews.cn/js/09page/10pagesjbtj
@@ -4925,7 +4924,7 @@ mg*.6park.com/img/$image
 ||idcot.com^
 ||idcquan.com/linux/cio_new.html
 ||idcxr.com/images/ad
-||idyjy.com/js/content/
+||forimg.com/js/content/
 ||ieche.com/global/*/ad/
 ||ieche.com/InAds/
 ||ieforex.com/r/cms/www/red/red2/images/*0.
@@ -5007,7 +5006,6 @@ mg*.6park.com/img/$image
 ||ifengimg.com^*600.swf
 ||ifengimg.com^*couplet$script
 ||ifengimg.com^*Float$script
-||ifeve.com/wp-content/uploads/2017/09/WechatIMG70.jpeg
 ||ii-i.org/wp-content/plugins/wp-adblock-dedect/
 ||ii-i.org/wp-content/uploads/2016/05/xiaofeijijiasu.jpg
 ||ijia360.com/data/poster/
@@ -21291,6 +21289,7 @@ _mongo_stats/
 .ga^$third-party,websocket
 .gdn^$third-party,websocket
 .gq^$third-party,websocket
+.loan^$third-party,websocket
 .men^$third-party,websocket
 .ml^$third-party,websocket,domain=~myinterview.com
 .ovh^$third-party,websocket
@@ -21419,7 +21418,9 @@ _mongo_stats/
 ||flophous.cf^$third-party
 ||flu.cc^$third-party
 ||freecontent.bid^$third-party
+||freecontent.loan^$third-party
 ||freecontent.racing^$third-party
+||freecontent.win^$third-party
 ||g-content.bid^$third-party
 ||gasolina.ml^$third-party
 ||giml.ml^$third-party
@@ -27365,8 +27366,8 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
-$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|cloudtime.to|ddmix.net|dekoder.ws|djs.sk|drama-cool.me|estream.to|extratorrent.cd|fileone.tv|gofile.io|hdyayinmac1.com|hq-porns.com|intactoffers.club|jkanime.net|kickass.cd|kinohabr.net|kinokrad.co|kinoprofi.org|kinosha.cc|leitor.net|lewd.ninja|love-drama.pl|mladipodnikatelia.sk|movie4k.is|myfeed4u.net|nowvideo.sx|oload.info|oload.tv|powvideo.net|reservedoffers.club|sherlockonline.ru|shrink-service.it|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|theappguruz.com|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tokyodrift.ga|tvad.me|vidfile.net|vidgg.to|vidto.me|vidtod.me|vidup.me|vidzi.si|vidzi.tv|wholecloud.net|zona.plus
-$xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|auroravid.to|ddmix.net|dekoder.ws|nowvideo.sx|powvideo.net|szukajka.tv|vidfile.net|vidgg.to|wholecloud.net
+$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|cloudtime.to|ddmix.net|dekoder.ws|djs.sk|drama-cool.me|estream.to|extratorrent.cd|fileone.tv|gofile.io|hdyayinmac1.com|hq-porns.com|intactoffers.club|jkanime.net|kickass.cd|kinohabr.net|kinokrad.co|kinoprofi.org|kinosha.cc|leitor.net|lewd.ninja|love-drama.pl|mladipodnikatelia.sk|movie4k.is|myfeed4u.net|nowvideo.sx|oload.info|oload.tv|onlinevideoconverter.com|powvideo.net|reservedoffers.club|sherlockonline.ru|shrink-service.it|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|theappguruz.com|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tokyodrift.ga|tvad.me|vidfile.net|vidgg.to|vidto.me|vidtod.me|vidup.me|vidzi.si|vidzi.tv|wholecloud.net|zona.plus
+$xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|auroravid.to|ddmix.net|dekoder.ws|freecontent.stream|nowvideo.sx|onlinevideoconverter.com|powvideo.net|szukajka.tv|vidfile.net|vidgg.to|wholecloud.net
 ||2giga.link^*/hive.js
 ||browsealoud.com/plus/scripts/$script
 ||cryweb.github.io^
