@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PG9R4gD83L+D0Ic+FAFvWw
+! Checksum: cQFYcw8IvKHjv11CVEi9Dw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803040930
-! Last Modified: 2018年03月04日 09:30
+! Version: 201803041030
+! Last Modified: 2018年03月04日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -4806,9 +4806,7 @@ mg*.6park.com/img/$image
 ||hifidiy.net/Uploads/Picture/2015-07-27/55b58576cfca7.gif
 ||hifidiy.net/www/2015/08/18/HIFIDIY_Compat.swf
 ||hinet.net/radio/getAdcode.do
-||hinews.cn/eweb/img/*/1000x
 ||hinews.cn/js/09page/10pagesjbtj
-||hinews.cn/swf/0/*.swf
 ||histock.tw/JScript/AD/
 ||hitsukirei.idv.st/dns/bar.htm
 ||hk-pub.com/forum/images/banner/
@@ -5702,7 +5700,6 @@ mg*.6park.com/img/$image
 ||mzyz.com/image*/tj/
 ||n2.hk/apps/car_feed/tb/*/banner.html
 ||n2.hk/promo/
-||nanhai.hinews.cn/zt/img/
 ||nanren400.com/goto/
 ||nanrenfuli.*/zb_users/upload/
 ||nanrenshu.com/rmb/st_dh.js
@@ -7184,6 +7181,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||haokoo.com/mobi_js/pic.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hinews.cn##DIV[id^="hi_gg_"]
