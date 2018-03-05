@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xvPSq7c35r+p4AKDbOC73w
+! Checksum: CXQ9qRYP3+9+49fUOggaAQ
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201802051830
-! Last Modified: 2018年02月05日 18:30
+! Version: 201803051630
+! Last Modified: 2018年03月05日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -167,8 +167,10 @@ tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
 ||cnbole.net/
 ||cnzz.
 ||code222.com^
-||coinhive.com
-||coin-hive.com
+||coinhive.com/
+*coinhive.min.js^$script
+||coin-hive.com/
+||coinhive-manager.com/
 ||csad.cc^
 ||ctsywy.com
 ||dazhantai.com
@@ -273,8 +275,7 @@ tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
 ||tk001.com/$third-party
 ||tongqing2015.com/
 ||union$third-party
-@@||captcha.guard.qcloud.com/cap_union_prehandle?$script,domain=www.sf-express.com
-*_union$script,subdocument,domain=~bitauto.com|~qq.com
+*_union$script,subdocument,domain=~bitauto.com|~qq.com|~sf-express.com
 ||union.
 ||uoyrsd.com
 ||uyan.cc/$third-party
@@ -564,13 +565,14 @@ hao.360.cn##div.small-obj.animate,#corner-flash
 blog.sina.cn##div.item_hide+div,#pl-blog-artad
 ||dmp.sina.cn/
 !-------------------ifeng.com--------------------
-ifeng.com##div[class^=adList],div[class^=adbox],div[class^=FNewRAvtLisBox],body>div.Avt02
+ifeng.com##div[class^=adList],div[class^=adbox],div[class^=FNewRAvtLisBox],body>div.Avt02,#picTxt~*,div.topAd
 ||ifeng.com/a_if/$subdocument
 ||ifeng.com/a_if/taobao/
 ||ifeng.com/ssi-incs/$subdocument
 ||deliver.ifeng.com/
 ||games.ifeng.com/$subdocument
 ||games.ifeng.com/webgame/
+||stadig.ifeng.com/
 @@||ifengimg.com/ifeng/sources/inice_v1.js
 ||ifengimg.com/ifeng/sources/
 ||ifengimg.com/mappa/
@@ -580,7 +582,6 @@ ifeng.com##div[class^=adList],div[class^=adbox],div[class^=FNewRAvtLisBox],body>
 ||ifengimg.com/*yingguang$script
 ||ifengimg.com/*/embed$script
 ||y2.ifengimg.com/xingzhao/JS/bsgspecial.js$script
-||ifengimg.com/iis/iis_v$script
 v.ifeng.com##.vAdbox,div.vAdImg,div.newAdImg,div.ad300,div.ad1000,div.vPlayerAdbox,div.main+.scrollcol
 @@||ifengimg.com/*/ad.js
 !-------------------小说站点-----------------------
