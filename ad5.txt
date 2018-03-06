@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: c7QU1OrtRiISG1NvMRnMIw
+! Checksum: LrMCETmQ56Z79ay3llw9aA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803062200
-! Last Modified: 2018年03月06日 22:00
+! Version: 201803070730
+! Last Modified: 2018年03月07日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19100,6 +19100,7 @@ _mongo_stats/
 ||addfreestats.com^$third-party
 ||addlvr.com^$third-party
 ||adelixir.com^$third-party
+||adform.net^$third-party
 ||adfox.ru^$third-party
 ||adgreed.com^$third-party
 ||adheart.de^$third-party
@@ -29013,6 +29014,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|auroravid.to|ddmix.net|d
 @@||ticketm.net^*/click_track.js
 @@||toshiba.com/images/track/track.gif?track=load&$xmlhttprequest,domain=start.toshiba.com
 @@||toyota.com/analytics/recall_af.js$domain=toyota.com
+@@||track.adform.net/serving/scripts/trackpoint/$script,domain=strokekampanjen.se|tigerofsweden.com
 @@||track.atom-data.io/report?$xmlhttprequest,domain=rt.com
 @@||track.mybloglog.com/js/jsserv.php?$domain=egotastic.com
 @@||track2.royalmail.com^
