@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pmzTGODj7c208YjxsWhs9Q
+! Checksum: rC/ht5Dj1yNuZnLddlz7xA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803070830
-! Last Modified: 2018年03月07日 08:30
+! Version: 201803070900
+! Last Modified: 2018年03月07日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -1781,8 +1781,8 @@ ubmcmm.baidustatic.com
 ||jointreport-switch.com^$third-party
 ||jossuer.net^
 ||joyfuldoors.com^
-||jpav.date^
 ||jqz9.com^
+||door2new.net^
 ||jsadt.com^
 ||jscsd.cn^
 ||jsinfo.net^$third-party
@@ -2671,6 +2671,7 @@ ubmcmm.baidustatic.com
 .bd-film.*/r/cms/www/movie/js/cms-sidebar
 .com/az.js$domain=btpkw.com|hrszyl.com|jiuzhiling.com|myt520.com|xtzgjx.com|zchot.com
 .com/tps/$domain=ocucn.com
+.gif|$third-party,domain=rmdown.com
 .gif|$domain=7mshipin.org|aotu40.com|avaotu.net
 .gif|$third-party,domain=avtb008.com
 .html|$domain=www.gamer.com.tw
