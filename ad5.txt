@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pGUNdC9mVi8HSZ1j9MvN9Q
+! Checksum: fkhRZD7YpGEjwYvNf6w4RA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803072300
-! Last Modified: 2018年03月07日 23:00
+! Version: 201803072330
+! Last Modified: 2018年03月07日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7193,6 +7193,8 @@ mg*.6park.com/img/$image
 ||iciba.com/index.php?*=get_recommend&
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+7654.com###gg_top
+7654.com##DIV[class^="sidebarimg"]
 isso.com.cn###wqd1496213529829serial
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -14377,7 +14379,9 @@ _300_250.
 ||taobao.com/api/data/v2/d9543feac7c9433a98bc85be3ba856b1.js
 ||dilidili.wang/uploads/allimg/171227/1_1520203421.png
 ||ifengimg.com^*/red2018icon.
+||docin.com/building/getAdvById.
 !------------------------Specific element hiding rules------------------------!
+csdn.net##.panel_body > DIV[style^="position:fixed;bottom: 0;"]
 wallstreetcn.com##.xinren-wrapper
 baidu.com##.baiduapp-ad-container
 ifeng.com##DIV[class^="h"] > DIV[class$="-main"]
