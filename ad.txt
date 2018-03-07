@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Rci3Zp7zKCsDMJZxxTv10g
+! Checksum: /O6DICdhXCJQ432IfAJaww
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201803071200
-! Last Modified: 2018年03月07日 12:00
+! Version: 201803071900
+! Last Modified: 2018年03月07日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12360,7 +12360,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/adsense/*$domain=piseneasy.com|taobao.com
 @@/adshow/*$domain=kysec.cn|mndxy.org
 @@/adsshow/*$domain=veryeast.cn
-@@/advert.$domain=izo.tw
+@@||izo.tw/wp-content/advert1.js
 @@/advert/*$domain=cctcw.cn|fjgcjxgl.com|huanleren.com|juxiangyou.com|locuspublishing.com|moretv.com.cn|toread.com.cn
 @@/advert_$domain=cdcedu.cn|pisen.com.cn|wb.qq.com
 @@/advertise.$domain=123.138.234.240
