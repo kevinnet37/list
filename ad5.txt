@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Wr44LKdCN9XUxOQOF1Y7hA
+! Checksum: GLeFlMMCSu6UxoUxeaUwOQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803082230
-! Last Modified: 2018年03月08日 22:30
+! Version: 201803090730
+! Last Modified: 2018年03月09日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16369,6 +16369,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /dtm_cm.js
 /dtmtag.js
 /dtrack.js
+/dw/hit?
 /dwanalytics-
 /dwanalytics.
 /dynamic_ytrack_
@@ -16905,6 +16906,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /intellitracker.js
 /intercept.js
 /intervigil.
+/IPbeacon.
 /iperceptions.
 /iperceptions/*
 /iperceptions_
@@ -18079,6 +18081,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /t-richrelevance-
 /t.*?ref=$~xmlhttprequest
 /t.gif?
+/tablytics.
 /tacoda.
 /tacoda_
 /TacodaFTT.
@@ -22748,6 +22751,7 @@ _mongo_stats/
 ||b.bedop.com^
 ||b5media.com/bbpixel.php
 ||bab.frb.io^
+||baidu.com/pixel?
 ||bango.net/exid/*.gif?
 ||bango.net/id/*.gif?
 ||barium.cheezdev.com^
@@ -24119,6 +24123,7 @@ _mongo_stats/
 ||tr-metrics.loomia.com^
 ||tr.advance.net^
 ||tr.cloud-media.fr^
+||tr.connatix.com^
 ||tr.interlake.net^
 ||tr.webantenna.info^
 ||tr1.mailperformance.com^
@@ -25234,6 +25239,7 @@ _mongo_stats/
 ||analytics.teespring.com^
 ||analytics.thenest.com^
 ||analytics.thenewslens.com^
+||analytics.thetab.com^
 ||analytics.thevideo.me^
 ||analytics.twitter.com^
 ||analytics.upworthy.com^
