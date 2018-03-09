@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3kBCa947gL++XngAYNvFCw
+! Checksum: nH/vZvAmj/91wVnkKdY3eA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201803082230
-! Last Modified: 2018年03月08日 22:30
+! Version: 201803091000
+! Last Modified: 2018年03月09日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -6421,6 +6421,7 @@ mg*.6park.com/img/$image
 ||titan007.com/ad/
 ||titan007.com/news.aspx
 ||tk.504pk.com^
+||tmatch.simba.taobao.com^*&name=tbuad&pid=
 ||tmbbs.com/data/attachment/portal/*.swf
 ||tom.com/templets/tomwq/ad/
 ||tompda.com/dev/bbsadv/
@@ -7076,10 +7077,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||tmatch.simba.taobao.com^*&name=tbuad&pid=
 !------------------------Specific element hiding rules------------------------!
-taobao.com##.recomand-item
-ifeng.com###sideBar[class^="box_"]
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -8255,6 +8253,7 @@ maxthon.cn###side-game-pop
 mgtv.com###side-join-ad
 iwan.baidu.com###side-xbox
 ck101.com###sideAds1
+ifeng.com###sideBar[class^="box_"]
 cililian.me###side_right
 iyejie.com,pc360.net###sidebar > .widget:first-child
 gaoqing.la###sidebar > .widget:nth-child(-n+3)
@@ -10384,6 +10383,7 @@ finance.ifeng.com##.rec
 baidu.com##.rec-feeditem
 douban.com##.rec_topics_name[href^="https://erebor.douban."]
 image.baidu.com##.recom
+taobao.com##.recomand-item
 ilxdh.com,image.baidu.com,xizi.com##.recommend
 tvsou.com##.recommend-img
 hao123.com##.recommend-link
@@ -12460,7 +12460,6 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{9,}\.js$/$script,domain=120ask.com|39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|csdn.net|cyone.com.cn|dugoogle.com|eastday.com|familydoctor.com.cn|gushiwen.org|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|ysts8.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
-||js.diangon.com^*.js|
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
@@ -12814,6 +12813,7 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||jnsz.net.cn^
 ||js-bd.86huoche.com^
 ||js.csai.cn^
+||js.diangon.com^*.js|
 ||js.hcw888.com^
 ||js.ubaike.cn^
 ||js1.2abc8.com^
@@ -13502,6 +13502,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||bagehd.com/iplookup.
 @@||changyan.sohu.com/debug/cookie?
 @@||cnzz.com/c.php?id=30070167$domain=m.tieyou.com
+@@||count.taobao.com/counter$script
 @@||count.video.sina.com.cn^*?video_ids=
 @@||cupid.iqiyi.com/crossdomain.xml
 @@||cupid.iqiyi.com/show2?a=qc_
@@ -13541,7 +13542,6 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
-@@||count.taobao.com/counter$script
 ! EasyList Lite
 ##.ads-item
 ##.trc-content-sponsored
