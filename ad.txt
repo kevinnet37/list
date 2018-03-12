@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2hQg/NmJVxGrqJX5KTwBfQ
+! Checksum: 4qVw+GkLAnMlWzO7lo6K5Q
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201803121230
-! Last Modified: 2018年03月12日 12:30
+! Version: 201803121300
+! Last Modified: 2018年03月12日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7504,6 +7504,10 @@ mg*.6park.com/img/$image
 ||4438x*.com/Runtime/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+pc0359.cn##.dl-down
+pc0359.cn##.xx_yd2
+downcc.com###gaosuxiazai
+ddooo.com##.list > LI:nth-child(-n+5)
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -12352,8 +12356,6 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
-@@||8ox.cn/pge/?s=$script,domain=dlkoo.com
-@@||alicdn.com/t/img/TB1DmcoJXXXXXavXpXXXXXXXXXX-26-26.png$domain=dlkoo.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|rjno1.com|tgfcer.com|wgun.net
@@ -13433,6 +13435,8 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||haoimgs.com/images/*.gif
 ||sinaimg.cn^$domain=2c2.website|2p8.space|adultgao.com|baocee.com|baofee.com|baonee.com|baopee.com|baowee.com|baoxee.com|baozoo.com|caoporn.com|caouoo.com|caoxee.com|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vgao.xyz|vlang.xyz|vwan.xyz
 2c2.website,2p8.space,adultgao.com,baocee.com,baofee.com,baonee.com,baopee.com,baowee.com,baoxee.com,baozoo.com,caoporn.com,caouoo.com,caoxee.com,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vgao.xyz,vlang.xyz,vwan.xyz##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
+@@||8ox.cn/pge/?s=$script,domain=dlkoo.com
+@@||alicdn.com/t/img/TB1DmcoJXXXXXavXpXXXXXXXXXX-26-26.png$domain=dlkoo.com
 @@||alicdn.com^*/tanxssp.js$domain=dlkoo.com
 @@||dlkoo.com/down/copy0
 @@||dlkoo.com/down/copy1
