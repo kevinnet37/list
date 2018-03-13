@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: B1o6ax+JVO0M0t9BcfuxCg
+! Checksum: 3+wKqc1IRp9juWM8PDdyuQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201803130930
-! Last Modified: 2018年03月13日 09:30
+! Version: 201803131000
+! Last Modified: 2018年03月13日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7090,6 +7090,8 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+getrelax.club##.loaded-popup-wrapper
+beihaiting.com##.banner2
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -11943,6 +11945,7 @@ blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw#@#.vertical-ads
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+getrelax.club#@#.google-ad
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
