@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9tj0ghy/+rOTWJQxrjBIrQ
+! Checksum: ce3b2HcrLemieEgBKzbEPg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201803131730
-! Last Modified: 2018年03月13日 17:30
+! Version: 201803131830
+! Last Modified: 2018年03月13日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -13046,13 +13046,13 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||aa.tianya999.com^
 ||aa.xiangxiangmf.com^
 ||aa808.com^$third-party
-||aabb123.liuxue86.com^
+||bbccaa.liuxue86.com^
 ||abc.douguo.com^
 ||abcj.dooccn.com^
 ||abds.pingpingw.com^
 ||ac.pingguolv.com^
 ||adccoo.cn^
-||add.mmyuer.com^
+||zg.mmyuer.com^
 ||adjb.5nd.com^
 ||aili.com^$third-party
 ||aiwen.cc^
@@ -13078,6 +13078,7 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||bd1.dopa.com^
 ||bd1.fengdu100.com^
 ||bd1.flfgw.cn^
+||bd1.xiby.cn^
 ||bd1.heiguang.cn^
 ||bd1.jobui.com^
 ||bd1.nipic.com^
@@ -13406,7 +13407,7 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||zichenit.com^$third-party
 ||zk.91post.com^
 ||zq84.com^
-||zuiceshi.net^
+||info.meiguoshenpo.com^
 ||zxw51.com^$third-party
 ||zzjs.makepolo.net^
 ##.footer > #box[style="width:100%;height:100%;position:fixed;top:0"]
