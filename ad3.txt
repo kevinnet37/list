@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ECh9+yttyxRefnwvZc+VaQ
+! Checksum: byBciLX01k7Nrxss6DROKg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201803131030
-! Last Modified: 2018年03月13日 10:30
+! Version: 201803131100
+! Last Modified: 2018年03月13日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7088,6 +7088,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||greenxf.com/js/language.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 getrelax.club##.loaded-popup-wrapper
@@ -12482,7 +12483,7 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 @@||use.fontawesome.com^$script
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
-/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{9,}\.js$/$script,domain=051661.com|08160.cn|120ask.com|360doc.cn|39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|csdn.net|cyone.com.cn|dugoogle.com|eastday.com|familydoctor.com.cn|gushiwen.org|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|ysts8.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{9,}\.js$/$script,domain=gaosan.com|051661.com|08160.cn|120ask.com|360doc.cn|39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|csdn.net|cyone.com.cn|dugoogle.com|eastday.com|familydoctor.com.cn|gushiwen.org|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|ysts8.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
 ||8dp.net^
 ###cpro_container
 ##a[href*="/mobads.php?"]
@@ -12672,7 +12673,7 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||bdad.gaotie.net^
 ||bdad.hao224.com^
 ||bdasd.wmxa.cn^
-||bdcode.gaosan.com^
+||1.gaosanjie.net^
 ||bdcode.youke.com^
 ||bddm.58news.org^
 ||bdfpbimg.ifengimg.com^
