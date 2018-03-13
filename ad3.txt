@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3+wKqc1IRp9juWM8PDdyuQ
+! Checksum: ECh9+yttyxRefnwvZc+VaQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201803131000
-! Last Modified: 2018年03月13日 10:00
+! Version: 201803131030
+! Last Modified: 2018年03月13日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -12483,6 +12483,7 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{9,}\.js$/$script,domain=051661.com|08160.cn|120ask.com|360doc.cn|39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|csdn.net|cyone.com.cn|dugoogle.com|eastday.com|familydoctor.com.cn|gushiwen.org|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|ysts8.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+||8dp.net^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
@@ -12552,8 +12553,8 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||3.guidaye.com^
 ||3.ssqzj.com^
 ||301848.com^$third-party
-||321.jintang114.org^
 ||360640.com^
+||jibn12.jintang114.org^
 ||4name.com^$third-party
 ||51dengshan.cn^
 ||51gxqm.com^
@@ -12615,14 +12616,13 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||a1.gexing.me^
 ||a1.huanqiumil.com^
 ||a1.ikafan.com^
-||a1.jandan.net^
 ||a1.juzih.com^
 ||a1.qqjay.com^
 ||a1.sumiaowang.com^
 ||a1.vdolady.com^
 ||a1.yuuedu.com^
 ||a1.zhanzhang.net^
-||a2.jandan.net^
+||a*.jandan.net^*.js
 ||a4.b2b168.com^
 ||aa.gushiwen.org^
 ||aa.jiankang.com^
@@ -12815,7 +12815,6 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||ikuailian.com^$third-party
 ||img.xuenb.com^
 ||img.zuowen8.com^
-||img1.jintang114.org^
 ||img1.ysts8.com^
 ||ixpub.net^*.js
 ||iy.com.cn^$third-party
