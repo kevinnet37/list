@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: a93azUBnMQz/vA61kL28XQ
+! Checksum: 9VrD1e4sSdLnIh7T2rcVWw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803131630
-! Last Modified: 2018年03月13日 16:30
+! Version: 201803131730
+! Last Modified: 2018年03月13日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7204,6 +7204,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||greenxf.com/js/language.js
 ||baidu.com/xpage/interface/inforservice?
+||juqingw.com/js/tad
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 getrelax.club##.loaded-popup-wrapper
@@ -12595,7 +12596,8 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 @@||use.fontawesome.com^$script
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
-/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{9,}\.js$/$script,domain=gaosan.com|051661.com|08160.cn|120ask.com|360doc.cn|39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|csdn.net|cyone.com.cn|dugoogle.com|eastday.com|familydoctor.com.cn|gushiwen.org|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|ysts8.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{9,}\.js$/$script,domain=jeasyui.net|gaosan.com|051661.com|08160.cn|120ask.com|360doc.cn|39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|csdn.net|cyone.com.cn|dugoogle.com|eastday.com|familydoctor.com.cn|gushiwen.org|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|muchong.com|pingguolv.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|ysts8.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+||1.codezh.com^
 ||8dp.net^
 ###cpro_container
 ##a[href*="/mobads.php?"]
