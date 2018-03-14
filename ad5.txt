@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5KN+f9Cx04671iIDBtZdVQ
+! Checksum: ykaRbXXyYxjsrQkvWC+6Ug
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803141000
-! Last Modified: 2018年03月14日 10:00
+! Version: 201803141030
+! Last Modified: 2018年03月14日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7206,7 +7206,9 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||sc115.com/skin/style2013/zf.js
 !------------------------Specific element hiding rules------------------------!
+sc115.com##SCRIPT + A
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -12595,7 +12597,8 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 @@||use.fontawesome.com^$script
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
-/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{9,}\.js$/$script,domain=051661.com|08160.cn|120ask.com|360doc.cn|39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|csdn.net|cyone.com.cn|dugoogle.com|eastday.com|familydoctor.com.cn|gaosan.com|gushiwen.org|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jeasyui.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|meishichina.com|muchong.com|pingguolv.com|pingshu8.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|ysts8.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{9,}\.js$/$script,domain=tianya999.com|vipyl.com|wenshenxiu.com|051661.com|08160.cn|120ask.com|360doc.cn|39yst.com|5tps.com|99.com.cn|9ht.com|9ku.com|admin5.com|csdn.net|cyone.com.cn|dugoogle.com|eastday.com|familydoctor.com.cn|gaosan.com|gushiwen.org|h4.com.cn|hc360.com|hunanweishi.cn|jandan.net|jeasyui.net|jf258.com|jianshen8.com|jy135.com|laobanfa.com|liuxue86.com|meishichina.com|muchong.com|pingguolv.com|pingshu8.com|qeo.cn|ruiwen.com|sc115.com|sina.cn|warting.com|weather.com.cn|wenkuxiazai.com|wmxa.cn|xiachufang.com|xinshipu.com|xuexila.com|yac8.com|yjbys.com|ysts8.com|yuwenmi.com|yxlady.com|zhongyao1.com|zongheng.com|zuocai.tv
+||ejunshi.com^
 ###cpro_container
 ##a[href*="/mobads.php?"]
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
@@ -12740,7 +12743,7 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||a4.b2b168.com^
 ||aa.gushiwen.org^
 ||aa.jiankang.com^
-||aa.tianya999.com^
+||ppt.tianya999.com^
 ||aa.xiangxiangmf.com^
 ||aa808.com^$third-party
 ||abc.douguo.com^
@@ -13024,7 +13027,7 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||s1.pc899.com^
 ||s11.cn^$third-party
 ||script-bd.baixing.net^
-||sdwfw.com^
+||dm.wenshenxiu.com^
 ||sell1.etlong.com^
 ||sg92.com^$third-party
 ||shili.downxia.com^
@@ -13101,7 +13104,7 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||zhiyuanteam.com^
 ||zhongchouyan.com^
 ||zhongkaowu.com^$third-party
-||zhuolaoshi.com^$third-party
+||ckg.vipyl.com^
 ||zichenit.com^$third-party
 ||zk.91post.com^
 ||zq84.com^
