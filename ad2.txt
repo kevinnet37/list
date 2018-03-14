@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: crvMPC7fCAm1SPyvRR9PqA
+! Checksum: EEizJa59TPJeZtTkT4lwrw
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201803131330
-! Last Modified: 2018年03月13日 13:30
+! Version: 201803141530
+! Last Modified: 2018年03月14日 15:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -784,16 +784,14 @@ iqiyi.com##div.vip_rec_main,div.box_right.rightAdv,div[data-widget-3rdads],div.c
 www.soku.com##li.sb_ad,div.sk-banner,div.sk_banner
 ||tip.soku.com/searches/soku/kubox/v4/sideads.json?
 @@||log.mmstat.com/$domain=v.youku.com|tudou.com
+@@||yt.mmstat.com/$domain=v.youku.com|tudou.com
 */ikuAdapterNew.js^$script,domain=v.youku.com|tudou.com
 */youku/*.mp4?sid=$media,domain=v.youku.com|tudou.com
 ||atm.youku.com/
-||iku.youku.com/
 ||l.youku.com/
+||pl-ali.youku.com/
 ||module.youku.com/
-||fourier.alibaba.com/$domain=v.youku.com|tudou.com
-||hudong.alicdn.com/$domain=v.youku.com|tudou.com
-||ynuf.alipay.com/$domain=v.youku.com|tudou.com
-!||yt.mmstat.com/$domain=v.youku.com|tudou.com
+||alicdn.com/$domain=v.youku.com|tudou.com
 youku.com##div[id^=ab_v_],li.js-draw,div.listcontrol
 
 @@||acgvideo.com/*/ad/$xmlhttprequest,object-subrequest,domain=bilibili.com
