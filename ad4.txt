@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zLbhmRgsxHOSvnT2efqCJw
+! Checksum: 2eUYLm6Q3zgrSFXc1WHpJA
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201803151730
-! Last Modified: 2018年03月15日 17:30
+! Version: 201803160900
+! Last Modified: 2018年03月16日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -565,7 +565,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##style[id^="s-"] + script + script +
 zhidao.baidu.com##style[id^="s-m"] + div[id^="m"]
 comefromchina.com,zhidao.baidu.com#@#.ad-block
 v.baidu.com#@#.has-ad
-@@||pos.baidu.com^*=u1671$domain=pctowap.com
 @@|https://tieba.baidu.com/index.html|$genericblock
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||captcha.su.baidu.com^
@@ -576,6 +575,7 @@ v.baidu.com#@#.has-ad
 @@||pos.baidu.com^$domain=xoyo.com
 @@||pos.baidu.com^*=965703&$domain=pctowap.com
 @@||pos.baidu.com^*=965707&$domain=pctowap.com
+@@||pos.baidu.com^*=u1671$domain=pctowap.com
 @@||pos.baidu.com^*?di=1147177&$domain=fxpan.com
 @@||pos.baidu.com^*?di=1147178&$domain=fxpan.com
 @@||pos.baidu.com^*?di=1167512&$domain=jkpan.cc
