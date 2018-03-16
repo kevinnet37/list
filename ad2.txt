@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EEizJa59TPJeZtTkT4lwrw
+! Checksum: MyVfg6u1Yr38i/DTeoYLNA
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201803141530
-! Last Modified: 2018年03月14日 15:30
+! Version: 201803161000
+! Last Modified: 2018年03月16日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -784,13 +784,13 @@ iqiyi.com##div.vip_rec_main,div.box_right.rightAdv,div[data-widget-3rdads],div.c
 www.soku.com##li.sb_ad,div.sk-banner,div.sk_banner
 ||tip.soku.com/searches/soku/kubox/v4/sideads.json?
 @@||log.mmstat.com/$domain=v.youku.com|tudou.com
-@@||yt.mmstat.com/$domain=v.youku.com|tudou.com
 */ikuAdapterNew.js^$script,domain=v.youku.com|tudou.com
 */youku/*.mp4?sid=$media,domain=v.youku.com|tudou.com
 ||atm.youku.com/
 ||l.youku.com/
 ||pl-ali.youku.com/
 ||module.youku.com/
+@@||hudong.alicdn.com/
 ||alicdn.com/$domain=v.youku.com|tudou.com
 youku.com##div[id^=ab_v_],li.js-draw,div.listcontrol
 
@@ -813,7 +813,8 @@ live.bilibili.com##.video-section+a
 le.com##.banner_ad,#rightBottomPop,div.banner_left,div.banner_right,div.column_right>.lh_box
 cctv.com###bgAd_div
 |http://player.cntv.cn/adplayer/$object
-douyutv.com##div.bglink,#lifter,[data-dysign-adid],div[class$=-ad],div[class|=ad]
+douyu.com##div.bglink,#lifter,[data-dysign-adid],div[class$=-ad],div[class|=ad]
+||wan.douyu.com/
 ||staticlive.douyucdn.cn/upload/signs/$object
 ||dotcounter.douyutv.com/deliver/
 ||luckstatic.v1.cn/st/10000/
