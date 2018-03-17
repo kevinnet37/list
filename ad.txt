@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Checksum: ovgwce4WhV8915JCHVj2cg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
 ! Version: 201803170900
