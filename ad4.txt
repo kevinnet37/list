@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ev4F9eOprFP9oLRoX/ZAdw
+! Checksum: Du3K+cZcQKcxEU/jHQS63g
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201803181300
-! Last Modified: 2018年03月18日 13:00
+! Version: 201803181530
+! Last Modified: 2018年03月18日 15:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -197,6 +197,8 @@ tieba.baidu.com##.tuijian-wrap
 ||tieba.baidu.com/f/urlcheck?
 ||wenku.baidu.com/browse/interface/getrec?
 ||youxi.baidu.com/tips/bdtips_min.js
+||afd.baidu.com^
+tieba.baidu.com##.j_feed_li[fid="3665221"]
 baobao.baidu.com##.qb-relate-box
 baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2)
 baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2) + .f13:last-child
@@ -566,7 +568,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##style[id^="s-"] + script + script +
 zhidao.baidu.com##style[id^="s-m"] + div[id^="m"]
 comefromchina.com,zhidao.baidu.com#@#.ad-block
 v.baidu.com#@#.has-ad
-@@|https://tieba.baidu.com/index.html|$genericblock
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||captcha.su.baidu.com^
 @@||cb.baidu.com^$object-subrequest,domain=baomihua.com|v.baidu.com
