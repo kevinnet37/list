@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EtnRCWQ2hsTiKotTvVphTg
+! Checksum: Ge38yOQZX7rxOHB+vtMExQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201803191030
-! Last Modified: 2018年03月19日 10:30
+! Version: 201803191200
+! Last Modified: 2018年03月19日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -13968,7 +13968,7 @@ ifeng.com#?#.slLis > li:-abp-has(span:-abp-contains(告))
 ##.heg > .partner-list
 ##a[href^="/dasp.php?a="]
 ||www.wifi588.net^*.gif
-$webrtc,domain=btdb.to
+$webrtc,domain=btdb.to|tvboxnow.com
 @@||bdimg.com/libs/$domain=wuzuowei.net
 |http:$script,third-party,domain=wuzuowei.net
 ||69lm.com.cn^
