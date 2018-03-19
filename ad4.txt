@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Du3K+cZcQKcxEU/jHQS63g
+! Checksum: m++p0Xuhkf0N95Mtm3UF2w
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201803181530
-! Last Modified: 2018年03月18日 15:30
+! Version: 201803190830
+! Last Modified: 2018年03月19日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -138,6 +138,7 @@ tieba.baidu.com##.tuijian-wrap
 ||baidu.com/baidu.php?url=$popup
 /11431a7ff0f5.swf$domain=tieba.baidu.com
 /r/video/*$domain=youxi.baidu.com
+||afd.baidu.com^
 ||baidu.com/?action=getadsdata&
 ||baidu.com/adver?
 ||baidu.com/api/proxyapi?tag=adv&
@@ -197,9 +198,6 @@ tieba.baidu.com##.tuijian-wrap
 ||tieba.baidu.com/f/urlcheck?
 ||wenku.baidu.com/browse/interface/getrec?
 ||youxi.baidu.com/tips/bdtips_min.js
-||afd.baidu.com^
-tieba.baidu.com##.j_feed_li[fid="3665221"]
-baobao.baidu.com##.qb-relate-box
 baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2)
 baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2) + .f13:last-child
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .t > a[href^="http://www.baidu.com/baidu.php?"]
@@ -404,6 +402,7 @@ baidu.com##.intro-adv
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_banner_post
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_couplet
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_df_card
+tieba.baidu.com##.j_feed_li[fid="3665221"]
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_l_post:not([data-field])
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\\u4e36\\u4e4b\\u6b87\""]:not([data-field*="\"user_id\":1180601200,"])
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_listLiveTvCnt
@@ -444,6 +443,7 @@ baidu.com##.picad
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.play_list_panel
 tieba.baidu.com##.post_client_down
 baidu.com##.qb-other-answer-wmad
+baobao.baidu.com##.qb-relate-box
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.qipai_thread
 muzhi.baidu.com##.quick-ask-2 + .android + div
 baidu.com##.rec-feeditem

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RQ0G6ECzykwQpaETzcCrgA
+! Checksum: 3b1gCuSSHhX6xSFUBdr8CQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803182200
-! Last Modified: 2018年03月18日 22:00
+! Version: 201803190830
+! Last Modified: 2018年03月19日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -126,7 +126,6 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
-/js/AD_tv.js
 -880-80-4.jpg
 .cc/js/ads/
 .cn/ads/
@@ -310,6 +309,7 @@ tieba.baidu.com##.tuijian-wrap
 /jinhuatv/ad
 /jkbd-app/resources/images/a123/maiche
 /jkbd/resources/js/specialscript.js
+/js/AD_tv.js
 /js/ads/dui.js
 /js/ads/neiye
 /js/ads/piao.js
@@ -2683,7 +2683,6 @@ ubmcmm.baidustatic.com
 .com/tps/$domain=ocucn.com
 .gif|$domain=7mshipin.org|aotu42.com|avaotu.net
 .gif|$third-party,domain=avtb008.com
-|http*://$image,third-party,domain=rmdown.com
 .html|$domain=www.gamer.com.tw
 .niusnews.com/upload/banners/
 .oeya.com/$domain=realtw.com
@@ -2799,6 +2798,7 @@ _yad_jsonp_
 fuli.*/wp-content/uploads/ad/
 mg*.6park.com/img/$image
 |blob:$domain=btdb.to
+|http*://$image,third-party,domain=rmdown.com
 |http:$script,domain=189so.cn
 |http:$script,stylesheet,third-party,xmlhttprequest,domain=btdb.to
 |http:$script,third-party,domain=papalah.pw
@@ -3457,6 +3457,7 @@ mg*.6park.com/img/$image
 ||999v.me/cs
 ||99btgc01.info/uploads/*.gif
 ||99danji.com/otherhtml/
+||99jjk.com/js/floatxvideo.js
 ||99mst.com/upfiles/adv/main02.jpg
 ||99tianji.com/hack/
 ||9duw.com/pic/
@@ -3559,6 +3560,7 @@ mg*.6park.com/img/$image
 ||advideoadmin.appledaily.com.tw/ov_player/
 ||adwordsing.com/img/1.jpg
 ||adwordsing.com/img/2.jpg
+||afd.baidu.com^
 ||afocus.com.cn/s?
 ||afp.chinanews.com^
 ||afp.wasu.cn^
@@ -3771,6 +3773,7 @@ mg*.6park.com/img/$image
 ||baishulou.net/html/
 ||baixing.com/bb/*/?category=
 ||baixing.com/widget/
+||ballbar.cc/js/t18.js
 ||ballive.*/addm/
 ||banma.com/get_ad/
 ||banma.com/js/adi.js
@@ -7219,13 +7222,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||99jjk.com/js/floatxvideo.js
-||ballbar.cc/js/t18.js
-||afd.baidu.com^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-tieba.baidu.com##.j_feed_li[fid="3665221"]
-baobao.baidu.com##.qb-relate-box
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -10047,6 +10045,7 @@ sina.cn##.j_article_cutpic
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_banner_post
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_couplet
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_df_card
+tieba.baidu.com##.j_feed_li[fid="3665221"]
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_l_post:not([data-field])
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\\u4e36\\u4e4b\\u6b87\""]:not([data-field*="\"user_id\":1180601200,"])
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_listLiveTvCnt
@@ -10508,6 +10507,7 @@ huaban.com##.promotion
 ifeng.com##.pullClient
 cnplugins.com##.pushbox1
 baidu.com##.qb-other-answer-wmad
+baobao.baidu.com##.qb-relate-box
 qidian.com##.qd-game
 qdmm.com,qidian.com##.qd_sms_pop
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.qipai_thread
