@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: si05wIUZNAVgoRaXmGkYSw
+! Checksum: X2MsywCfDKFxGotzrA3jnQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201803200830
-! Last Modified: 2018年03月20日 08:30
+! Version: 201803200900
+! Last Modified: 2018年03月20日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -15043,8 +15043,8 @@ ctfile.com##.speedydown-info-box
 soku.com###\5f xbox_ad
 smzdm.com###footer_layer
 youku.com##.laifeng
-youku.com##A[href^="http://cps.laifeng.com/"]
-youku.com##a[href^="http://cps.laifeng.com/"] + .bg + IMG
+~laifeng.youku.com,youku.com##A[href^="http://cps.laifeng.com/"]
+~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"] + .bg + IMG
 zuowen.com##.cj
 qidian.com##.app_download_ad02
 qidian.com##.app_download_ad
