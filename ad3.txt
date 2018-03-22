@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: o+u/kagcuvAjU99eVHSDAw
+! Checksum: qBmqxf8Al1ZiKQVNtGsolA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201803221130
-! Last Modified: 2018年03月22日 11:30
+! Version: 201803221200
+! Last Modified: 2018年03月22日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -672,6 +672,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||hxscba.com^
 ||181lm.net^
 .net/jscode/$third-party
 .cn/show?id=$script,third-party
@@ -6957,7 +6958,6 @@ mg*.6park.com/img/$image
 ||yundianb.com/hao/
 ||yundianb.com/tu/jia.gif
 ||yunfile.com/ex/pop/
-||yunlaige.com/configs/article/tcgg.js
 ||yunlaige.com/nima.jpg
 ||yunupload.net/jsa/
 ||yupoo.com/ttmeiju/
@@ -7119,6 +7119,8 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||99down.com/index.php?m=poster&
+||yunlaige.com/configs/article/*gg
+||yunlaige.com/configs/article/*zx
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 pconline.com.cn##.block-jcz
