@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pf1CuwQr0UWVyNdsbNw1gg
+! Checksum: 4EzMvRkA9aaECT80S1k8XQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201803232145
-! Last Modified: 2018年03月23日 21:45
+! Version: 201803232200
+! Last Modified: 2018年03月23日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -297,8 +297,7 @@ m.thepaper.cn##.toutiao
 ! Youku
 youku.com###FullPromotion
 ||youku.com/video/libs/newExtend.js
-||js.ykimg.com/youku/dist/js/lib/ikuAdapterNew.js
-||static.youku.com/*/index/js/ikuAdapterNew.js
+/ikuAdapterNew.js$domain=youku.com
 ||static.youku.com/*/index/js/tdstat.js
 ||passport.youku.com/index_loginregGuide/$subdocument
 ||k.youku.com/player/getFlvPath/sid/*&vl=0$domain=www.doyoudo.com
