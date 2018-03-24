@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9k7BRYL76e8TTBx9w4xtYA
+! Checksum: g3jFnseQY7d/CA21fPVn9A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803242330
-! Last Modified: 2018年03月24日 23:30
+! Version: 201803250730
+! Last Modified: 2018年03月25日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17157,6 +17157,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /jquery.trackstar.
 /jquery.unica.
 /JqueryEtracker.
+/js/analitics.
 /js/analitycs_
 /js/analytics.
 /js/count.js.
@@ -29434,6 +29435,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||addicted-sports.com/piwik/piwik.js
 @@||adobedtm.com^*/satelliteLib-$script,domain=sbb.ch
 @@||alternate.de/js/emos2.js
+@@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=br.de
 @@||analytics.edgesuite.net/html5/akamaihtml5-min.js?$domain=ardmediathek.de
 @@||belboon.de/adtracking/$subdocument,domain=gutscheindoktor.de|preis-vergleich.tv|preismafia.com
 @@||belboon.de/clickout.php?$subdocument,domain=preis-vergleich.tv
