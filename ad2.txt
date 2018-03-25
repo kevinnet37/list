@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /cv4A+6UI9526jmTFYa4ww
+! Checksum: PJSzrLiKiQPaD+FDZY5JNQ
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201803241900
-! Last Modified: 2018年03月24日 19:00
+! Version: 201803251630
+! Last Modified: 2018年03月25日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -788,7 +788,6 @@ www.soku.com##li.sb_ad,div.sk-banner,div.sk_banner
 */youku/*.mp4?sid=$media,domain=v.youku.com|tudou.com
 ||atm.youku.com/
 ||l.youku.com/
-||pl-ali.youku.com/
 ||module.youku.com/
 youku.com##div[id^=ab_v_],li.js-draw,div.listcontrol
 
@@ -811,7 +810,7 @@ live.bilibili.com##.video-section+a
 le.com##.banner_ad,#rightBottomPop,div.banner_left,div.banner_right,div.column_right>.lh_box
 cctv.com###bgAd_div
 |http://player.cntv.cn/adplayer/$object
-douyu.com##div.bglink,#lifter,[data-dysign-adid],div[class$=-ad],div[class|=ad],div.no-login
+douyu.com##div.bglink,#lifter,[data-dysign-adid],div[class$=-ad],div[class|=ad],div.no-login,.his-sign-cont,.f-sign-cont
 ||wan.douyu.com/
 ||videojj.com/$domain=douyu.com
 ||staticlive.douyucdn.cn/upload/signs/$object
