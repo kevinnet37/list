@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n3fsTyWUjx6bdFn2NnB9KA
+! Checksum: znI++ZTbmQDU2SjYh4s8Bw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803271230
-! Last Modified: 2018年03月27日 12:30
+! Version: 201803280730
+! Last Modified: 2018年03月28日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19134,6 +19134,7 @@ _sdctag2.
 _semanticTag/
 _setAnalyticsFields&
 _social_tracking.
+_stat/addEvent/
 _stat_counter.php?
 _stats.js?
 _stats/Logger?
@@ -21139,6 +21140,7 @@ _mongo_stats/
 ||streem.com.au^$third-party
 ||stripedcollar.net^$third-party
 ||stroeerdigitalmedia.de^$third-party
+||strossle.it^$third-party
 ||strs.jp^$third-party
 ||sub2tech.com^$third-party
 ||submitnet.net^$third-party
@@ -22836,7 +22838,9 @@ _mongo_stats/
 ||akamai.net/chartbeat.
 ||akamai.net^*/a.visualrevenue.com/
 ||akamai.net^*/sitetracking/
+||akamaihd.net/bping.php?
 ||akamaihd.net/javascripts/browserfp.
+||akamaihd.net/log?
 ||akamaihd.net/push.gif?
 ||akamaihd.net^*.gif?d=
 ||akanoo.com/tracker/
@@ -28365,6 +28369,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||stats.mako.co.il^
 ||walla.co.il/CountsHP.asp?
 ||walla.co.il/impression/
+||rtl.hu/_stat/
 ||videa.hu/flvplayer_setcookie.php?
 ||altervista.org/js/contatore.js
 ||altervista.org/js_tags/contatore.js
@@ -29189,6 +29194,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||pixelpressmedia.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=pixelpressmedia.com
 @@||play.google.com/log?format=json&authuser=$xmlhttprequest,domain=myaccount.google.com
 @@||playcanvas.com.*/keen.min.js
+@@||player.ooyala.com^*/analytics-plugin/$script,domain=nintendo.com
 @@||player.sundaysky.com^$subdocument
 @@||playtheend.com/api/v1/players/heatmap.json?$object-subrequest
 @@||pnas.org^*/fingerprint.js$script,~third-party
@@ -29643,6 +29649,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||argep.hu/googleanalytics.js
 @@||clicktale.net/WRc5.js$domain=telefonkonyv.hu
 @@||rtl.hu/javascripts/UserTracking.js
+@@||rtl.hu^*/gemius_id.js?
 @@||adobedtm.com^*/satelliteLib-$script,domain=laredoute.it
 @@||adobetag.com/d2/telecomitalia/live/Aggregato119TIM.js$domain=tim.it
 @@||androidgalaxys.net/wp-content/plugins/*/google-analyticator/$script
