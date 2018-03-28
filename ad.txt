@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wL6fnEAv407DIoEBLXHefQ
+! Checksum: mgR8SauZ/7M7+nrqz3rdcw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201803282030
-! Last Modified: 2018年03月28日 20:30
+! Version: 201803282200
+! Last Modified: 2018年03月28日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -308,7 +308,7 @@ youtube.com###video-masthead
 youtube.com###masthead-ad
 m.youtube.com###koya_child_6
 !m.youtube.com##._menb>._mab:nth-child(1)
-||youtube.com/get_video_info?*=adunit&
+||youtube.com/*=adunit&
 ||youtube.com/*&yt_ad
 ! Baidu
 ^monitor.jpg?xcode^
