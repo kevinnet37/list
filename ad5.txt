@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cY1hIhMWBPdwW5fp879uJA
+! Checksum: 1cdPZRw8nnn/cV8iw+ELZQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803282030
-! Last Modified: 2018年03月28日 20:30
+! Version: 201803290730
+! Last Modified: 2018年03月29日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15923,6 +15923,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /analytics.html?
 /analytics.init.js
 /analytics.js/v1/*
+/analytics.json?
 /analytics.min.
 /analytics.php.
 /analytics.php?
@@ -17752,6 +17753,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /pixel/visit?
 /pixel1/impression.
 /pixel?google_
+/pixel?tag=
 /pixel?type=
 /pixel_iframe.
 /pixel_track.
@@ -19369,6 +19371,7 @@ _mongo_stats/
 ||adfox.ru^$third-party
 ||adgreed.com^$third-party
 ||adheart.de^$third-party
+||adhslx.com^$third-party
 ||adinsight.co.kr^$third-party
 ||adinsight.com^$third-party
 ||adinsight.eu^$third-party
@@ -19825,7 +19828,6 @@ _mongo_stats/
 ||data-analytics.jp^$third-party
 ||databrain.com^$third-party
 ||datacaciques.com^$third-party
-||datadome.co^$third-party
 ||datafeedfile.com^$third-party
 ||datam.com^$third-party
 ||datamind.ru^$third-party
@@ -22851,6 +22853,7 @@ _mongo_stats/
 ||akamai.net/chartbeat.
 ||akamai.net^*/a.visualrevenue.com/
 ||akamai.net^*/sitetracking/
+||akamaihd.net/*.gif?e=
 ||akamaihd.net/bping.php?
 ||akamaihd.net/javascripts/browserfp.
 ||akamaihd.net/log?
@@ -24093,6 +24096,7 @@ _mongo_stats/
 ||qualtrics.com^*/metrics
 ||qubitanalytics.appspot.com^
 ||quisma.com/tracking/
+||quora.com/_/ad/
 ||r.mail.ru^
 ||r.msn.com^
 ||r.ypcdn.com^*/rtd?ptid$image
@@ -24587,7 +24591,6 @@ _mongo_stats/
 ||upcat.custvox.org/survey/*/countOpen.gif
 ||upt.graphiq.com^
 ||urc.taboolasyndication.com^
-||usage.trackjs.com^
 ||userlog.synapseip.tv^
 ||uservoice.com^*/track.js
 ||v.giantrealm.com/players/stats.swf?
@@ -26459,6 +26462,7 @@ _mongo_stats/
 ||log.data.disney.com^
 ||log.deutschegrammophon.com^
 ||log.go.com^
+||log.mappy.net^
 ||log.newsvine.com^
 ||log.optimizely.com^
 ||log.player.cntv.cn/stat.html?
