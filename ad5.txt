@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wez1AqmQkp0R2ARrWytqsA
+! Checksum: RVFmKkbY3bh+ODA5bSLC1A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803301900
-! Last Modified: 2018年03月30日 19:00
+! Version: 201803302030
+! Last Modified: 2018年03月30日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -29611,6 +29611,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||sosh.fr^*/wtinit.js
 @@||stat.prsmedia.fr/tag/stat.js$domain=bienpublic.com
 @@||static.lci.fr/assets/scripts/common/tracker.js?$script,~third-party
+@@||tf1.fr/assets/js/build/lib/smarttag.js$domain=tf1.fr
 @@||tf1.fr/assets/js/build/lib/xiti.js$domain=tf1.fr
 @@||tv5.org/cms/javascript/*/sitestat.js
 @@||tv5monde.com/cms/javascript/*/sitestat.js
@@ -29710,6 +29711,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||video.repubblica.it^*/nielsen.js
 @@||webcenter.tiscali.it/distribuzione/_script/audience_science.js$domain=mail.tiscali.it
 @@||detik.com/urchin.js
+@@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
 @@||chancro.jp/assets/lib/googleanalytics-$script
 @@||naver.net/wcslog.js$domain=m.tv.naver.com
 @@/webtracking/*$domain=pasts.lv
@@ -29756,6 +29758,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||itv.1tv.ru/stat.php?
 @@||k12-company.ru^*/statistics.js$script
 @@||labrc.pw/advstats/$xmlhttprequest
+@@||lk.ug.mts.ru/app/vendor/angular-google-analytics.min.js
 @@||matchid.adfox.yandex.ru/?url=$script,domain=ctc.ru
 @@||megafon.ru/static/?files=*/tealeaf.js
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
