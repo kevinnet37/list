@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CLYXXAJ0b7h0FyOEPM4DHA
+! Checksum: 5RpOVRkrfpvzngQB3kKlvw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201803310900
-! Last Modified: 2018年03月31日 09:00
+! Version: 201803310930
+! Last Modified: 2018年03月31日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -21702,6 +21702,7 @@ _mongo_stats/
 ||crypto-coins.com^$third-party
 ||crypto-coins.info^$third-party
 ||crypto-loot.com^$third-party
+||crypto-pool.fr^$third-party
 ||crypto-webminer.com^$third-party
 ||cryptobara.com^$third-party
 ||cryptoloot.pro^$third-party
@@ -21752,6 +21753,7 @@ _mongo_stats/
 ||hashforcash.us^$third-party
 ||hashing.win^$third-party
 ||hashnest.com^$third-party
+||hashvault.pro^$third-party
 ||hashzone.io^$third-party
 ||hatcalter.com^$third-party
 ||hegrinhar.com^$third-party
@@ -21787,6 +21789,7 @@ _mongo_stats/
 ||ledhenone.com^$third-party
 ||ledinund.com^$third-party
 ||leon08.tk^$third-party
+||lindon-pool.win^$third-party
 ||listat.biz^$third-party
 ||lmodr.biz^$third-party
 ||losital.ru^$third-party
@@ -21869,6 +21872,7 @@ _mongo_stats/
 ||staticsfs.host^$third-party
 ||statistic.date^$third-party
 ||subloader.cf^$third-party
+||sumokoin.com^$third-party
 ||supportxmr.com^$third-party
 ||synconnector.com^$third-party
 ||terethat.ru^$third-party
@@ -21897,6 +21901,7 @@ _mongo_stats/
 ||wsp.marketgid.com^$third-party
 ||wty46.com^$third-party
 ||xbasfbno.info^$third-party
+||xmrpool.net^$third-party
 ||yuebofa.cc^$third-party
 ||ywtjdckysve.com^$third-party
 ||zlx.com.br^$third-party
