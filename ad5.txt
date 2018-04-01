@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: csFP/54AzzTawyVA2jGcrQ
+! Checksum: ei+7dVHOGpPcDKHkG8GwVw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804010830
-! Last Modified: 2018年04月01日 08:30
+! Version: 201804011030
+! Last Modified: 2018年04月01日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -27892,6 +27892,8 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||chefkoch.de/counter
 ||chefkoch.de/statistic_service/
 ||chefkoch.de^*/pixel/
+||chip.de/collect
+||chip.de/stats?
 ||chip.de^*/hook-tracking.js
 ||chip.de^*/pic.gif?
 ||chip.de^*/tracking.js
