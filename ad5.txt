@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: z86qCrapj5yCqU0j2ZinUQ
+! Checksum: yV+W1ITF6DFdvJcbJIvavw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804022230
-! Last Modified: 2018年04月02日 22:30
+! Version: 201804022330
+! Last Modified: 2018年04月02日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -14480,7 +14480,6 @@ _300_250.
 ||bilibili.com/html/ads-index.js
 ||126.net/caipiao/js2/index/homePop.js
 ||126.net/caipiao/js2/dialog.js
-||126.net/caipiao/js2/popularize/hello.js
 ||ye120.com/swt.js
 ||ye120.com/zool.js
 ||wbiao.co/src2/js/expand/fudong/
@@ -14755,8 +14754,6 @@ co188.com##.suspen
 hjenglish.com##.fix_questionnaire_btn
 kaoyan.com##.floatQrcode
 shejiben.com##.bottom_zb_box
-bilibili.com,~game.bilibili.com##A[href*=".biligame."]
-bilibili.com,~game.bilibili.com##A[data-target-url*=".biligame."]
 dianyingbar.com###jihuaslide
 dianyingbar.com##.alert_windows
 dianyingbar.com##.recover
