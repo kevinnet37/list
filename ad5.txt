@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3uARPWnqobWoM02ew8zrOg
+! Checksum: UH9JES6tmkfzPq4NMC7zpg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804012330
-! Last Modified: 2018年04月01日 23:30
+! Version: 201804020830
+! Last Modified: 2018年04月02日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -27730,20 +27730,14 @@ $websocket,domain=123telugu.com|1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.c
 $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|catrumahminimalis.me|ddmix.net|dekoder.ws|freecontent.stream|leon08.tk|leon12.tk|leon16.tk|nowvideo.sx|onlinevideoconverter.com|powvideo.net|sleeptimer.org|streambeam.io|streamplay.top|szukajka.tv|tainies.online|tomtop.com|vidfile.net|vidgg.to|wholecloud.net
 ||github.io^*.wasm$third-party,websocket,xmlhttprequest,domain=~github.com
 ||github.io^*.wsm$third-party,websocket,xmlhttprequest,domain=~github.com
+/.*[a-zA-Z0-9]{3,}.*[\/proxy|.wsm|.wa]$/$websocket,xmlhttprequest,domain=rawgit.com|reactor.cc|streamplay.to|tubetitties.com|vidfile.net
 ||2giga.link^*/hive.js
 ||browsealoud.com/plus/scripts/$script
-||cryweb.github.io^
-||crywebber.github.io^
 ||gus.host/coins.js
-||hive.tubetitties.com^
 ||piti.bplaced.net^
-||rawgit.com/Pocketart/$script,third-party
-||reactor.cc^*.wasm
 ||shrink-service.it/js/cM.js
 ||sickrage.ca^$script
 ||stackpathdns.com/assets/javascript/cr.js
-||streamplay.*.wasm$websocket,xmlhttprequest
-||vidfile.net^$third-party,websocket,xmlhttprequest
 ||worker.salon.com^
 ||abc.com/service/gremlin/js/files/s_code.js?$domain=abc.go.com
 ||adobe.com^*/omniture_s_code.js
