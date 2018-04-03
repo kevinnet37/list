@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Hbrxg3tN74w3+eQ0Sw4TyQ
+! Checksum: ohwWSGj83Y5a/zISWRdr0w
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201804031900
-! Last Modified: 2018年04月03日 19:00
+! Version: 201804032000
+! Last Modified: 2018年04月03日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -11274,7 +11274,7 @@ muchong.com##a[href^="http://muchong.com/bbs/a"] > img
 cnbeta.com##a[href^="http://note.youdao.com/"]
 wenxuecity.com##a[href^="http://oascentral.wenxuecity.com/"]
 pctowap.com##a[href^="http://ptw.la/"]
-finance.sina.com.cn##a[href^="http://sax.sina.com.cn/click?"]
+sina.com.cn##A[href*="sax.sina.com.cn/click?"]
 ydt.com.cn##a[href^="http://static.ydt.com.cn/my/u.php?"]
 mop.com##a[href^="http://trackx.mop.com/"]
 9tour.cn##a[href^="http://union.zhuna.cn/"]
