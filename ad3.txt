@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: URWaufjemqeijw8zHOgP+A
+! Checksum: cKpcoFl+gKykbk2rQC5gBw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201804051100
-! Last Modified: 2018年04月05日 11:00
+! Version: 201804051300
+! Last Modified: 2018年04月05日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -6210,7 +6210,7 @@ mg*.6park.com/img/$image
 ||sina.com/rm/
 ||sinaimg.cn/finance/zwy/sidead_
 ||sinaimg.cn/jslib/kuozhanad.js
-||sinaimg.cn/large/$domain=360zhibo.com|btshoufa.net|chakd.com|qqlubo.net|seehd.so|zhainanfulishe.net
+||sinaimg.cn/large/$domain=360zhibo.com|btshoufa.net|chakd.com|qqzhibo.net|seehd.so|zhainanfulishe.net
 ||sinaimg.cn/large/*.gif$domain=henbt.com|mp4ba.la
 ||sinaimg.cn/large/005EuLLtgw1eji5kzbgvlg30r801ogpy.gif
 ||sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0.gif
@@ -7138,6 +7138,10 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+qqzhibo.net###ad_index_float_left
+qqzhibo.net###ad_index_float_right
+qqzhibo.net###ad_float_left
+qqzhibo.net###ad_float_right
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -7348,7 +7352,7 @@ lzep.cn###ad_side_l
 lzep.cn###ad_side_r
 7lili.com###ad_taglist_1
 bioon.com###ad_tb
-qqlubo.net###ad_text_top
+qqzhibo.net###ad_text_top
 taoguba.com.cn###ad_tgb_list
 cctime.com###ad_three
 8591.com.tw###ad_tips
@@ -11770,7 +11774,7 @@ blue-way.com.tw,like101.com.tw##p:first-child + [border="1"][width="100%"]
 muchong.com##p[onclick="view_ok();"]
 lolshipin.com##script + .box:nth-child(2)
 acg18.us,sc115.com##script + a
-qqlubo.net##script + br ~ a
+qqzhibo.net##A[style^="color:#f30"]
 csj.xinhuanet.com##script + center > a > img
 ~cbachina.sports.sohu.com,sohu.com##sohuadcode
 bbs.my0511.com##span.smalltxt
