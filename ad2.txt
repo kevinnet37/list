@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PJSzrLiKiQPaD+FDZY5JNQ
+! Checksum: zP0U4RL8zzVpNfzPgexpxg
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201803251630
-! Last Modified: 2018年03月25日 16:30
+! Version: 201804051630
+! Last Modified: 2018年04月05日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -472,7 +472,6 @@ zol.com.cn##.down-h4,span.down-alink,div[class^=ad_],div[class*=-ad],div[class|=
 @@||cdn.exp.qq.com/img/
 @@||stat.pc.music.qq.com/fcgi-bin/player_
 ||adsrich.qq.com/
-||btrace.qq.com/
 ||games.qq.com/playgame/videoweb/
 ||games.qq.com/playgame/gamesad/js/swfobject.js
 @@||c.gdt.qq.com/gdt_click.
@@ -497,7 +496,7 @@ zol.com.cn##.down-h4,span.down-alink,div[class^=ad_],div[class*=-ad],div[class|=
 ||view.news.qq.com/PL_ad$subdocument
 ||tencentmind.com/
 @@*/sports.tc.qq.com/$media,object-subrequest
-*.tc.qq.com/*.mp4?vkey=$media,object-subrequest
+*.tc.qq.com/*.mp4?$media,object-subrequest
 ||qq.com/games/$subdocument
 ||v.qq.com/x/webtips?$subdocument
 www.qq.com##.adLeft,.adRight
@@ -533,7 +532,7 @@ sports.qq.com##.ad-wrapper,#focus_jordon,.ad_r_85,div[class|=gg],div.layout.mt35
 ||bobo.com/special/$subdocument
 ||baoxian.163.com/$subdocument
 ||caipiao.163.com/$subdocument
-||lofter.com/$subdocument
+||lofter.com/$subdocument,third-party
 |https://nex.163.com/q?
 163.com##[class$="_ad"],div.mod_ad_text,#bobo,#layout-bobo,.txt-bobo,#js_a_bobo,.bobo-area,.imglist-bobo-app,#layout-love,#layout-shop,.top-banner,div.float-bar,div.post_adtop_main,div.post_adtop_side,a.tie-ad-bar,#fixed_foot_ad,#js-epTabDS,#js-epBobo,div.gg300
 163.com,~love.163.com##A[href^="http://love.163.com/"]
@@ -741,6 +740,7 @@ acfun.cn###ad-comment,#ad-player-view
 |http://www.acfun.cn/adnew.aspx
 ||www.hao123.com/erji/hao123/$object-subrequest
 ||imall.cctv.com/$subdocument
+||bjcathay.com/
 ||pub.funshion.com
 pptv.com##div[id^=afp_],div[id$=-afp],#video-download-game
 ||synacast.com
