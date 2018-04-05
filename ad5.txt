@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jKaiB0L9kA5VDlHwEPoDwg
+! Checksum: VbfCKtHVnKSMx5kDTLGsQg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804060000
-! Last Modified: 2018年04月06日 00:00
+! Version: 201804060730
+! Last Modified: 2018年04月06日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15767,6 +15767,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /activetrackphp.php?
 /activity-track/?
 /activity.gif?
+/ad-blocker-stats.
 /ad-iptracer.
 /ad_1_trans.
 /ad_imp.
@@ -18697,6 +18698,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /ucount.php?
 /udctrack.
 /uds/stats?
+/uedata?
 /uf-stat?
 /ui/analytics/*
 /uim.html/*
@@ -19291,6 +19293,7 @@ _mongo_stats/
 ||212.227.100.108^$third-party
 ||216.18.184.18^$third-party,domain=~etahub.com.ip
 ||247-inc.com^$third-party
+||247-inc.net^$third-party
 ||247ilabs.com^$third-party
 ||24businessnews.com^$third-party
 ||24counter.com^$third-party
@@ -19948,6 +19951,7 @@ _mongo_stats/
 ||emltrk.com^$third-party
 ||enecto.com^$third-party
 ||enectoanalytics.com^$third-party
+||engageclick.com^$third-party
 ||engagemaster.com^$third-party
 ||engagio.com^$third-party
 ||engine212.com^$third-party
@@ -24796,7 +24800,6 @@ _mongo_stats/
 ||global-media.de^*/track/ai.img
 ||gocp.stroeermediabrands.de^$third-party
 ||hbx.df-srv.de^
-||healte.de^
 ||hittracker.org/count.php
 ||hittracker.org/counter.php
 ||house27.ch/counter/
@@ -25500,7 +25503,6 @@ _mongo_stats/
 ||amazon.*/gp/r.html?
 ||amazon.*/record-impressions?
 ||amazon.*/uedata/
-||amazon.*/uedata?
 ||amazon.com/clog/
 ||amazon.com/empty.gif?$image
 ||amazon.com/gp/forum/email/tracking?
@@ -25509,7 +25511,6 @@ _mongo_stats/
 ||amazon.com^*/vap-metrics/
 ||amazonaws.com/beacon/vtpixpc.gif?
 ||amazonaws.com^*/pzyche.js
-||amazonsupply.com/uedata?
 ||amcnets.com/cgi-bin/true-ip.cgi
 ||amd.com/us/as/vwo/vwo_
 ||amp.virginmedia.com^
@@ -25611,7 +25612,6 @@ _mongo_stats/
 ||atracktive.collegehumor.com^
 ||att.com/csct.gif?
 ||attachmate.com*/pv.aspx?
-||audible.*/uedata?
 ||audible.com^*/uedata/
 ||audit.macworld.co.uk^
 ||audit.pcadvisor.co.uk^
