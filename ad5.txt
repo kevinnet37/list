@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rhI/iExPxztXmKGmiVOaPw
+! Checksum: OuBXGpuXK4n5q/e1638wPg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804061630
-! Last Modified: 2018年04月06日 16:30
+! Version: 201804061730
+! Last Modified: 2018年04月06日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -125,6 +125,7 @@ tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
+/xuanfusige.js
 -1688-wp-media/ads/
 -880-80-4.jpg
 .cc/js/ads/
@@ -2998,7 +2999,6 @@ mg*.6park.com/img/$image
 ||17173cdn.com/js/play/page/pThridPlayerAd.js
 ||172.15.2.28:3438/*.js
 ||1722t.com/js/jquery.js
-||173.208.177.227/tool/xuanfusige.js
 ||173.208.177.227^*.gif
 ||174.123.15.43:8080
 ||178.com/ads/
@@ -6543,7 +6543,6 @@ mg*.6park.com/img/$image
 ||thisav.com/index.js
 ||thsi.cn/cb?/js/ifund/sideBarAd_
 ||thzok.com/6/
-||thztv.net/tool/
 ||tianjimedia.com/s?z=
 ||tianjinwe.com/images/qssx/
 ||tianmu.com/DA201
@@ -7252,6 +7251,9 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||alicdn.com^$domain=thztv.org
+||sinaimg.cn^$domain=thztv.org
+||thztv.org/tool/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
