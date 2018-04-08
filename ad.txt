@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: v4L+V18O6/5ronS6IlDG7g
+! Checksum: iU2/ZC7+Z6qWFrAqvKM5rg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804081700
-! Last Modified: 2018年04月08日 17:00
+! Version: 201804081730
+! Last Modified: 2018年04月08日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1090,6 +1090,7 @@ _xiuno_com_ad/
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 ||kwiago.com^
+||btwan5.com^
 ||zhongzk.com^
 ||penggua.com.cn^
 .cn/show?id=$script,third-party
@@ -7561,6 +7562,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+.gif|$domain=viidii.info
+||olgame.tw/home/attachment/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
@@ -12432,6 +12435,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 520cc.me#@#.a_cn
 !---------------------------------URL Whitelist-------------------------------!
+@@||olgame.tw^$generichide
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@||exosrv.com/iframe.php?idzone=1830412&size=300x250$domain=520cc.me
 @@.adserver.$domain=litv.tv
