@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IMMTldVHltbsyxtV380kTw
+! Checksum: JAuTIFOU3vBsbdNox0URFA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804080930
-! Last Modified: 2018年04月08日 09:30
+! Version: 201804081030
+! Last Modified: 2018年04月08日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -12125,8 +12125,10 @@ blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw#@#.vertical-ads
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+520cc.me#@#.a_cn
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||exosrv.com/iframe.php?idzone=1830412&size=300x250$domain=520cc.me
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
@@ -12227,7 +12229,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||51hanhua.com/2013/brtxt.js
 @@||51img1.com/??*/adsys.
 @@||51job.com^$generichide
-@@||520cc.me^$genericblock
 @@||52zy.com/gg/
 @@||56img.com/modjs/app/page/www/play-pgc/*/so-ads.js?
 @@||58.com/adJump?adType=
@@ -12350,9 +12351,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||download.mokeedev.com^$generichide,script,xmlhttprequest
 @@||dyxia.com/dyxia/js/*jquery.js
 @@||e.cn.miaozhen.com/r/k=*=http
-@@||e701.net^$script,domain=2mn.im
-@@||e701.net^*=300&$subdocument,domain=2mn.im
-@@||e70123.com^$script,domain=2mn.im
 @@||ecitic.com/source/*/pop
 @@||ecma.bdimg.com/holmes/*.svg
 @@||eden.international/script/ad_banner/
@@ -23442,7 +23440,6 @@ _mongo_stats/
 ||detect.ergebnis-dienst.de^
 ||dfanalytics.dealerfire.com^
 ||dfdbz2tdq3k01.cloudfront.net^
-||dialglobal.com^*/Log.aspx?
 ||dig.ultimedia.com^
 ||digimedia.com/pageviews.php?
 ||digitalgov.gov/Universal-Federated-Analytics-Min.js
@@ -23990,7 +23987,6 @@ _mongo_stats/
 ||onescreen.net/os/static/pixels/
 ||onespot-tracking.herokuapp.com^
 ||onsugar.com/static/ck.php?
-||onthe.io/io.js$third-party
 ||ooyala.com/3rdparty/comscore_
 ||ooyala.com/authorized?analytics
 ||ooyala.com/sas/analytics?
@@ -24253,7 +24249,6 @@ _mongo_stats/
 ||speedtestbeta.com/*.gif?cb$third-party
 ||speedtrap.shopdirect.com^
 ||spoods.rce.veeseo.com^
-||spot.im/analytics/analytics.js
 ||spot.im/api/tracker/
 ||spread.ly^*/statistics.php
 ||ssl-images-amazon.com/images/*/common/1x1._*.gif$domain=~amazon.com
@@ -24662,7 +24657,6 @@ _mongo_stats/
 ||visualstudio.com/_da.gif?
 ||visualstudio.com/v2/track$third-party
 ||vivociti.com/images/$third-party
-||viximo.com/1px.gif?
 ||vizual.ai^*/click-stream-event?
 ||vizury.com/analyze/
 ||vk.com/rtrg?
@@ -24786,7 +24780,6 @@ _mongo_stats/
 ||clipkit.de/metrics?
 ||cloudfront.net/customers/24868.min.js
 ||collect.finanzen.net^
-||collector.bunchbox.co^$third-party
 ||com.econa.com^
 ||confido.dyndns.org^*/dot.php?
 ||count.snacktv.de^
@@ -26578,7 +26571,6 @@ _mongo_stats/
 ||metro.co.uk/js/ga-
 ||metro.us/api/trackPage/
 ||metroweekly.com/tools/blog_add_visitor/
-||mf2fm.com/php/stats.php?
 ||microsoft.com/_log?
 ||microsoft.com/blankpixel.gif
 ||microsoft.com/click/
@@ -27664,7 +27656,6 @@ _mongo_stats/
 ||yahooapis.com/get/Valueclick/CapAnywhere.getAnnotationCallback?
 ||yandex.*/clck/$~ping
 ||yandex.*/count/
-||yandex.*/hitcount/
 ||ybinst2.ec.yimg.com/ec/*&Type=Event.CPT&$domain=search.yahoo.com
 ||yellowpages.co.in/trac/
 ||yellowpages.com/images/li.gif?
@@ -27760,7 +27751,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||hayneedle.com/js/s_code.min.*.js
 ||images-amazon.com/images/*/wcs-help-omniture/wcs-help-omniture-$script
 ||img-bahn.de/v/*/js/s_code.js$domain=bahn.de
-||lexus.com/lexus-share/js/tracking_omn/s_code.js
 ||loc.gov/js/*/s_code.js
 ||mercedes-benz.ca/js/omniture.js
 ||mercola.com/Assets/js/omniture/sitecatalyst/mercola_s_code.js
@@ -27789,7 +27779,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||timeinc.net/tii/omniture/h/config/timesi.js$domain=si.com
 ||vitacost.com/Javascripts/s_code.js
 ||vmware.com/files/templates/inc/s_code_my.js
-||westernunion.*/_globalAssets/js/omniture/AppMeasurement.js
 ||wp.com/wp-content/themes/vip/metrouk/js/site-catalyst.js$domain=metro.co.uk
 ||yell.com/js/omniture-H.25.js
 ||radio-canada.ca/omniture/omni_stats_base.js?
@@ -28266,7 +28255,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||jiayuan.com^*/pv.js
 ||js.kuwo.cn/stat/
 ||js.sohu.com/track/
-||js.sohu.com/wrating0820.js
 ||js.soufunimg.com/count/
 ||jscss.kdslife.com/club/html/count/PChome_Count.js
 ||ku6.com/ku6.gif?
