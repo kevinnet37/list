@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HsBSB3bA3cr1uxndqryr9w
+! Checksum: 9uMAsx9YvXBWKnTFpwy8Lg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804091000
-! Last Modified: 2018年04月09日 10:00
+! Version: 201804091030
+! Last Modified: 2018年04月09日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -788,6 +788,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||ctrhfd.top^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -16335,6 +16336,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /click-stat.js
 /click-tracker
 /click.cgi?callback=
+/click.php?c=
 /click_metrics-jquery.js
 /click_stat/*
 /click_statistics/*
@@ -17249,6 +17251,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /jstats.php
 /jstats/js/*
 /jtracking/*
+/jump/?jl=
+/jump/clk1.
 /kaiseki/script.php
 /kaiseki/track.php?
 /kaizentrack/*
@@ -19344,6 +19348,7 @@ _mongo_stats/
 ||40nuggets.com^$third-party
 ||44-trk-srv.com^$third-party
 ||4oney.com^$third-party
+||4spoonyexperiment.com^$third-party
 ||50greyofsha.de^$third-party
 ||55labs.com^$third-party
 ||62.160.52.73^$third-party
@@ -21063,6 +21068,7 @@ _mongo_stats/
 ||showroomlogic.com^$third-party
 ||siftscience.com^$third-party
 ||signup-way.com^$third-party
+||silvergamed.com^$third-party
 ||silverpop.com^$third-party
 ||silverpush.co^$third-party
 ||simplehitcounter.com^$third-party
