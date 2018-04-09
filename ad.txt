@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BT43L1H9NGvwsziyFfpEjQ
+! Checksum: ovPoLkmnfaLgWEc47czToQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804090730
-! Last Modified: 2018年04月09日 07:30
+! Version: 201804091000
+! Last Modified: 2018年04月09日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1109,7 +1109,7 @@ _xiuno_com_ad/
 .net/jscode/$third-party
 .net/showpage.asp?u=$script,third-party
 .net/vs.php?id=$script,third-party
-.sufficient.cn
+||sufficient.cn^
 .vip/vs.php?id=$script,third-party
 .xyz/vs.php?id=$script,third-party
 //vs.php?id=$script,third-party
@@ -7570,8 +7570,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||livku.com/g1000/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+btshoufa.net##DIV[class^="ADTOPLB_"]
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -13127,7 +13129,7 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||a1.vdolady.com^
 ||a1.yuuedu.com^
 ||a1.zhanzhang.net^
-||a4.b2b168.com^
+||b1.b2b168.com^
 ||aa.gushiwen.org^
 ||aa.jiankang.com^
 ||aa.xiangxiangmf.com^
