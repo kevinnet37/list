@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VAA1Q+ks5CZSAt9YyJ+SJQ
+! Checksum: ZzBa7G5Ie4+x9KKpO3RVHg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804102200
-! Last Modified: 2018年04月10日 22:00
+! Version: 201804102330
+! Last Modified: 2018年04月10日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7272,8 +7272,11 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||lancdn.com^*/xinsucai-
+||fx112.com/upload/15*.gif
 !------------------------Specific element hiding rules------------------------!
 landiannews.com##.article-content > DIV[class]:first-child
+fx112.com##.adword
+fx112.com##A[href^="/union."]
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
@@ -16819,6 +16822,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /g-track/*
 /g=analytics&
 /g_track.php?
+/ga*.js?PID=
 /ga-affiliates.
 /ga-async-
 /ga-beacon.*/UA-
@@ -19411,6 +19415,7 @@ _mongo_stats/
 ||acxiom-online.com^$third-party
 ||acxiomapac.com^$third-party
 ||ad-score.com^$third-party
+||adabra.com^$third-party
 ||adalyser.com^$third-party
 ||adblade.com^$third-party
 ||adchemix.com^$third-party
@@ -19761,6 +19766,7 @@ _mongo_stats/
 ||clickinc.com^$third-party
 ||clickmanage.com^$third-party
 ||clickmeter.com^$third-party
+||clickonometrics.pl^$third-party
 ||clickpathmedia.com^$third-party
 ||clickprotector.com^$third-party
 ||clickreport.com^$third-party
@@ -22626,7 +22632,6 @@ _mongo_stats/
 ||webgozar.ir^$third-party
 ||adstat.4u.pl^$third-party
 ||clickmatic.pl^$third-party
-||clickonometrics.pl^$third-party
 ||gostats.pl^$third-party
 ||hub.com.pl^$third-party
 ||inaudium.com^$third-party
