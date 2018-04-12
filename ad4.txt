@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5q/XvTH4uKXsDUO4V313QQ
+! Checksum: sgHLOxSwOuPkba6uqLiY7w
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201804111900
-! Last Modified: 2018年04月11日 19:00
+! Version: 201804120900
+! Last Modified: 2018年04月12日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -684,13 +684,13 @@ news.baidu.com##.recommend-mask
 ||bdstatic.com/tb/r/image/2014-12-03/87ae5de2d732714bb6dd4ff6ab1e50ac.jpg
 ||bdstatic.com/tb/r/image/2014-12-30/fa718abe3e4418298f785734279a2e8f.jpg
 ||bdstatic.com/tb/zt/tengfei/gzdialog.jpg
+||bdstatic.com^*/container/module/bottombanner/
 ||bdstatic.com^*/her/static/indexher/pkg/treasure.
 ||bdstatic.com^*/js/m.js
 ||bdstatic.com^*/mip-*ad
 ||bdstatic.com^*/plugins/every_cookie_
 ||bdstatic.com^*/QSURrcmRKV.js
 ||bdstatic.com^*/tam-ogel/
-||bdstatic.com^*/container/module/bottombanner/
 bdstatic.com###artnewdiv
 @@||bdstatic.com/??*,*,*,
 @@||bdstatic.com/static/common/widget/ui/admanager/
