@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HjcVOrn8VBixOxv2+HFPqA
+! Checksum: 2xSBz7VWOVEGfG9SBsR9GA
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201804091600
-! Last Modified: 2018年04月09日 16:00
+! Version: 201804121830
+! Last Modified: 2018年04月12日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -336,6 +336,7 @@ pageMediaControl*$script
 ||iwan.$third-party
 !-------------------通用脚本广告--------------------
 */51ads/
+@@||img05.zhaopin.cn/2014/common/js/za/ga.js
 */ga.js^
 -ads-$script
 _ad.js|
