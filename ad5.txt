@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SkVL5bIEfgktdYh2aWLB4w
+! Checksum: Y/xpEp4ZQDMm0jdmNYhwuA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804130830
-! Last Modified: 2018年04月13日 08:30
+! Version: 201804130900
+! Last Modified: 2018年04月13日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18533,6 +18533,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracker-ev-sdk.js
 /tracker-pb-min-rem.js
 /tracker-r1.js
+/tracker-setting.js
 /tracker.*/visit?
 /tracker.do?
 /tracker.gif?
@@ -22429,6 +22430,7 @@ _mongo_stats/
 ||irs09.com^$third-party
 ||jiankongbao.com^$third-party
 ||lndata.com^$third-party
+||logly.co.jp^$third-party
 ||mediav.com^$third-party
 ||miaozhen.com^$third-party
 ||mmstat.com^$third-party
@@ -28360,6 +28362,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||pptv.com/stg/add?
 ||pptv.com/webdelivery/
 ||pv.ltn.com.tw^
+||pv.udn.com^
 ||pv.xcar.com.cn^
 ||pvx.xcar.com.cn^
 ||qq.com/kvcollect?
@@ -28367,6 +28370,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||qq.com/qqcom/
 ||ranking.ynet.com^
 ||rcgi.video.qq.com^
+||rec.udn.com^
 ||report.qq.com^
 ||rgd.com.cn/counter/
 ||s.360.cn^
