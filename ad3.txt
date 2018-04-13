@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FgI5Cn2f/sbawGRfKpkjmA
+! Checksum: O9Dhtkd20hYjei0zZHtv1Q
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201804130830
-! Last Modified: 2018年04月13日 08:30
+! Version: 201804130930
+! Last Modified: 2018年04月13日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -12,6 +12,7 @@
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+.com/js/ddd.js
 -880-80-4.jpg
 .cc/js/ads/
 .cn/ads/
@@ -675,6 +676,8 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
+###aafoot.top_box
+###aatop.top_box
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 .cn/show?id=$script,third-party
@@ -3030,7 +3033,6 @@ mg*.6park.com/img/$image
 ||3454.com/zh/flash/d
 ||3464.com/Script/RightWindows.js
 ||3520.cc/js/3520/
-||355qq.com/js/ddd.js
 ||360.cn/festival_zone.html
 ||360.cn/index/showjokes?callback=
 ||360buyimg.com/jzt/temp/js/cpc.js
@@ -13115,6 +13117,8 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 ||zq84.com^
 ||zxw51.com^$third-party
 ||zzjs.makepolo.net^
+##A[href^="http://go.gotourls.bid/"]
+||gotourls.bid^
 ##.footer > #box[style="width:100%;height:100%;position:fixed;top:0"]
 ##a[href^="http://yunbofangbt."]
 @@||baidu.com/js/opensug.js$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.net|savebt.org|storebt.cc|zhongzicili.me|zhongzifuli.ws
