@@ -1,14 +1,16 @@
 [AutoProxy 0.2.9]
-! Checksum: Vd0mqG3iJoIqReav3dEttA
+! Checksum: KqR+kNNdDmQJ2h55gTq+WQ
 ! Title: [proxy]Filters
 ! Expires: 12 hours
-! Version: 201804141949
-! Last Modified: 2018年04月14日 19:49
+! Version: 201804142000
+! Last Modified: 2018年04月14日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则为自用简洁版，欢迎补充规则
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
+/^https?:\/\/[^\/]+google\.(.*)/
+/mp43/*.mp4$domain=91porn.com
 ||100tbgv.com
 ||1069juno.com
 ||1155h.com
@@ -70,8 +72,8 @@
 ||buzzfed.com
 ||buzzhand.com
 ||buzzhand.net
-||cam4bucks.com
 ||cam4.com
+||cam4bucks.com
 ||cam4s.com
 ||camcaps.net
 ||camnotifier.com
@@ -79,15 +81,15 @@
 ||cao25.com
 ||caobian.info
 ||caochangqing.com
-||cdn13.com
 ||cdn*.xda-developers.com
+||cdn13.com
 ||certificate-transparency.org
 ||chatango.com
 ||chaturbate.com
 ||chinagfw.org
+||chrome-extension-downloader.com
 ||chrome.com
 ||chromeexperiments.com
-||chrome-extension-downloader.com
 ||chromercise.com
 ||chromium.org
 ||ck-download.com
@@ -111,8 +113,8 @@
 ||deviantart.net
 ||dickdetective.com
 ||discuss.com.hk
-||disquscdn.com
 ||disqus.com
+||disquscdn.com
 ||dmm.co.jp
 ||doublepimp.com
 ||dowjoneson.com
@@ -151,21 +153,21 @@
 ||flickr.com
 ||flightcaster.com
 ||fmforums.co.uk
-||freedesktop.org
 ||free.fr
+||freedesktop.org
 ||fufumen.com
 ||fukugan.com
+||g.co^
 ||galagiveaways.com
+||gay-needed.com
+||gay.jp
 ||gaybonegdage.com
 ||gayceavenue.com
-||gay.jp
 ||gaymaletube.com
-||gay-needed.com
 ||gaypornsexfree.net
 ||gaysports.co.uk
 ||gaystick.com
 ||gaytube.com
-||g.co^
 ||gcr.io
 ||get-film.jp
 ||getfoxyproxy.org
@@ -221,7 +223,6 @@
 ||hotavxxx.com
 ||hotgoo.com
 ||html5rocks.com
-/^https?:\/\/[^\/]+google\.(.*)/
 ||humblebundle.com
 ||hunk-ch.com
 ||idaili.me
@@ -273,7 +274,6 @@
 ||minecraft.net
 ||mnetcdn.com
 ||mojang.com
-/mp43/*.mp4$domain=91porn.com
 ||mrskincdn.com
 ||msecnd.net
 ||mykomica.org
@@ -356,10 +356,10 @@
 ||staticflickr.com
 ||stripe.com
 ||systemcdn.net
+||t.co^
 ||t66y.com
 ||t6k.co
 ||taleofthenight.com
-||t.co^
 ||teachparentstech.org
 ||teads.tv
 ||textcube.com
@@ -381,9 +381,9 @@
 ||trueimages.ru
 ||trumjav.com
 ||tt1069.com
+||tube.com
 ||tube8.com
 ||tubecao.com
-||tube.com
 ||tumblr.com
 ||turbobit.net
 ||tweetdeck.com
@@ -405,6 +405,7 @@
 ||viidii.info
 ||virtualphoneline.com
 ||vs3.com
+||w.org^
 ||w3p.la
 ||w3schools.com
 ||wangyou.com
@@ -415,8 +416,8 @@
 ||webrtc.org
 ||wikibooks.org
 ||wikidata.org
-||wikimediafoundation.org
 ||wikimedia.org
+||wikimediafoundation.org
 ||wikinews.org
 ||wikipedia.org
 ||wikiquote.org
@@ -427,7 +428,6 @@
 ||withgoogle.com
 ||wordpress.com
 ||wordpress.org
-||w.org^
 ||woyao.cl
 ||wp.com^
 ||wsj.com
@@ -448,9 +448,9 @@
 ||youfap.me
 ||your-freedom.net
 ||youtu.be
-||youtubecn.com
-||youtube.com
 ||youtube-nocookie.com
+||youtube.com
+||youtubecn.com
 ||youversion.com
 ||ytimg.com
 ||zacebook.com
