@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jh/3JSsVLS5Yavewem6SHw
+! Checksum: sCqwFEws6U2KduVGu+tWiQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804140930
-! Last Modified: 2018年04月14日 09:30
+! Version: 201804141000
+! Last Modified: 2018年04月14日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7586,6 +7586,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||sinaimg.cn/large/*.gif$domain=vip-free.com
+||nirentang.com^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 wofl86.com###HtmlMoKua_84082510
@@ -12463,6 +12465,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@/vlive.qqvideo.tc.qq.com/*.mp4?sdtfrom=v1010&$domain=qq.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
