@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2xSBz7VWOVEGfG9SBsR9GA
+! Checksum: RVnqyNDiFZhDH0h68cWRWA
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201804121830
-! Last Modified: 2018年04月12日 18:30
+! Version: 201804151330
+! Last Modified: 2018年04月15日 13:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -790,7 +790,7 @@ www.soku.com##li.sb_ad,div.sk-banner,div.sk_banner
 ||atm.youku.com/
 ||l.youku.com/
 ||module.youku.com/
-youku.com##div[id^=ab_v_],li.js-draw,div.listcontrol
+youku.com##.right-sidepopup,div[id^=ab_v_],li.js-draw,#yk-player-curtain
 
 @@||acgvideo.com/*/ad/$xmlhttprequest,object-subrequest,domain=bilibili.com
 @@||www.bilibili.com/html/iframemessage.html
@@ -800,7 +800,8 @@ youku.com##div[id^=ab_v_],li.js-draw,div.listcontrol
 ||data.bilibilijj.com/free/*.txt
 ||qiniu.bilibilijj.com/$image
 ||hdslb.com/bfs/sycp/creative_img/$image
-bilibili.com##div.ad-f,span[data-ad-type=banner]
+||hdslb.com/bfs/sycp/tmaterial/20$image
+bilibili.com##div.ad-f,span[data-ad-type=banner],div.gg-floor-module
 live.bilibili.com##.video-section+a
 @@||stat.letv.com/$script
 */letv-gug/*$media,object-subrequest
