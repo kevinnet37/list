@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: izXVf8+JTzQJ+CwFh9AjAg
+! Checksum: zlkQDrWmixT4T3YyoFCRqA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804161230
-! Last Modified: 2018年04月16日 12:30
+! Version: 201804161800
+! Last Modified: 2018年04月16日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7598,8 +7598,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-/config.$domain=205ee.com
+/config.$domain=205ee.com|808ee.com
 ||m3hf.com/js/float
+||sinaimg.cn^$domain=ccxx99.com
+||alicdn.com^$domain=ccxx99.com
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
@@ -10540,7 +10542,7 @@ m.qidian.com##.link_banner
 linux.cn##.linuxcnad
 i.qq.com##.linwei-logo
 i.qq.com##.linwei-txt
-ddooo.com##.list > li:nth-child(-n+5)
+ddooo.com##.download > ul > li:nth-child(-n+5)
 iciba.com##.list-item > a[href^="http"]:not([href*=".iciba."])
 iciba.com##.list-item > a[href^="http"]:not([href*=".iciba."]) + .list-title
 news.ifeng.com##.list022
