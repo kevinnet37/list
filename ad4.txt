@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7Q2elOR/yOI4g0na3Y0XJA
+! Checksum: 8YuNhphXtKROuvcmPgQTHw
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201804152330
-! Last Modified: 2018年04月15日 23:30
+! Version: 201804160800
+! Last Modified: 2018年04月16日 08:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -161,6 +161,7 @@ tieba.baidu.com##.tuijian-wrap
 ||baidu.com/show/livevideo/getStreamConf?
 ||baidu.com/showbrand/banner_
 ||baidu.com/showbrand/sponsor_
+||baidu.com/source/getinfo?
 ||baidu.com/static/ecom/js/wise/home/nativeAds_
 ||baidu.com/static/html/cbjs.html
 ||baidu.com/static/yuntu-ad/
@@ -198,7 +199,6 @@ tieba.baidu.com##.tuijian-wrap
 ||tieba.baidu.com/f/urlcheck?
 ||wenku.baidu.com/browse/interface/getrec?
 ||youxi.baidu.com/tips/bdtips_min.js
-||baidu.com/source/getinfo?
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###activity_countdown_head
 baidu.com###adCard
 baidu.com###adMainTopLeft
@@ -321,7 +321,7 @@ news.baidu.com###women-picwall
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.EC_newppim
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.activity_iframe_container
 zhidao.baidu.com##.ad-block-1
-bookshi.com,iwan.baidu.com,qq.com,xinhuanet.com,zol.com.cn##.ad-box
+bookshi.com,iwan.baidu.com,qq.com,xinhuanet.com,zmz002.com,zol.com.cn##.ad-box
 baidu.com##.ad-platform-tips
 baidu.com##.adLog
 baidu.com##.adTopImg
