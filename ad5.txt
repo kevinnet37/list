@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JNx9XOSBhVC5CxvMsdbesQ
+! Checksum: vtTauP2BwCFgs8luQY7tJg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804160900
-! Last Modified: 2018年04月16日 09:00
+! Version: 201804160930
+! Last Modified: 2018年04月16日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7296,6 +7296,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 /config.$domain=205ee.com
+||m3hf.com/js/float
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
@@ -12217,7 +12218,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/cms/ads/*$domain=17.com
 @@/common/cf/*$domain=66u.com|changhong.com|fei3d.com|oneplusbbs.com|readboy.com
 @@/fuckadblock.$domain=ck101.com|datehub.co|download.mokeedev.com
-@@/guanggao/*$domain=igame.qq.com
+@@/guanggao/*$domain=igame.qq.com|icbc.com.cn
 @@/home/ads/*$domain=esunbank.com.tw
 @@/ima/*ad.$domain=feemoo.com|feimaott.com
 @@/images/*/*.gif$domain=iu91.co|maichun5.info|mc88.info|myhhg.com|sejie.com|sejie3.us|ukhuaren.co|yh1.info|yh10.info
