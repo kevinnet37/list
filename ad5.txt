@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /QyeIW7w59MWjPprT9aEQA
+! Checksum: eoqudBVx+XLxdY0bj4ga4A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804171830
-! Last Modified: 2018年04月17日 18:30
+! Version: 201804180730
+! Last Modified: 2018年04月18日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5181,7 +5181,7 @@ mg*.6park.com/img/$image
 ||inte.sogou.com^
 ||ioio.cc*/dm/*.swf
 ||ioio.cc/adtui/
-||ip-cdn.com/img/alipay_
+||ip-cdn.com/img/ali
 ||ip.ws.126.net^$domain=zhibowu.com
 ||ipeen.com.tw/js/frame/ad-actions.js
 ||ipeen.com.tw/photo/ad/
@@ -7312,6 +7312,8 @@ mg*.6park.com/img/$image
 ||tongda-bearings.com/d1/
 !------------------------Specific element hiding rules------------------------!
 33235.net###header > CENTER
+zhujiceping.com##.advert
+zhujiceping.com##.tg-site
 baidu.com###content_right > DIV > DIV[id^="m"]
 ithome.com##a[href*="/lapin."]
 ithome.com#?#.new:-abp-has(a[href*="/lapin."])
@@ -17339,6 +17341,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /kaiseki/track.php?
 /kaizentrack/*
 /kalturaevent?
+/KAStatsWriter/*
 /keen-tracker.
 /keen-tracking-
 /keen.min.js
@@ -17372,6 +17375,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /library_analytics.
 /libs/tracker.js
 /lingabot.
+/link-tracker-
 /link_track.
 /link_tracking/*
 /linkcountdata/*
@@ -19069,6 +19073,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /wrapper/quantcast.swf
 /Wrappers?cmd=
 /WRb.js
+/writeKAStats/*
 /writelog.
 /WritePartnerCookie?$third-party
 /writrak.
@@ -20246,6 +20251,7 @@ _mongo_stats/
 ||geistm.com^$third-party
 ||gemius.pl^$third-party
 ||gemtrackers.com^$third-party
+||geni.us^$third-party
 ||genieesspv.jp^$third-party
 ||geobytes.com^$third-party
 ||geoplugin.net^$third-party
@@ -24062,6 +24068,7 @@ _mongo_stats/
 ||mqs.ioam.de^
 ||msecnd.net/jscripts/HA-$script
 ||msecnd.net/scripts/a/ai.0.js
+||msecnd.net/scripts/jsll-
 ||mtrcs.samba.tv^
 ||mts.mansion.com^$third-party
 ||mtvnservices.com/aria/uuid.html
@@ -29508,6 +29515,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||uefa.com^*/chartbeat-trending-carousel.js
 @@||ultimedia.com/js/common/jquery.gatracker.js
 @@||unifi.me/mootools/classes/*-tracking
+@@||unisys.com^*/track.gif$image,~third-party
 @@||unity3d.com/profiles/unity3d/themes/unity/images/services/analytics/$image,~third-party
 @@||ups.com/*/WebTracking/track&dcs
 @@||ups.com/WebTracking/$xmlhttprequest
@@ -29661,6 +29669,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||getgoods.de^*/emstrack.js
 @@||giga.de/wp-content/plugins/econa-stats/log/video-views/log.php?id=$object-subrequest
 @@||gls.de^*/emos2.js
+@@||google-analytics.com/analytics.js$domain=schweizerfleisch.ch
 @@||google-analytics.com/siteopt.js?$domain=chip.de
 @@||googletagmanager.com/gtm.js?$domain=bunte.de|finanzen.net
 @@||hach.de^*/emstrack.js
@@ -29735,7 +29744,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||easypari.fr^*/sitestat.js
 @@||estat.com/js/$script,domain=francetvsport.fr
 @@||evidal.fr/scripts/stats/evidal/s_code.js
-@@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr
+@@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr|viandesuisse.ch
 @@||hello.distribeo.com/atconnect/*?duration=$script,domain=laposte.fr
 @@||leboncoin.fr/js/xiti.js
 @@||lesinrocks.com/min/?f=*/chartbeat.js
@@ -29837,6 +29846,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||codicefl.shinystat.com/cgi-bin/getserver.cgi?$script,domain=3bmeteo.com|quotidiano.net|radioitalia.it
 @@||codicefl.shinystat.com/cgi-bin/getswf.cgi?*PolymediaShow$object-subrequest,domain=corriereadriatico.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
 @@||ensighten.com^*/Bootstrap.js$domain=williamhill.it
+@@||google-analytics.com/analytics.js$domain=carnesvizzera.ch
 @@||googletagmanager.com/gtm.js?$domain=la7.it
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=la7.it|sky.it|video.corriere.it
 @@||imrworldwide.com/v60.js$domain=corriereadriatico.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
