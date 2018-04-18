@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: g1pPs9DwR346TWJJNnByjg
+! Checksum: LBlfC1Hff+HL5WEbiUaSFw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804182000
-! Last Modified: 2018年04月18日 20:00
+! Version: 201804182130
+! Last Modified: 2018年04月18日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -94,7 +94,6 @@ xhamster.com##.sponsorBottom
 ||addtoany.com/menu/transparent.gif
 ||adk2x.com^$third-party
 ||admaster.com.cn^$third-party
-||adp.cnki.net^
 ||ads.yahoo.com^
 ||adsfactor.net^
 ||adskeeper.co.uk^
@@ -123,7 +122,6 @@ xhamster.com##.sponsorBottom
 ||criteo.com^$third-party
 ||criteo.net^$third-party
 ||da-ads.com^$third-party
-||dagou2018.com/js/item950.js
 ||directtrk.com/js/pop.js$third-party
 ||discuss.com.hk/include/javascript/idle_check.js
 ||discuss.com.hk/overture/
@@ -144,9 +142,8 @@ xhamster.com##.sponsorBottom
 ||greencompute.org^$third-party
 ||guardwork.info^$third-party
 ||histats.com^$third-party
-||hnhgw.cn^
 ||insightexpressai.com^
-||jav777.cc/wp-content/themes/baskerville/js/jquery-ui*
+||jav777.cc/wp-content/themes/baskerville/js/jquery-ui
 ||js.fhxiaoshuo.com^
 ||juiceads.net^
 ||juicyads.com^
@@ -270,11 +267,8 @@ www.facebook.com##.egoOrganicColumn+*
 !||static.iqiyi.com/js/common/ares-$domain=m.iqiyi.com
 ! ithome
 ithome.com###a_ad
-ithome.com##.rm-modal-bg
-ithome.com##.rm-modal-body
 www.ithome.com###lapin
 www.ithome.com##.content>a[href="http://m.ithome.com/ithome/"]
-||img.ithome.com/images/hongbao/*
 ||img.ithome.com/file/js/wap/apprecommend.js
 ! Letv
 |http://*/letv-gug/
@@ -292,7 +286,6 @@ www.mgtv.com##.m-headgg.m-headgg-regular
 www.thepaper.cn##.pdtt01
 m.thepaper.cn##.toutiao
 m.thepaper.cn##.bot_banner
-||adpai.thepaper.cn^
 ! PornHub
 pornhub.com###hd-rightColVideoPage>none
 pornhub.com##.inesuch
@@ -309,7 +302,6 @@ youku.com###FullPromotion
 /ikuAdapterNew.js$domain=youku.com
 ||static.youku.com/*/index/js/tdstat.js
 ||passport.youku.com/index_loginregGuide/$subdocument
-||k.youku.com/player/getFlvPath/sid/*&vl=0$domain=www.doyoudo.com
 ||g.alicdn.com/ku/ykbannerLoader/
 ! Youtube
 youtube.com###contents>ytd-search-pyv-renderer
