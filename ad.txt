@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BPcavSxP1Ba37+ofiUvAaQ
+! Checksum: g1pPs9DwR346TWJJNnByjg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804181100
-! Last Modified: 2018年04月18日 11:00
+! Version: 201804182000
+! Last Modified: 2018年04月18日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -178,9 +178,6 @@ xhamster.com##.sponsorBottom
 ||revcontent.com^$third-party
 ||serving-sys.com^
 ||sexad.net^$third-party
-||ss.phncdn.com^
-@@||ss.phncdn.com/html5player/
-@@||ss.phncdn.com/jquery
 ||ssl.trace.zhiziyun.com^
 ||statcounter.com/counter/counter.js
 ||stats.hosting24.com/count.php
@@ -296,6 +293,14 @@ www.thepaper.cn##.pdtt01
 m.thepaper.cn##.toutiao
 m.thepaper.cn##.bot_banner
 ||adpai.thepaper.cn^
+! PornHub
+pornhub.com###hd-rightColVideoPage>none
+pornhub.com##.inesuch
+||doublepimpssl.com^$third-party
+||phncdn.com/www-static/js/widgets-live-popup.js
+||phncdn.com/www-static/js/ph-tracking.js
+||phncdn.com/www-static/js/promo-banner.js
+||pornhub.com/front/
 ! QQVideo
 ||ca.gtimg.com/adplugin/swf/MediaPlugin.swf
 ! Youku
