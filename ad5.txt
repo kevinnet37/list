@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lNu/1thH/RfcbSUQ6bTCjA
+! Checksum: QlRXmvp/UNJu0fecyySSWQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804192130
-! Last Modified: 2018年04月19日 21:30
+! Version: 201804192330
+! Last Modified: 2018年04月19日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7314,7 +7314,7 @@ mg*.6park.com/img/$image
 ||xfsub.com:88/js/*ad
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-ithome.com#?#li:-abp-has(>.block > h2 > a[href*="/lapin."])
+ithome.com#?#li:-abp-has(>.block a[href*="/lapin."])
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -11880,7 +11880,6 @@ gpshk.cc##img[width="770"]
 biz.zjol.com.cn##img[width="980"]
 0597kk.com##img[width^="37"][height="30"]
 apk.tw##ins.adsbygoogle
-ithome.com#?#li:-abp-has(> span > a[href*="/lapin."])
 jijidown.com#?#:-abp-properties(data:image/gif;base64,R0lGODlhLAGaAPf/)
 jijidown.com#?#:-abp-properties(data:image/jpeg;base64,/9j/)
 jijidown.com#?#:-abp-properties(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACaCA)
