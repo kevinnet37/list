@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qmi1HFrEZUVHy/bVUJe9VQ
+! Checksum: KQ4fLGsuZrOLj6f01avT9w
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804200930
-! Last Modified: 2018年04月20日 09:30
+! Version: 201804201100
+! Last Modified: 2018年04月20日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1108,7 +1108,6 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||sohu999.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -7618,6 +7617,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+maxthon.cn###shopping
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -14205,6 +14205,7 @@ $webrtc,domain=50.7.31.228|50.7.31.230|btdb.to|cntvboxnow.com|tvboxnow.com
 ||qyqc4s.com^
 ||vuahb.com^
 !-----------------------------Malware Domains rules---------------------------!
+||sohu999.com^
 ||146.148.85.61^
 ||akamaihd.net^*/gsd.html?d=
 ||akamaihd.net^*/sid.html?p=
