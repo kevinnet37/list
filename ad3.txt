@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5UV/f2f16t0anBx2EilNjw
+! Checksum: arsMTXBHpbsJQDB1jbf3ow
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201804202130
-! Last Modified: 2018年04月20日 21:30
+! Version: 201804202330
+! Last Modified: 2018年04月20日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -5208,7 +5208,6 @@ mg*.6park.com/img/$image
 ||jiazhao.com/statics/js/dzjiehun_2/r_bottom.js
 ||jiazhuang.com/Public/Home/bootinfo/
 ||jijistatic.duapp.com/Squall/1.jpg
-||jin10.com/assets/js/v1/commons.js
 ||jin10.com/board/json/rili.js
 ||jinghua.cn/lib/js/news/ad_jh.html
 ||jinghua.cn/tan.shtml
@@ -7200,6 +7199,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||chinaz.com/gj_g/
 ||tiimg.com/588755/6ff769624f8d5ece.jpg
+||jin10.com/board/json/index.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 ttmeiju.vip###footer > DIV[style]
@@ -12025,6 +12025,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||qq.com/html/mms/nativeads/game_rank.html
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
