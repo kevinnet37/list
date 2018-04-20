@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GZg495lU4Vapq14bRZcO/Q
+! Checksum: JRHL8EcCJGw1+GjEhmCIEw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804201000
-! Last Modified: 2018年04月20日 10:00
+! Version: 201804201030
+! Last Modified: 2018年04月20日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18683,6 +18683,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracking/article/*
 /tracking/at.js
 /tracking/beacon/?
+/tracking/click?
 /tracking/clicks
 /tracking/comscore/*
 /tracking/count
@@ -21803,6 +21804,7 @@ _mongo_stats/
 ||baiduccdn1.com^$third-party
 ||befirstcdn.com^$third-party
 ||berserkpl.net.pl^$websocket
+||bestcoinsignals.com^$third-party
 ||bestsecurepractice.com^$third-party
 ||bewaslac.com^$third-party
 ||bewhoyouare.gq^$third-party
@@ -21875,6 +21877,7 @@ _mongo_stats/
 ||easyhash.io^$third-party
 ||etnhashpool.tk^$third-party
 ||etzbnfuigipwvs.ru^$third-party
+||eucsoft.com^$third-party
 ||evengparme.com^$third-party
 ||ewtuyytdf45.com^$third-party
 ||ffinwwfpqi.gq^$third-party
@@ -22026,6 +22029,7 @@ _mongo_stats/
 ||terethat.ru^$third-party
 ||thatresha.com^$third-party
 ||tokyodrift.ga^$third-party
+||traviilo.com^$third-party
 ||tulip18.com^$third-party
 ||turnsocial.com^$third-party
 ||ue696vbd9l.bid^$third-party
@@ -22037,6 +22041,7 @@ _mongo_stats/
 ||veritrol.com^$third-party
 ||verresof.com^$third-party
 ||vzhjnorkudcxbiy.com^$third-party
+||wasm24.ru^$third-party
 ||webassembly.stream^$third-party
 ||webmine.cz^$third-party
 ||webmine.pro^$third-party
@@ -22050,6 +22055,7 @@ _mongo_stats/
 ||wty46.com^$third-party
 ||xbasfbno.info^$third-party
 ||xfast.host^$third-party
+||xmr.cool^$third-party
 ||xmrpool.net^$third-party
 ||xvideosharing.site^$third-party
 ||yuebofa.cc^$third-party
