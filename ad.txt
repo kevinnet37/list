@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PEflEiHFdfAGLCLPDvMzQA
+! Checksum: rttPklZe+vx01f/029xu5A
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804201200
-! Last Modified: 2018年04月20日 12:00
+! Version: 201804201230
+! Last Modified: 2018年04月20日 12:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12394,7 +12394,7 @@ ltn.com.tw#@#.adright
 money18.on.cc#@#.ads-bg
 10co.biz,10co.me#@#.ads-top
 zhaopin.com#@#.adsBox
-80s.tt,long7.qq.com#@#.adsbox
+80s.ai,long7.qq.com#@#.adsbox
 123564.com,apk.tw,epinv.com,ff14angler.com,fxpan.com,mfgun.com,moa.tw,playok.com#@#.adsbygoogle
 qq.com#@#.adside
 gdmm.com,youqu.net#@#.adtop
