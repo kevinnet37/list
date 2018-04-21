@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pNEy2Z7M5Z0PnDQUl0KfRw
+! Checksum: QSkg8FSS0sb65BrSg7UtuQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804211100
-! Last Modified: 2018年04月21日 11:00
+! Version: 201804211130
+! Last Modified: 2018年04月21日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -805,6 +805,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||roay.cn^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -13465,6 +13466,8 @@ ifeng.com#?#.slLis > li:-abp-has(span:-abp-contains(告))
 |http:$script,third-party,domain=xtzgjx.com|zzdxs.org
 ||cdfzcz.com^
 ||tick0.com^
+||sgzs999.com^
+||chfuw.com^
 &waid=m.miaobige.com/
 .ca.bxwx3.org^
 .m.23sw.net^
@@ -21842,6 +21845,7 @@ _mongo_stats/
 ||clickwith.bid^$third-party
 ||clod.pw^$third-party
 ||cloudcoins.co^$third-party
+||cloudflane.com^$third-party
 ||cndhit.xyz^$third-party
 ||cnhv.co^$third-party
 ||coin-have.com^$third-party
