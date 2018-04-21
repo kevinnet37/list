@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Hlw3ecBMii4/B4nVp0BnIg
+! Checksum: AEDexkaEtsKjCcokoUnoBw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804211800
-! Last Modified: 2018年04月21日 18:00
+! Version: 201804211900
+! Last Modified: 2018年04月21日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -22807,6 +22807,7 @@ _mongo_stats/
 ||countstat.ru^$third-party
 ||cpaevent.ru^$third-party
 ||cszz.ru^$third-party
+||dircont3.com^$third-party
 ||directcrm.ru^$third-party
 ||e-kuzbass.ru^$third-party
 ||exe.bid^$third-party
@@ -29831,6 +29832,8 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||ivwextern.prosieben.de^*/ivw_flashscript.php?$script
 @@||jetztspielen.de^*/EventTracker.js
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
+@@||ksta.de^*/api/tracking/service/ksta/templateclient.js$domain=ksta.de
+@@||ksta.de^*/tracking/tracking.js$domain=ksta.de
 @@||lablue.at/js/geo.php$~third-party,xmlhttprequest
 @@||lablue.de/js/geo.php$~third-party,xmlhttprequest
 @@||levexis.com/clients/planetsports/1.js$domain=planet-sports.de
