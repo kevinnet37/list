@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tAJk//RbmURpJTeWzuWz7w
+! Checksum: S09s3qij9w+gbwnwdusXUQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804212000
-! Last Modified: 2018年04月21日 20:00
+! Version: 201804212030
+! Last Modified: 2018年04月21日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -3080,7 +3080,7 @@ ubmcmm.baidustatic.com
 /biz_icon/*$domain=cs090.com|wm090.com
 /cari/banner/*
 /cari/daybanner/*
-/config.$domain=205ee.com|808ee.com
+/config.$domain=205ee.com|806aa.com|808ee.com
 /da.aspx|$domain=live8bo.com|live8bo.net|live8bo1.com|zqzq.com
 /dealer1.gif$domain=oldpig.org
 /dhfun_ad/*
