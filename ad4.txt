@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ASNKvM4pyl5mfYlGu8dNFA
+! Checksum: 1aH6ZcQ7FcOWL5FBelYkEg
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201804201200
-! Last Modified: 2018年04月20日 12:00
+! Version: 201804210830
+! Last Modified: 2018年04月21日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -591,8 +591,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||cm.baidu.com^
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
-@@||baidu.com/js/opensug.js$domain=storetorrents.com|alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.net|savebt.org|storebt.cc|zhongzicili.me|zhongzifuli.ws
-@@||unionsug.baidu.com^$domain=storetorrents.com|alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.net|savebt.org|storebt.cc|zhongzicili.me|zhongzifuli.ws
+@@||baidu.com/js/opensug.js$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.net|savebt.org|storebt.cc|storetorrents.com|zhongzicili.me|zhongzifuli.ws
+@@||unionsug.baidu.com^$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.net|savebt.org|storebt.cc|storetorrents.com|zhongzicili.me|zhongzifuli.ws
 @@||libs.baidu.com^$domain=23wxx.com|m.80txt.com|m.bichi.me|m.biquge.cm|m.biquge.info|m.biqukan.com|m.bxwx9.org|m.shuquge.com|m.wenxuem.com
 zhidao.baidu.com#@#.share-area
 baidu.com#@#.share-line
