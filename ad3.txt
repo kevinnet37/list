@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hrRBcnuQsDLDY2Jz2xls+g
+! Checksum: xv+PY0937iI0a7o6tD8lQg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201804230830
-! Last Modified: 2018年04月23日 08:30
+! Version: 201804231000
+! Last Modified: 2018年04月23日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -3214,9 +3214,6 @@ mg*.6park.com/img/$image
 ||56img.com^*/search-engine-promotion.js
 ||576tv.com/Scripts/home.js
 ||57fx.com/img/20170508.jpg
-||57tvtv.com/js/iso2.js
-||57tvtv.com/k.js
-||57tvtv.com/zhong.js
 ||58.com/ds/tgbrand/*.js
 ||58.com/show/ads?
 ||58cdn.com.cn/brandads/
@@ -7210,6 +7207,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||59pcpc.com/js
+||sinaimg.cn^$domain=59pcpc.com
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
@@ -9155,7 +9154,6 @@ oschina.net##.aside-topjj
 anquan.org##.aside_profile_activity > div:first-child
 showtv.com.tw##.ask18
 vx666.com##.async[href^="http"]
-57tvtv.com##.async[href^="https://www.zhanqun789.com/"]
 silver.org.cn##.atit_gg_index
 so.com##.atom-adv
 gamefy.cn,sitv.com.cn##.att-bar
