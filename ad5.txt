@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nmhsOLkwpuUGbmVlh+IVRg
+! Checksum: hG0DS4wkWQbe04z/GaaNbg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804240000
-! Last Modified: 2018年04月24日 00:00
+! Version: 201804240730
+! Last Modified: 2018年04月24日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19245,6 +19245,7 @@ weibo.com##.apps_PCD_reco_detail_right
 ?hmtrackerjs=
 ?Id=*&cookies=*&Referer_
 ?log=stats&
+?log=stats-
 ?log_visibility=
 ?pvid=*&pn=
 ?rand=*&blk=
@@ -19835,6 +19836,7 @@ _mongo_stats/
 ||captify.co.uk^$third-party
 ||captivate.ai^$third-party
 ||captora.com^$third-party
+||capturemedia.network^$third-party
 ||capturly.com^$third-party
 ||cashburners.com^$third-party
 ||cashcount.com^$third-party
@@ -26062,6 +26064,7 @@ _mongo_stats/
 ||collector.tescocompare.com^
 ||collector.trendmd.com^
 ||collector.xhamster.com^
+||collector1.xhamster.com^
 ||collegehumor.com/track.php?
 ||commentarymagazine.com^*/track.asp?
 ||commercialappeal.com/metrics/
@@ -27433,6 +27436,7 @@ _mongo_stats/
 ||stat.kbs.co.kr^
 ||stat.ruvr.ru^
 ||stat.torrentbar.com^
+||stat.xhamsterpremium.com^
 ||statesmanjournal.com^*/articlepageview.php?
 ||static.ow.ly^*/click.gz.js
 ||staticice.com.au/cgi-bin/stats.cgi?
