@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: A9cXgvKhnc95UgUNMyI+BA
+! Checksum: X+4w/Isvh5eKG6nWpma+OQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804241530
-! Last Modified: 2018年04月24日 15:30
+! Version: 201804241830
+! Last Modified: 2018年04月24日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -428,6 +428,7 @@ tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
+/ali213-kx-function.js
 /jianshen8/images/information.jpg
 -1688-wp-media/ads/
 -880-80-4.jpg
