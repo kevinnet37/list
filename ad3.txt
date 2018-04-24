@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MLrFG98desH+RknHLDB/gQ
+! Checksum: OMqNefRo+dTlLt0yJbw6Qg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201804241830
-! Last Modified: 2018年04月24日 18:30
+! Version: 201804242200
+! Last Modified: 2018年04月24日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -11,6 +11,7 @@
 !
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
+.com/qxads/
 /ali213-kx-function.js
 /jianshen8/images/information.jpg
 -1688-wp-media/ads/
@@ -695,6 +696,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||wrvdmh.cn^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -7210,8 +7212,11 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||tianqi*.com/static/banner/data_tuiguang.js
+||acgsou.com/js/nu
 !------------------------Specific element hiding rules------------------------!
 jianshen8.com##.sidebar > A
+zimuzu.tv##A[href*=".paojiao.com/"]
+fengniao.com##.ad
 jjckb.cn##DIV[class^="g"] > A:first-child:last-child
 jianshen8.com##.index-banner
 gpcxw.com###AA2
@@ -14639,7 +14644,9 @@ _300_250.
 ||jia.com/js/zixun/zixun_
 ||youdao.com/www/banner.html
 ||bdstatic.com/tb/img/icon_coo_operation_
+||ad.qn.img-space.com^
 !------------------------Specific element hiding rules------------------------!
+fengniao.com###ad-head
 it168.com##.fu1020_box
 csdn.net##.panel_body > DIV[style^="position:fixed;bottom: 0;"]
 wallstreetcn.com##.xinren-wrapper
@@ -15171,6 +15178,8 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||stat.img-space.com^
+||fengniao.com*/pv.js
 ||ydstatic.com/js/rlog/
 ||ll.hudong.com^
 ||58cdn.com.cn/resource/xxzl/xxfw/
@@ -15265,7 +15274,6 @@ blog.163.com###topbar_yxpArea
 ||dp3.qq.com/qqcom/
 ||dw.xcar.com.cn^*.gif?
 ||ea3w.com/pv.js
-||fengniao.com/pv.js
 ||fjsen.com:81/mysql/count/
 ||frame.enet.com.cn/a.php
 ||ftchinese.com/log/analytics.js
@@ -15320,7 +15328,6 @@ blog.163.com###topbar_yxpArea
 ||stat.cnmo.com^
 ||stat.cutv.com^
 ||stat.ea3w.com^
-||stat.fengniao.com^
 ||stat.hebnews.cn^
 ||stat.hkwb.net^
 ||stat.house365.com^
