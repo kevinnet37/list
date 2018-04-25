@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ByKv5l11SmElqL6kr1AM5A
+! Checksum: RjpW79JSZvpDLiwBSNEB7A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804252300
-! Last Modified: 2018年04月25日 23:00
+! Version: 201804260730
+! Last Modified: 2018年04月26日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16758,6 +16758,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /dtagent630_
 /dtagent_
 /dtm-ddo-utilities.js
+/dtm/*/satelliteLib-
 /dtm_cm.js
 /dtmtag.js
 /dtrack.js
@@ -23614,6 +23615,7 @@ _mongo_stats/
 ||d36wtdrdo22bqa.cloudfront.net^
 ||d396ihyrqc81w.cloudfront.net^
 ||d3a2okcloueqyx.cloudfront.net^
+||d3alqb8vzo7fun.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
 ||d3ezl4ajpp2zy8.cloudfront.net^
 ||d3h1v5cflrhzi4.cloudfront.net^
@@ -24282,6 +24284,7 @@ _mongo_stats/
 ||pixel.indieclicktv.com/annonymous/
 ||pixel.newscred.com^
 ||pixel.newsdata.com.au^
+||pixel.roymorgan.com^
 ||pixel.s3xified.com^
 ||pixel.solvemedia.com^
 ||pixel.sprinklr.com^
@@ -25477,8 +25480,8 @@ _mongo_stats/
 ||profiling.avandor.com^
 ||t5.ro/static/$third-party
 ||top.skyzone.ro^
-|http://a.pr-cy.ru^
-|https://a.pr-cy.ru^
+|http://a.pr-cy.ru^$third-party
+|https://a.pr-cy.ru^$third-party
 ||1in.kz/counter?
 ||1l-hit.mail.ru^
 ||7host.ru/tr/*?r=$third-party
@@ -25570,6 +25573,7 @@ _mongo_stats/
 ||target.smi2.net^
 ||target.smi2.ru^
 ||tbe.tom.ru^
+||telemetry.jivosite.com^
 ||tms-st.cdn.ngenix.net^
 ||top.bur-bur.ru^
 ||top.elec.ru^
