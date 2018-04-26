@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vINmuIWts5w5aH6AxxesPw
+! Checksum: 3t5NIygJEx4z/cyPNPvG+A
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804262330
-! Last Modified: 2018年04月26日 23:30
+! Version: 201804270000
+! Last Modified: 2018年04月27日 00:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -29,7 +29,6 @@ m.qidian.com###fixBoxs, #read_app_download
 news.sina.com.cn##.news_weixin_ercode
 yahoo.com###my-adsFPL
 yahoo.com##.js-stream-featured-ad
-pornhub.com##.playlist-bar-tray,#adA,#adB
 vdisk.weibo.com###ads_layer
 weibo.cn##.tips.m-container-max
 www.1069gay.net###shortcut
@@ -288,8 +287,10 @@ m.thepaper.cn##.toutiao
 m.thepaper.cn##.bot_banner
 ! PornHub
 pornhub.com###hd-rightColVideoPage>none
+pornhub.com##.videos-morepad.videos.full-row-thumbs.videos-being-watched.logInHotContainer+*
 pornhub.com##.inesuch
 ||doublepimpssl.com^$third-party
+||phncdn.com/html5shiv-*.js
 ||phncdn.com/www-static/js/widgets-live-popup.js
 ||phncdn.com/www-static/js/ph-tracking.js
 ||phncdn.com/www-static/js/promo-banner.js
