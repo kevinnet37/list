@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nRMBMcjmPSvNWEkuU0RA1Q
+! Checksum: QaHK5DaMzr5yQrYuipqOaQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804261800
-! Last Modified: 2018年04月26日 18:00
+! Version: 201804262000
+! Last Modified: 2018年04月26日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -6736,7 +6736,7 @@ mg*.6park.com/img/$image
 ||sinaimg.cn/mw690/a561b538ly1flbyr7jbg1g208203mdiq.gif
 ||sinaimg.cn/unipro/
 ||sinaimg.cn/wap/online/cms/article/formal/js/economyClup.
-||sinaimg.cn^$domain=11luba.com|11yybb.com|18board.com|18p2p.com|22ccaa.com|333avtb.com|345qyl.com|34bg.com|360bifen.cc|360bifen.com|46bk.com|46pj.com|500xxxx.com|59pcpc.com|63ef.com|63ig.com|678pan.cc|69tang7.com|7mav2.com|7mshipin.org|84fn.com|892s.pw|999hdhd.com|9dog.pw|a3v4.top|acglover.me|aotu43.com|avaotu.net|avppx.com|bejson.com|blz105.com|blz20.com|blz24.com|btago.com|btge.cc|btzx2017.com|cangjige.net|cangjige.win|caoliuzx.com|ccxx99.com|cgfdjz.net|cililian.me|ems183.cn|fdzone.org|freecctv.xyz|fulitxx.com|ifulidh.co|ifulidh.com|ilxdh.com|izzs.cc|kiees.cn|landiannews.com|lifan.moe|llj22.com|motelppp.com|neonan.com|niluba.cc|ooxx999.com|qqxbt.com|rarbt.com|sbme.me|se533.com|sejie4.com|shouyoutan.com|thztv.org|txtshu365.com|viidii.info|vpser.net|vx666.com|weike22.com|wszhibo.com|yaoshe1.com|yaoshe6.com|yapdd.com|yiqikanba.cn
+||sinaimg.cn^$domain=11luba.com|11yybb.com|18board.com|18p2p.com|22ccaa.com|333avtb.com|34bg.com|360bifen.cc|360bifen.com|46bk.com|46pj.com|500xxxx.com|59pcpc.com|63ef.com|63ig.com|678pan.cc|69tang7.com|7mav2.com|7mshipin.org|84fn.com|892s.pw|999hdhd.com|9dog.pw|a3v4.top|acglover.me|aotu43.com|avaotu.net|avppx.com|bejson.com|blz105.com|blz20.com|blz24.com|btago.com|btge.cc|btzx2017.com|cangjige.net|cangjige.win|caoliuzx.com|ccxx99.com|cgfdjz.net|cililian.me|ems183.cn|fdzone.org|freecctv.xyz|fulitxx.com|ifulidh.co|ifulidh.com|ilxdh.com|izzs.cc|kiees.cn|landiannews.com|lifan.moe|llj22.com|motelppp.com|neonan.com|niluba.cc|ooxx999.com|qqxbt.com|rarbt.com|sbme.me|se533.com|sejie4.com|shouyoutan.com|thztv.org|txtshu365.com|viidii.info|vpser.net|vx666.com|weike22.com|wszhibo.com|yaoshe1.com|yaoshe6.com|yapdd.com|yiqikanba.cn
 ||sinaimg.cn^*.gif$domain=vipthz.com
 ||sinaimg.cn^*/deco/$script
 ||sinaimg.cn^*_wap_ad_
@@ -7634,6 +7634,7 @@ mg*.6park.com/img/$image
 ||chinaz.com/zx_g/
 ||chinaz.com/2018/0402/2018040217272887.jpg
 ||alicdn.com^$domain=qyl71.com
+||peryi.com/vjs/hf.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 qyl71.com##.ads
@@ -9459,7 +9460,7 @@ doc88.com##.adpx250
 jzclass.com##.adr
 gamme.com.tw##.adread
 yinsha.com##.adrt01
-0594.com,345qyl.com,acgura.us,aotu43.com,appinn.com,appledaily.com.tw,avaotu.net,cnodejs.org,danyang.com,fun01.cc,haokan5.com,hc360.com,meiyouad.com,mnw.cn,oxgood.com,qz930.com,sina.com,tpy888.cn,uc123.com,up01.cc,wasu.cn,wokao.co,yeeyi.com##.ads
+0594.com,acgura.us,aotu43.com,appinn.com,appledaily.com.tw,avaotu.net,cnodejs.org,danyang.com,fun01.cc,haokan5.com,hc360.com,meiyouad.com,mnw.cn,oxgood.com,qz930.com,sina.com,tpy888.cn,uc123.com,up01.cc,wasu.cn,wokao.co,yeeyi.com##.ads
 appinn.com##.ads-m
 360.cn##.ads-pic
 weishangshijie.com##.ads228_1_r
@@ -13611,9 +13612,11 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##.footer > #box[style="width:100%;height:100%;position:fixed;top:0"]
 ##a[href^="http://go.gotourls.bid/"]
 ##a[href^="http://yunbofangbt."]
-@@||baidu.com/js/opensug.js$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|zhongzicili.me|zhongzifuli.ws
-@@||unionsug.baidu.com^$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|zhongzicili.me|zhongzifuli.ws
-|http*://$script,third-party,xmlhttprequest,domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|zhongzicili.me|zhongzifuli.ws
+@@||baidu.com/js/opensug.js$domain=torrentsearchweb.pw|alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|zhongzicili.me|zhongzifuli.ws
+@@||unionsug.baidu.com^$domain=torrentsearchweb.pw|alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|zhongzicili.me|zhongzifuli.ws
+|http*://$script,third-party,xmlhttprequest,domain=torrentsearchweb.pw|alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|zhongzicili.me|zhongzifuli.ws
+||sssgao999.com^
+||yunpifu.cn^
 ||0377shujuhuifu.top^
 ||2013sh.com^
 ||210189.com^
