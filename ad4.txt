@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: h52tApEixGkJtzGiPymsRg
+! Checksum: +IJ8whPIxRjhag2Eb41ayw
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201804270730
-! Last Modified: 2018年04月27日 07:30
+! Version: 201804270900
+! Last Modified: 2018年04月27日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -178,6 +178,7 @@ tieba.baidu.com##.tuijian-wrap
 ||baidu.com/videoapi/?*_ad_promote&
 ||baidu.com/WerbungAjax/getBeitou?
 ||baidu.com/WerbungAjax/getTonglan?
+||baidu.com/wkbus/fcwm/
 ||baidu.com/xda?
 ||baidu.com/xpage/interface/get
 ||baidu.com/xpage/interface/inforservice?
@@ -199,7 +200,6 @@ tieba.baidu.com##.tuijian-wrap
 ||tieba.baidu.com/f/urlcheck?
 ||wenku.baidu.com/browse/interface/getrec?
 ||youxi.baidu.com/tips/bdtips_min.js
-||baidu.com/wkbus/fcwm/
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###activity_countdown_head
 baidu.com###adCard
 baidu.com###adMainTopLeft
@@ -592,8 +592,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||cm.baidu.com^
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
-@@||baidu.com/js/opensug.js$domain=torrentsearchweb.pw|alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|zhongzicili.me|zhongzifuli.ws
-@@||unionsug.baidu.com^$domain=torrentsearchweb.pw|alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|zhongzicili.me|zhongzifuli.ws
+@@||baidu.com/js/opensug.js$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.me|zhongzifuli.ws
+@@||unionsug.baidu.com^$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.me|zhongzifuli.ws
 @@||libs.baidu.com^$domain=23wxx.com|m.80txt.com|m.bichi.me|m.biquge.cm|m.biquge.info|m.biqukan.com|m.bxwx9.org|m.shuquge.com|m.wenxuem.com
 zhidao.baidu.com#@#.share-area
 baidu.com#@#.share-line
