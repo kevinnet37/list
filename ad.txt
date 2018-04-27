@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4vAbG2ARmsP4CSiXgxu4AA
+! Checksum: nzSxVkEj4i4P3J0EruNj9g
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804271730
-! Last Modified: 2018年04月27日 17:30
+! Version: 201804271800
+! Last Modified: 2018年04月27日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -13623,10 +13623,13 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##.footer > #box[style="width:100%;height:100%;position:fixed;top:0"]
 ##a[href^="http://go.gotourls.bid/"]
 ##a[href^="http://yunbofangbt."]
-@@||baidu.com/js/opensug.js$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.me|zhongzifuli.ws
-@@||unionsug.baidu.com^$domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.me|zhongzifuli.ws
-|http*://$script,third-party,xmlhttprequest,domain=alicili.pw|btdiggs.com|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbt.fyi|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.me|zhongzifuli.ws
+@@||baidu.com/js/opensug.js$domain=btdigg.cc|alicili.pw|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.me|zhongzifuli.ws
+@@||unionsug.baidu.com^$domain=btdigg.cc|alicili.pw|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.me|zhongzifuli.ws
+|http*://$script,third-party,xmlhttprequest,domain=btdigg.cc|alicili.pw|btlibrary.cc|cilidaquan.xyz|cilifanhao.cc|cnbtkitty.net|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.me|zhongzifuli.ws
 ||0377shujuhuifu.top^
+||cdxyb.cn^
+||kyad88.com^
+||wxktv.cn^
 ||2013sh.com^
 ||210189.com^
 ||258pct.com^
