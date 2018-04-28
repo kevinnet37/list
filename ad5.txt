@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UmhknsdbBIrPZE8AMJKhyg
+! Checksum: j23lnV4JCSvNXEIZvzKLhg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804281100
-! Last Modified: 2018年04月28日 11:00
+! Version: 201804281200
+! Last Modified: 2018年04月28日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5409,7 +5409,6 @@ mg*.6park.com/img/$image
 ||junshi.cc/hz/
 ||junshi.cn/api/TTWeixin
 ||juqingw.com/js/tad
-||juweixin.com/static/679888.gif
 ||juxia.com/jxtp/indexbg.jpg
 ||juxia.com/public/js/foot.js
 ||juxia.com/public/js/juxia.js
@@ -7342,8 +7341,9 @@ mg*.6park.com/img/$image
 ||jrzj.com/img_index/index_
 ||jrzj.com/img_index/*adv
 ||jrzj.com/images/bgright_ad.jpg
+||juweixin.com/static/spk
 !------------------------Specific element hiding rules------------------------!
-jrzj.com##A[href^="http"]:not([href*=".jrzj.com"]) > IMG[src^="https://img."]
+jrzj.com##A[href^="http"]:not([href*=".jrzj."]) > IMG[src^="https://img."]
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
@@ -14806,6 +14806,7 @@ _300_250.
 ||bdstatic.com/tb/img/icon_coo_operation_
 ||ad.qn.img-space.com^
 ||sina.com.cn^*/energypop.
+||autohome.com.cn/vr/*?pvareaid=
 !------------------------Specific element hiding rules------------------------!
 dajie.com##.envelop_layer
 dajie.com##.register_layer
@@ -15342,6 +15343,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||kaipuyun.cn/count/
 ||stat.img-space.com^
 ||fengniao.com*/pv.js
 ||ydstatic.com/js/rlog/
@@ -18089,6 +18091,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /pxa.min.js
 /pxgif/*
 /pxl.cgi?
+/pxl.gif?
 /pxlctl.
 /pxls/*
 /pxlspamanalyst-
@@ -26861,6 +26864,7 @@ _mongo_stats/
 ||microsoft.com/blankpixel.gif
 ||microsoft.com/click/
 ||microsoft.com/collect/
+||microsoft.com/Collector/
 ||microsoft.com/getsilverlight/scripts/silverlight/SilverlightAtlas-MSCOM-Tracking.js
 ||microsoft.com/getsilverlight/scripts/Tracker.js
 ||microsoft.com/library/svy/
