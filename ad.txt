@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nXiaJHHFJToP/rhj1SWkDQ
+! Checksum: b7pdCCURRkDRQAP3uVKTHg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804282245
-! Last Modified: 2018年04月28日 22:45
+! Version: 201804282330
+! Last Modified: 2018年04月28日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7648,6 +7648,8 @@ mg*.6park.com/img/$image
 ||juweixin.com/static/spk
 ||weike004.com/images/*0
 ||weike004.com/images/*1
+||ruanyifeng.com/blog/images/cre_
+||ruanyifeng.com/blog/images/zhufeng
 !------------------------Specific element hiding rules------------------------!
 weike004.com##.copy
 igxe.cn##.lion-flexd
@@ -12488,6 +12490,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||pro.gooooal.com/ad/ad_2.js
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
@@ -14382,6 +14385,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
+@@||bitauto.com/bglogpostlog.js
 ! EasyList Lite
 ##.ads-item
 ##.trc-content-sponsored
