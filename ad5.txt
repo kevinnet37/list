@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: H9n1Ercl6Yb46XtHehCZmw
+! Checksum: T5Fo9XIHmPkweqhG+fKUUw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201804291830
-! Last Modified: 2018年04月29日 18:30
+! Version: 201804292000
+! Last Modified: 2018年04月29日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -29884,6 +29884,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||onlinevideoconverter.com/webservice|$~third-party,xmlhttprequest
 @@||szukajka.tv/jsverify.php$~third-party,xmlhttprequest
 @@||szukajka.tv/szukaj|$~third-party,xmlhttprequest
+@@||ws.webcaster.pro^$websocket
 @@||aplus.com/p.gif?$~third-party
 @@||112.2o7.net/b/ss/$image,domain=espn.com.br|nissan-global.com
 @@||122.2o7.net/b/ss/$image,domain=billetnet.dk|billettservice.no|citibank.co.in|goal.com|lippupalvelu.fi|pcworld.com|riverisland.com|techhive.com|ticketmaster.ae|ticketmaster.co.uk|ticketmaster.de|ticketmaster.ie|ticketmaster.nl|ticnet.se
