@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: x59lznRE8yjvcW+Z63e/dA
+! Checksum: Rb/ju8Ex+m7iMAfwpsnlRA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201804301930
-! Last Modified: 2018年04月30日 19:30
+! Version: 201805011400
+! Last Modified: 2018年05月01日 14:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -227,6 +227,7 @@ live.bilibili.com##.fans-medal-item-ctnr
 live.bilibili.com##.gift-item
 live.bilibili.com##.guard-icon
 live.bilibili.com##.live-haruna-ctnr
+live.bilibili.com##.m-guard-ent
 live.bilibili.com##.outlink
 live.bilibili.com##.penury-gift-msg
 live.bilibili.com##.title-label
