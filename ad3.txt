@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qVzvAxjQPgP6CxjKSlpcnA
+! Checksum: PqyS7s1e/500FRmN/rAI3g
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805021030
-! Last Modified: 2018年05月02日 10:30
+! Version: 201805021130
+! Last Modified: 2018年05月02日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -5186,7 +5186,7 @@ mg*.6park.com/img/$image
 ||jandan.net/static/sos/recreate-games.gif
 ||jandan.net^*/3kbw2.png
 ||jandan.net^*/699pic/
-||javazhijia.com/skin/bysj.jpg
+||javazhijia.com/skin/
 ||javhub.net/img/r18_banner1.jpg
 ||javjunkies.com/FL$subdocument
 ||jb51.net/good/art.js
@@ -7952,7 +7952,6 @@ danyang.com###global-hd > div[align="center"]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###global_notice_wrap
 eprice.com.tw###goldlink
 acfun.cn###goniudan
-juqingbao.com###goog
 niwota.com###google_ad2
 gameapps.hk###google_side_ad2_top
 tgfcer.com###googlead
@@ -7968,7 +7967,6 @@ zhicheng.com###guideLayer
 szhk.com###h_banner
 szhk.com###h_textads
 hao123.com###hao123-gw11
-java1234.com###hao_search_content
 macd.cn###hbad
 coolaler.com###hd
 ithome.com,win7china.com,win8china.com###hd_float
@@ -9479,7 +9477,6 @@ aihami.com##.conText > div[style*="width:"]
 360che.com##.con_banner
 40407.com##.con_tj
 firefox.com.cn,firefoxchina.cn##.cont-promote
-jfinfo.com##.contBottomFix
 ifeng.com##.cont_bottom_Yy
 ifeng.com##.cont_bottom_YySmall
 u-car.com.tw##.contad
@@ -10073,7 +10070,6 @@ hk.yahoo.com##.js-stream-content[style="background-color:#fafaff;"]
 sucaijiayuan.com##.jsPart1Right
 ifeng.com##.js_url[href^="http://dol.deliver."]
 qz930.com##.jsl_ad
-juksy.com##.juksy_ads
 jxedt.com##.jxpl
 csai.cn##.keifu
 iqilu.com##.kejie_ad
