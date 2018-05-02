@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7hr4HRmDRkZeQJ6uSIxDfg
+! Checksum: rZAOfzdDSC5IEA92xr5OHg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805022330
-! Last Modified: 2018年05月02日 23:30
+! Version: 201805030730
+! Last Modified: 2018年05月03日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15850,6 +15850,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .gif?hit_
 .gif?Log=$~xmlhttprequest
 .gif?pixels=
+.gif?ref=*&ev=
 .gif?track_
 .Google.Tracker.js
 .googleanalytics.js
@@ -16363,6 +16364,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /bcn.gif?
 /bcn?
 /bctrackers/*
+/bdg-analytics.
+/bdg.gif?
 /beacon-cookie.
 /beacon.cgi?
 /beacon.gif?
@@ -18967,6 +18970,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /uim.html/*
 /ulpixel.
 /ultra_track/*
+/umg-analytics/*
 /umt.gif?
 /unica.gif?
 /unica.js
@@ -21838,6 +21842,7 @@ _mongo_stats/
 ||youmetrix.co.uk^$third-party
 ||your-counter.be^$third-party
 ||youramigo.com^$third-party
+||z444o.com^$third-party
 ||zanox-affiliate.de^$third-party
 ||zanox.com^$third-party
 ||zarget.com^$third-party
@@ -29288,6 +29293,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||clicktale.net/wrb.js$domain=microsoft.com
 @@||clicktale.net^$script,domain=cbc.ca
 @@||clicsante.ca^*/angulartics-google-tag-manager.min.js$domain=clicsante.ca
+@@||cloud.talend.com/api/ipaas/services/analytics/$~third-party,xmlhttprequest
 @@||cloudflare.com/analytics?$domain=cloudflare.com
 @@||cloudflare.com^*/angulartics-google-analytics.min.js$domain=chromeexperiments.com
 @@||cloudflare.com^*/fingerprint2.min.js$domain=saavn.com
