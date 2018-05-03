@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4QDhGRxxF3Knv3uMU0SPqw
+! Checksum: 2ehCfYVNZ3s92U6++YK8SA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201805032000
-! Last Modified: 2018年05月03日 20:00
+! Version: 201805032045
+! Last Modified: 2018年05月03日 20:45
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -218,7 +218,6 @@ xhamster.com##.sponsorBottom
 ||zencdn.net^$domain=freegaypornsex.net|www.gayvl.info
 ||zrblog.net/zanzhu/
 ! 6park
-!||adm.6park.com^
 !|http:$third-party,image,domain=www.6park.com
 !|https:$third-party,image,domain=www.6park.com
 @@||popo8.com^$domain=www.6park.com
