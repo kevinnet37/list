@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vkPe+nLKvJCJ/VtBeCsh2g
+! Checksum: W2KFX01s5bTXLWOKQSu6QQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201805041500
-! Last Modified: 2018年05月04日 15:00
+! Version: 201805041945
+! Last Modified: 2018年05月04日 19:45
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -230,14 +230,12 @@ live.bilibili.com##.live-haruna-ctnr
 live.bilibili.com##.m-guard-ent
 live.bilibili.com##.outlink
 live.bilibili.com##.penury-gift-msg
+live.bilibili.com##.system-msg.news
 live.bilibili.com##.title-label
 live.bilibili.com##.user-level-icon
 live.bilibili.com##.vip-icon
 live.bilibili.com##.welcome-guard
 live.bilibili.com##.welcome-msg
-!live.bilibili.com##.live-ad-full
-!live.bilibili.com##.supergift
-!live.bilibili.com##.system-msg
 ||api.live.bilibili.com/live_user/v1/Wish
 ! Cam4
 ||cam4.com/ads/
