@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uEYGzDRBhJvra7XrfDvIGA
+! Checksum: 198307jxDSnviLEeuMT94w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805052000
-! Last Modified: 2018年05月05日 20:00
+! Version: 201805060730
+! Last Modified: 2018年05月06日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17776,6 +17776,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /mystats/track.js
 /mystats2.px?
 /myTracking.js
+/native-tag.
 /navbar-analytics.js
 /naveggQry-
 /NavMultiTracking.
@@ -18222,6 +18223,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /render?trackingId=
 /repdata.*/b/ss/*
 /report-re.
+/report/click?
+/report/impression?
 /report?event_
 /reporting/analytics.js
 /RequestTrackerServlet?
@@ -20497,6 +20500,7 @@ _mongo_stats/
 ||haraju.co^$third-party
 ||haveamint.com^$third-party
 ||haymarket.com^$third-party
+||hdmtools.com^$third-party
 ||heapanalytics.com^$third-party
 ||heatmap.it^$third-party
 ||hellosherpa.com^$third-party
@@ -21189,6 +21193,7 @@ _mongo_stats/
 ||realytics.io^$third-party
 ||realzeit.io^$third-party
 ||recoset.com^$third-party
+||recruitics.com^$third-party
 ||redcounter.net^$third-party
 ||redistats.com^$third-party
 ||redstatcounter.com^$third-party
@@ -24025,6 +24030,7 @@ _mongo_stats/
 ||i-stats.ieurop.net^
 ||i.s-microsoft.com/wedcs/ms.js
 ||ib.adnxs.com^
+||ibmcloud.com/collector/
 ||icbdr.com/images/pixel.gif
 ||icu.getstorybox.com^
 ||ihstats.cloudapp.net^$third-party
@@ -26940,6 +26946,7 @@ _mongo_stats/
 ||mirror.co.uk^*/stats/
 ||mitpress.mit.edu/wusage_screen_properties.gif
 ||ml.com/js/ml_dcs_tag_
+||mmm.theweek.co.uk^
 ||mms.al.com^
 ||mms.cbslocal.com^
 ||mms.cleveland.com^
