@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eGtgdqUVls+q+x1t/YbFhg
+! Checksum: Ez9W/ypFP7NIX003Cfk7rg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805051330
-! Last Modified: 2018年05月05日 13:30
+! Version: 201805051600
+! Last Modified: 2018年05月05日 16:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -12098,6 +12098,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||cruisecenter.com.tw/data/ad/
 @@||chocotv.com.tw/scripts/ads.js
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
