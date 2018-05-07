@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /BeiuZ8/uqcFAa2ah0Q2CA
+! Checksum: J4GskLAInBnC7DEc+Cpxgg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805071930
-! Last Modified: 2018年05月07日 19:30
+! Version: 201805072230
+! Last Modified: 2018年05月07日 22:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -3852,7 +3852,6 @@ mg*.6park.com/img/$image
 ||bio-equip.com/dimgs/
 ||bio-equip.com/images/esco06.swf
 ||bio-equip.com/uploadimages/peiqing.gif
-||biqqc.com/ps/data.js
 ||biqqc.com/templates/frontend/frontend-default/js/scoll_bg.js
 ||biquge.tw/api/
 ||bitauto.com/js/sense*.js
@@ -5569,7 +5568,6 @@ mg*.6park.com/img/$image
 ||maodh.com/admin/up/*.gif
 ||maolihui.com/wp-content/themes/miaonew/images/adb
 ||maoyun.tv/jk/
-||maoyun.tv/jk/Desktop.JPG
 ||market.178.com^
 ||market.21cn.com^
 ||market.duowan.com^
@@ -7248,6 +7246,7 @@ mg*.6park.com/img/$image
 |http*://$script,third-party,domain=torrentkittyzw.info
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+zimuzu.tv##.menu-box > .w > LI > A[style="color:red;"]
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -13927,6 +13926,7 @@ weiyun.com#@#.page-share
 zhidao.baidu.com#@#.share-area
 baidu.com#@#.share-line
 baidu.com#@#.share-list
+readmoo.com#@#.navbar-social
 dj92cc.com,tingqq.com#@#.share_list
 @@||bdstatic.com/po/??*,*,*,
 @@||bdstatic.com^*/share_
