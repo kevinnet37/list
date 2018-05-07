@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Kae2oMNyB9x1V/+CxMh8lQ
+! Checksum: CV5UiP2AQJhAkb7ejT1p0w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805072230
-! Last Modified: 2018年05月07日 22:30
+! Version: 201805080730
+! Last Modified: 2018年05月08日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17215,6 +17215,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /googleanalytics/*
 /googleAnalytics1.
 /googleAnalytics2.
+/GoogleAnalytics2|
 /GoogleAnalytics?utmac=
 /googleAnalytics_
 /googleAnalyticsBase_
@@ -17227,6 +17228,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /GoogleAnalyticsPlus/*
 /googleAnalyticsTracking.
 /GoogleAnalyticsTrackingProvider.js
+/GoogleAnalytics|
 /googleanalyze1.
 /googleanalyze2.
 /googletrack.js
@@ -20976,6 +20978,7 @@ _mongo_stats/
 ||nytlog.com^$third-party
 ||observerapp.com^$third-party
 ||octavius.rocks^$third-party
+||octomarket.com^$third-party
 ||od.visiblemeasures.com^$object-subrequest,third-party
 ||odesaconflate.com^$third-party
 ||odoscope.com^$third-party
@@ -23044,6 +23047,7 @@ _mongo_stats/
 ||tds.io^$third-party
 ||toptracker.ru^$third-party
 ||tpm.pw^$third-party
+||track.cooster.ru^
 ||trbna.com^$third-party
 ||uarating.com^$third-party
 ||upravel.com^$third-party
@@ -23165,6 +23169,7 @@ _mongo_stats/
 ||62.219.24.238^$third-party,domain=~cast-tv.com.ip
 ||6waves.com/edm.php?uid=$image
 ||74.117.176.217/trf/track.php?$third-party,domain=~adult.sites.ip
+||88.150.172.219^*?r=
 ||88.208.248.58/tracking/
 ||93.93.53.198^$third-party,domain=~awempire.ip
 ||95.211.106.41^$third-party,domain=~leaseweb-nl.ip
