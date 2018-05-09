@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5+8ZnOU1nFNICPu4VX68eA
+! Checksum: p7cORvx5vT1fA6/hISt+vQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805092130
-! Last Modified: 2018年05月09日 21:30
+! Version: 201805100730
+! Last Modified: 2018年05月10日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18044,6 +18044,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /pixel.*/track/*
 /pixel.aspx?
 /pixel.cgi?
+/pixel.fingerprint.
 /pixel.gif?
 /pixel.jsp?
 /pixel.php?
@@ -18810,6 +18811,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracker/t.php?
 /tracker/track.php?
 /tracker/track?
+/tracker/tracker-
 /tracker/tracker.js
 /tracker2.js
 /tracker?*=
@@ -19227,6 +19229,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /webtraxs.
 /WebTrendsAnalytics/*
 /wego.farmer.
+/weizenbock/dist/*
 /wf/open?upn=$image
 /wh_tracking.
 /where-go-add.js
@@ -24328,6 +24331,7 @@ _mongo_stats/
 ||neon-lab.com/neonbctracker.js
 ||netalpaca.com/beacon
 ||netbiscuits.net^*/analytics/
+||netdna-ssl.com/tracker/
 ||netne.net/stats/
 ||netscape.com/c.cgi?
 ||neulion.vo.llnwd.net^*/track.js
@@ -25770,6 +25774,7 @@ _mongo_stats/
 ||stats.lnol.com.ar^
 ||stats.miarroba.info^
 ||track.bluecompany.cl^
+||tracker.thinkindot.com^
 ||aftonbladet.se/blogportal/view/statistics?$third-party
 ||cis.schibsted.com^
 ||collector.schibsted.io^
@@ -29097,6 +29102,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||estadonline.publiguias.cl^
 ||g.siliconweek.es^
 ||hits.antena3.com^
+||lanacion.com.ar/apw.js
 ||lavozdegalicia.es/apw.js
 ||stats.milenio.com^
 ||t13.cl/hit/
@@ -30256,6 +30262,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|tugatech.com.pt
 @@||habibs.com.br/build/assets/js/tracking.js$domain=habibs.com.br
 @@||hit.gemius.pl/xlgemius.js$script,domain=ojogo.pt
+@@||jsonip.com/?callback=$script,domain=pagtel.com.br
 @@||laredoute.pt/js/byside_webcare.js
 @@||marktest.pt/netscope-gemius.js$script,domain=ojogo.pt
 @@||nostv.pt^*/angulartics-google-analytics.js?
@@ -30300,6 +30307,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||portalbici.es/lib/angulartics-google-analytics/dist/angulartics-ga.min.js
 @@||segundamano.mx^*/tealium.js
+@@||vodgc.net/js/genoa-event-tracking.min.js
 @@||adobedtm.com^*/satelliteLib-$script,domain=elgiganten.se
 @@||burt.io^$script,domain=gp.se
 @@||google-analytics.com/analytics.js$domain=tradera.com|xxl.se
