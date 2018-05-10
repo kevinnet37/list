@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OOUf9kJNHTrA43fSxf8wCg
+! Checksum: PVv3Awdxeq2O4kdZYfOulg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805100830
-! Last Modified: 2018年05月10日 08:30
+! Version: 201805100900
+! Last Modified: 2018年05月10日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -126,6 +126,7 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+.org/topjs/
 -880-80-4.jpg
 .cc/js/ads/
 .cn/ads/
@@ -12211,6 +12212,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||poedb.tw/js/ads.js
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
