@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 77ar4sErxkSVj+Z4+lgExg
+! Checksum: ORSjDqTAh9XBWyL64ol9iA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201805101100
-! Last Modified: 2018年05月10日 11:00
+! Version: 201805101130
+! Last Modified: 2018年05月10日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -434,6 +434,7 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+/blgg/*
 .org/topjs/
 -880-80-4.jpg
 .cc/js/ads/
@@ -3803,7 +3804,6 @@ mg*.6park.com/img/$image
 ||8684.com/com/sys_ad_
 ||8684.com/local/bdadv.
 ||8684.com/shuang11/
-||86kx.com^*/blgg/
 ||880fg.com/css/*.js
 ||880sy.com/Public/js/index_gg.js
 ||88148.com/UpFile/a/2016040849191350.jpg
@@ -5663,7 +5663,6 @@ mg*.6park.com/img/$image
 ||jianhucheng.com/data/attachment/portal/
 ||jianke.com^*/jquery.ppt.
 ||jianshen114.com/images/Advistings/
-||jianshen8.com/blgg/
 ||jianxun.io/ad/
 ||jiaodong.net/a/js/
 ||jiaonan.net/index.php?m=poster&
@@ -5682,7 +5681,6 @@ mg*.6park.com/img/$image
 ||jinse.com/promotion/
 ||jinyici.com/qq.js
 ||jipinzw.com^*.php?aid=
-||jirou.com/plus/mytag_js.php
 ||jisutiyu.com/app/js/*footer.js
 ||jisutiyu.com/images/sda/
 ||jisuxz.com/170320/kaola58058.gif
@@ -6616,7 +6614,6 @@ mg*.6park.com/img/$image
 ||s8bbs.com/g.php?
 ||saibeinews.com/index.php?m=poster&c=index&a=show_poster&
 ||sam*.baby-kingdom.com^
-||same*.jrj.com.cn^$script,subdocument
 ||same*.stockstar.com^
 ||same.chinadaily.com.cn^
 ||same.eastmoney.com^
