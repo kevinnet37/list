@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4+mXf3pHm8eYAZfUyyTXCQ
+! Checksum: aNCA1TfT1afQYyBq/o1/1A
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201805151630
-! Last Modified: 2018年05月15日 16:30
+! Version: 201805151800
+! Last Modified: 2018年05月15日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1128,6 +1128,7 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
+###\31 x1_container > #player_banner
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 ||080644.com^
@@ -7669,8 +7670,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||77ds.*/js/77ad.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+romzj.com##.sectionThree
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -8687,7 +8690,6 @@ hao.360.cn###plane-ria
 160.com###playBox
 tingroom.com###play_ggr
 7k7k.com###player-ad
-ahri8.com###player_banner
 jyacht.com###playergg
 yxingqiu.com###playertipian
 youku.com###playlistIkuAD
