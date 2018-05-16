@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7J+jCkjLsdu0o5kIcp2G+w
+! Checksum: 0L87LISru4Zlx3TREaa1QQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805161200
-! Last Modified: 2018年05月16日 12:00
+! Version: 201805161230
+! Last Modified: 2018年05月16日 12:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -11523,7 +11523,7 @@ cbg.cn##div[class^="erweima"]
 loveshang.com##div[class^="float-ad-"]
 jjckb.cn##div[class^="g"] > a:first-child:last-child
 hqew.com##div[class^="g-ad-"]
-autohome.com.cn##div[class^="game-"]
+autohome.com.cn##div[class*="game"]
 ifeng.com##div[class^="games_ad_"]
 tucao.tv##div[class^="get"]
 163.com,csai.cn,miercn.com,www.qidian.com##div[class^="gg"]
