@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KMYDgsJzCHUM2TKVKc6P6Q
+! Checksum: aMWi1KrfWx1ci4vr2A+SUw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805161900
-! Last Modified: 2018年05月16日 19:00
+! Version: 201805170730
+! Last Modified: 2018年05月17日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16071,6 +16071,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /activetrackphp.php?
 /activity-track/?
 /activity.gif?
+/acv?utm_
 /ad-blocker-stats.
 /ad-iptracer.
 /AD/PageHits.
@@ -21554,6 +21555,7 @@ _mongo_stats/
 ||stippleit.com^$third-party
 ||stormcontainertag.com^$third-party
 ||stormiq.com^$third-party
+||storygize.net^$third-party
 ||streamsend.com^$third-party
 ||streem.com.au^$third-party
 ||stripedcollar.net^$third-party
@@ -25241,6 +25243,7 @@ _mongo_stats/
 ||cgicounter.onlinehome.de^
 ||clipkit.de/metrics?
 ||cloudfront.net/customers/24868.min.js
+||cnt2.stroeerdp.de^
 ||collect.finanzen.net^
 ||com.econa.com^
 ||confido.dyndns.org^*/dot.php?
@@ -25345,6 +25348,8 @@ _mongo_stats/
 ||stats.urban-media.com^
 ||stats2.algo.at^$third-party
 ||stilanzeigen.net/track/
+||stroeerdp.de/iplocation/
+||stroeerdp.de^*_gtm.js
 ||strongvpn.com/aff/
 ||suedtirol.live/slc.js
 ||t.nativendo.de^
@@ -28467,6 +28472,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||brigitte.de/pv?
 ||bz-berlin.de/_stats/
 ||c.perlentaucher.de^
+||c.t-online.de^
 ||cc.zeit.de^
 ||cct2.o2online.de^
 ||center.tv/counter/
