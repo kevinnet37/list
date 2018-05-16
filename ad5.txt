@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XjACDJNtNF6MwwIVcO2o3A
+! Checksum: RB33028/01ZOFMx0Tjp7Uw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805160930
-! Last Modified: 2018年05月16日 09:30
+! Version: 201805161100
+! Last Modified: 2018年05月16日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7366,7 +7366,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||china.com/media/mm/
+||lancdn.com^*/LinuxProbe_
 !------------------------Specific element hiding rules------------------------!
+china.com##.mxm
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
@@ -14886,7 +14889,16 @@ _300_250.
 ||dwstatic.com^*/sidebar.js
 ||shejiben.com/common/widgets/ui/*zb.js
 ||shejiben.com/common/libs/layer.js
+||me360.com/swt/swt.js
 !------------------------Specific element hiding rules------------------------!
+baidu.com##.first-card-container
+me360.com##.footer-booking-open
+m.youku.com##.download
+m.youku.com###banner
+m.youku.com##.cmt-more
+m.youku.com##.cmt-more-cont
+m.youku.com##.hdwrap
+m.youku.com##.recommend
 qihoo.com##.qrcode
 jpwind.com###asideNav
 51cto.com##.footer_mask
@@ -15440,6 +15452,7 @@ blog.163.com###topbar_yxpArea
 ||stat.download.xunlei.com^
 ||mlog.aipai.com^
 ||mixer.sina.cn^
+||sina.cn*/view?
 ||bytecdn.cn/ta/resource/v0/analytics.js
 ||qyer.com^*/base_beacon_ga.js
 ||hdslb.com/js/bfd.js
