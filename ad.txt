@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JY+BobV6DuRsGcvAG9H3OQ
+! Checksum: 67jeJr6vp0mX4SZeG3x9NQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201805171200
-! Last Modified: 2018年05月17日 12:00
+! Version: 201805171530
+! Last Modified: 2018年05月17日 15:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1094,7 +1094,7 @@ _xiuno_com_ad/
 ##a[href*=".com/?p="][target="_blank"] > img[src$=".gif"]
 ##a[href*=".com/Register.aspx?aid="]
 ##a[href*=".com/Register/?a="]
-##a[href*=".com/Register?a="]
+##A[href*="/Register?a="]
 ##a[href*=".com?aff="]
 ##a[href*=".com?intr="]
 ##a[href*=".downok.com"]
@@ -7680,6 +7680,7 @@ mg*.6park.com/img/$image
 ||qpgyy.com/runtime/ad/
 ||360.cn/int/getadurls?
 ||360.cn/popup/popinfo/
+||torrentkitty.tv/js/jquery.bpopup.
 !------------------------Specific element hiding rules------------------------!
 qpgyy.com##DIV[style="width:300px;height:480px;border:1px solid #ccc;position:fixed;overflow:hidden;left:0;bottom:0;z-index:999;background:#fff;"]
 gpcxw.com###AA2
@@ -15206,6 +15207,8 @@ _300_250.
 ||shejiben.com/common/libs/layer.js
 ||me360.com/swt/swt.js
 !------------------------Specific element hiding rules------------------------!
+so.com###bottom_ask
+csdn.net##.edu-promotion
 baidu.com##.first-card-container
 me360.com##.footer-booking-open
 m.youku.com##.download
