@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7k0FQFylYziFumkogpKsiw
+! Checksum: /kRBSNZojXBJ5TMTGAWftA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805172000
-! Last Modified: 2018年05月17日 20:00
+! Version: 201805172330
+! Last Modified: 2018年05月17日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -29340,7 +29340,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||adobedtm.com^*/mbox-contents-$script,domain=lenovo.com|newyorker.com|oprah.com|pnc.com|vanityfair.com|wired.com
 @@||adobedtm.com^*/s-code-$script
 @@||adobedtm.com^*/satellite-$script
-@@||adobedtm.com^*/satelliteLib-$script,domain=argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|laredoute.co.uk|laredoute.com|lenovo.com|mastercard.us|monoprice.com|nbcnews.com|newyorker.com|oprah.com|pnc.com|realtor.com|redbull.tv|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|vanityfair.com|wired.com
+@@||adobedtm.com^*/satelliteLib-$script,domain=argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|mastercard.us|monoprice.com|nbcnews.com|newyorker.com|oprah.com|pnc.com|realtor.com|redbull.tv|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|vanityfair.com|wired.com
 @@||adobetag.com/d2/$script,domain=thestar.com
 @@||adobetag.com^*/amc.js$script
 @@||adobetag.com^*/sitecatalyst.js$domain=hbf.com.au|seattlepi.com|tv.com
