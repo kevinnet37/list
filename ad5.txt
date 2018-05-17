@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /kRBSNZojXBJ5TMTGAWftA
+! Checksum: sk9va5YchglNTu0GlxY6FA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805172330
-! Last Modified: 2018年05月17日 23:30
+! Version: 201805180000
+! Last Modified: 2018年05月18日 00:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -25879,6 +25879,7 @@ _mongo_stats/
 ||stats.dominoplaza.com^
 ||vizzit.se^$third-party
 ||sal.isanook.com^
+||stat.matichon.co.th^
 ||analytic.piri.net^
 ||analyticapi.piri.net^
 ||hit.dogannet.tv^
@@ -28325,6 +28326,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 /.*(\/proxy|\.wasm|\.wsm|\.wa)$/$websocket,xmlhttprequest,domain=github.io|rawgit.com|reactor.cc|sickrage.ca|streamplay.to|tubetitties.com|vidfile.net
 ||2giga.link^*/hive.js
 ||browsealoud.com/plus/scripts/$script
+||de-mi-nis-ner2.info^
 ||estream.nu/estream.js
 ||estream.to/player.js
 ||flashx.*/bootstrap.min.js
