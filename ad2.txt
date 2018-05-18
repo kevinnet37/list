@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CoYSa84NSmb8tNVGncjtOw
+! Checksum: E+WSA0RXAmI/X7oRZqE0ew
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201805160730
-! Last Modified: 2018年05月16日 07:30
+! Version: 201805181630
+! Last Modified: 2018年05月18日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -51,13 +51,10 @@ pan.baidu.com,music.baidu.com,yun.baidu.com##[class|=ad]
 v.baidu.com##div[videoadv],a[href^="http://g.youxi.v.baidu."]
 ||app.video.baidu.com/adver?
 ||v.baidu.com/staticapi/videoAd.json?
-wenku.baidu.com##.banner-wrap
-||eduad.baidu.com/
+
 ||wenku.baidu.com/xpage/$xmlhttprequest
+||eduad.baidu.com/
 ||as2.wenku.baidu.com/$subdocument
-||wkstatic.bdimg.com/static/wkview/widget/top_ads_banner/$script
-||wkstatic.bdimg.com/static/wkview/widget/ui/tools/hao123common/$script
-||wkstatic.bdimg.com/static/wkview/widget/jigou_tuijian/$script
 
 www.baidu.com###content_left>div:not(.c-container),#content_right>table td>:not(#con-ar)
 www.baidu.com##div.c-container:has(a[data-landurl])
