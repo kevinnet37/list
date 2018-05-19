@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XaeFUAq3Una2xAxbYDYIFQ
+! Checksum: eE1qntA4P0+7sXteWusx+w
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805190900
-! Last Modified: 2018年05月19日 09:00
+! Version: 201805191000
+! Last Modified: 2018年05月19日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -13951,6 +13951,7 @@ duanwenxue.com##.qgzdwx
 ||shyanche.net^
 ||yljiaoluo.com^
 ||yqjxzw.com^
+||iqiyi.com/show2?$rewrite=/abp?
 ###j-new-ad
 ##.a_sxfl
 ##.a_sxmu
@@ -14028,9 +14029,6 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||costco.com.tw/_ui/shared/js/analyticsmediator.js
 @@||count.taobao.com/counter$script
 @@||count.video.sina.com.cn^*?video_ids=
-@@||cupid.iqiyi.com/crossdomain.xml
-@@||cupid.iqiyi.com/show2?a=qc_
-@@||cupid.iqiyi.com/show2?e=
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||google-analytics.com/analytics.js$domain=chocotv.com.tw|komica.org|support.amd.com
 @@||google-analytics.com/plugins/ua/linkid.js$domain=support.amd.com
