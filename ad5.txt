@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SyGDoMfMCYrsMgir7am9kQ
+! Checksum: YrpqMc7PJkNg4L7AgJdHow
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805201030
-! Last Modified: 2018年05月20日 10:30
+! Version: 201805201100
+! Last Modified: 2018年05月20日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -2952,7 +2952,6 @@ mg*.6park.com/img/$image
 ||0772fang.com/assets/js/Newhouse/inserAds.js
 ||07908.com/images/
 ||0dian8.org/data/js/
-||0o0.ooo^$domain=kisssub.org
 ||0x013d.website^
 ||0x01e7.website^
 ||1.hao123.com^
@@ -7380,6 +7379,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+kisssub.org##A > IMG[src*=".0o0.ooo/"]
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -29933,6 +29933,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||rockingsoccer.com/js/match_stats.js
 @@||rs.mail.ru/crossdomain.xml$object-subrequest,domain=vk.com
 @@||ru4.com/wsb/$script,domain=chase.com
+@@||runnr.in/assets/tracking-$script,stylesheet,~third-party
 @@||s.skimresources.com^$script,domain=slate.com
 @@||s.youtube.com/api/stats/playback?$image,object-subrequest
 @@||safelinkwireless.com/enrollment/*/GoogleAnalytics.js
