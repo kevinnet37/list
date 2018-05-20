@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HuhXZbfG1K1z9HE3nFbBNg
+! Checksum: cHSFXqLxevzyoE8lkt3+PQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805200830
-! Last Modified: 2018年05月20日 08:30
+! Version: 201805200900
+! Last Modified: 2018年05月20日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -14071,14 +14071,12 @@ duanwenxue.com##.qgzdwx
 ||yljiaoluo.com^
 ||yqjxzw.com^
 @@||livew.l.qq.com/livemsg?ty=web&ad_typz=
-@@||valf.atm.youku.com/crossdomaiz.xml
 @@||web.da.mgtv.com/crossdomain.xml
 @@||web.da.mgtv.com/m5/page
 ||da.mgtv.com/pc/player$rewrite=/m5/page
 ||dnvod.tv/Movie/GetResource.ashx?device=0$rewrite=/movie/getresource.ashx?device=1
 ||iqiyi.com/show2?$rewrite=/abp?
 ||livew.l.qq.com/livemsg?ty=web&ad_type=$rewrite=/livemsg?ty=web&ad-typz=
-||valf.atm.youku.com/crossdomain.xml$rewrite=/crossdomaiz.xml
 ###j-new-ad
 ##.a_sxfl
 ##.a_sxmu
@@ -14133,6 +14131,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
+@@||alicdn.com^*/log.js,
 @@=mm_12852562_1778064_$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
 @@=mm_33231655_8000000_$domain=www.taobao.com
 @@||126.net/images/blank.gif
