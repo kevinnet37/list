@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RWmX6QfDKq86s7NuzKDG7g
+! Checksum: vsqirnxzbAc55LwqHfy4BA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805201730
-! Last Modified: 2018年05月20日 17:30
+! Version: 201805201800
+! Last Modified: 2018年05月20日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -2948,7 +2948,6 @@ mg*.6park.com/img/$image
 ||073img.com^$subdocument
 ||0756.la/ad-htm/
 ||0758net.com/data/attachment/portal/
-||0772fang.com/assets/js/flashorimg.js
 ||0772fang.com/assets/js/Newhouse/inserAds.js
 ||07908.com/images/
 ||0dian8.org/data/js/
@@ -7377,7 +7376,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||0772fang.com/assets/js/lffoi.js
+||0772fang.com/media/2013/201851891236130.jpg
 !------------------------Specific element hiding rules------------------------!
+0772fang.com##.top_blft
 gpcxw.com###AA2
 zhaiiker.com###post-single + .pd10.mar10-t.box
 zhaiiker.com##.widget_index_add
@@ -8903,7 +8905,6 @@ thinkphp.cn##.a6
 chacuo.net##.a96090
 speedtest.cn##.aP-box
 2345.com##.aPlayBtn[href^="http://g.wan."]
-0772fang.com##.a_banner
 baixing.com##.a_d_s_hidden_link
 proewildfire.cn##.a_mu + a
 tropica.cn##.a_mu1
@@ -11097,7 +11098,6 @@ duba.com##.top_ad_tmall
 40407.com,86wan.com,ikanman.com,xitek.com,xitong8.com,xt700.com##.top_banner
 21yq.com##.top_big_bg
 cngold.org##.top_bigad
-0772fang.com##.top_bt
 ifeng.com##.top_carousel
 mql5.com##.top_container_f
 duba.com##.top_func_ad
