@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WX8/RVOCxoeSA2kNOk5H4A
+! Checksum: eLvFoABHD9jW2Fr8erYhUA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201805201100
-! Last Modified: 2018年05月20日 11:00
+! Version: 201805201130
+! Last Modified: 2018年05月20日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -14379,8 +14379,8 @@ duanwenxue.com##.qgzdwx
 ||yqjxzw.com^
 ||livew.l.qq.com/livemsg?ty=web&ad$rewrite=/livemsg?ty=web&az
 @@||livew.l.qq.com/livemsg?ty=web&az
-@@||web.da.mgtv.com/crossdomain.xml
-@@||web.da.mgtv.com/m5/page
+@@||da.mgtv.com/crossdomain.xml
+@@||da.mgtv.com/m5/page
 ||da.mgtv.com/pc/player$rewrite=/m5/page
 ||dnvod.tv/Movie/GetResource.ashx?device=0$rewrite=/movie/getresource.ashx?device=1
 /videos/other/*$rewrite=/videos/othez/
