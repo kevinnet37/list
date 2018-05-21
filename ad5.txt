@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3CwQ5ZJEKGSa9zbKDuD8xA
+! Checksum: 2DWX8QcJp8LfUNNr260BOg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805211800
-! Last Modified: 2018年05月21日 18:00
+! Version: 201805211830
+! Last Modified: 2018年05月21日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -827,6 +827,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||shaqm.com^$third-party
 ||bangbang521.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
@@ -7377,6 +7378,9 @@ mg*.6park.com/img/$image
 ||78dm.*_wandai
 ||kt51.com/images/kt51.gif
 ||lgmi.com/windows/*-Advert.
+||bdstatic.com^*/static/itemrep/afdTuJiTuiJian/
+||baidu.com/newspage/api/getadsdata?
+||baidu.com/newspage/api/getimagelandafd?
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 oschina.net##DIV[name="floatAdbox"]
@@ -14474,8 +14478,6 @@ _728_90_
 ##.adbottom
 ###topad1
 /300x250-
-/addata.
-||fastapi.net^$third-party
 ##.ad980
 ##.ads1
 ##.ads3
@@ -14923,6 +14925,7 @@ _300_250.
 ||shejiben.com/common/libs/layer.js
 ||me360.com/swt/swt.js
 !------------------------Specific element hiding rules------------------------!
+apowersoft.cn##.activity-poster
 so.com###bottom_ask
 csdn.net##.edu-promotion
 baidu.com##.first-card-container
@@ -14973,7 +14976,6 @@ baidu.com##.commentEmbed-backHomeCard
 baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
 baidu.com##.openAppCarsouselTpl
 baidu.com##.eye-catching-tpl-container
-baidu.com#?#.rec-item:-abp-has(> div > a > .rn-footer > .open-bdbox-title)
 ifeng.com##A[href*=".app"]
 douyu.com##.double-festival-pop
 douyu.com##.pendant-wrap
@@ -15473,6 +15475,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+/v.gif?logtype=
 ||kaipuyun.cn/count/
 ||stat.img-space.com^
 ||fengniao.com*/pv.js
