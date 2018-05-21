@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: z8ghg4mWaBAJ1h9wDwekuQ
+! Checksum: malF2N6fCLQuxZ0H/g9X/Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805210830
-! Last Modified: 2018年05月21日 08:30
+! Version: 201805210900
+! Last Modified: 2018年05月21日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16270,6 +16270,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /Analytics.aspx?
 /analytics.bundled.js
 /analytics.compressed.js
+/analytics.config.js
 /analytics.do
 /analytics.gif?
 /analytics.google.js
@@ -16509,6 +16510,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /betamax_tracker.gif?
 /betamax_tracker.js
 /better-analytics/*
+/bf.gif?ac=
 /bg_j.gif?
 /bglog.gif?
 /bh_counter.js
@@ -16730,6 +16732,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /clientlibs/ga.js
 /clientstat?
 /clk?utmwv=
+/cls_report?
 /cls_rpt.gif?
 /cm-xtgreat?
 /cm.gif?
@@ -16896,6 +16899,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /data.do?session_
 /data/collect/*$xmlhttprequest
 /datacapture/track
+/datacollectcode?
 /dc-storm-track.
 /dc-storm.js
 /dc-storm/aff.
@@ -16905,6 +16909,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /dcstorm-track.
 /dcstorm.js
 /dcstorm/track.
+/dctk.js
 /DecideDNATrackingCode-
 /delivery/lg.
 /delstats/*
@@ -17555,6 +17560,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /jquery.trackstar.
 /jquery.unica.
 /JqueryEtracker.
+/js-tag-manager/*
 /js/analitics.
 /js/analitycs_
 /js/analytics.
@@ -17965,6 +17971,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /om_tracking_
 /omega?ad_
 /omega?tceRow_
+/omgpixel.
 /omnidiggthis|
 /omnipagetrack.
 /omniture.do;$image
@@ -18508,6 +18515,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /siteAnalytics.
 /siteanalytics_
 /sitecatalist.js
+/sitecatalyst/tracking.
 /sitecounter/counter.
 /sitecrm.js
 /sitecrm2.js
@@ -19403,6 +19411,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /xtrack.png?
 /xtroi.js
 /xy.gif?
+/yad_sortab_cetlog.js
 /yahoo-beacon.js
 /yahoo_marketing.js
 /yahooBeacon.
@@ -23027,6 +23036,7 @@ _mongo_stats/
 ||bigmining.com^$third-party
 ||blogranking.net^$third-party
 ||ca-mpr.jp^$third-party
+||cetlog.jp^$third-party
 ||cosmi.io^$third-party
 ||d-markets.net^$third-party
 ||deteql.net^$third-party
@@ -25110,6 +25120,7 @@ _mongo_stats/
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
 ||trakksocial.googlecode.com^$third-party
 ||traq.li/tracker/
+||travel-assets.com/datacapture/
 ||travpan.com/out/$third-party
 ||trax.dirxion.com^
 ||tredir.go.com/capmon/GetDE?$third-party
@@ -26336,6 +26347,7 @@ _mongo_stats/
 ||cd.musicmass.com^
 ||cdnstats.tube8.com^
 ||cellstores.com/tracking/
+||cem.hotelsapi.io^
 ||cert.org/images/1pxinv.gif
 ||cfr.org/js/ga.*js
 ||cgi.nch.com.au^*&referrer
@@ -26403,6 +26415,7 @@ _mongo_stats/
 ||collector.githubapp.com^
 ||collector.ksax.com^
 ||collector.kstptv5.com^
+||collector.prod.expedia.com^
 ||collector.shopstream.co^
 ||collector.shorte.st^
 ||collector.statowl.com^
@@ -26842,6 +26855,7 @@ _mongo_stats/
 ||howtogeek.com/public/stats.php
 ||hp.com^*/bootstrap/metrics.js
 ||hrblock.com/includes/pixel/
+||hrum.hotelsapi.io^
 ||hsn.com/code/pix.aspx
 ||hubpages.com/c/*.gif?
 ||huffingtonpost.*/vanity/?
@@ -26975,6 +26989,8 @@ _mongo_stats/
 ||justanswer.com/browsercheck/
 ||justanswer.com/ja_services/processes/log.asmx/
 ||kalahari.net/includes/swatag.js
+||kayak.*/gtm/
+||kayak.*/px/
 ||kayak.com/k/redirect/tracking?
 ||kelkoo.co.uk/kk_track?
 ||kelkoo.co.uk^*/tracker/
@@ -27968,6 +27984,7 @@ _mongo_stats/
 ||tinyupload.com^*/ct_adkontekst.js
 ||tivo.com/__ssobj/track?
 ||tk.kargo.com^
+||tkpi.delta.com^
 ||tmagazine.com/js/track_
 ||tools.ranker.com^
 ||top.wn.com^
