@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: malF2N6fCLQuxZ0H/g9X/Q
+! Checksum: 37BkgkKAKLj/Dt1Y8joPgw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805210900
-! Last Modified: 2018年05月21日 09:00
+! Version: 201805210930
+! Last Modified: 2018年05月21日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16302,6 +16302,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /analytics/hmac-
 /analytics/idg_
 /analytics/js/*
+/analytics/liferay-
 /analytics/mbox.js
 /analytics/mouse_
 /analytics/newrelic_
@@ -16752,6 +16753,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /cnt.php?rf=
 /cnt/cnt.php?
 /cnt/start.php?
+/cntlog/*
 /cntpixel.
 /CntRpt.aspx?
 /cnvtr.js
@@ -17638,6 +17640,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /library/svy/broker.js
 /library_analytics.
 /libs/tracker.js
+/liferay-analytics-
 /lingabot.
 /link-tracker-
 /link_track.
@@ -18222,6 +18225,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /profile_tracker.
 /promo_tracking/*
 /promos/pixels?
+/propagate_cookie.
 /prum.
 /pstats.
 /pt.gif?type=
@@ -18476,6 +18480,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /sessioncam.recorder.js
 /sessioncam/*
 /set-cookie.gif?
+/set_cookie.php?
 /set_tracking.js
 /SETCOOKAFF.
 /setcooki.
@@ -18603,6 +18608,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /stat?SiteID=
 /stat?track=
 /stat_callback.
+/stat_click.
 /stat_js.asp?
 /stat_page.
 /stat_page2.
@@ -18855,7 +18861,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /track?name=
 /track?referer=
 /track_clicks_
-/track_event.php?
+/track_event.
 /track_in_overwatch.gif?
 /track_js/?
 /track_metric/*
@@ -29032,6 +29038,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||tinglog.baidu.com^
 ||titan24.com/scripts/stats.js
 ||tmall.com/add?
+||tongji.mafengwo.cn^
 ||tongji2.vip.duba.net/__infoc.gif?
 ||top.baidu.com/js/nsclick.js
 ||toutiao.com^*/user_log/
