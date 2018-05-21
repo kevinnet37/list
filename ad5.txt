@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 37BkgkKAKLj/Dt1Y8joPgw
+! Checksum: YNNHguBAgddymE/xu86pvQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805210930
-! Last Modified: 2018年05月21日 09:30
+! Version: 201805211130
+! Last Modified: 2018年05月21日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -13551,6 +13551,8 @@ uliba.net###sidebar > div:first-child
 uliba.net##.entry-content > div[style^="float:right"]
 uliba.net##.right-banner
 uliba.net##.tool_news1
+||dkg.ifeng.com^
+||ifengimg.com/sdk
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
 .*.ifeng.com^$xmlhttprequest

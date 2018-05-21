@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IOG/bLwbleBk2IRn4Xq4gA
+! Checksum: z3jKd9ALvfb/2oAms6IMQQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805210830
-! Last Modified: 2018年05月21日 08:30
+! Version: 201805211130
+! Last Modified: 2018年05月21日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -13437,6 +13437,8 @@ uliba.net###sidebar > div:first-child
 uliba.net##.entry-content > div[style^="float:right"]
 uliba.net##.right-banner
 uliba.net##.tool_news1
+||dkg.ifeng.com^
+||ifengimg.com/sdk
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
 .*.ifeng.com^$xmlhttprequest
