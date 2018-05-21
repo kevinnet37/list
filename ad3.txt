@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0n4LFIBPotF+GmA1BOmG2w
+! Checksum: ih+40ClIEJltZm/vtR7f2A
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805211730
-! Last Modified: 2018年05月21日 17:30
+! Version: 201805211800
+! Last Modified: 2018年05月21日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -5387,7 +5387,6 @@ mg*.6park.com/img/$image
 ||kokojia.com^$third-party
 ||ks.js.cn*/yytf/$object,script
 ||ksiwnx.pw/gg_html/
-||kt51.com/app.js
 ||ktzhk.com/file/adv/
 ||kuaidi100.com/images/kuaidi/201612081*4
 ||kuaidi100.com/js/share/i_new.js
@@ -7263,6 +7262,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||78dm.*_wandai
 ||kt51.com/images/kt51.gif
+||lgmi.com/windows/*-Advert.
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 oschina.net##DIV[name="floatAdbox"]
@@ -7651,7 +7651,7 @@ masok.cn###bottomLayer
 badmintoncn.com###bottomad_big
 kdhome.net###bottomadv
 xiaopi.com###bottombar
-dxlwwang.com,kt51.com,tuku.cc,vzhuan.cn###box
+dxlwwang.com,tuku.cc,vzhuan.cn###box
 50sen.com###box-ads
 mcdulll.com,mcdulll.pixnet.net###box1290930
 mcdulll.com,mcdulll.pixnet.net###box1989082
@@ -7685,8 +7685,8 @@ longzhu.com,tga.plu.cn###channels-roll
 i-part.com.tw###chatroomFrame + div[style="text-align: center;padding-top: 10px"]
 fulishequ.com###china_ads_div405
 cqfishing.net,gpshk.cc###chs_bannerArea
-kt51.com,tuku.cc###clickbgRight
-kt51.com,tuku.cc###clickbgleft
+tuku.cc###clickbgRight
+tuku.cc###clickbgleft
 gz0668.com###closexguide
 uuu9.com###cm1337
 zhidao.baidu.com###cms-company
