@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QQzjZLLFEAIjD4cWsg+4DQ
+! Checksum: z8ghg4mWaBAJ1h9wDwekuQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805210800
-! Last Modified: 2018年05月21日 08:00
+! Version: 201805210830
+! Last Modified: 2018年05月21日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7378,6 +7378,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||78dm.*_wandai
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
@@ -16568,6 +16569,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /bundle.tracking.
 /bundle/analytics.
 /bundles/cm.js|
+/bundles/metrics.
 /bundles/tracciamento?
 /buzz_stats.
 /byside_webcare.
@@ -18734,6 +18736,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /tagCNIL.js
 /TagCommander.cfc?
 /tagcommander/*
+/tagmanager/pptm.
+/tagmgmt/bootstrap.
 /tagomnitureengine.js
 /tags/angular-
 /tags?session_id=
@@ -18981,6 +18985,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracking/tracking.
 /tracking/tracking_
 /tracking/trk-
+/tracking/ts?
 /tracking/tynt_
 /tracking/user_sync_widget?
 /tracking/views/*
@@ -27330,6 +27335,7 @@ _mongo_stats/
 ||partners.mysavings.com^
 ||paypal.com/webapps/beaconweb/
 ||paypalobjects.com/*/m/mid.swf$domain=paypal.com
+||paypalobjects.com/pa/
 ||pbsrc.com/common/pixel.png
 ||pch.com^*/scripts/Analytics/
 ||pch.com^*/SpectrumAnalytics.js?
