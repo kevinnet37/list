@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: x5joKHNJ3YRDbkHXenx27w
+! Checksum: CDtn/C53aOJuM06ymxObQA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805212000
-! Last Modified: 2018年05月21日 20:00
+! Version: 201805212030
+! Last Modified: 2018年05月21日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -28949,7 +28949,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||js.soufunimg.com/count/
 ||jscss.kdslife.com/club/html/count/PChome_Count.js
 ||ku6.com/ku6.gif?
-||l.qq.com^
+||l.qq.com^$~object-subrequest
 ||le.com/op/
 ||letv.com/op?
 ||log*.ku6.com^
@@ -30436,6 +30436,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||cloudfront.net/autoTracker.min.js$domain=direkte.vg.no
 @@||google-analytics.com/analytics.js$domain=tv3play.no
 @@||adobedtm.com^*/satelliteLib-$script,domain=laredoute.pl
+@@||akamaized.net^*/tracking/ninja.js$domain=olx.pl
 @@||gemius.pl/gstream.js
 @@||kropka.onet.pl^*/onet.js$domain=tvnwarszawa.pl
 @@||login.ingbank.pl^*/satelliteLib-$script
