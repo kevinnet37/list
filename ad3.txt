@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 77CCVSKBIg8nwNO+1MamnA
+! Checksum: g1vczYP0tkgi73HMuiPD3Q
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805221130
-! Last Modified: 2018年05月22日 11:30
+! Version: 201805221200
+! Last Modified: 2018年05月22日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -4353,7 +4353,6 @@ mg*.6park.com/img/$image
 ||docin.com/docin_adv/
 ||docin.com/jsp_cn/ad/
 ||dol.tianya.cn/s?z=tianya&
-||domecross.com/ad/
 ||dongfangtai.com/images/28770.gif
 ||dongfangtai.com/images/zbs.gif
 ||dongfangtai.com/js/duil.js
@@ -5502,8 +5501,6 @@ mg*.6park.com/img/$image
 ||linuxeden.com/plus/web_js.php
 ||linuxidc.com/linuxfile/linux$script
 ||linuxidc.com/linuxfile/list
-||liu16.com/sfvpnn.gif
-||liu16.com/yuyue.jpg
 ||liuxue86.com/css/liuxue_output.js
 ||liuyandaima.net^*.js
 ||liveany.com/images/8d8d.gif
@@ -5529,7 +5526,6 @@ mg*.6park.com/img/$image
 ||lotour.net/bcef/388.js
 ||lotpc.com/dedemao/js/articlebanner.js
 ||lotpc.com/templets/default/js/lotpctb
-||loveno.net/111.jpg
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lsforum.net/cam2/*.gif
 ||lsforum.net/yahooad/
@@ -7868,7 +7864,6 @@ anhuinews.com###ewm
 cnforex.com###expand_ad
 www.pixnet.net###extradiv2
 www.pixnet.net###extradiv5
-lanqie.com###f_box
 apk.tw###favatarRight
 happy-yblog.blogspot.com,happy-yblog.blogspot.hk,happy-yblog.blogspot.tw###fbox-background
 hao.360.cn###festival-theme > .left-entry
@@ -8110,7 +8105,6 @@ pcstore.com.tw###keyad-right
 sogou.com###kmap-business-container
 sogou.com###kmap_business_title
 sogou.com###kmap_business_ul
-lanqie.com###l_dbox
 douni.com###lad_1
 douni.com###lad_2
 douni.com###lad_3
@@ -8340,7 +8334,6 @@ qq.com###qqadv
 qq.com###qqmail_AD_container
 user.qzone.qq.com###qz_notification
 qq.com###r_ad
-lanqie.com###r_dbox
 163.com###r_mkaolaadv
 game2.cn###rb
 hnr.cn###rb_pics
@@ -12053,7 +12046,7 @@ psahz.com#@#.ad_960
 workercn.cn#@#.ad_content
 mx-fm.com,ts.21cn.com#@#.ad_img
 qqxzb.com#@#.ad_l
-liqucn.com,workercn.cn#@#.ad_main
+workercn.cn#@#.ad_main
 fxedu.com.cn#@#.ad_r
 liqucn.com#@#.ad_sub
 uuuu.cc#@#.ad_top
@@ -12080,7 +12073,6 @@ lm-us.com#@#.advertisement_above_footer
 jd.com#@#.adwords
 7-11.co,oldpig.org,popart.hk#@#.afs_ads
 dingdong.ganji.com#@#.banner
-loveshares.cc#@#.banner-site
 10.10.5.12#@#.banner_ad
 ishangman.com#@#.bottom_ad
 zdfans.com#@#.custom-ad
@@ -12149,7 +12141,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/advertisement/*$domain=cits.cn|ininin.com|midea.com|muyingzhijia.com|yxjc.13322.com
 @@/advertising/*$domain=315.sh.cn|houdask.com
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=123564.com|2hanju.com|liangzijievip.com|lingjike.com|mahua.com|meijukankan.net|mh160.com|qqzhibo.tk|xiaoz.me|ygo-sem.cn|ykit.cn
+@@/adview_pic_$domain=123564.com|2hanju.com|lingjike.com|mahua.com|meijukankan.net|mh160.com|qqzhibo.tk|xiaoz.me|ygo-sem.cn|ykit.cn
 @@/advs/*$domain=ciros.com.cn|dianxinos.com|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
 @@/assets/adv/*$domain=4008927927.cn
