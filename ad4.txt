@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WGc3LNlgCrwAySiTbX4zIA
+! Checksum: Ymcj2LMQAM9KEZ0jAxCIWg
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201805211830
-! Last Modified: 2018年05月21日 18:30
+! Version: 201805220800
+! Last Modified: 2018年05月22日 08:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -152,6 +152,8 @@ tieba.baidu.com##.tuijian-wrap
 ||baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d.jpg
 ||baidu.com/game/asset/common/performance.
 ||baidu.com/img/iknow/wenku*85.
+||baidu.com/newspage/api/getadsdata?
+||baidu.com/newspage/api/getimagelandafd?
 ||baidu.com/newspage/api/getmobads?
 ||baidu.com/po/api/configure/show.jsonp
 ||baidu.com/rec?platform=wise&ms=1&rset=ad&
@@ -200,8 +202,6 @@ tieba.baidu.com##.tuijian-wrap
 ||tieba.baidu.com/f/urlcheck?
 ||wenku.baidu.com/browse/interface/getrec?
 ||youxi.baidu.com/tips/bdtips_min.js
-||baidu.com/newspage/api/getadsdata?
-||baidu.com/newspage/api/getimagelandafd?
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###activity_countdown_head
 baidu.com###adCard
 baidu.com###adMainTopLeft
@@ -698,8 +698,8 @@ news.baidu.com##.recommend-mask
 ||bdstatic.com^*/mip-*ad
 ||bdstatic.com^*/plugins/every_cookie_
 ||bdstatic.com^*/QSURrcmRKV.js
-||bdstatic.com^*/tam-ogel/
 ||bdstatic.com^*/static/itemrep/afdTuJiTuiJian/
+||bdstatic.com^*/tam-ogel/
 bdstatic.com###artnewdiv
 @@||bdstatic.com/??*,*,*,
 @@||bdstatic.com/static/common/widget/ui/admanager/
