@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bqdHWaTchrq6vGL//M4eow
+! Checksum: yLfFbq+FYSEbiC/cQZmWrw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805231030
-! Last Modified: 2018年05月23日 10:30
+! Version: 201805231130
+! Last Modified: 2018年05月23日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5638,9 +5638,7 @@ mg*.6park.com/img/$image
 ||longhoo.net/html/jzj/
 ||longhoo.net/images/mynews/2010float_
 ||longzhu.com/i/api/playpage/recommendPop?
-||lookmw.cn^*/default/js/union.js
 ||lotour.net/bcef/388.js
-||lotpc.com/dedemao/js/articlebanner.js
 ||lotpc.com/templets/default/js/lotpctb
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lsforum.net/cam2/*.gif
@@ -5650,8 +5648,6 @@ mg*.6park.com/img/$image
 ||luckstatic.v1.cn/st/10000/
 ||luuu1.com/g/
 ||lvse.com/9
-||lvse.com/fb
-||lvse.com/vip
 ||lxting.com^
 ||lxty66.com/js/float.js
 ||ly.js.cn/adv/
@@ -9094,7 +9090,6 @@ shm.com.cn##.ad_baidu_300250
 shm.com.cn##.ad_baidu_58090
 shm.com.cn##.ad_baidu_64060
 81.cn##.ad_banner_1000x120
-lvse.com##.ad_box_250x250
 ifeng.com##.ad_btn
 sina.com##.ad_c
 kekenet.com##.ad_catagory
@@ -9782,7 +9777,6 @@ infoq.com##.f_sponsorbox_top_2
 sgcn.com,wangjing.cn##.fad
 mobile01.com##.fast-ad
 duba.com##.fav_box
-lvse.com##.fb_banner
 hkcna.hk##.fd + .fdr > a[href^="http"]:not([href^="http://www.hkcna."])
 jq22.com##.fdad
 maxthon.cn##.feast-gift-search
