@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DiOdStBJPOHxkC/49SNQvw
+! Checksum: P/F2jJD5hMkAGaoP18C7Aw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805230900
-! Last Modified: 2018年05月23日 09:00
+! Version: 201805230930
+! Last Modified: 2018年05月23日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -12645,8 +12645,8 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.textAd
 ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ad
 ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 $webrtc,domain=avgle.com
+@@||avgle.com/video/$elemhide
 @@|http*://$domain=avgle.com
-@@||avgle.com^$elemhide
 ||avgle.com^$csp=frame-src 'self' *.areyouahuman.com *.boudja.com *.recaptcha.net *.bluekai.com
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > div
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > tbody
