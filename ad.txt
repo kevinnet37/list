@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CSdM66znFxUquyNbqFaaEA
+! Checksum: f9SDPuZb1VHL+WW/4q70kg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201805241130
-! Last Modified: 2018年05月24日 11:30
+! Version: 201805241200
+! Last Modified: 2018年05月24日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12522,7 +12522,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@||5w8s.com/myads/img/thunder
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
-@@||imagesrv.adition.com/js/srp.js$domain=download.mokeedev.com
+@@||imagesrv.adition.com^$domain=download.mokeedev.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
@@ -13060,6 +13060,7 @@ $webrtc,domain=avgle.com
 @@||avgle.com/video/$elemhide
 /^https:\/\/avgle\.com(?!\/video\/).*/$csp=script-src 'self' *.cloudflare.com 'unsafe-inline' 'unsafe-eval'
 ||avgle.com/video/$csp=frame-src 'self' *.areyouahuman.com *.recaptcha.net
+://*?$popup,domain=avgle.com
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > div
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > tbody
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > ul
