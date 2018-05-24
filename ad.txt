@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5aKydXHDC3VAv6l17vCu5w
+! Checksum: JK18rSNcG/PG8OIAlLKRvw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201805241500
-! Last Modified: 2018年05月24日 15:00
+! Version: 201805241530
+! Last Modified: 2018年05月24日 15:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -13060,6 +13060,7 @@ avgle.com#@#a[href^="http://bongacams.com/track?"]
 avgle.com#@#img[src*=".php"]
 @@||avgle.com/video/$genericblock,generichide
 ||avgle.com/video/$domain=avgle.com,csp=frame-src 'self' *.areyouahuman.com *.recaptcha.net
+avgle.com##body > div[style*="fixed;"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > div
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > tbody
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > ul
