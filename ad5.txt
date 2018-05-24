@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: V98UeYFtUEX+wd9uToxOeg
+! Checksum: bhoqmpyObLyYSu4OSVIV0w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805241200
-! Last Modified: 2018年05月24日 12:00
+! Version: 201805241500
+! Last Modified: 2018年05月24日 15:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -12749,11 +12749,10 @@ ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.textAd
 ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ad
 ck101.com,datehub.co,gamer.com.tw,pili.com.tw#@#.text_ads
 $webrtc,domain=avgle.com
-@@|http*://$domain=avgle.com
-@@||avgle.com/video/$elemhide
-/^https:\/\/avgle\.com(?!\/video\/).*/$csp=script-src 'self' *.cloudflare.com 'unsafe-inline' 'unsafe-eval'
-||avgle.com/video/$csp=frame-src 'self' *.areyouahuman.com *.recaptcha.net
-://*?$popup,domain=avgle.com
+avgle.com#@#a[href^="http://bongacams.com/track?"]
+avgle.com#@#img[src*=".php"]
+@@||avgle.com/video/$genericblock,generichide
+||avgle.com/video/$domain=avgle.com,csp=frame-src 'self' *.areyouahuman.com *.recaptcha.net
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > div
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > tbody
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > ul
