@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uCL2UJoAeFsj1MyS8zpazQ
+! Checksum: mKFn/LZkRVrLD74YUTHIWw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805251930
-! Last Modified: 2018年05月25日 19:30
+! Version: 201805252000
+! Last Modified: 2018年05月25日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5584,7 +5584,6 @@ mg*.6park.com/img/$image
 ||liangchan.net/aaddaadd/
 ||liangchan.net/adf/
 ||liangjan.com/js/show_
-||liangzijie.com/Runtime/
 ||lianmeng.la/bcd/
 ||lianyexiuchang.cc/img/2f2372e9bf205df0.png
 ||lianyexiuchang.cc/img/97da89108eb659fc.gif
@@ -5652,11 +5651,8 @@ mg*.6park.com/img/$image
 ||lzep.cn/data/js/1*.js
 ||lzep.cn/ep/ads/
 ||lzep.cn/ep/js/index_window.js
-||lzep.cn/ep/old/finance/ad
 ||lzep.cn/ep/sda/
-||lzep.cn/images/*/ad
 ||lzep.cn^*/2014ad/
-||lzqss.net/data/attachment/portal/
 ||lzyysw.com/upload/
 ||m.aty.sohu.com^
 ||m.autohome.com.cn/*/?hid=
@@ -6554,7 +6550,6 @@ mg*.6park.com/img/$image
 ||stat.api.4399.com/crossdomain.xml
 ||static-ssp.yidianzixun.com^
 ||static.aizhan.com/jsa/
-||static.d.lecai.com/js/*m.js
 ||static.doyouhike.net/partner/
 ||static.oh100.com^
 ||static.tianyaui.com^*/stat_20080313.js
@@ -8242,7 +8237,6 @@ ifeng.com###leftdl
 fqlook.com###leftfloatad1
 www.wenxuecity.com###leftside
 hao123.com###lefttip-container
-letpub.com.cn###letpubjournalmessagebox
 techweb.com.cn###liepin
 sdgundam.cn###link-roll ~ .box-set-2
 soft4fun.net###linkcat-2 + div:nth-last-child(2)
@@ -8430,7 +8424,6 @@ oschina.net###project_ad_banner
 firefoxchina.cn###promo
 17huohu.com,firefox.com.cn,firefoxchina.cn###promote-top-list
 sina.cn###promotionCover
-langxi.org###pt + div > table
 bbs.pcbeta.com###pt + div[style] > div[style^="clear:both;"]
 xiazaizhijia.com###public_right_mid_ad
 tianya.cn###q_topbanner_950_90
