@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0Y3p6evkBT6vH/jmYpNDEg
+! Checksum: trmoYYd0vBj4DTWao1sVKQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805271230
-! Last Modified: 2018年05月27日 12:30
+! Version: 201805271830
+! Last Modified: 2018年05月27日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7366,6 +7366,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||dailymotion.com/video/*_mp4_h264_aac_hq.mp4
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 popart.hk###slideshow
@@ -24186,6 +24187,7 @@ _mongo_stats/
 ||gleam.io/seen?
 ||glogger.inspcloud.com^
 ||go-stats.dlinkddns.com^$third-party
+||go.com/capmon/GetDE/?
 ||go.optifuze.com^
 ||go.toutapp.com^$third-party
 ||goadv.com^*/track.js
@@ -25977,7 +25979,6 @@ _mongo_stats/
 ||track.bluecompany.cl^
 ||tracker.thinkindot.com^
 ||aftonbladet.se/blogportal/view/statistics?$third-party
-||cis.schibsted.com^
 ||collector.schibsted.io^
 ||counter.mtgnewmedia.se^
 ||stats.dominoplaza.com^
@@ -26110,7 +26111,7 @@ _mongo_stats/
 ||amazon.com/gp/forum/email/tracking?
 ||amazon.com/gp/yourstore/recs/
 ||amazon.com^*/amazon-clicks/
-||amazon.com^*/events/
+||amazon.com^*/events/$domain=~aws.amazon.com
 ||amazon.com^*/vap-metrics/
 ||amazonaws.com/beacon/vtpixpc.gif?
 ||amazonaws.com^*/pzyche.js
@@ -29656,6 +29657,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||dailycaller.com^*_chartbeat.js
 @@||dailyfinance.com/traffic/?
 @@||dailymail.co.uk/brightcove/tracking/ted3.js
+@@||darksky.net^*/analytics.js$script,~third-party
 @@||deals.nextag.com^*/ClickTracker.jsp
 @@||debenhams.com/foresee/foresee-trigger.js
 @@||demandbase.com^*/ip.json?$xmlhttprequest,domain=vmware.com
