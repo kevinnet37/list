@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e1HyZ60Ik5ZoBokhN4ObVg
+! Checksum: WTNTV0bZ3Ar0IyZVNWHGiQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805272000
-! Last Modified: 2018年05月27日 20:00
+! Version: 201805272130
+! Last Modified: 2018年05月27日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -395,7 +395,7 @@ _xiuno_com_ad/
 |http://*.tv/ad/
 |http://*.tw/ad/$domain=~ruten.com.tw
 |http://*.us/ad/
-|http://*/*_ad.js$domain=~xitek.com
+|http://*/*_ad.js$domain=~pcpop.com|~xitek.com
 |http://*/ad.*.js?v=*&sp=
 |http://*/ad.js?sn=
 |http://*/ad.js?v=
@@ -712,6 +712,7 @@ _xiuno_com_ad/
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
+||smitionsory.co^
 .8ox.cn
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
@@ -7259,6 +7260,8 @@ mg*.6park.com/img/$image
 ||33405.com/ps/
 ||33405.com/xxxxx.js
 ||33405.com^$subdocument
+||peryi.com/tbk/ap.php
+||imghost.top/kita/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 popart.hk###slideshow
@@ -12091,6 +12094,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||vlist.se/advertisement.js
 @@||popart.hk/newweb/$generichide
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
