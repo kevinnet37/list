@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DbYlcSgb6JjMuqHwc2jKiQ
+! Checksum: fuMR8DdeDaR9nd8ZUIBAdA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201805282200
-! Last Modified: 2018年05月28日 22:00
+! Version: 201805282230
+! Last Modified: 2018年05月28日 22:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16482,6 +16482,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /bcn.gif?
 /bcn?
 /bctrackers/*
+/bdash_log.
 /bdg-analytics.
 /bdg.gif?
 /beacon-cookie.
@@ -16768,6 +16769,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /collector/*/*?*&euidl=*&url=
 /collector/hit?
 /collector?report=
+/collectStats;
 /com_joomla-visites/*
 /com_joomlawatch/*
 /common/tracker.js
@@ -18950,12 +18952,14 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracking-pixel.
 /tracking-pixel/*
 /tracking-portlet/*
+/tracking-script/*
 /tracking-v3.
 /tracking-widget.
 /tracking.ashx?
 /tracking.cgi?
 /tracking.fcgi?
 /tracking.gif?
+/tracking.js?async=
 /tracking.jsp
 /tracking.php?id
 /tracking.php?q=
@@ -19547,6 +19551,7 @@ _ComScore.
 _contar_imp.php?
 _directtrack.js
 _effectivemeasure_tag.js
+_effectLog-
 _empty.ad?
 _event_stats.
 _ga_code.
@@ -19985,6 +19990,7 @@ _mongo_stats/
 ||basicstat.com^$third-party
 ||basilic.io^$third-party
 ||baynote.net^$third-party
+||bdash-cloud.com^$third-party
 ||beacon.kmi-us.com^$third-party
 ||beanstalkdata.com^$third-party
 ||beanstock.com^$third-party
@@ -20077,6 +20083,7 @@ _mongo_stats/
 ||buzzdeck.com^$third-party
 ||bytemgdd.com^$third-party
 ||c-o-u-n-t.com^$third-party
+||c-rings.net^$third-party
 ||c-webstats.de^$third-party
 ||c.adroll.com^$third-party
 ||c.hit.ua^$third-party
@@ -29209,6 +29216,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||goo.ne.jp^*/vltracedmd.js
 ||i2i.jp/bin/
 ||ln.ameba.jp^
+||measure.ameblo.jp^
 ||mtc.nhk.or.jp^
 ||nhk.or.jp^*/bc.js
 ||ppf.rakuten.co.jp^$~script
