@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QDwbkWXgYYZ/zh3Jx0a6Cg
+! Checksum: 9MZol+v8ToHpQYzEr7xKNw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805291030
-! Last Modified: 2018年05月29日 10:30
+! Version: 201805291130
+! Last Modified: 2018年05月29日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -12083,6 +12083,7 @@ bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+ft.com,ftchinese.com#@#.adsbox
 !---------------------------------URL Whitelist-------------------------------!
 @@/adbar/*$domain=outlook.live.com
 @@||adnxs.com/ast/static/$domain=outlook.live.com
