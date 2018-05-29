@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SRm7OE1jdJ1M6zoh9vo4Dw
+! Checksum: QDwbkWXgYYZ/zh3Jx0a6Cg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805290930
-! Last Modified: 2018年05月29日 09:30
+! Version: 201805291030
+! Last Modified: 2018年05月29日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7252,6 +7252,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+outlook.live.com##.__Microsoft_Owa_MessageListAds_ListView_templates_cs_x
 oschina.net##A[href^="https://citiccard.wjx.cn/"]
 oschina.net##DIV[name="index_banner_bigger"]
 oschina.net##DIV[name="detail_show_footer"]
@@ -12083,6 +12084,8 @@ bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
+@@/adbar/*$domain=outlook.live.com
+@@||adnxs.com/ast/static/$domain=outlook.live.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
