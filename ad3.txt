@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: na4Fz+RZAanwZxgt53G/oA
+! Checksum: U8EqgqGnI+qVsBlyXFMzjw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805300830
-! Last Modified: 2018年05月30日 08:30
+! Version: 201805301100
+! Last Modified: 2018年05月30日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -713,6 +713,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||0516bm.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -4157,7 +4158,6 @@ mg*.6park.com/img/$image
 ||cidianwang.com/images/taobao/
 ||cidianwang.com/js/zdtop.js
 ||ciliba.org/Public/static/js/common-v2.js
-||cilipu.cc/tpl/template/image/ad.jpg
 ||cilook.net/cilookinc/isee5_950x60.gif
 ||citysbs.com/chongqing/*/1920x179-
 ||citysbs.com/no/*/1190x60-
@@ -12311,7 +12311,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||dlkoo.com^$generichide
 @@||dmhy.org/common/generate-captcha?
 @@||dolc.de/source/plugin/unadblock/
-@@||doubleclick.net/pagead/ads?$domain=download.mokeedev.com
+@@||doubleclick.net/pagead/ads?$script,xmlhttprequest,domain=download.mokeedev.com
 @@||doubleclick.net/pagead/js/dev/*/abg_lite.js$domain=download.mokeedev.com
 @@||doubleclick.net/pagead/test_domain.js$domain=download.mokeedev.com
 @@||down.cc/down/js/ad.js
