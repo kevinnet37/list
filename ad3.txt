@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rBipGD8wiTVl9776dED7cA
+! Checksum: qPXYaPze/mA+m8JN8XIyvg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201805311130
-! Last Modified: 2018年05月31日 11:30
+! Version: 201805311600
+! Last Modified: 2018年05月31日 16:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -716,6 +716,8 @@ _xiuno_com_ad/
 ##.float_bot_right
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||szxiuchang.com^
+||baisuijk.com^
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -7258,6 +7260,7 @@ mg*.6park.com/img/$image
 ||lieqinews.com^$script
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cxryun.cn##.ad
 mtv-ktv.net###aShow
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
@@ -13470,8 +13473,8 @@ ifeng.com#?#.slLis > li:-abp-has(span:-abp-contains(告))
 ||yuyyio.com^
 .com/js/ddd.js
 .com/js/indextop.js
-/^https:\/\/www\.[0-9]{3,4}[a-z]{1,2}\.com\/js\/config\.js$/$script
-/^https:\/\/www\.[0-9]{3,4}[a-z]{1,2}\.com\/js\/jquery\.js$/$script
+/^https:\/\/(www\.)?[0-9]{3,4}[a-z]{1,2}\.com\/js\/config\.js$/$script
+/^https:\/\/(www\.)?[0-9]{3,4}[a-z]{1,2}\.com\/js\/jquery\.js$/$script
 @@||bdimg.com/libs/$domain=m.1200ksw.com|m.biqumo.com|m.maopuzw.com|m.qianrenge.cc|m.qu.la|m.shengyan.org|m.sjtxt.la|m.ttzw.com|m.xs.la|m.yssm.org
 @@||cdn.bootcss.com^$domain=qihaoqihao.com
 @@||libs.baidu.com^$domain=23wxx.com|m.80txt.com|m.bichi.me|m.biquge.cm|m.biquge.info|m.biqukan.com|m.bxwx9.org|m.shuquge.com|m.wenxuem.com
