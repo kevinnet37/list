@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2tZT8vwY/h6moq0uTjQsAQ
+! Checksum: Dskwpc681Z6ZibSfximMIA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201806020000
-! Last Modified: 2018年06月02日 00:00
+! Version: 201806020045
+! Last Modified: 2018年06月02日 00:45
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -144,6 +144,7 @@ xhamster.com##.sponsorBottom
 ||js.fhxiaoshuo.com^
 ||juiceads.net^
 ||juicyads.com^
+||kxhie.com^
 ||live800.com^$domain=licai.com
 ||m.addthis.com/live/red_lojson/300lo.json
 ||m.paipai.fm/js/jquery.slides.min.js
