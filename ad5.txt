@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QPUh0AsLF1pHMGSeIStOQA
+! Checksum: Kj89p/GjjX5ffZjwTDI5xw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806021030
-! Last Modified: 2018年06月02日 10:30
+! Version: 201806021100
+! Last Modified: 2018年06月02日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5799,7 +5799,6 @@ mg*.6park.com/img/$image
 ||mtime.cn/tg/
 ||muimg.com^$domain=lsjsoso.me
 ||muyuge.com/fw.html/
-||muyuge.com/js/bb/
 ||mvxz.com/bar3.js
 ||mvxz.com/boximg/
 ||mvxz.com/img/
@@ -7704,7 +7703,7 @@ acfun.cn###bd_ad1
 makaidong.com###bdcs
 sogou.com###bdfs0
 baidu.com###bdyx_float_rb
-1kkk.com,bukade.com,dm5.com,dm5.hk,manmankan.com,sfacg.com###beitou
+1kkk.com,bukade.com,dm5.com,dm5.hk,sfacg.com###beitou
 eeyy.com###beitou_box
 dataguru.cn###bg
 91danji.com###bg_ad
@@ -8663,7 +8662,6 @@ m.autohome.com.cn###tu94dq
 sohu.com###turn-ad
 ali213.net###tv
 qidian.com###two_dimensional
-muyuge.com###txt_r
 makaidong.com###txtlink
 udn.com###udn_scupio_responsive_wrapper
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###union_mod
@@ -10448,7 +10446,6 @@ ifeng.com##.newAdImg
 steelcn.cn##.new_fixed
 halidown.com##.new_head_ad
 wuseng.com##.new_pic01
-mtrend.cn##.new_top
 ali213.net##.newright
 sydneytoday.com##.news-list > .row > .col-xs-12
 eastday.com##.news-promote
@@ -13534,6 +13531,7 @@ uliba.net###sidebar > div:first-child
 uliba.net##.entry-content > div[style^="float:right"]
 uliba.net##.right-banner
 uliba.net##.tool_news1
+||aa1.ifeng.com^
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
 .*.ifeng.com^$xmlhttprequest
