@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 24orimbjI6hwj5e5P+Hipw
+! Checksum: fq8/vSC9dNEwf0gqdtTVfQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806032100
-! Last Modified: 2018年06月03日 21:00
+! Version: 201806032130
+! Last Modified: 2018年06月03日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -126,6 +126,7 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+/js/dljj.js
 -880-80-4.jpg
 .cc/js/ads/
 .cn/ads/
@@ -7352,6 +7353,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||rigengjihua.cn/banner/
+||sinaimg.cn^$domain=9uxx4.xyz
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 huan.moe##A[href*=".taobao.com"]
@@ -12165,6 +12167,7 @@ bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+9uxx4.xyz#@#.ad-link
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
@@ -22675,6 +22678,7 @@ _mongo_stats/
 ||metalyzer.com^$third-party
 ||metrigo.com^$third-party,domain=~metrigo.de
 ||microcounter.de^$third-party
+||mindtake.com^$third-party
 ||mitmeisseln.de^$third-party
 ||motorpresse-statistik.de^$third-party
 ||mps-gba.de^$third-party
