@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LMIWJCpxnTP2nXbEWefLGw
+! Checksum: 1BrkoID8Yy2a1Iu3teksXw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201806031000
-! Last Modified: 2018年06月03日 10:00
+! Version: 201806031130
+! Last Modified: 2018年06月03日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -5614,7 +5614,6 @@ mg*.6park.com/img/$image
 ||microcontrol.cn/bbs/images/AD755_150.swf
 ||microcontrol.cn/HomeImages/AD/
 ||midifan.com/aaa/
-||miercn.com/iframe/
 ||mifengtd.cn/ad-
 ||miguyu.com/AD/
 ||mikanani.me/images/upupoo
@@ -10528,7 +10527,6 @@ to8to.com##.right-float-ad
 tuicool.com##.right-link
 123.chinaso.com##.right-list6
 qidian.com##.right-op-wrap
-muzhiwan.com##.right.w_246 > a
 tianya55.com##.right02
 news.ifeng.com##.right1
 roodo.com##.right300_250ad
@@ -12223,7 +12221,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||av30.xyz/cs/2.js
 @@||baidustatic.com^$domain=xoyo.com
 @@||banma.com/statics/js/??
-@@||bbs.muzhiwan.com^*300*250
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||bdstatic.com/??*,*,*,
 @@||bdstatic.com/static/common/widget/ui/admanager/
@@ -12392,7 +12389,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||meizu.com/fileserver/ad/img/
 @@||miaozhen.com^*/m.suning.
 @@||mm.maxthon.cn/ad/
-@@||mmybt.com^*300*250
+@@||mmy.la^*300*250
 @@||mnighthk.net/template/*/ad
 @@||mnighthk.net^$elemhide
 @@||money18.on.cc/js/ad/liveinfo_page/
