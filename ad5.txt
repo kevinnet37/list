@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oVZT7tXrx29lb8PyRfIBfQ
+! Checksum: KTXLV0Zmf2/Mt6umdrpCAA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806041000
-! Last Modified: 2018年06月04日 10:00
+! Version: 201806041030
+! Last Modified: 2018年06月04日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -12172,6 +12172,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@/adplugin/swf/MediaPlugin.swf$domain=qq.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
@@ -14154,7 +14155,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||hk01.com^*/ga_trace.js
 @@||hk01.com^*/scripts/ga.js
 @@||hm.baidu.com/h.js$domain=baomihua.com
-@@||hm.baidu.com^$domain=ihome99.com
+@@||baidu.com/h.js$domain=19lou.com|ihome99.com
 @@||ipip.net/ping.php?
 @@||jd.com/setCookie?
 @@||kfcorder.com.tw/web/Script/Analytics.js
