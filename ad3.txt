@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uR6Si02exRJFVQ51RC4Jpg
+! Checksum: G4I83AYMH5FxC4NZwNaysg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201806050930
-! Last Modified: 2018年06月05日 09:30
+! Version: 201806051100
+! Last Modified: 2018年06月05日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -5720,7 +5720,6 @@ mg*.6park.com/img/$image
 ||narutom.com/v2/js/ca.js
 ||narutom.com/v2/v/$subdocument
 ||nb.zol.com.cn/detail_*.html
-||nba98.com/res/js.js
 ||nbegame.com/nbead/
 ||nbegame.com/nbeos/nbegg.html
 ||nbyayu.cn/player.swf
@@ -5729,7 +5728,6 @@ mg*.6park.com/img/$image
 ||nen.com.cn/eap/
 ||nen.com.cn/service/js/beitou
 ||nen.com.cn/swf/0/*.swf
-||netded.com/images/xianshua.png
 ||netease.com/home/2017/4/28/2017042810491144cd7.jpg
 ||netease.com/house-public/articleyunyans.js
 ||new-icon.ol-img.com/jslib/ad.down.js
@@ -5774,7 +5772,6 @@ mg*.6park.com/img/$image
 ||nuqk.com/qiwen
 ||nvsheng.com/js/gg.js
 ||nxing.cn/uploads/uploads/*-size1220x
-||nxing.cn/uploads/uploads/*-size300x250.
 ||nz04com.com/aabdd/
 ||o80wi1ajq.bkt.clouddn.com^
 ||oa-panther.data.aliyun.com^
@@ -7120,7 +7117,6 @@ mg*.6park.com/img/$image
 ||z4bbs.com/adst/
 ||z63.org/wp-content/themes/z63/img/s-
 ||zasv.net/baiya.jpg
-||zb.nxing.cn^
 ||zbjimg.com/static/union/
 ||zbwmy.com/upfile/20*.gif
 ||zbwmy.com/upfile/20*.swf
@@ -7242,6 +7238,9 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ningmengzhibo.com##TD[style="width: 50px;font-size: 12px;"]
+ningmengzhibo.com##TH[style="width: 80px;"][colspan="3"]
+nxing.cn##.main:nth-child(-n+6)
 ithome.com##.lapin
 ithome.com##A[href="/html/363216.htm"]
 ithome.com#?#.placeholder:-abp-has(> a > .plc-con > .plc-footer > .tip-gray)
@@ -8534,7 +8533,6 @@ fuli.us###toubuads
 qidian.com###tr-banner
 tianya.cn###travel_float
 tsdm.me,tsdm.net,tsdm.tw###tsdmadv_img
-nbazww.com###tttad
 m.autohome.com.cn###tu94dq
 sohu.com###turn-ad
 ali213.net###tv
@@ -9077,7 +9075,7 @@ dysfz.cc,rs05.com##.adv_bottom
 8btc.com##.adv_element
 le.com,letv.com##.adv_img
 kaifu.com##.adv_slide
-3gsc.com.cn,autohome.com.cn,gdzjdaily.com.cn,loveshang.com,ningmengzhibo.com##.advbox
+3gsc.com.cn,autohome.com.cn,gdzjdaily.com.cn,loveshang.com##.advbox
 yinsha.com##.advcop01
 114.com.cn##.adve2
 114.com.cn##.adve3
