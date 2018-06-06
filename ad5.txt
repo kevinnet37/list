@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LrlYhfoiub+R5qsp3SF2jw
+! Checksum: 3R8tavvtXUmla3s1D0sE0Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806070000
-! Last Modified: 2018年06月07日 00:00
+! Version: 201806070730
+! Last Modified: 2018年06月07日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16324,6 +16324,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /analytics/socialTracking.js
 /analytics/tagx-
 /analytics/tealium-
+/analytics/tms_
+/analytics/tools_
 /analytics/track-
 /analytics/track.
 /analytics/track/*
@@ -18603,6 +18605,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /SpeedTrapInsert.
 /spi.gif?aid=
 /spip.php?page=stats.js
+/spot.aspx?Log=
 /springmetrics.
 /spylog_
 /sr.gif?
@@ -19008,6 +19011,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tracking/count
 /tracking/create?
 /tracking/csp?
+/tracking/digitalData.
 /tracking/epixels.
 /tracking/events?
 /tracking/fingerprint/*
@@ -23561,6 +23565,7 @@ _mongo_stats/
 ||analytics.episodic.com^
 ||analytics.fairfax.com.au^
 ||analytics.favcy.com^
+||analytics.groupe-seb.com^
 ||analytics.gvim.mobi^
 ||analytics.hosting24.com^
 ||analytics.hpprintx.com^
@@ -27473,6 +27478,7 @@ _mongo_stats/
 ||picbucks.com/track/
 ||pichunter.com/logs/
 ||pictopia.com^*/hb.gif?
+||pictures.zooplus.com^
 ||ping.buto.tv^
 ||ping.hungama.com^
 ||ping.tvmaze.com^
@@ -27609,6 +27615,7 @@ _mongo_stats/
 ||reporting.wilkinsonplus.com^
 ||request.issuu.com^
 ||resellerclub.com/helpdesk/visitor/index.php?$image
+||retargeting.vistaprint.com^
 ||retrevo.com/m/vm/tracking/
 ||retrevo.com/search/v2/jsp/blank.jsp?
 ||reuters.com/pulse/$script
