@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TeBdT1rUddynFQdtWy0WCA
+! Checksum: Nb0GtQR97GuE6ba0ANRijw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806061830
-! Last Modified: 2018年06月06日 18:30
+! Version: 201806061900
+! Last Modified: 2018年06月06日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -829,6 +829,7 @@ _xiuno_com_ad/
 ##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(-n+226)
 ##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ span[class^="f"] > span > a[onmouseover="this.style.background='#DEF5CD';"]:first-child:last-child
 ##script + #rbbox
+##.gpost-below
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
@@ -9916,14 +9917,12 @@ i-part.com.tw##.googleAD160x600
 tiexue.net##.goushi
 tiexue.net##.gousi
 dsqnw.com##.gpost-above
-dakashangche.com,dakashangche.net##.gpost-below
 owyb1688.com##.gray-show
 bioon.com##.grid_6
 admin5.com##.grid_8 > .mb6
 vpsdx.com##.gsfha3
 yxdown.com##.gsxz_ydw
 putclub.com##.gtest
-dakashangche.net##.gtop
 58.com##.guaguabox
 97aa1.com,niu20.com##.guang4
 adreep.cn,baoliny.com,gasaq.com,hgitv.com,nen.com.cn,rznews.cn,sqkz.com##.guanggao
@@ -14935,7 +14934,9 @@ _300_250.
 ||shejiben.com/common/widgets/ui/*zb.js
 ||shejiben.com/common/libs/layer.js
 ||me360.com/swt/swt.js
+||hexun.com/zl/hx/index/js/appDplus.js
 !------------------------Specific element hiding rules------------------------!
+ithome.com##.open-app-banner
 bitauto.com###advCarsumType1
 apowersoft.cn##.activity-poster
 so.com###bottom_ask
