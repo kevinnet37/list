@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XROL5DY4gcDOYA+jSG07dA
+! Checksum: P+WLGRjcM0YZwTnd8jcY7g
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806072230
-! Last Modified: 2018年06月07日 22:30
+! Version: 201806080730
+! Last Modified: 2018年06月08日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -30484,6 +30484,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||dbastatic.dk/Content/scripts/analytics.js$script
 @@||msecnd.net^*/site-tracker.js$domain=momondo.dk
 @@||tv2.dk/js/adobeanalytics/AppMeasurement.js$script
+@@||ad.crwdcntrl.net^$script,domain=rtl.nl
 @@||bundol.nl/skin/*/js/prototype/prototype.js,*/GoogleAnalyticsPlus/
 @@||globecharge.com/images/ping.gif?
 @@||google-analytics.com/analytics.js$domain=vd.nl
@@ -30493,6 +30494,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||sitestat.com/crossdomain.xml$object-subrequest,domain=abp.nl
 @@||sport.be.msn.com/javascripts/tracking/metriweb/spring.js
 @@||sport.be/javascripts/tracking/metriweb/spring.js
+@@||tags.crwdcntrl.net^$script,domain=rtl.nl
 @@||vplayer.ilsemedia.nl/swf/im_player.swf?$object
 @@||vpro.nl/vpro/htmlplayer/0.3-snapshot/statcounter.js?
 @@||adobedtm.com^*/satelliteLib-$script,domain=gigantti.fi|markantalo.fi
