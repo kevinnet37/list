@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kSDnHRLyIBFL/S5dV691IQ
+! Checksum: S0dw4c9WRKUB0pJMb5M6jw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806081900
-! Last Modified: 2018年06月08日 19:00
+! Version: 201806081930
+! Last Modified: 2018年06月08日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -836,6 +836,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||857yx.com^$third-party
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -3457,7 +3458,7 @@ mg*.6park.com/img/$image
 ||64bobo.com/ckplay/js.jpg
 ||66.fmx.cn/js/
 ||6620070.com/js/
-||6636df.com/logo/
+||1200df.com/logo/
 ||66384.com/templets/js/stats.js
 ||66384.com/templets/SWFad
 ||6665432.com^*.gif
@@ -12817,6 +12818,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##div[style="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 |http://a.kj-cy.cn^
+||ddd.jandan.net^
 ||003store.com^
 ||01.gxso.net^
 ||06362.com^
