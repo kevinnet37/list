@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: m1eMoPzbBAhQXSktFUyvJg
+! Checksum: 8SY0ZKElc5bJ3ka//q3BjA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201806082000
-! Last Modified: 2018年06月08日 20:00
+! Version: 201806091030
+! Last Modified: 2018年06月09日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1144,7 +1144,6 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||857yx.com^$third-party
 .cn/show?id=$script,third-party
 .cn/showpage.asp?u=$script,third-party
 .cn/vs.php?id=$script,third-party
@@ -1488,6 +1487,7 @@ ubmcmm.baidustatic.com
 ||81c.cn^
 ||8368661.com^
 ||8521448.com^
+||857yx.com^$third-party
 ||85tgw.com^
 ||85un.com^$third-party
 ||860010.com^
@@ -3330,6 +3330,7 @@ mg*.6park.com/img/$image
 ||11vvt.com^*tools/
 ||120.27.*.html
 ||120.27.34.156^
+||1200df.com/logo/
 ||120askimages.com/ask/js/*x.js
 ||120askimages.com/ask/js/askfrom.js
 ||120askimages.com/ask/js/q
@@ -3766,7 +3767,6 @@ mg*.6park.com/img/$image
 ||64bobo.com/ckplay/js.jpg
 ||66.fmx.cn/js/
 ||6620070.com/js/
-||1200df.com/logo/
 ||66384.com/templets/js/stats.js
 ||66384.com/templets/SWFad
 ||6665432.com^*.gif
@@ -7669,6 +7669,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+dysfz.cc##.hb_fixed
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -13126,8 +13127,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##div[style="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 |http://a.kj-cy.cn^
-||ddd.jandan.net^
-||ggdm1.nhaidu.net^
 ||003store.com^
 ||01.gxso.net^
 ||06362.com^
@@ -13388,6 +13387,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||data.waptime.cn^
 ||daxishi.com^$third-party
 ||daxueshengqiandai.com^
+||ddd.jandan.net^
 ||df888.eastday.com^
 ||dm*.ppzuowen.com^
 ||dm.388g.cc^
@@ -13457,6 +13457,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||gg.jkmeishi.com^
 ||gg1.jc001.cn^
 ||gg1.mengchongzu.com^
+||ggdm1.nhaidu.net^
 ||godloveme.cn^
 ||gsjdzx.com^$third-party
 ||guang.sdsgwy.com^
