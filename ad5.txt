@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BYDG0rx0oW/rPUlzLX4bMA
+! Checksum: zDxupCQb1xaXog+IKfE+Zg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806121130
-! Last Modified: 2018年06月12日 11:30
+! Version: 201806121200
+! Last Modified: 2018年06月12日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -126,6 +126,7 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+/js/common/gg.js
 -880-80-4.jpg
 .cc/js/ads/
 .cn/ads/
@@ -832,6 +833,7 @@ _xiuno_com_ad/
 ##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(-n+226)
 ##img[src$="/a1b45005bda18472821222856c6d4f99.gif"] ~ span[class^="f"] > span > a[onmouseover="this.style.background='#DEF5CD';"]:first-child:last-child
 ##script + #rbbox
+##.anniversary-wrap-2018
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
@@ -5795,7 +5797,6 @@ mg*.6park.com/img/$image
 ||moneyweekly.com.tw/Uploads/AD/*970x
 ||monnsutogatya.com/himg/monst/
 ||moonbbs.com/data/attachment/portal/
-||mop.com/js/common/gg.js
 ||mop.com/js/common/watermark.js
 ||mopxing.com/skin/sex/js/*ad
 ||mopxing.com/skin/sex/js/*banner
@@ -5878,7 +5879,6 @@ mg*.6park.com/img/$image
 ||ningmengzhibo.com/ement/beforeSearchEment.action
 ||nirentang.com^
 ||niu20.com/g/
-||niutuku.com/skin/style2013/ad/
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
 ||njxzwh.com/downza/pc/v2017/images/downAD
 ||nmgnews.com.cn/swf/0/11/$object,domain=www.nmgnews.com.cn
