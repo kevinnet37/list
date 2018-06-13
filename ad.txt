@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2IGFkSnMVG8DKY6yh50CmQ
+! Checksum: sqrPU7858JyyKfMO8j7ReQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201806132130
-! Last Modified: 2018年06月13日 21:30
+! Version: 201806132200
+! Last Modified: 2018年06月13日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -13742,6 +13742,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||zgdmsj.cn^
 ||zhuyuanp.club^
 ||zhybw88.com^
+/images/s68760-5.jpg
+/images/s68950-4.jpg
 /images/*.gif$domain=2c2.website|2p8.space|adultgao.com|baocee.com|baofee.com|baonee.com|baopee.com|baowee.com|baoxee.com|baozoo.com|caoporn.com|caouoo.com|caoxee.com|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vgao.xyz|vlang.xyz|vwan.xyz
 /moneymaker/js/player/vast-
 /moneymaker/js/player/zanting.js
@@ -13751,9 +13753,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||ganimgs.com/images/*.gif
 ||haoimgs.com/images/*.gif
 ||caoimg.xyz/images/
-||sinaimg.cn^$domain=ganfee.com
 ||ggtg8.com^
-||sinaimg.cn^$domain=2c2.website|2p8.space|adultgao.com|baocee.com|baofee.com|baonee.com|baopee.com|baowee.com|baoxee.com|baozoo.com|caoporn.com|caouoo.com|caoxee.com|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vgao.xyz|vlang.xyz|vwan.xyz
+||sinaimg.cn^$domain=2c2.website|2p8.space|adultgao.com|baocee.com|baofee.com|baonee.com|baopee.com|baowee.com|baoxee.com|baozoo.com|caoporn.com|caouoo.com|caoxee.com|ganfee.com|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vgao.xyz|vlang.xyz|vwan.xyz
 2c2.website,2p8.space,adultgao.com,baocee.com,baofee.com,baonee.com,baopee.com,baowee.com,baoxee.com,baozoo.com,caoporn.com,caouoo.com,caoxee.com,ganfee.com,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vgao.xyz,vlang.xyz,vwan.xyz##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
 ||anixwallpaper.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||8ox.cn/pge/?s=$script,domain=dlkoo.com
