@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7er1LN/i3Yb1/1PgyX7qvQ
+! Checksum: sjZYnA5XrU4AnvLuzcHr+Q
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201806131600
-! Last Modified: 2018年06月13日 16:00
+! Version: 201806131730
+! Last Modified: 2018年06月13日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -6226,7 +6226,6 @@ mg*.6park.com/img/$image
 ||open-open.com/gg_images/
 ||opinion.people.com.cn/GB/
 ||opticsky.cn/images/2015/gy-px201
-||opticsky.cn/images/2017/z250x250.jpg
 ||orsoon.com*/zhuanti/
 ||orsoon.com/assets/images/*.gif
 ||orsoon.com/assets/images/tuidc.png
@@ -7680,6 +7679,7 @@ mg*.6park.com/img/$image
 ||nmgnews.com.cn/other/003/000/*.swf
 !------------------------Specific element hiding rules------------------------!
 nmgnews.com.cn###ad3
+cctv.com##A[href*=".jaeapp.com"]
 ofweek.com##.adtext
 ofweek.com##.ui-slider
 520cc.me###back-to-top > A[href^="http"]
@@ -8520,7 +8520,6 @@ douni.com###lad_1
 douni.com###lad_2
 douni.com###lad_3
 douni.com###lad_5
-oco88.com###last_box_147
 csdn.net###layerd
 hao123.com###layout-guess
 jobbole.com###leaderboard
