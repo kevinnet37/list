@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3kMckDCpvic1J3IX6R4LJg
+! Checksum: dHNGrBg42uHnySHcrVyTMA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806131930
-! Last Modified: 2018年06月13日 19:30
+! Version: 201806132000
+! Last Modified: 2018年06月13日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -29641,6 +29641,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||barclays.co.uk/touchclarity/mbox.js
 @@||barclays.touchclarity.com^$domain=barclaycard.co.uk
 @@||bbc.co.uk/frameworks/nedstat/$script,~third-party
+@@||bbc.co.uk/radio/player/*/logger.js$script,~third-party
 @@||bbci.co.uk/bbcdotcom/*/script/av/emp/analytics.js$domain=bbc.co.uk
 @@||bbci.co.uk^*/comscore.js$domain=bbc.co.uk
 @@||bc.geocities.*/not_found/
@@ -30672,6 +30673,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||mc.yandex.ru/metrika/watch.js$domain=f5haber.com
 @@||turkcelltvplus.com.tr^*/google_analytics/main.js?
 @@||tvyo.com/player/plugins/comscorePlugin.swf?$object-subrequest
+@@||akamaized.net^*/js/tracking/ninja.js$script,domain=olx.ua
 @@||bemobile.ua/lib/lib.js$domain=tsn.ua
 @@||gemius.pl/gplayer.js$domain=tsn.ua
 @@||uaprom.net/image/blank.gif?$image
