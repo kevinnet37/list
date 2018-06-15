@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: v8aFYKwM3Pm7u2DyYVtuhA
+! Checksum: fsz542ISsYu71y/RPnwhcw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806151030
-! Last Modified: 2018年06月15日 10:30
+! Version: 201806151130
+! Last Modified: 2018年06月15日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5630,7 +5630,6 @@ mg*.6park.com/img/$image
 ||licai18.com/pic/*.swf
 ||licai18.com/pic/article/*.gif
 ||liepin.com/event/jobadver/
-||lieqinews.com^$script
 ||lihuasoft.net/images/ad_
 ||liisex.com/images/banners/
 ||line-scdn.net/6c21c9a4/statics/js/index/redirect.js
@@ -12223,6 +12222,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/advertisement/*$domain=cits.cn|ininin.com|midea.com|muyingzhijia.com|yxjc.13322.com
 @@/advertising/*$domain=315.sh.cn|houdask.com
 @@/adverts/*$domain=onlychild.cn
+@@/adview_pic_$domain=reh.tw
 @@/adview_pic_$domain=123564.com|2hanju.com|lingjike.com|mahua.com|mh160.com|qqzhibo.tk|xiaoz.me|ygo-sem.cn|ykit.cn
 @@/advs/*$domain=ciros.com.cn|dianxinos.com|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
