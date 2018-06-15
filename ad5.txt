@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qx8A0Q5p0BusiBK++dA1zg
+! Checksum: BDjr1zjy06UoSYdGICBMvQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806150730
-! Last Modified: 2018年06月15日 07:30
+! Version: 201806150800
+! Last Modified: 2018年06月15日 08:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -18879,6 +18879,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /tiwik.
 /tmpstats.gif?
 /tmv11.
+/tnc.js?h=
+/tnc?_t=
 /tncms/tracking.js
 /tns_gallup/*
 /tnsCounter.
@@ -19646,6 +19648,7 @@ _global_analytics_
 _google_analytics.
 _googleAnalytics.
 _googleAnalytics_
+_hits_stat.
 _hptag.asis?
 _i2a.js
 _imp?Log=
@@ -23355,6 +23358,7 @@ _mongo_stats/
 ||upravel.com^$third-party
 ||uptolike.com^$third-party
 ||uzrating.com^$third-party
+||variti.net^$third-party
 ||vidigital.ru^$third-party
 ||vira.ru^$third-party
 ||volgograd-info.ru^$third-party
@@ -25995,6 +25999,7 @@ _mongo_stats/
 ||kvartirant.ru/counter.php?
 ||linestudio.ru/counter/
 ||mediaplus.fm/cntr.php?
+||mediator.mail.ru^
 ||medorgs.ru/js/counterlog_img.js
 ||metka.ru/counter/
 ||metrics.aviasales.ru^
