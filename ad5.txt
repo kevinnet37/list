@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XhmVwuh1tA/yG/PfIpg04g
+! Checksum: 5nC+EyUGomMA/QGrnWMefA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806152330
-! Last Modified: 2018年06月15日 23:30
+! Version: 201806160730
+! Last Modified: 2018年06月16日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -20402,6 +20402,7 @@ _mongo_stats/
 ||daylogs.com^$third-party
 ||dc-storm.com^$third-party
 ||dc.tremormedia.com^$third-party
+||dcmn.com^$third-party
 ||ddm.io^$third-party
 ||decdna.net^$third-party
 ||decibelinsight.net^$third-party
@@ -25590,6 +25591,7 @@ _mongo_stats/
 ||stroeerdp.de^*_gtm.js
 ||strongvpn.com/aff/
 ||suedtirol.live/slc.js
+||t.etraveli.com^
 ||t.nativendo.de^
 ||t.quisma.com^
 ||tap.idg.de^
@@ -26233,6 +26235,7 @@ _mongo_stats/
 ||amazon.com/gp/yourstore/recs/
 ||amazon.com^*/amazon-clicks/
 ||amazon.com^*/events/$domain=~aws.amazon.com
+||amazon.com^*/token/
 ||amazon.com^*/vap-metrics/
 ||amazonaws.com/beacon/vtpixpc.gif?
 ||amazonaws.com^*/pzyche.js
