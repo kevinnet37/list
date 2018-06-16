@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: l8+K85Gk3i1+6dFQeKHeUg
+! Checksum: t6RdoWH6KSSwfGDtC3y23Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806161800
-! Last Modified: 2018年06月16日 18:00
+! Version: 201806162100
+! Last Modified: 2018年06月16日 21:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16164,6 +16164,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /accesstracking/*
 /AccessTrackingLogServlet?
 /acclog.cgi?
+/account-stats/*
 /ace.*/?cookie
 /acecounter/*
 /acecounter_
@@ -16936,6 +16937,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /countercgi.
 /countercollector/*
 /counterFooterFlash.
+/counters/pages?
 /countertab.js?
 /countHits.
 /countinj.cgi?
@@ -18785,6 +18787,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /stats/track.asp?
 /stats/tracker.js
 /stats/welcome.php?
+/stats/xtcore.
 /stats?aid=
 /stats?blog_
 /stats?callback=
@@ -22144,6 +22147,7 @@ _mongo_stats/
 ||yieldsoftware.com^$third-party
 ||yjtag.jp^$third-party
 ||ymetrica1.com^$third-party
+||youbora.com^$third-party
 ||youmetrix.co.uk^$third-party
 ||your-counter.be^$third-party
 ||youramigo.com^$third-party
@@ -28171,6 +28175,7 @@ _mongo_stats/
 ||torrentz.li/ping?
 ||torrentz.me/ping?
 ||torrentz.ph/ping?
+||tortoise.proboards.com/tortoise.pl?
 ||toshibadirect.com^*/remarketing_google.js
 ||total.shanghaidaily.com^
 ||totalporn.com/videos/tracking/?url=
