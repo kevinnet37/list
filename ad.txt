@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rI1e4/fGj19sSRAnzSnq5Q
+! Checksum: nu70K4TJPvbF1Pg5w5hXhA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201806171030
-! Last Modified: 2018年06月17日 10:30
+! Version: 201806171100
+! Last Modified: 2018年06月17日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1138,6 +1138,8 @@ _xiuno_com_ad/
 ~pniao.com##div[class^="ADTOPLB_"]
 ##div[id^="ad_thread"]
 ##header + .container > .ads:first-child
+##img[src$="/HWIl7a.gif"] ~ a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(-n+226)
+##img[src$="/HWIl7a.gif"] ~ span[class^="f"] > span > a[onmouseover="this.style.background='#DEF5CD';"]:first-child:last-child
 ##img[src$="/2016-0114-700X70.gif"] ~ a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(-n+226)
 ##img[src$="/2016-0114-700X70.gif"] ~ span[class^="f"] > span > a[onmouseover="this.style.background='#DEF5CD';"]:first-child:last-child
 ##img[src$="/21054077.gif"] ~ a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(-n+226)
@@ -7679,7 +7681,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||siimg.com/u/*.gif
+||xoimg.club/u/*.gif
 !------------------------Specific element hiding rules------------------------!
+t66y.com##img[src$="/HWIl7a.gif"] ~ br:nth-child(-n+226)
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
@@ -12502,6 +12507,7 @@ bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+mcfuns.com.tw#@##adsense
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
@@ -14533,7 +14539,6 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||ipip.net/ping.php?
 @@||jd.com/setCookie?
 @@||kfcorder.com.tw/web/Script/Analytics.js
-@@||l.qq.com/proxyhttp
 @@||lesports.com/pc/??*/click_statistics/
 @@||lobi.co/1/track/event/
 @@||meituan.net/bs/js/*/js/tracker.js
