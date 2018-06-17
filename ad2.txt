@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qxzTrSLF51xmTkrJEc+LXg
+! Checksum: kmSyypZWAynKjJEA3ZDCXQ
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201805251900
-! Last Modified: 2018年05月25日 19:00
+! Version: 201806171600
+! Last Modified: 2018年06月17日 16:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -825,9 +825,9 @@ cctv.com###bgAd_div
 |http://player.cntv.cn/adplayer/$object
 douyu.com##div.bglink,#lifter,[data-dysign-adid],div[class$=-ad],div[class|=ad],div.no-login,.his-sign-cont,.f-sign-cont
 ||wan.douyu.com/
-||videojj.com/$domain=douyu.com
 ||staticlive.douyucdn.cn/upload/signs/$object
 ||dotcounter.douyutv.com/deliver/
+||g.huya.com/
 ||luckstatic.v1.cn/st/10000/
 ||luck.v1.cn/$object-subrequest
 yinyuetai.com##video~div,.shopMoney,div[class^=ad_],a.pic[href^="http://shop.yinyuetai.com/"]
