@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zpZ8LSPCs17QxCPtLsF4KQ
+! Checksum: LMAShg9Wr3onuq+QPOjwsA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806171100
-! Last Modified: 2018年06月17日 11:00
+! Version: 201806171130
+! Last Modified: 2018年06月17日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -842,6 +842,7 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
+##A[href*=".7wkw.com"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 .cc/s.php?id=$script,third-party
@@ -4278,7 +4279,7 @@ mg*.6park.com/img/$image
 ||chinaxinge.com/gif4/
 ||chinaxinge.com/html/index_pf3.js
 ||chinaz.com/2018/0402/2018040217272887.jpg
-||chinaz.com/code_img/
+||chinaz.com/ym_g/
 ||chinaz.com/gj_g/
 ||chinaz.com/imagead/
 ||chinaz.com/images/210x175.jpg
@@ -7373,9 +7374,15 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||siimg.com/u/*.gif
 ||xoimg.club/u/*.gif
+||pfp.sina.net/ea/ad/
+||haote.com/style2017/2017images/banner/
 !------------------------Specific element hiding rules------------------------!
+haote.com##.bigmainIn
+haote.com##.flashbox
 t66y.com##img[src$="/HWIl7a.gif"] ~ br:nth-child(-n+226)
 gpcxw.com###AA2
+sina.cn##DIV[data-adid]
+sina.cn##[data-info^="ad_none"]
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
