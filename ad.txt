@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: w14FSMStj0ZLyPuQ0QJwnA
+! Checksum: 3tolFBNyQ+ILLTtl/AWYrQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201806180800
-! Last Modified: 2018年06月18日 08:00
+! Version: 201806180930
+! Last Modified: 2018年06月18日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -6303,7 +6303,6 @@ mg*.6park.com/img/$image
 ||pctowap.com/dowap2/mobile/*.js
 ||pcworld.com.cn/Article/UploadFiles/201403/2014031016150885.jpg
 ||pdim.gs/9ea696dd63442b0b7e5315a5086f17c9.jpeg
-||pedaily.cn/head/js/m.js
 ||penglai.com.cn/UploadFile/image/*.gif
 ||people.com.cn/adv/
 ||people.com.cn/img/gjt/
@@ -7737,7 +7736,7 @@ angelweb.cn###G640x60
 aipai.com###GmAppBanner
 hupu.com###HCFull
 azofreeware.com###HTML1
-pttjoke.com###HTML1 > .widget-content > div > p
+pttjoke.com###HTML3
 azofreeware.com###HTML3
 azo-diary.blogspot.com,azo-diary.blogspot.hk,azo-diary.blogspot.tw###HTML4
 zhoushan.cn###Headtop
