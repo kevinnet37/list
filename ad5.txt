@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jX8iMskKAjm1C78kJP7fTg
+! Checksum: +ABM1kTSYnRbLBzf/lDKjg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806200800
-! Last Modified: 2018年06月20日 08:00
+! Version: 201806200830
+! Last Modified: 2018年06月20日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -11077,8 +11077,6 @@ jmw.com.cn##.top_pic
 163.com,changsha.cn,jrj.com.cn,kekenet.com,neotv.com.cn,sina.cn,sina.com.cn##.topad
 7707890.com##.topad-list
 cnforex.com##.topad460X60
-huarenjie.com##.topadcss
-huarenjie.com##.topadcss + div[style="overflow:hidden"]
 qz828.com##.topadv
 itavcn.com##.topadvzone
 dayanzai.me##.topban
