@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FExvqgm4yMpyc6s8H+qsWw
+! Checksum: jX8iMskKAjm1C78kJP7fTg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806192230
-! Last Modified: 2018年06月19日 22:30
+! Version: 201806200800
+! Last Modified: 2018年06月20日 08:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -125,7 +125,6 @@ tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
-/wdzj_banners.js
 -1688-wp-media/ads/
 -880-80-4.jpg
 .bid/static/js/aall.js
@@ -471,6 +470,7 @@ tieba.baidu.com##.tuijian-wrap
 /vlive.qqvideo.tc.qq.com/*.mp4?
 /W3Cfuns_Adv/*
 /wap_advpic/*
+/wdzj_banners.js
 /web8/ad/*
 /websales_push_*_big.php?id=
 /wp-content/themes/iMovies/js/tc_
@@ -3506,6 +3506,7 @@ mg*.6park.com/img/$image
 ||6vhao.tv/d/
 ||70.86.24.120:8060/
 ||70didi.com/js
+||724cc.com/js/
 ||72bbb.com/images/12.gif
 ||75.125.41.29:8080/
 ||76.73.85.179/js/v1.js
@@ -4355,6 +4356,10 @@ mg*.6park.com/img/$image
 ||cnmoad.com/wp-content/uploads/2015/02/lomark_banner.png
 ||cnnb.com.cn/images/14ny_1.gif
 ||cnool.net/AdShowCache?
+||cnpingpang.com/banner/
+||cnpingpang.com/bbs/UploadFile/2014-11/20141113852238131.jpg
+||cnpingpang.com/themes/v1.0/images/temp/ad/
+||cnpingpang.com/uploadfile/TTW.gif
 ||cnplugins.com/templets/cnplugins/pushbox1.js
 ||cnr.cn/cnrxwph/iframe/tpdy/
 ||cnsat.net/Pictuer/
@@ -4604,6 +4609,7 @@ mg*.6park.com/img/$image
 ||eastday.com/jsfile/kuaiya_
 ||eastday.com/k.js
 ||eastday.com/mmad.
+||eastday.com^$subdocument
 ||eastmoney.com/js/headbiggg_
 ||eastmoney.com/js/news_fixed_
 ||eat-travel.com.tw^$third-party
@@ -4953,6 +4959,8 @@ mg*.6park.com/img/$image
 ||hangzhou.com.cn/extra/flash/hzwarticle300.swf
 ||hangzhou.com.cn/images/flashyingpian.swf
 ||hangzhou.com.cn/inc_hzw/
+||hanjutv.com/index.php?c=dudu_
+||hanjutv.com/statics/skin/hjtv-pc/js/push.js
 ||hanzify.*/Main/Template/Images/chinabank.gif
 ||hao.rising.cn/catalog/bottom.html
 ||hao.rising.cn/images/nsdgg.jpg
@@ -6019,6 +6027,7 @@ mg*.6park.com/img/$image
 ||piaodown.com/other/*.js
 ||piaohua.com/js/wlfloat.js
 ||piaohua.com/js/yzz/$script
+||piaoliang.com/js/all.js
 ||piaoliang.com/js/gg.js
 ||piaotian.com/scripts/read/style
 ||pic.0597kk.com^
@@ -6047,10 +6056,6 @@ mg*.6park.com/img/$image
 ||piimg.com/588755/38850da69a92f2bb.jpg
 ||piimg.com/588755/ba9d370dfd134a36.jpg
 ||piimg.com^$domain=acgura.us|kisssub.org|lsjsoso.me|ref.so
-||cnpingpang.com/banner/
-||cnpingpang.com/bbs/UploadFile/2014-11/20141113852238131.jpg
-||cnpingpang.com/themes/v1.0/images/temp/ad/
-||cnpingpang.com/uploadfile/TTW.gif
 ||pingwest.com/wp-content/uploads/*/ad.jpg
 ||pipi.cn/player/
 ||pixfs.net/js/adsbyfalcon.
@@ -6846,6 +6851,7 @@ mg*.6park.com/img/$image
 ||vista.tuwan.com/s.js
 ||vjcdn.com/wp-content/uploads/*640x200
 ||vkeke.net/public/agd
+||vkugq.com/data/attachment/portal/
 ||vnet.cn^*.html
 ||voc.com.cn/adsClick/
 ||voc.com.cn/Frame/qqms_cs.html
@@ -7376,21 +7382,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||eastday.com^$subdocument
-||vkugq.com/data/attachment/portal/
-||piaoliang.com/js/all.js
-||hanjutv.com/index.php?c=dudu_
-||hanjutv.com/statics/skin/hjtv-pc/js/push.js
-||724cc.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-wdzj.com##.opentb
-wdzj.com##.topbanner
-wdzj.com###footbanner
-eastday.com##.left-suspension
-eastday.com##.right-suspension
-pujia8.com###recommend
-chazidian.com##.gg
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -8019,6 +8012,7 @@ apk.tw###focus
 qq.com###focus_jordon
 bitauto.com###folieAdNews
 ifeng.com###footAd
+wdzj.com###footbanner
 jxedt.com###footer
 ttmeiju.com,ttmeiju.vip###footer > div[style]
 ettoday.net###for-ec
@@ -8456,7 +8450,7 @@ baiduyunso.com###rcode
 cqsq.com###read_0 + a[target="_blank"]
 sosg.net###read_728x90
 chinaqking.com###readerServiceDIV
-sdgundam.cn###recommend
+pujia8.com,sdgundam.cn###recommend
 ganji.com###recommend_storeg_div
 duba.com###redbagRain
 ifeng.com###redbox
@@ -9878,7 +9872,7 @@ so.com##.garllery_ad
 115.com##.gb-advs
 qzone.qq.com##.gb-bill-area
 sucaijiayuan.com##.gbox1000
-1kkk.com,40407.com,5068.com,88148.com,china.com,cnwnews.com,dhzw.org,elecfans.com,ghjie.com,ifeng.com,iqilu.com,jj59.com,juqingba.cn,qzwb.com,shangdu.com,sina.com.cn,taodake.com,tianya.cn,zsnews.cn##.gg
+1kkk.com,40407.com,5068.com,88148.com,chazidian.com,china.com,cnwnews.com,dhzw.org,elecfans.com,ghjie.com,ifeng.com,iqilu.com,jj59.com,juqingba.cn,qzwb.com,shangdu.com,sina.com.cn,taodake.com,tianya.cn,zsnews.cn##.gg
 elecfans.com##.gg-01
 morningpost.com.cn##.gg-2
 baidu.com##.gg-content
@@ -10243,6 +10237,7 @@ txtbook.com.cn##.ledu-advWrap
 pqworld.com##.left-float
 pqworld.com##.left-float-tx
 wanqu.co##.left-nav-panel:first-child
+eastday.com##.left-suspension
 bejson.com##.left.validate + div
 cnbeta.com##.left300
 newxue.com##.left336280
@@ -10505,6 +10500,7 @@ udn.com##.only_web > .DisplayVideo
 114la.com##.ontheMZ
 ifeng.com##.opcPop_tit_zz
 news.sina.cn##.open
+wdzj.com##.opentb
 read.qidian.com##.operation-wrap
 iqiyi.com##.oppo
 3g.cn##.oppv
@@ -10678,6 +10674,7 @@ to8to.com##.right-float-ad
 tuicool.com##.right-link
 123.chinaso.com##.right-list6
 qidian.com##.right-op-wrap
+eastday.com##.right-suspension
 tianya55.com##.right02
 news.ifeng.com##.right1
 roodo.com##.right300_250ad
@@ -11085,7 +11082,7 @@ huarenjie.com##.topadcss + div[style="overflow:hidden"]
 qz828.com##.topadv
 itavcn.com##.topadvzone
 dayanzai.me##.topban
-21ic.com,eworldship.com,hao565.cn,pyccoo.cn,qq.com##.topbanner
+21ic.com,eworldship.com,hao565.cn,pyccoo.cn,qq.com,wdzj.com##.topbanner
 kocpc.com.tw##.topbarad
 bilibili.com##.topic-preview > li > a[href^="http"]:not([href*=".bilibili."])
 qzone.qq.com##.topic_item[data-url*=".gdt.qq.com/"]
@@ -12751,7 +12748,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 99nn2.com,99nn3.com,99re.com,99re16.com,99ww4.com##.spots
 ||alicdn.com^$domain=99nn2.com|99nn3.com|99re.com|99re16.com|99ww4.com
 ||sinaimg.cn^$domain=99nn2.com|99nn3.com|99re.com|99re16.com|99ww4.com
-|https://$script,third-party,domain=365ahri.com|ahri.xyz|ahri-plus.com|ahri8.com
+|https://$script,third-party,domain=365ahri.com|ahri-plus.com|ahri.xyz|ahri8.com
 |http://*/ts.js$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 ||imgur.com^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 ||sinaimg.cn^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
@@ -18471,6 +18468,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /reporting/analytics.js
 /RequestTrackerServlet?
 /RequestVideoTag.
+/res/x.gif?
 /resmeter.js
 /resourcestat.
 /rest/analytics/*
@@ -18860,6 +18858,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /surphace_track.
 /survey_invite_
 /surveyoverlay/*
+/swa_t.gif?
 /swfaddress.js?tracker=
 /swptrk.
 /syn/mail_s.php?
@@ -19432,6 +19431,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /WebAnalyticsInclude.
 /webbug.png?
 /webbug/*
+/webbug_c.gif?
 /webcounter/*
 /webdig.js?z=
 /webdig_test.js
@@ -19656,6 +19656,7 @@ weibo.com##.apps_PCD_reco_detail_right
 ?stwc_cz=
 ?target-ref=
 ?token=*&sessionid=*&visitorid=
+?trackGroup=*&referrer=
 ?trackingCategory=
 ?triggertags=
 ?url=*&id=*&res=*&ref=
@@ -21458,6 +21459,7 @@ _mongo_stats/
 ||qlzn6i1l.com^$third-party
 ||qoijertneio.com^$third-party
 ||qsstats.com^$third-party
+||quadran.eu^$third-party
 ||quantcount.com^$third-party
 ||quantserve.com/api/
 ||quantserve.com/pixel/$object-subrequest,third-party
