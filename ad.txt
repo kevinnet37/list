@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +ii2h0HfscjdDybpfB89TQ
+! Checksum: H6x/kaqlXaXA7SaT/izZAA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201806221100
-! Last Modified: 2018年06月22日 11:00
+! Version: 201806221130
+! Last Modified: 2018年06月22日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -703,7 +703,6 @@ tieba.baidu.com##.tuijian-wrap
 /pc/Tpl/baibaipc/js/*
 /pcqiqidongman.png
 /pcswf/pcswf.js
-/phpvar.com/wp-content/uploads/image/100xuexi/*
 /piaofu.js
 /pic/ad/*
 /picad/*$domain=~ychr.com
@@ -11529,7 +11528,7 @@ bbs.gfan.com##.wpp
 we.poppur.com##.wrap > div[style="height:112px"]
 start.firefoxchina.cn##.wrap > div[style]:last-child
 bbs.feng.com##.wrap.fl_row
-paipai.fm,paipaitxt.com##.wrapbg
+paipai.fm##.wrapbg
 image.baidu.com##.wrapper_dot_box.dot_black
 wallstreetcn.com##.wscn-page-ad
 wenku.baidu.com##.wubai-wrap
