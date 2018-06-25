@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NzRLV4R6Hv1uAyvQVSCXAw
+! Checksum: xY9Qf0n4iUFhIfauLFX/FQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201806251700
-! Last Modified: 2018年06月25日 17:00
+! Version: 201806251800
+! Last Modified: 2018年06月25日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -704,7 +704,6 @@ tieba.baidu.com##.tuijian-wrap
 /paypic/*
 /pc/Tpl/baibaipc//js/*
 /pc/Tpl/baibaipc/js/*
-/pcqiqidongman.png
 /pcswf/pcswf.js
 /piaofu.js
 /pic/ad/*
@@ -6517,7 +6516,6 @@ mg*.6park.com/img/$image
 ||qunar.com/render/*Advertisement.jsp?
 ||qunar.com/vata?chan=
 ||qunar.com/vataframe/b.html?
-||qvocd.org/view/ad/
 ||qz828.com/css/2010/script/*ad
 ||qzone.la/Scripts/m.js
 ||qzs.qq.com/qzone/biz/res/v.swf?loc=$object-subrequest
@@ -7674,6 +7672,7 @@ mg*.6park.com/img/$image
 ||ballbar.cc/images/bb/
 ||ballbar.cc/images/web
 ||poco.cn^*_info_banner
+||qinbing.cn/data/upload/ueditor/
 !------------------------Specific element hiding rules------------------------!
 ballbar.cc###banner1
 qiuyi.cn##.Advertisement
@@ -11336,7 +11335,6 @@ ifeng.com##.top-tg
 52wubi.com##.top960
 700kan.com,ktkkt.com,xfvcd.com##.top980
 ktkkt.com##.top980a
-qiqidongman.com##.topAA
 cwan.com,ifeng.com,nen.com.cn,sina.com,sina.com.tw,weibo.com##.topAd
 ifeng.com##.topAdBox
 ltaaa.com##.topAds2
@@ -12432,7 +12430,7 @@ dnwx.com#@#.ad_250
 psahz.com#@#.ad_960
 workercn.cn#@#.ad_content
 mx-fm.com,ts.21cn.com#@#.ad_img
-qqxzb.com,yxdown.com#@#.ad_l
+yxdown.com#@#.ad_l
 workercn.cn#@#.ad_main
 fxedu.com.cn#@#.ad_r
 uuuu.cc#@#.ad_top
@@ -13902,6 +13900,7 @@ ifeng.com#?#.slLis > li:-abp-has(span:-abp-contains(告))
 ||yuyyio.com^
 .com/js/ddd.js
 .com/js/indextop.js
+/^https:\/\/(www\.)?[a-z]{1,2}[0-9]{3,4}\.com\/js\/config\.js$/$script
 /^https:\/\/(www\.)?[0-9]{3,4}[a-z]{1,2}\.com\/js\/config\.js$/$script
 /^https:\/\/(www\.)?[0-9]{3,4}[a-z]{1,2}\.com\/js\/jquery\.js$/$script
 @@||bdimg.com/libs/$domain=m.1200ksw.com|m.biqumo.com|m.maopuzw.com|m.qianrenge.cc|m.qu.la|m.shengyan.org|m.sjtxt.la|m.ttzw.com|m.xs.la|m.yssm.org
