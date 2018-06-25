@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GTEfBR1RMopJZDqs0XRWgQ
+! Checksum: tMn1GlgA5ij/nWzfyq4CFw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806250900
-! Last Modified: 2018年06月25日 09:00
+! Version: 201806250930
+! Last Modified: 2018年06月25日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -844,6 +844,8 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
+##A[href="http://www.yabovip5.cc/"]
+##A[href^="http://pic.gunqiu.com/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 .cc/s.php?id=$script,third-party
@@ -4436,8 +4438,6 @@ mg*.6park.com/img/$image
 ||dabin69.com/data/attachment/portal/
 ||dabin69.com/template/comiis_ydzx/ads/topad01.jpg
 ||dagou2018.com/js/item
-||dailymotion.com/vast/video/*.xml
-||dailymotion.com/video/*_mp4_h264_aac_hq.mp4
 ||dailynews.sina.com/gb/ads/
 ||dajiazhao.com/login/reg.js
 ||dangdang.com/adall.
@@ -7372,6 +7372,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ccav5.com##A[href*=".sinaimg."]
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -17869,6 +17870,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /logview.js
 /logview?referrer=
 /logview_new.js
+/logviewedpage?
 /logViewImpression/*
 /logwebhit.
 /logwriter.php
