@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lbp8Ps+MpmyaIfTV0Jhv1g
+! Checksum: joOFdLRG6uYmMytVwTld/Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806261930
-! Last Modified: 2018年06月26日 19:30
+! Version: 201806262130
+! Last Modified: 2018年06月26日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6361,7 +6361,6 @@ mg*.6park.com/img/$image
 ||shuowan.com/Public/shuo/20170411/58eca2e5ecfc4.gif
 ||shuqi6.com/static/jquery/gg.js
 ||shxd.net/img/myad.gif
-||siimg.com/u/*.gif
 ||simplecd.*/static/js/default.js
 ||sina.cn/api/article/news_banner?
 ||sina.cn/cm/sinaads_
@@ -7344,6 +7343,7 @@ mg*.6park.com/img/$image
 ||qqtn.com/js/html/down_
 ||hades.qyer.com^
 ||taoguba.com.cn/res/libs/tgbxc.js
+||upupoo.com/5danmufanju/1140_100.jpg
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 baidu.com##.ad-taishan
@@ -14191,6 +14191,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
 ! EasyList Lite
+/bannerad.
 ##.ads-item
 ##.trc-content-sponsored
 ##.mks_ads_widget
@@ -14927,6 +14928,7 @@ _300_250.
 ||hexun.com/2016/pc/618.swf
 ||ntce.com/images/js/ntce_public.js
 ||sinaimg.cn/finance/app2018/js/appbar.js
+||pinggu.org/api/bbsgg.
 !------------------------Specific element hiding rules------------------------!
 douyu.com##.PaladinPop
 baidu.com##.s-news-banner-wrap
@@ -15485,6 +15487,7 @@ blog.163.com###topbar_yxpArea
 /yesky/js/counter/*
 /_3jia5_analyser.
 /v.gif?logtype=
+||a-m-s.adnonstop.com^
 ||nmgnews.com.cn/sys/online_calc.js
 ||51.la^$third-party
 ||wanmei.com/public/js/stat.js
