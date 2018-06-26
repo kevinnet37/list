@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ncWri/AyUQJTgm4z51PF3A
+! Checksum: Uxg0Ooaw1Dp+VVC3s5h7Eg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806261130
-! Last Modified: 2018年06月26日 11:30
+! Version: 201806261200
+! Last Modified: 2018年06月26日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -4361,7 +4361,6 @@ mg*.6park.com/img/$image
 ||cnplugins.com/templets/cnplugins/pushbox1.js
 ||cnr.cn/cnrxwph/iframe/tpdy/
 ||cnsat.net/Pictuer/
-||cnsofas.com/static/
 ||cnstock.com/img/news/ad-
 ||cntv.cn/hezuo/
 ||cntvboxnow.com//ads_
@@ -6196,7 +6195,6 @@ mg*.6park.com/img/$image
 ||qt.biqugezw.com^
 ||qtfy30.cn/680_*.gif
 ||qtfy30.cn/980-90.gif
-||quanji.la/Runtime/js/sytc.js
 ||quanmin.tv/static/pages/adranktit.html
 ||qunar.com/render/*Advertisement.jsp?
 ||qunar.com/vata?chan=
@@ -10228,7 +10226,6 @@ xiaoyun.com##.link-ads
 zhidao.baidu.com##.link-banner
 guahao.com##.link-modal
 huanqiu.com##.link[href^="https://kdt.im/"]
-m.qidian.com##.link_banner
 dl.pconline.com.cn##.links > p:not([class])
 linux.cn##.linuxcnad
 i.qq.com##.linwei-logo
