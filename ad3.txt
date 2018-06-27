@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EI+gSdXXuChiw4jxgO60Fw
+! Checksum: UhpDiBRM23mw/PfjAAWHeA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201806271700
-! Last Modified: 2018年06月27日 17:00
+! Version: 201806271800
+! Last Modified: 2018年06月27日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -12664,7 +12664,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[id][style="width: 100%;"] > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-##div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
+~qq.com##div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
 ##div[style="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 |http://a.kj-cy.cn^
