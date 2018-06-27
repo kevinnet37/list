@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kRVAlaLlYOOXXYMUrvHAMg
+! Checksum: JyNjfQGJsGXOU5Oy/7qamw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806270900
-! Last Modified: 2018年06月27日 09:00
+! Version: 201806270930
+! Last Modified: 2018年06月27日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5121,7 +5121,7 @@ mg*.6park.com/img/$image
 ||hz.shouyoutv.com^
 ||hzhyhm.com^
 ||hznzcn.com/moban/youxiajiao.js
-||i*.supfree.net^*.js
+||x*.supfree.net^*.js
 ||i-gamer.net/promo_
 ||i-gamer.net^$domain=cartomad.com|cartonmad.com|cartoomad.com|cartoonad.com|cartoonmad.com
 ||i-part.com.tw/js2/newShineStar
@@ -6554,7 +6554,6 @@ mg*.6park.com/img/$image
 ||sunrtb.*/s?m=
 ||super.cat898.com^
 ||super.kdnet.net^
-||supfree.net/images/otop.js
 ||suv.cn/data/js/64.js
 ||suv.cn/data/js/86.js
 ||synacast.com^
@@ -7347,6 +7346,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+acg18.us##.guangjiaodebupachuanxiede
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -12125,6 +12125,7 @@ i-cable.com#@#.video_ad
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+tunesp.com#@##googlead
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
