@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kDNVpn0rCZkSJj9WgTNIyQ
+! Checksum: V9LnYNCC7tp3y35NoIgemg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201806281500
-! Last Modified: 2018年06月28日 15:00
+! Version: 201806281930
+! Last Modified: 2018年06月28日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -13812,7 +13812,6 @@ fuliba.net,uliba.net##.widget_custom_html:nth-child(2)
 fuliba.net,uliba.net##.widget_ui_textasb
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
-.*.ifeng.com^$xmlhttprequest
 ifeng.com##.i_con + :not(.i_con):not([href="javascript:void(0);"])
 ifeng.com##.i_con[href*=".ifeng.com/go?"]
 ifeng.com##.newbagicon
@@ -13829,6 +13828,7 @@ ifeng.com,~imall.ifeng.com##a[href*="imall.ifeng."]
 ifeng.com#?#.i_con + div:-abp-has(span:-abp-contains(告))
 ifeng.com#?#.i_con:-abp-has(span:-abp-contains(告))
 ifeng.com#?#.slLis > li:-abp-has(span:-abp-contains(告))
+||cc3.ifeng.com^
 ||aa1.ifeng.com^
 ||as.g5s.ifeng.com^
 ||bb2.ifeng.com^
