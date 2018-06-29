@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2LtbF1lLBeIQ6lacHyBCAQ
+! Checksum: mCzld7rZ8EY8U0U7/ZjzGg
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201806290800
-! Last Modified: 2018年06月29日 08:00
+! Version: 201806291900
+! Last Modified: 2018年06月29日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -222,8 +222,8 @@ iwan.baidu.com###banner-info
 baidu.com###bdyx_float_rb
 wapwenku.baidu.com,wk.baidu.com###bottomFixed
 wapbaike.baidu.com###chain + div[id]
-zhidao.baidu.com###cms-company
-zhidao.baidu.com###cms-scroll
+baidu.com###cms-company
+baidu.com###cms-scroll
 image.baidu.com###cmsimage
 gate.baidu.com,m.baidu.com###container
 mbd.baidu.com###content_wrapper + div + .default-container
@@ -303,7 +303,7 @@ news.baidu.com###women-picwall
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###worldcup_topic
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.BAIDU_CLB_AD
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.activity_iframe_container
-zhidao.baidu.com##.ad-block-1
+baidu.com##.ad-block-1
 bookshi.com,cangku.in,iwan.baidu.com,qq.com,qtv.com.cn,xinhuanet.com,zol.com.cn##.ad-box
 baidu.com##.ad-platform-tips
 baidu.com##.ad-taishan
@@ -315,14 +315,14 @@ baidu.com##.afd-item
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
 fanyi.baidu.com##.appbanner
 wenku.baidu.com##.area[href*="/adclick?aid="]
-zhidao.baidu.com##.aside-inner > div[style*="height:"]
+baidu.com##.aside-inner > div[style*="height:"]
 jingyan.baidu.com##.aside-pro-container
 iwan.baidu.com##.banner-container
 baidu.com##.banner-cover
 wenku.baidu.com##.banner-more-title
 fanyi.baidu.com,longzhu.com##.banner-wrap
 fanyi.baidu.com##.banner_img_container
-zhidao.baidu.com##.bannerdown
+baidu.com##.bannerdown
 baidu.com##.bds-list-ads
 muzhi.baidu.com##.bottom-banner
 baidu.com##.c-result[data-tpl="adv_wenku_fc"]
@@ -401,7 +401,7 @@ baidu.com##.l-header-ad
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":50012654,"]
 muzhi.baidu.com##.leftnest
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.life_helper
-zhidao.baidu.com##.link-banner
+baidu.com##.link-banner
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.live_show_aside
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.lot_wrap
 baidu.com##.manual-spread
@@ -409,7 +409,7 @@ rj.baidu.com##.mid-recommend
 image.baidu.com##.mod-promo
 baidu.com##.nav_ads
 m.baidu.com,wuseng.com##.news_ad
-zhidao.baidu.com##.optimus
+baidu.com##.optimus
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.order_repost_wrap
 baidu.com,cssmoban.com##.page-banner
 baidu.com##.pageLeftFixedAD
@@ -471,17 +471,17 @@ dict.baidu.com##.tran-download-ad
 fanyi.baidu.com##.trans-side-ad-wrap
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.u9_aside
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.u9_head
-zhidao.baidu.com##.union-tg
+baidu.com##.union-tg
 baidu.com##.v-s-tuiguang-wrap
-zhidao.baidu.com##.w-question-list[data-sign]
+baidu.com##.w-question-list[data-sign]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.wanle_tab_tip
 baidu.com##.wapAd
 baidu.com##.wgt-ads
 muzhi.baidu.com##.wgt-best-answer + script + div
-zhidao.baidu.com##.wgt-bottom-ask
-zhidao.baidu.com##.wgt-bottom-union
+baidu.com##.wgt-bottom-ask
+baidu.com##.wgt-bottom-union
 muzhi.baidu.com##.wgt-container
-zhidao.baidu.com##.wgt-union
+baidu.com##.wgt-union
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.worldcup_info_banner_dialog
 image.baidu.com##.wrapper_dot_box.dot_black
 wenku.baidu.com##.wubai-wrap
@@ -501,7 +501,7 @@ v.baidu.com##a[href^="http://www.602.com/"]
 wapwenku.baidu.com,wk.baidu.com##a[href^="http://www.baidu.com/cpro.php?"]
 baidu.com#?#.ec_wise_ad
 api.so.lianmeng.360.cn,pos.baidu.com##body
-zhidao.baidu.com##div[class$="-ecom-ads"]
+baidu.com##div[class$="-ecom-ads"]
 wenku.baidu.com##div[class*="tiger-"][class*="-dialog"]
 tieba.baidu.com##div[class][lgoinprompt="prompt"]
 baidu.com##div[data-ad]
@@ -510,12 +510,12 @@ v.baidu.com##div[id^="adv_asp_"]
 wenku.baidu.com##div[id^="html-reader-AD-"]
 wenku.baidu.com##div[id^="html-reader-banner-"]
 image.baidu.com##div[id^="relecom"]
-zhidao.baidu.com##div[style="padding: 20px 9px 20px 10px;widget:250px;height:250px;"]
+baidu.com##div[style="padding: 20px 9px 20px 10px;widget:250px;height:250px;"]
 zuoye.baidu.com##dl[class="card related"]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##li[data-daid]
 news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
-zhidao.baidu.com##style[id^="s-m"] + div[id^="m"]
-comefromchina.com,zhidao.baidu.com#@#.ad-block
+power.baidu.com,zhidao.baidu.com##style[id^="s-m"] + div[id^="m"]
+comefromchina.com,baidu.com#@#.ad-block
 v.baidu.com#@#.has-ad
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||captcha.su.baidu.com^
