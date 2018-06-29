@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eBvb8vnvrl0KnlzQr/WpDg
+! Checksum: dmkCHsndqqFxDNT3traDuQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201806290900
-! Last Modified: 2018年06月29日 09:00
+! Version: 201806291030
+! Last Modified: 2018年06月29日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -3203,7 +3203,6 @@ ubmcmm.baidustatic.com
 /images/*gamble$domain=50.7.31.228|tvboxnow.com
 /Images/ak47/*$domain=hanzify.net|hanzify.org
 /images/content/1436/*$domain=chineseinla.com
-/img/br650.gif$domain=qzntv.com|qzwb.com
 /img/skin/*_bg.$domain=17huohu.com|firefox.com.cn|firefoxchina.cn
 /img/skin/tao$domain=17huohu.com|firefox.com.cn|firefoxchina.cn
 /imgextra/*$domain=zqnow.com
@@ -6506,7 +6505,6 @@ mg*.6park.com/img/$image
 ||qz828.com/css/2010/script/*ad
 ||qzone.la/Scripts/m.js
 ||qzs.qq.com/qzone/biz/res/v.swf?loc=$object-subrequest
-||qzwb.com/gb/img/9465.files/1G3G.gif
 ||r3.ykimg.com^$object-subrequest
 ||r3sub.com/images/aaa/
 ||rakuten-static.com^$domain=cwyuni.tw
@@ -9457,7 +9455,7 @@ htcui.com,uho.com.tw##.adsense
 qinbing.cn##.adspic_mid2
 chinaz.com,ofweek.com,yawin.cn##.adtext
 wed114.cn##.adtwo
-114la.com,3g.cn,78dm.net,fh21.com.cn,qzntv.com,qzwb.com,silver.org.cn,solidot.org,ylmf.com##.adv
+114la.com,3g.cn,78dm.net,fh21.com.cn,qzwb.com,silver.org.cn,solidot.org,ylmf.com##.adv
 dysfz.cc##.adv-1
 xinhuanet.com##.adv-column2
 wdzj.com##.adv-img
@@ -12847,7 +12845,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||ref.so/templates/ref/short_show/adview_
 @@||regapi.37.com/api/p_register.php?login_account=
 @@||rjno1.com^$generichide
-@@||rjno1.com^*/adsbygoogle.js
+@@||rjno1.com^$script,~third-party
 @@||ruanyifeng.com/blog/images/person2_s.jpg|
 @@||ruten.com.tw/ahd/fetch_ad.php?
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
