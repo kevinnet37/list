@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CKGewDpbqRkOttyTrWMZWA
+! Checksum: KcHKMWsSMkCta7Rcvf1RNQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201806290800
-! Last Modified: 2018年06月29日 08:00
+! Version: 201806290900
+! Last Modified: 2018年06月29日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7233,6 +7233,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ifeng.com/burroughsnews?
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
@@ -12325,7 +12326,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|now.com|udn.com|xuite.net
 @@||img.ybbbs.com/2014/*app
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
-@@||ips.ifeng.com^*.mp4$domain=v.ifeng.com
 @@||itc.*^prod=ad&$domain=ttkyy.net|wlbgt.com
 @@||izo.tw/wp-content/advert1.js
 @@||j.wit.qq.com/sc/crystal_ad.js?$domain=888.sports.qq.com
@@ -12548,12 +12548,12 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 58.com#?#LI[sortid]:-abp-has(.jinico)
 58.com#?#TR[logr]:-abp-has(> .t > .mt-p-tit > .jingpin)
 58.com#?#tr[sortid]:-abp-has(> .t > .ico.accurate)
-.gif|$domain=99nn2.com|99nn3.com|99re.com|99re16.com|99ww4.com
-/js/layer.js$domain=99nn2.com|99nn3.com|99re.com|99re16.com|99ww4.com
-99nn2.com,99nn3.com,99re.com,99re16.com,99ww4.com##.dmcenter
-99nn2.com,99nn3.com,99re.com,99re16.com,99ww4.com##.spots
-||alicdn.com^$domain=99nn2.com|99nn3.com|99re.com|99re16.com|99ww4.com
-||sinaimg.cn^$domain=99nn2.com|99nn3.com|99re.com|99re16.com|99ww4.com
+.gif|$domain=99nn3.com|99nn4.com|99nn7.com|99re.com|99re16.com|99ww4.com
+/js/layer.js$domain=99nn3.com|99nn4.com|99nn7.com|99re.com|99re16.com|99ww4.com
+99nn3.com,99nn4.com,99nn7.com,99re.com,99re16.com,99ww4.com##.dmcenter
+99nn3.com,99nn4.com,99nn7.com,99re.com,99re16.com,99ww4.com##.spots
+||alicdn.com^$domain=99nn3.com|99nn4.com|99nn7.com|99re.com|99re16.com|99ww4.com
+||sinaimg.cn^$domain=99nn3.com|99nn4.com|99nn7.com|99re.com|99re16.com|99ww4.com
 |https://$script,third-party,domain=365ahri.com|ahri-plus.com|ahri.xyz|ahri8.com
 |http://*/ts.js$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 ||imgur.com^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
