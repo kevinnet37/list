@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aXxOPR9QMPw4xPwPgSkipA
+! Checksum: H6QQ9vA0ZBFnVPqspf84zg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806292330
-! Last Modified: 2018年06月29日 23:30
+! Version: 201806300730
+! Last Modified: 2018年06月30日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15987,6 +15987,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .gif?pixels=
 .gif?ref=*&ev=
 .gif?track_
+.gif?uri=
 .Google.Tracker.js
 .googleanalytics.js
 .GoogleAnalytics/
@@ -18146,6 +18147,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /php-stats.phpjs.php?
 /php-stats.recjs.php?
 /php/stats.php?
+/php/stats/*
 /phpmyvisites.js
 /pic.gif?m=
 /pic.gif?url=
@@ -18182,6 +18184,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /pix.fcg?
 /pix.fly/*
 /pix.gif?
+/pix/*&tracker=
 /pixall.min.js
 /pixel-events.
 /pixel-manager.js?
@@ -18749,6 +18752,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /stats/page_view_
 /stats/pgview.
 /stats/ping?
+/stats/pv.
 /stats/record.php?
 /stats/services/*
 /stats/track.asp?
@@ -21530,6 +21534,7 @@ _mongo_stats/
 ||salecycle.com^$third-party
 ||salemove.com^$third-party
 ||salesgenius.com^$third-party
+||salesmanago.pl^$third-party
 ||saletrack.co.uk^$third-party
 ||sapha.com^$third-party
 ||sarevtop.com^$third-party
@@ -21763,6 +21768,7 @@ _mongo_stats/
 ||sxtracking.com^$third-party
 ||synergy-e.com^$third-party
 ||synergy-sync.com^$third-party
+||synerise.com^$third-party
 ||synthasite.net^$third-party
 ||sysomos.com^$third-party
 ||t-analytics.com^$third-party
@@ -23243,6 +23249,7 @@ _mongo_stats/
 ||ngacm.com^$third-party
 ||ngastatic.com^$third-party
 ||nsaudience.pl^$third-party
+||quartic.pl^$third-party
 ||rejestr.org^$third-party
 ||stat.4u.pl^$third-party
 ||stat.pl^$third-party
