@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rTkR5JroQryYlumDzXzQKA
+! Checksum: tArUKHrMbCPofzbKbYJy2Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806301130
-! Last Modified: 2018年06月30日 11:30
+! Version: 201806301830
+! Last Modified: 2018年06月30日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7352,6 +7352,7 @@ mg*.6park.com/img/$image
 ||rfidworld.com.cn/js/RFID.js
 ||rfidworld.com.cn/js/RFIDExec.js
 ||rfidworld.com.cn/Notice/Home
+||paopaoche.net/public/bd/article_inc.js
 !------------------------Specific element hiding rules------------------------!
 rfidworld.com.cn###IOTVote2017Ad
 gpcxw.com###AA2
