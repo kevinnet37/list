@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: H6QQ9vA0ZBFnVPqspf84zg
+! Checksum: o4+2dgfcwsu9zR7d83FKbg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201806300730
-! Last Modified: 2018年06月30日 07:30
+! Version: 201806300800
+! Last Modified: 2018年06月30日 08:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -850,7 +850,6 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||vjoytzia.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -2484,6 +2483,7 @@ ubmcmm.baidustatic.com
 ||victorjx.com^
 ||videondun.com^
 ||visadd.com^$third-party
+||vjoytzia.com^
 ||vlion.cn^
 ||vmjjzk.cn^
 ||vnnv777.cn^
@@ -4999,6 +4999,7 @@ mg*.6park.com/img/$image
 ||hc360.com/list/iframe_right_ad_
 ||hc360.com/news/201207/201207241712413488.jpg
 ||hc360.com/security/201409/201409021830024990.jpg
+||hcomic.in/post/js/jquery
 ||hcw888.com/Plug/GG.asp
 ||hcwang.cn/images/g/*.swf
 ||hdad.baike.com^
@@ -5141,6 +5142,7 @@ mg*.6park.com/img/$image
 ||iask.cn^*/qiye.
 ||iask.sina.com.cn/hwj/
 ||ibaiducdn.com/Public/Assets/js/hz_xx.js
+||ibf.tw/js/jquery.blockUI.js
 ||ibook8.com*/piao*.js
 ||ibook8.com/xia*.js
 ||iciba.com/index.php?*=get_recommend&
@@ -5157,6 +5159,7 @@ mg*.6park.com/img/$image
 ||ifeng.com*/wapifeng
 ||ifeng.com/a_if/
 ||ifeng.com/bbsfile/js/ifeng_tip.js
+||ifeng.com/burroughsnews?
 ||ifeng.com/cc?
 ||ifeng.com/client_share_bottom_
 ||ifeng.com/iframe/quickbet
@@ -7344,11 +7347,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||ifeng.com/burroughsnews?
-||hcomic.in/post/js/jquery
-||ibf.tw/js/jquery.blockUI.js
 !------------------------Specific element hiding rules------------------------!
-ibf.tw###top_d
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
@@ -7716,6 +7715,7 @@ microcontrol.cn###body > table[width="758"]
 nick20.com###body_page_sharer ~ table[width="100%"]
 esdict.cn,eudic.net,frdic.com,godic.net###bodycontent > style + div[id]
 qq.com###bottom-sponsor
+recruit.com.hk###bottomBar
 10086.cn###bottomBigBanner
 wapwenku.baidu.com,wk.baidu.com###bottomFixed
 auto.sina.com.cn###bottomInquryBar
@@ -7761,9 +7761,6 @@ gz0668.com###closexguide
 uuu9.com###cm1337
 baidu.com###cms-company
 baidu.com###cms-scroll
-recruit.com.hk##DIV[id^="banner"]
-recruit.com.hk###bottomBar
-recruit.com.hk###topBar
 image.baidu.com###cmsimage
 chinaqking.com###cnt-ad
 2345.com###cnxh
@@ -8597,6 +8594,7 @@ bbs.houdao.com###top-banner
 360.cn###top-full-column-tips
 teepr.com###topAdBlock
 zhangxinxu.com###topAdOut
+recruit.com.hk###topBar
 qidian.com###topGameOp
 2345.com###topHf
 elecfans.com###topJf
@@ -8605,6 +8603,7 @@ starbaby.cn###top_ad_show
 cctime.com,ck101.com###top_banner
 bttop.net###top_bottom + div[style="float:left;width:100%;"]
 xiashanet.com###top_content
+ibf.tw###top_d
 hiapk.com###top_gg
 360.cn###top_hotsite
 duba.com###top_joke
@@ -11650,6 +11649,7 @@ qbiao.com##div[id^="aup"]
 qianzhan.com##div[id^="baidu_ad_"]
 shm.com.cn##div[id^="baidu_clb_slot_"]
 ncnews.com.cn##div[id^="ban"]
+recruit.com.hk##div[id^="banner"]
 2345.com##div[id^="bd-search-ad"]
 yaolan.com##div[id^="bot_ad"]
 kankan.com##div[id^="cm"].banner
@@ -12044,7 +12044,7 @@ haha.mx#@#.ad-1
 mobile01.com#@#.ad-a
 diantai.ifeng.com#@#.ad-b
 pptstore.net#@#.ad-big
-comefromchina.com,baidu.com#@#.ad-block
+baidu.com,comefromchina.com#@#.ad-block
 pixiv.net#@#.ad-footer
 qq.com#@#.ad-icon
 ntm.gov.tw#@#.ad-left
@@ -12425,8 +12425,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||hkjc.com/banners/
 @@||huhupan.com/e/extend/down/$generichide
 @@||i3.sinaimg.cn/video/deco/2013/0325/js/
-@@||ibf.tw^$generichide
 @@||ibf.tw/user/plugins/webtech-topbar/fuckadblock.js
+@@||ibf.tw^$generichide
 @@||ibon.com.tw/imageserver/images/ad_file/
 @@||icbc.com.cn/icbc/include/AD_
 @@||icbc.com.cn/ICBC_ADJS/
@@ -13552,7 +13552,6 @@ ifeng.com#?#.slLis > li:-abp-has(span:-abp-contains(告))
 |http:$script,third-party,domain=xtzgjx.com|zzdxs.org
 ##a[href^="https://uds24.com/"]
 &waid=m.miaobige.com/
-||chaojilamei.cn^
 .ca.bxwx3.org^
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
 .m.23sw.net^
@@ -13660,6 +13659,7 @@ duanwenxue.com##.qgzdwx
 ||cfdanet.com^
 ||cgxxmy.com^
 ||changhehengqi.com^
+||chaojilamei.cn^
 ||chersc.com^
 ||chexiw.com^
 ||chfuw.com^
@@ -15988,6 +15988,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .gif?ref=*&ev=
 .gif?track_
 .gif?uri=
+.gif?v=
 .Google.Tracker.js
 .googleanalytics.js
 .GoogleAnalytics/
@@ -18216,6 +18217,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /pixel?google_
 /pixel?id=
 /pixel?m=
+/pixel?sm_
 /pixel?tag=
 /pixel?type=
 /pixel_iframe.
@@ -21633,6 +21635,7 @@ _mongo_stats/
 ||skyglue.com^$third-party
 ||sl-ct5.com^$third-party
 ||slingpic.com^$third-party
+||smadex.com^$third-party
 ||smallseotools.com^$third-party
 ||smart-digital-solutions.com^$third-party
 ||smart-dmp.com^$third-party
@@ -26683,6 +26686,7 @@ _mongo_stats/
 ||displaymate.com/cgi-bin/stat/
 ||divxden.com^*/tracker.js
 ||djtunes.com^*&__utma=
+||dl.meliacloud.com^
 ||dmcdn.net/pxl/$domain=dailymotion.com
 ||dmcdn.net/track/$domain=dailymotion.com
 ||dmeserv.newsinc.com^
