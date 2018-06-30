@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: p8mh8sEkaE97+A+hv2yD3A
+! Checksum: SloFDJPTeMpQJ6sFNh2o0w
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201806301900
-! Last Modified: 2018年06月30日 19:00
+! Version: 201806301930
+! Last Modified: 2018年06月30日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -736,6 +736,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||dpc6.cn^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -7239,6 +7240,7 @@ mg*.6park.com/img/$image
 ||rfidworld.com.cn/Notice/Home
 ||paopaoche.net/public/bd/article_inc.js
 ||ruanyifeng.com/9he/
+||ff.meikanguo.com^
 !------------------------Specific element hiding rules------------------------!
 rfidworld.com.cn###IOTVote2017Ad
 gpcxw.com###AA2
