@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6yAzAvHGU9WABb7hAZzUuQ
+! Checksum: HzspkEe14pCq6GeIqwku7g
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807011200
-! Last Modified: 2018年07月01日 12:00
+! Version: 201807011230
+! Last Modified: 2018年07月01日 12:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7671,6 +7671,7 @@ mg*.6park.com/img/$image
 ||alicdn.com/img/ibank/2018/070/024/9064420070_1095372465.jpg
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+jijidown.com#?#:-abp-properties(data:image/gif;base64,R0lGODlhLAGaAMQ)
 idanmu.at##A[href*=".taobao.com"]
 idanmu.at##A[href*=".datealive.com.cn"]
 idanmu.at###cpv
@@ -12204,7 +12205,7 @@ biz.zjol.com.cn##img[width="980"]
 apk.tw##ins.adsbygoogle
 ithome.com#?#.placeholder:-abp-has(> a > .plc-con > .plc-footer > .tip-gray)
 ithome.com#?#li:-abp-has(>.block a[href*="/lapin."])
-jijidown.com#?#:-abp-properties(data:image/gif;base64,R0lGODlhLAGaAPf/)
+jijidown.com#?#:-abp-properties(data:image/gif;base64,R0lGODlhLAGaA)
 jijidown.com#?#:-abp-properties(data:image/jpeg;base64,/9j/)
 jijidown.com#?#:-abp-properties(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACaCA)
 fengniao.com##li > a[href="http://www.fengniao.com/topic/5345407.html"]
