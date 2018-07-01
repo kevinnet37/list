@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PzUdWqNaOmzo/3em4izh4Q
+! Checksum: /wTUHWCDb792Pzd4r1oFlQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807011130
-! Last Modified: 2018年07月01日 11:30
+! Version: 201807011200
+! Last Modified: 2018年07月01日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7361,6 +7361,10 @@ mg*.6park.com/img/$image
 ||alicdn.com/img/ibank/2018/070/024/9064420070_1095372465.jpg
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+idanmu.at##A[href*=".taobao.com"]
+idanmu.at##A[href*=".datealive.com.cn"]
+idanmu.at###cpv
+idanmu.at##DIV[class^="g "]
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -16331,6 +16335,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /analytics/activity.
 /analytics/analytics.$~xmlhttprequest
 /analytics/cms/*
+/analytics/collector.
+/analytics/collector/*
 /analytics/content?
 /analytics/core.
 /analytics/dist/*
@@ -17839,6 +17845,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /logview_new.js
 /logviewedpage?
 /logViewImpression/*
+/logvisit?visitedurl=
 /logwebhit.
 /logwriter.php
 /lotame_audiences.
@@ -24805,6 +24812,7 @@ _mongo_stats/
 ||ppx.com/tracking/
 ||pr.blogflux.com^
 ||pricespider.com/impression/
+||primedia.co.za/analytics/
 ||print2webcorp.com/mkt3/_js/p2w_tracker.js
 ||privacytool.org/AnonymityChecker/js/fontdetect.js$third-party
 ||production-eqbc.lvp.llnw.net^
