@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oKlAVl9JkVqNer1dDTDFWw
+! Checksum: qiYK30S+9Y0qM2lRmO0gUQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807010900
-! Last Modified: 2018年07月01日 09:00
+! Version: 201807010930
+! Last Modified: 2018年07月01日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -30028,7 +30028,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 @@||maxmind.com/app/country.js$domain=lenovo.com|nationalgeographic.com|paypal.fr
 @@||maxmind.com/geoip/v2.0/country/$xmlhttprequest,domain=elgato.com
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|coolsport.tv|dereon.com|dr.dk|everydaysource.com|fab.com|girlgames4u.com|incgamers.com|ip-address.cc|maaduu.com|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com
-@@||maxmind.com^*/geoip2.js$domain=elgato.com|fallout4.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
+@@||maxmind.com^*/geoip2.js$domain=boostedboards.com|elgato.com|fallout4.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
 @@||mec.ca/media/javascript/resxclsx.js
 @@||media-imdb.com^*/clickstream.js
 @@||media.ft.com/j/optimost-$domain=ft.com
