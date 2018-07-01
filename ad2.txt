@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iMotpeP8779Msn/8pGyCxQ
+! Checksum: nsV0x0BNfn1auQi0+z+E1Q
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201806221330
-! Last Modified: 2018年06月22日 13:30
+! Version: 201807011330
+! Last Modified: 2018年07月01日 13:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -505,6 +505,7 @@ zol.com.cn##.down-h4,span.down-alink,div[class^=ad_],div[class*=-ad],div[class|=
 ||view.news.qq.com/PL_ad$subdocument
 ||tencentmind.com/
 @@*/sports.tc.qq.com/$media,object-subrequest
+@@*/music.qqvideo.tc.qq.com/$media,object-subrequest
 *.tc.qq.com/*.mp4?$media,object-subrequest
 ||qq.com/games/$subdocument
 ||v.qq.com/x/webtips?$subdocument
@@ -656,9 +657,10 @@ ebusinessreview.cn##div.header,.adarticle,div.ad_s,[id^=ad_]
 www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f
 ||www.epinv.com/wp-content/themes/ep/tu/
 ||firefoxchina.cn/html/$subdocument
-cn.ft.com##.mpu-container-instory,div[data-id|=banner],div[data-id|=storympu],div[data-id|=mpu],div.o-barrier
+ftchinese.com,cn.ft.com##.mpu-container-instory,div[data-id|=banner],div[data-id|=storympu],div[data-id|=mpu],div.o-barrier
 ||cn.ft.com/m/marketing/$subdocument
 ||cn.ft.com/a.html?$subdocument
+||www.ftchinese.com/a.html$subdocument
 @@||www.gamersky.com/gsinc/$subdocument
 ||gamersky.com/$subdocument
 ||click.gamersky.com/
