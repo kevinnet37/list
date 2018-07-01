@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: c5mNtMz0Eu+Ar+YXzz0xZA
+! Checksum: vrHq0AO2s8LHrYM1e+aoHA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807011030
-! Last Modified: 2018年07月01日 10:30
+! Version: 201807011100
+! Last Modified: 2018年07月01日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -12146,6 +12146,9 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||kf.cn/ad/css/*.css
+@@||kf.cn/ad/css/images/
+@@||kf.cn/ad/css/*.*.
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
@@ -24734,6 +24737,7 @@ _mongo_stats/
 ||pebed.dm.gg^
 ||peermapcontent.affino.com^
 ||penton.com/analytics/
+||performance.typekit.net^$third-party
 ||perr.h-cdn.com^$third-party
 ||petitionermaster.appspot.com^
 ||pf.aclst.com^$third-party
@@ -27801,6 +27805,7 @@ _mongo_stats/
 ||seatguru.com^*/analytics.js
 ||seatguru.com^*/DMPDesktopBehaviorTracker.js
 ||seatguru.com^*/sg-tracking.js
+||seattletimes.com/clientip
 ||secondspace.com^*/blank.gif
 ||securepaynet.net/image.aspx?
 ||seeclickfix.com^*/text_widgets_analytics.html
