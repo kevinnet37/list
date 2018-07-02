@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: me8CS3w0XLywSSPIx9woSw
+! Checksum: waZOlv+Eft2u7ocW3Xucnw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807021600
-! Last Modified: 2018年07月02日 16:00
+! Version: 201807022300
+! Last Modified: 2018年07月02日 23:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -12467,6 +12467,7 @@ i-cable.com#@#.video_ad
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+digitalocean.com#@#.ad-content
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@||money18.on.cc/js/adbanner.js
