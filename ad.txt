@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pOk5mnl9cq7eAoEoC4jzOQ
+! Checksum: nfYdl95JogUeMN7LqPH32A
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807051130
-! Last Modified: 2018年07月05日 11:30
+! Version: 201807051200
+! Last Modified: 2018年07月05日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -13706,9 +13706,9 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##.footer > #box[style="width:100%;height:100%;position:fixed;top:0"]
 ##a[href^="http://go.gotourls.bid/"]
 ##a[href^="http://yunbofangbt."]
-@@||baidu.com/js/opensug.js$domain=alicili.cc|btdigg.cc|btlibrary.cc|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.org|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.cc|zhongzifuli.ws|zhongzishenqi.net
-@@||unionsug.baidu.com^$domain=alicili.cc|btdigg.cc|btlibrary.cc|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.org|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.cc|zhongzifuli.ws|zhongzishenqi.net
-|http*://$script,third-party,xmlhttprequest,domain=alicili.cc|btdigg.cc|btlibrary.cc|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.org|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.cc|zhongzifuli.ws|zhongzishenqi.net
+@@||baidu.com/js/opensug.js$domain=alicili.cc|btdigg.cc|btlibrary.cc|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.xyz|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.cc|zhongzifuli.ws|zhongzishenqi.net
+@@||unionsug.baidu.com^$domain=alicili.cc|btdigg.cc|btlibrary.cc|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.xyz|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.cc|zhongzifuli.ws|zhongzishenqi.net
+|http*://$script,third-party,xmlhttprequest,domain=alicili.cc|btdigg.cc|btlibrary.cc|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.xyz|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.cc|zhongzifuli.ws|zhongzishenqi.net
 ||0377shujuhuifu.top^
 ||0531mnk.net^
 ||2013sh.com^
