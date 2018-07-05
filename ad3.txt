@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kSzVJLul7FmJQ3tXPw4img
+! Checksum: 0iMNfNP7wTho/MPBt4wu3A
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201807050930
-! Last Modified: 2018年07月05日 09:30
+! Version: 201807051030
+! Last Modified: 2018年07月05日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -740,6 +740,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||xpjis.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -5865,7 +5866,7 @@ mg*.6park.com/img/$image
 ||pan66.com/popup/
 ||panc.cc/ad/
 ||panda.kdnet.net^
-||panda.tv/ajax_tfate_getinfo?
+||panda.tv/ajax_tfate_mget?
 ||panpan.org/js/google
 ||panpan.org/other/
 ||panpan.org/plus/img/
@@ -7253,6 +7254,9 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||cnblogs.com/group/C1-T2
+.ppys.vc/detail
+||sznews.com/s?z=
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 104.com.tw###aidma_128
