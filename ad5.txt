@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SD0H0N4A2fvEQ9gVXIIcvw
+! Checksum: kb2a3wfNYKAh4zr1osdtqw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807080830
-! Last Modified: 2018年07月08日 08:30
+! Version: 201807080900
+! Last Modified: 2018年07月08日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -26212,6 +26212,7 @@ _mongo_stats/
 ||zahodi-ka.ru/ic/index_cnt.fcgi?
 ||zahodi-ka.ru^*/schet.cgi?
 ||clk.onet.pl^
+||contentexchange.me/static/tracker.js
 ||csr.onet.pl^
 ||events.ocdn.eu^
 ||stat.ringier.sk^
@@ -30383,6 +30384,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 @@||thestreet-static.com/video/js/kGoogleAnalytics.js?
 @@||thetenthwatch.com/js/tracking.js$~third-party
 @@||ticketm.net^*/click_track.js
+@@||tools.usps.com/go/scripts/tracking.js
 @@||toshiba.com/images/track/track.gif?track=load&$xmlhttprequest,domain=start.toshiba.com
 @@||toyota.com/analytics/recall_af.js$domain=toyota.com
 @@||track.adform.net/serving/scripts/trackpoint/$script,domain=strokekampanjen.se|tigerofsweden.com
