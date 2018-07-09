@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ohho6R813mdKNP+mOL720Q
+! Checksum: l4Iu7+2jpKOpNFGB7at2YA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201807091200
-! Last Modified: 2018年07月09日 12:00
+! Version: 201807091300
+! Last Modified: 2018年07月09日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -6261,9 +6261,6 @@ mg*.6park.com/img/$image
 ||shfq.com/data/attachment/portal/
 ||shhgg.in/js/shangjia
 ||shhgg.in/shlf1314/
-||shicimingju.com/Public/js/buttom.js
-||shicimingju.com/Public/js/left200.js
-||shicimingju.com/Public/js/tianshi.js
 ||shihuo.cn/alibtn_
 ||shiyanlou.com/img/shiyanlou-
 ||shm.com.cn/content/con*.js
@@ -8329,7 +8326,6 @@ game2.cn###rb
 hnr.cn###rb_pics
 baiduyunso.com###rcode
 cqsq.com###read_0 + a[target="_blank"]
-sosg.net###read_728x90
 chinaqking.com###readerServiceDIV
 pujia8.com,sdgundam.cn###recommend
 ganji.com###recommend_storeg_div
@@ -9895,7 +9891,6 @@ douyu.com##.his-sign-cont
 zp365.com##.hitADclass
 jia360.com##.hjadv
 www.infoq.com##.home_banner
-sosg.net##.home_promo_940x80
 dysfz.cc##.hongbao_hd
 tieba.baidu.com##.hongbao_page_pop_common
 sogou.com##.hospitalinfo
@@ -12515,7 +12510,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||sinaimg.cn/dy/deco/*/js/require.js
 @@||sinaimg.cn/unipro/pub/suda_m_v629.js$domain=video.sina.com.cn
 @@||sinaimg.cn^*/deco/*/sinaObj.js
-@@||sipa.gov.tw/img/rightbanner/
 @@||sjsmitaa.org/bin/showads.
 @@||sogou.com/adpub/cfg/sendmsg.
 @@||sozi.cn/images/ad/tj
