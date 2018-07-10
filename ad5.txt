@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Wlkct08Hp1j4NQmDvWBOwQ
+! Checksum: cL4rsqvBIle1yjNMnckWIQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807110000
-! Last Modified: 2018年07月11日 00:00
+! Version: 201807110730
+! Last Modified: 2018年07月11日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -857,6 +857,7 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
+##.d_banner_inner
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 ||uklyv.cn^
@@ -7378,8 +7379,10 @@ mg*.6park.com/img/$image
 ||sozi.cn/images/tj/hukead.gif
 ||sozi.cn/images/tj/downad
 ||wowad.wow-classic.com^
+||xingkbjm.com/hengchuang.gif
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+17ce.com##TR[id^="tr"] > TD > A[href^="http"]
 sinolub.com##.gg_cen
 sinolub.com###bs_1
 sozi.cn##.ad
@@ -17181,6 +17184,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /event?pmo=
 /event?stat_
 /event?t=*&__seed=
+/event?token=
 /EventLog.axd?
 /eventlog.js
 /eventLogServlet?
@@ -17428,6 +17432,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /google_analytics/*
 /google_analytics_
 /google_page_track
+/google_tag.
+/google_tag/*
 /google_tracker.
 /googleana.
 /googleAnal.js
@@ -18698,6 +18704,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /smarttag-prod.
 /smarttag.js
 /smetrics.*/b/ss/*
+/smg_tracking/*
 /snowman.gif?p=
 /snowplow.js$script,third-party
 /snowplow/*$script
@@ -20750,6 +20757,7 @@ _mongo_stats/
 ||fusestats.com^$third-party
 ||fuziontech.net^$third-party
 ||fyreball.com^$third-party
+||gammachug.com^$third-party
 ||gaug.es^$third-party
 ||gbotvisit.com^$third-party
 ||gear5.me^$third-party
