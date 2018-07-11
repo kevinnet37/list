@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YN7eqLjwi5VbPRauZEhhew
+! Checksum: 85yB0KLrnBdvyky1l9n84Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807111930
-! Last Modified: 2018年07月11日 19:30
+! Version: 201807112030
+! Last Modified: 2018年07月11日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7380,8 +7380,14 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||51wangdai.com/Images/bad_
+||51wangdai.com/Images/dfcd-
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+51wangdai.com##.ad_123_AD
+51wangdai.com##.cx_ad
+51wangdai.com##.cx_xx_lis_c01_right_lis_c_ad
+51wangdai.com##.top_AD
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -19552,7 +19558,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /Wrappers?cmd=
 /WRb.js
 /writeKAStats/*
-/writelog.
+/writelog.$domain=~writelog.com
 /WritePartnerCookie?$third-party
 /writrak.
 /written-analytics.
@@ -23671,6 +23677,7 @@ _mongo_stats/
 ||aklamio.com/ovlbtntrk?
 ||aksb-a.akamaihd.net^
 ||alenty.com/trk/
+||alexa.com/minisiteinfo/$third-party
 ||alexa.com/traffic/
 ||alipay.com/service/clear.png?
 ||aliyun.com/actionlog/
