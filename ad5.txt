@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ELhruif5E9uMhA/vJLGniQ
+! Checksum: lssXfe3OR1yH8w23+oA6wQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807121630
-! Last Modified: 2018年07月12日 16:30
+! Version: 201807121830
+! Last Modified: 2018年07月12日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -429,8 +429,6 @@ tieba.baidu.com##.tuijian-wrap
 /Runtime/js/top960.js
 /scripts/youthad.js
 /scrollgg_index.js
-/secretmine_20170816_202643.png
-/secretmine_20170831_220255.jpg
 /secretmine_out.js
 /shehuik618cn/images/c.js
 /shehuik618cn/images/ds.js
@@ -6475,7 +6473,6 @@ mg*.6park.com/img/$image
 ||singlove.com/qq/qq.js
 ||sinolub.com/index.php?m=poster&
 ||sinolub.com/uploadfile/201*.swf
-||sisiww.com/template/*/portal/ad/
 ||sitv.com.cn/cookiead.php
 ||sj33.cn/js/tuchong.js
 ||sjzdaily.com.cn/sjznewsad/
@@ -6577,7 +6574,6 @@ mg*.6park.com/img/$image
 ||sub.powerapple.com^
 ||subhd.com/images/970
 ||subhd.com/images/ap/
-||sudupan.com/380.jpg
 ||sudupan.com^*.gif
 ||sufile.com/jsa/
 ||suimeng.la/modules/article/scripts/pagehead.js
@@ -7386,6 +7382,7 @@ mg*.6park.com/img/$image
 ||shangxueba.com/ask/images/woxiaoyun.jpg
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+wjx.cn###ctl01_ContentPlaceHolder1_divProMsg
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -7865,7 +7862,6 @@ muchong.com###creditegg
 ipcfun.com###crumb_r
 wpsoso.com###cse-search-box > p
 chzhw.com###ct3 + #ty
-sojump.com###ctl01_ContentPlaceHolder1_divProMsg
 fzlimg.com###ctopad
 fzlimg.com###ctopadtop
 free.com.tw###custom_html-11
@@ -10696,8 +10692,6 @@ jia360.com##.row-ad01
 douyu.com,douyutv.com##.row.row-3
 howfile.com##.row1_right
 it1352.com##.row[style="line-height:35px;"] > .col-md-3
-souluo.net##.rowlist
-souluo.net##.rowlista
 honglingjin.co.uk##.rsads
 ld0766.com##.rsf_pull_screen_adv
 zj.com##.rt-banner
@@ -11516,7 +11510,6 @@ wendu.cn##body > div[style^="width:1000px;"]
 ahtv.cn##body > table[style^="text-align:center; width:960px;"]
 18h.avmimi.com##body > table[width="100%"]:nth-child(2)
 62422.cn##body > table[width="778"][align="center"]
-secretmine.net##center > a:not([href*=".secretmine."]) > img
 cnbeta.com#?#.cnbeta-swiper-container-285x360 .swiper-slide:-abp-has(a[href^="http"]:not([href^="http://www.cnbeta."]))
 dilidili.wang#?#article:first-child
 steamcn.com##div > a[href*=".taobao.com"]
