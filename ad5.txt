@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3RJpUpwrWFNKlQL+2TgvzQ
+! Checksum: D8qObsPeYMw4o0859tUHdQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807132030
-! Last Modified: 2018年07月13日 20:30
+! Version: 201807140730
+! Last Modified: 2018年07月14日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -19529,7 +19529,6 @@ weibo.com##.apps_PCD_reco_detail_right
 /wp-clickmap/*
 /wp-content/tracker.
 /wp-counter.php
-/wp-google-analytics-
 /wp-js/analytics.
 /wp-powerstat/*
 /wp-slimstat/*
@@ -23218,7 +23217,6 @@ _mongo_stats/
 ||digital-metric.com^$third-party
 ||distribeo.com^$third-party
 ||dnab.info^$third-party
-||exsigma.eu^$third-party
 ||freecounter.it^$third-party
 ||freestat.ws^$third-party
 ||freestats.biz^$third-party
@@ -24661,6 +24659,7 @@ _mongo_stats/
 ||mansion.com/mts.tracker.js
 ||mantisadnetwork.com/sync?
 ||mapquestapi.com/logger/
+||marketing.net.jumia.com.ng^
 ||marketingautomation.services/koi$third-party
 ||marketingautomation.services/net?$third-party
 ||marketinghub.hp.com^
@@ -25972,6 +25971,7 @@ _mongo_stats/
 ||eageweb.com/stats.php
 ||encoderfarmced-stats-ns.servicebus.windows.net^
 ||evnt.iol.it^
+||exsigma.eu/mercurio/
 ||fb_servpub-a.akamaihd.net^
 ||fcstats.altervista.org^$third-party
 ||gazzettaobjects.it^*/tracking/
@@ -29519,7 +29519,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 ||webhit.aftenposten.no^
 |http://x.o2.pl^
 ||analytics.gazeta.pl^
-||audycje.tokfm.pl^
 ||dot.wp.pl^
 ||entryhit.wp.pl^
 ||interia.pl^*/hit.
@@ -29738,6 +29737,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 @@||ad.crwdcntrl.net^$script,domain=cityam.com|investopedia.com
 @@||ad.zanox.com/ppc/$subdocument,domain=wisedock.at|wisedock.co.uk|wisedock.com|wisedock.de|wisedock.eu
 @@||adblockanalytics.com/ads.js|
+@@||addgene.org/headers/blat/js/analyze.js
 @@||adidas.com^*/adidasAnalytics.js?
 @@||adobedtm.com^*/mbox-contents-$script,domain=lenovo.com|newyorker.com|oprah.com|pnc.com|vanityfair.com|wired.com
 @@||adobedtm.com^*/s-code-$script
