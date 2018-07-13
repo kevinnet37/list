@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YHxvnQFm/gRCbNeLc4ZFjw
+! Checksum: onq2GGz70GGRdDQQ0ufRWA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807130730
-! Last Modified: 2018年07月13日 07:30
+! Version: 201807130900
+! Last Modified: 2018年07月13日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15921,6 +15921,7 @@ weibo.com##.apps_PCD_reco_detail_right
 -ga-track.
 -gatracker.
 -geoIP.js
+-google-analytics-
 -google-analytics.
 -google-analytics/
 -google-tag-manager/$script
@@ -17286,6 +17287,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /ga-lite.
 /ga-multidomain.
 /ga-script.
+/ga-scroll-events.
 /ga-se-async.js
 /ga-socialtracker.
 /ga-track.
@@ -18232,6 +18234,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /performance_timing/log?
 /performance_tracker-
 /permalink-tracker.html?
+/pf?pid=
 /pg_pixel?
 /pgtracking.
 /pgtrackingV3.
@@ -19548,6 +19551,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /wp-clickmap/*
 /wp-content/tracker.
 /wp-counter.php
+/wp-google-analytics-
 /wp-js/analytics.
 /wp-powerstat/*
 /wp-slimstat/*
@@ -20029,6 +20033,7 @@ _mongo_stats/
 ||adobedtm.com^$third-party
 ||adobetag.com^$third-party
 ||adoftheyear.com^$third-party
+||adoric-om.com^$third-party
 ||adpies.com^$third-party
 ||adprotraffic.com^$third-party
 ||adrizer.com^$third-party
@@ -22052,6 +22057,7 @@ _mongo_stats/
 ||umbel.com^$third-party
 ||unicaondemand.com^$third-party
 ||unknowntray.com^$third-party
+||upapi.net^$third-party
 ||upstats.ru^$third-party
 ||uptain.de^$third-party
 ||uptimeviewer.com^$third-party
