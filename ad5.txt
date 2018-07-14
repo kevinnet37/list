@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zzin8dQRY4bHm2F5Q85dWg
+! Checksum: 1FpIGyIL2CYWrnBlDZ2uwg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807141700
-! Last Modified: 2018年07月14日 17:00
+! Version: 201807141730
+! Last Modified: 2018年07月14日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -860,6 +860,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||ttbaods.com^
 ||8080i.com^$third-party
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
@@ -4443,7 +4444,6 @@ mg*.6park.com/img/$image
 ||ctfile.com/iz.php?
 ||ctin.ac.cn/js/jquery.js
 ||ctrip.com/amd/*960x90.
-||cutv.com/html/ad_js/
 ||cwan.com/templets/shouye/misc/js/suspend.js
 ||cwan.com/templets/webgame/misc/js/indextip.js
 ||cww.net.cn/include/show.asp?boardID=
@@ -6701,7 +6701,6 @@ mg*.6park.com/img/$image
 ||tt1069.com/script.min.js
 ||tt1069.com/t0602.js
 ||ttavav6.com/zz/
-||ttbaods.com/dibudaohang/
 ||ttkyy.net/uploads/allimg/201710/1a13f1cdc0917406.jpg
 ||ttrar.com/js/
 ||ttx.cn/js/float.js
@@ -7368,6 +7367,8 @@ mg*.6park.com/img/$image
 ||loli.net^$domain=youtaoqi.com
 ||ikafan.com/upload/image/iqiyi_
 ||zgax.net/js/m/
+||icaile.com/z.php?id=
+||xinjs.cn/2010/zzz.jpg
 !------------------------Specific element hiding rules------------------------!
 kafan.cn###content_top
 gpcxw.com###AA2
