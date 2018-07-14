@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0heMHR0zauCvGXpP6D7JPQ
+! Checksum: bkGv4UHfDrbc7u27iXVr6w
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201807141130
-! Last Modified: 2018年07月14日 11:30
+! Version: 201807141300
+! Last Modified: 2018年07月14日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -746,6 +746,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||8080i.com^$third-party
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -2839,7 +2840,6 @@ ubmcmm.baidustatic.com
 /w_e_b/de_li_ve_ry/a_j_s.php?zid=$domain=cnlmjx.com
 /web/ad/*$domain=gamer.com.tw
 /wp-content/uploads/2016/10/2016103005450610.jpg
-/www.soft4fun.net/wp-content/uploads/*_banner
 /wxh.js$domain=1kkk.com|dm5.com|dm5.hk
 /wxh_asy.js$domain=1kkk.com|dm5.com|dm5.hk
 /wxhfm.html$domain=1kkk.com|dm5.com|dm5.hk
@@ -6250,7 +6250,6 @@ mg*.6park.com/img/$image
 ||shangdu.com/lyinfo/ad/
 ||shangqun.com/webforms/embed/
 ||shangxueba.com/ask/images/woxiaoyun.jpg
-||shaoxing.com.cn/6201.files/*.swf
 ||shaoxing.com.cn^*gg.
 ||share.dmhy.*/*?$image
 ||share.gzdsw.com^
@@ -6358,7 +6357,6 @@ mg*.6park.com/img/$image
 ||sjzdaily.com.cn/sjznewsad/
 ||skads.gxsky.com^$script
 ||skinme.cc/assets/index/*/banner2016
-||slit.cn/d/js/images/thea
 ||slit.cn/slimages/
 ||smzy.com/v1/img/
 ||so.open.163.com/v/list.htm?pid=
@@ -7261,7 +7259,9 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||loli.net^$domain=youtaoqi.com
+||ikafan.com/upload/image/iqiyi_
 !------------------------Specific element hiding rules------------------------!
+kafan.cn###content_top
 gpcxw.com###AA2
 sj998.com##.ad
 sj998.com##.ad2
@@ -7440,7 +7440,6 @@ gameapps.hk###adTopClickAreaLeft
 gameapps.hk###adTopClickAreaRight
 gameapps.hk###adTopClickAreaTop
 autohome.com.cn###ad_990_tm
-shaoxing.com.cn###ad_Full
 www.sohu.com###ad_TOP
 sina.com.cn###ad_blk_fixed
 cnyw.net###ad_box_2009_04
@@ -8123,7 +8122,6 @@ www.wenxuecity.com###leftside
 hao123.com###lefttip-container
 techweb.com.cn###liepin
 sdgundam.cn###link-roll ~ .box-set-2
-soft4fun.net###linkcat-2 + div:nth-last-child(2)
 cwyuni.tw###links-row-1 > div[id^="box"]:not(#box32499):not(#box1026387):not(#box34614)
 51cto.com###list4
 90bifen.com###live > table[cellspacing="0"][cellpadding="0"]
@@ -10709,7 +10707,6 @@ findprice.com.tw##.sitemajiad
 hao123.com##.siye
 iask.sina.com.cn##.sj_300x250
 iask.sina.com.cn##.sj_680x250
-soku.com##.sk_banner
 fuli.us##.slick
 baidu.com##.slide-bner-adv-ret
 ksbbs.com,kshot.com##.slideAdvert
@@ -11054,7 +11051,6 @@ hh010.com##.wp.a_hh_t
 shuaijiao.com##.wp.m-t20.h90
 tropica.cn##.wp1.a_t
 cangjige.net,cangjige.win##.wp[style="height:36px;padding-top:15px;"]
-seowhy7.com##.wp[style="margin-top:10px;"]
 tui18.com##.wp[style^="width:"]
 bbs.gfan.com##.wpp
 start.firefoxchina.cn##.wrap > div[style]:last-child
@@ -11277,7 +11273,7 @@ wikdy.cn##a[href="http://www.tbb168.com"]
 btmee.net##a[href="http://www.tk001.com/?btmee"]
 ainuody.com##a[href="http://www.zhuzhuquan.com.cn"]
 aeink.com##a[href="http://yifengka.cn"]
-kafan.cn##a[href="https://nameidi.com"]
+kafan.cn##A[href*="nameidi."]
 jandan.net##a[href^="//api.jandan.net/money.php?"]
 zhiboba.cc##a[href^="//shang.qq.com/wpa/"]
 bigear.cn##a[href^="/?module=dantian&"]
