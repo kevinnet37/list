@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 99Vh4uX3Qqo68K3kFyT06A
+! Checksum: Fxl3SlRj9GHKCg+LL4IO0g
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201807141000
-! Last Modified: 2018年07月14日 10:00
+! Version: 201807141100
+! Last Modified: 2018年07月14日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7263,6 +7263,10 @@ mg*.6park.com/img/$image
 ||loli.net^$domain=youtaoqi.com
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+sj998.com##.ad
+sj998.com##.ad2
+sj998.com##.ad3
+sj998.com##.ad5
 youtaoqi.com##.sidetg
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
@@ -8705,7 +8709,6 @@ angelweb.cn##.GG960x90
 aiyuke.com##.GGad
 duoduopan.com,mcncc.com,twunbbs.com,wndflb.com##.GzList
 le.com,letv.com##.H-tg
-sj998.com##.Hr_1
 xiaodao.la##.HtmlMoKua.column.two-thirds
 diyifanwen.com##.Hzh1
 diyifanwen.com##.Hzh2
@@ -9671,7 +9674,6 @@ pic.sogou.com##.floating
 107cine.com##.flow-other
 107cine.com##.flow_right > div[style="margin-top:20px;"]
 newcger.com##.focus + .block934
-sj998.com##.focus-320-240
 cnblogs.com##.focus-gg
 zhongkao.com##.focusBox
 jlonline.com##.focusPic
@@ -12311,7 +12313,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||ganji.com/findjob/send_resume.*&ad_type=
 @@||gaoqingkong.com/ads/300x250.js
 @@||gaoqingkong.com^$generichide
-@@||gg.woniu.com^$domain=snail.com
 @@||gg.yxdown.com/count/countzt.js
 @@||github.io/videojs-ima/node_modules/video.$domain=setn.com
 @@||gomein.net.cn^*,
