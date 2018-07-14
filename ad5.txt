@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1FpIGyIL2CYWrnBlDZ2uwg
+! Checksum: xUycVkOL8WWx+14KHhmf8Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807141730
-! Last Modified: 2018年07月14日 17:30
+! Version: 201807141830
+! Last Modified: 2018年07月14日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -264,7 +264,6 @@ tieba.baidu.com##.tuijian-wrap
 /chinaByte2016/duhy
 /clicktotal/ClickTotal.js
 /cnki/js/adDetail1124.js
-/comiis_19lou/ads/*
 /comiis_kmsjx3hlx/ads/*
 /common/cf/*$image,object
 /content.php?id=148&type=g|$xmlhttprequest
@@ -6380,7 +6379,6 @@ mg*.6park.com/img/$image
 ||shouji.com.cn/static/v2/images/sj_banner_
 ||shouyoutv.com/assets/api/web/v4/js/global_head.js
 ||showhaotu.$domain=18board.com|18p2p.com
-||shuaijiao.com/index.php?m=content&c=index&a=thirdadv&
 ||shuajizhijia.com/static/js/rightdown.js
 ||shuajizhijia.com/uploads/allimg/141121/1_1702554911.jpg
 ||shuangla.net/js/cl.js
@@ -7371,6 +7369,7 @@ mg*.6park.com/img/$image
 ||xinjs.cn/2010/zzz.jpg
 !------------------------Specific element hiding rules------------------------!
 kafan.cn###content_top
+smzdm.com##.banner-stuff
 gpcxw.com###AA2
 sj998.com##.ad
 sj998.com##.ad2
@@ -9319,7 +9318,7 @@ big-cup.tv,g-cup.tv##.banner-table-block
 firefoxchina.cn##.banner-words
 fanyi.baidu.com,longzhu.com##.banner-wrap
 gminfo.cn##.banner.mt7
-news.cn2che.com,sd001.com##.banner01
+news.cn2che.com##.banner01
 html5china.com,shangdu.com,uusee.com,wbzol.com##.banner1
 jinhua.com.cn##.banner1200
 jinse.com##.banner1200_new
@@ -11153,7 +11152,6 @@ subhd.com##.win_win
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.worldcup_info_banner_dialog
 gpshk.cc##.wp > div:last-child > p[align="center"]
 hh010.com##.wp.a_hh_t
-shuaijiao.com##.wp.m-t20.h90
 tropica.cn##.wp1.a_t
 cangjige.net,cangjige.win##.wp[style="height:36px;padding-top:15px;"]
 tui18.com##.wp[style^="width:"]
@@ -11302,7 +11300,6 @@ idanmu.at##a[href*=".datealive.com.cn"]
 bilibili.com##a[href*=".doubleclick."]
 ali213.net##a[href*=".fhyx.com/"]
 141jj.com##a[href*=".fulishesix.com"]
-shuaijiao.com##a[href*=".gzbiotech.cn"]
 ctfile.com##a[href*=".henghost.com"]
 cctv.com##a[href*=".jaeapp.com"]
 dapenti.com,iqiyi.com##a[href*=".jd.com"]
