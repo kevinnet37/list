@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: c1M8D+3UcIISsyJscrMMvA
+! Checksum: TbY+D29lXqSOwIb+jzGznw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807150930
-! Last Modified: 2018年07月15日 09:30
+! Version: 201807151000
+! Last Modified: 2018年07月15日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -11794,7 +11794,7 @@ qqread.com##div[class$="ad"]
 19lou.com##div[class$="ad-cycle"]
 pixnet.net##div[class*="-Ad-"]
 pixnet.net##div[class*="-ad-"]
-www.sohu.com##div[class*="-news"] .list16:last-child li:last-child
+news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 ganji.com##div[class*="-recommend"]
 ganpapa.com##div[class*="_9cb0d"]
 makepolo.com##div[class*="_ad"]
