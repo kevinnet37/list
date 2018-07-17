@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UnLaE9K6hPGdDuvolg1Dig
+! Checksum: C+WnhFNulso0JcrkA7GSSA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201807171100
-! Last Modified: 2018年07月17日 11:00
+! Version: 201807171130
+! Last Modified: 2018年07月17日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -334,7 +334,6 @@
 /tan1.js
 /tanad.js
 /tanchuang.
-/taobaoad.html
 /template/dajibacao/js/*
 /template/gg.js
 /template/html5/ads/*
@@ -2970,7 +2969,6 @@ mg*.6park.com/img/$image
 ||122.228.200.55:8082/blr.gif
 ||122.228.236.165^
 ||123.sogou.com/discover/?
-||123.sogou.com/nstatic/img/jiao.swf
 ||123564.com^*/plaza.js
 ||1236226.com/html/
 ||123du.cc/show/
@@ -6247,7 +6245,6 @@ mg*.6park.com/img/$image
 ||share44.com/300
 ||share44.com/adad2014/
 ||shbear.com^*/ad/
-||shenchuang.com^*_haier
 ||shenleyuni.com^
 ||shfq.com/data/attachment/portal/
 ||shhgg.in/js/shangjia
@@ -6721,8 +6718,6 @@ mg*.6park.com/img/$image
 ||wallstcn.com^*-300x250.
 ||wallstreetcn.com^*/ads^
 ||wan.liebao.cn/zt/
-||wan.sogou.com/cdn/$subdocument
-||wan.sogou.com/pop/
 ||wan.sogou.com/static/fragment/
 ||wan.sogoucdn.com/cdn/flash/$domain=~sogou.com
 ||wangbase.com/blogimg/asset/201806/bg2018060604.jpg
@@ -7238,8 +7233,10 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||stnn.cc/images/xy/sfs
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+stnn.cc##DIV[style="width:960px;height:90px;float:left;"]
 sogou.com###sogou_vr_10000901_0 > DIV[style="display:block;"]
 sogou.com###kmap_business_title
 sogou.com###kmap_business_ul
@@ -7821,7 +7818,6 @@ letv.com###egg
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###encourage_entry
 hc360.com###endAccessories1
 hc360.com###endAdBanner
-123.sogou.com###engineHotWord
 ent.qq.com###ent_ad
 360kan.com,360kan.letv.com###erweima
 chinabidding.cn,chinabidding.com.cn###erweima_l
@@ -8303,7 +8299,6 @@ image.baidu.com###relEcom
 youku.com###relationvideo_async > .items > .v-horiz:nth-child(-n+2)
 image.baidu.com###relecom54
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###replyBusinessImg
-sogou.com###right > .atTrunk
 2345.com###right > div:first-child
 90oo.com###right > div[style^="height:60px; width:750px;"]
 xiaohua.360.cn###right-fixed
@@ -9637,7 +9632,6 @@ bokerb.com##.foot_td_1
 wooyun.tangscan.cn##.footer-bottom > .list-inline > a
 yipee.cc##.footer-sidebar-container
 yaolan.com##.footer_float_box
-sogou.com##.for-advert
 image.baidu.com##.ford-tag
 25xt.com##.forum-20150311101555
 chineseinla.com##.forum_banner_ads
@@ -9900,7 +9894,7 @@ caixin.com##.incubator
 qqyy.com##.ind_ad
 faxingw.cn##.indadv1
 cndesign.com##.index-add
-16fan.com,jianshen8.com,sogou.com##.index-banner
+16fan.com,jianshen8.com##.index-banner
 cyzone.cn##.index-content-ad
 avlang.com,avlang13.info##.index-info > .tac
 bilibili.com##.index-promote
@@ -10565,8 +10559,6 @@ baidu.com##.sfc-image-content-adtext
 baidu.com##.sfc-image-content-waterfall-item > div:not([class]) > .sfc-image-content-cell
 cctry.com##.sftop
 wbzol.com##.sg
-sogou.com##.sg-ad
-sogou.com##.sg-ad-r
 pcsoft.com.cn##.shang11-top
 m.mydrivers.com##.share
 xilu.com##.shehuibanner
@@ -10936,7 +10928,6 @@ cztv.com##.vivo
 ktkkt.com##.vod980
 hupu.com##.voice-ad300-250
 dianping.com##.votelist + .aside-box
-sogou.com##.vrshop_itemList
 quanmin.tv##.w-newhot_slot-wrapper
 baidu.com##.w-question-list[data-sign]
 shm.com.cn##.w1000.surround
@@ -11241,7 +11232,6 @@ moe-acg.cc##a[href^="http://game.moehuan.com/"] > img
 zhuhai.gd.cn##a[href^="http://hd.zhuhai.gd.cn/ad/"] > img
 uc.cn##a[href^="http://huichuan.sm.cn"]
 pconline.com.cn##a[href^="http://ivy.pconline."]
-v.sogou.com##a[href^="http://iwan.sogou.com/"]
 acg18.us##a[href^="http://l.taptap.com/"]
 xigua110.com##a[href^="http://m.jiang.com/?"]
 sm.cn##a[href^="http://m.sm.cn/adclick?"]
