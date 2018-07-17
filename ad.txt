@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: b2maqqyLvtaFD0P7eAGBIA
+! Checksum: 4P1IqyPbSWuogmZqF6FSDA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807171000
-! Last Modified: 2018年07月17日 10:00
+! Version: 201807171030
+! Last Modified: 2018年07月17日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7664,6 +7664,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+focustimeshk.com###placeholder
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
