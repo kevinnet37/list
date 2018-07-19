@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: U5zfJT0RN7/7lIn8Z6f6dA
+! Checksum: gHCJBZ+xRiUQJB+RT8+nDg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807191830
-! Last Modified: 2018年07月19日 18:30
+! Version: 201807200000
+! Last Modified: 2018年07月20日 00:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7674,8 +7674,10 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||fuimg.com/588755/7bb6899bc9820741.jpg
 ||ly6080.com.cn/ql.gif
+||sportsyeah.hk/wp-content/uploads/XfwppqROyThU/qQTuYinCrndr.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+chongbuluo.com##A[href^="https://cn.udacity.com/"]
 tbtdg.com##.s11logo
 yeyulingfeng.com##A[href^="http://woaigouwu.top"]
 yeyulingfeng.com##.widget_ui_textasb
@@ -12405,6 +12407,7 @@ i-cable.com#@#.video_ad
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+sportsyeah.hk#@##adsense
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@||baikebcs.bdimg.com/adpic/
