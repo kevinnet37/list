@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: F6+er1nUbk60bORTQxRhAw
+! Checksum: YlVJ3j8+O2y+K+swsf2haQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807191530
-! Last Modified: 2018年07月19日 15:30
+! Version: 201807191700
+! Last Modified: 2018年07月19日 17:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -12102,7 +12102,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/adgpt.$domain=gotrip.hk|nmplus.hk|weekendhk.com
 @@/adimage/*$domain=scyts.com|wacom.tw
 @@/adimg/*$domain=laniqu.com|veryeast.cn
-@@/adjs_pic_$domain=168gamer.net|52av.tv|av4u.info|tahua.net
+@@/adjs_pic_$domain=168gamer.net|52av.tv|av4u.info
+@@/advertisement_ads_$domain=tahua.net
 @@/adlogger_tracker.php$domain=serve.netsh.org
 @@/adpic/*$domain=czsrc.com|nieyou.com|ontheup.com.tw|zform.net
 @@/ads/*$domain=189.cn|95516.com
@@ -12113,7 +12114,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/adshow/*$domain=mndxy.org
 @@/adsshow/*$domain=veryeast.cn
 @@/adsystem/*$domain=adcenter.dhgate.com
-@@/advert/*$domain=cctcw.cn|fjgcjxgl.com|huanleren.com|juxiangyou.com|locuspublishing.com|moretv.com.cn|toread.com.cn
+@@/advert/*$domain=cctcw.cn|fjgcjxgl.com|huanleren.com|juxiangyou.com|locuspublishing.com|moretv.com.cn
 @@/advert_$domain=cdcedu.cn|pisen.com.cn|wb.qq.com
 @@/advertise.$domain=123.138.234.240
 @@/advertise/*$domain=sfbuy.com
@@ -14671,6 +14672,7 @@ _300_250.
 /3dmgamegzh.png
 /to8to_pc/chunks/slide_and_popup_
 /yksmartbanner.
+/tianya_recommend?
 !------------------------General element hiding rules-------------------------!
 ###b_login
 ###windlocation
@@ -14935,6 +14937,8 @@ _300_250.
 ||pinggu.org/api/bbsgg.
 ||025yimei.com/templets/default/js/swt.js
 !------------------------Specific element hiding rules------------------------!
+tianya.cn##.book-box
+to8to.com##.btm-float
 jingyu.com##.stream-app
 juejin.im##.recommend-box
 saraba1st.com###append_parent
