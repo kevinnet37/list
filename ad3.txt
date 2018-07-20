@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GecqvXkvCs/Gqsh5PBwWUQ
+! Checksum: cR7e2RN61zm2OBSWlp/8Ew
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201807201630
-! Last Modified: 2018年07月20日 16:30
+! Version: 201807201700
+! Last Modified: 2018年07月20日 17:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -761,6 +761,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||652748.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -3370,7 +3371,6 @@ mg*.6park.com/img/$image
 ||58.com/demand/content?
 ||58.com/ds/tgbrand/*.js
 ||58.com/show/ads?
-||58cdn.com.cn/brandads/
 ||58cdn.com.cn/ds/tgbrand/*.js
 ||58cdn.com.cn/ds/zhuangxiu/jzad-
 ||59.36.101.209:888/link/*_280x192.
@@ -7257,6 +7257,7 @@ mg*.6park.com/img/$image
 ||zrblog.net/zanzhu/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+lqz.cn###ad_index
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
