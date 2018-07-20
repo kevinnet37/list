@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gHYN4uQj8t3agU9d++M5WQ
+! Checksum: CEA7J+YQcT25Iu49D+uVKw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807201700
-! Last Modified: 2018年07月20日 17:00
+! Version: 201807201730
+! Last Modified: 2018年07月20日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -126,6 +126,7 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+/haojio/images/KF-ZL.jpg
 :2048/b.js
 -880-80-4.jpg
 .bid/static/js/aall.js
@@ -875,6 +876,8 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||qwertyuiopa.co^
+||dapaogg.xyz^
 ||652748.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
@@ -7369,8 +7372,10 @@ mg*.6park.com/img/$image
 ||sinaimg.cn^$domain=tbjbd.com
 ||doub.pw/abc/
 ||zrblog.net/zanzhu/
+||httpwwwdcom.com/js/aaa/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+kpd65.com##.index-owl-carousel
 lqz.cn###ad_index
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
