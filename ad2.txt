@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nsV0x0BNfn1auQi0+z+E1Q
+! Checksum: chI/OrRtoxcUdqyRikOZ6g
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201807011330
-! Last Modified: 2018年07月01日 13:30
+! Version: 201807221430
+! Last Modified: 2018年07月22日 14:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -278,7 +278,7 @@ tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
 ||thxnr.com/
 ||tudown.com/
 ||tui1999.com/
-||click.taobao.com/$third-party,popunder
+||click.taobao.com/$third-party,popup
 ||tk001.com/$third-party
 ||tongqing2015.com/
 ||union$third-party
@@ -505,8 +505,7 @@ zol.com.cn##.down-h4,span.down-alink,div[class^=ad_],div[class*=-ad],div[class|=
 ||view.news.qq.com/PL_ad$subdocument
 ||tencentmind.com/
 @@*/sports.tc.qq.com/$media,object-subrequest
-@@*/music.qqvideo.tc.qq.com/$media,object-subrequest
-*.tc.qq.com/*.mp4?$media,object-subrequest
+*.tc.qq.com/*.mp4?$media,object-subrequest,domain=~y.qq.com
 ||qq.com/games/$subdocument
 ||v.qq.com/x/webtips?$subdocument
 www.qq.com##.adLeft,.adRight
@@ -537,6 +536,7 @@ sports.qq.com##.ad-wrapper,#focus_jordon,.ad_r_85,div[class|=gg],div.layout.mt35
 ||img3.126.net/
 ||img6.126.net/
 ||126.net/silver/
+||static.ws.126.net/*/adTracker.$script
 ||adgeo.163.com/
 ||bobo.163.com/
 ||bobo.com/special/$subdocument
@@ -774,6 +774,7 @@ baofeng.com##[class|=ad],div.play-top-ad,.play-ad-box,.play-ad-left
 ||data.vod.itc.cn/?*&prod=ad&$media
 ||api.my.tv.sohu.com/wm/getads.do?
 ||aty.sohu.com/
+||go.sohu.com/
 tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
 1905.com##.ad-couplet,#hd-tab-label4,div.bd-tab.video-list:last-child
 ||afp.m1905.com^
@@ -1528,7 +1529,7 @@ tucao.tv##div[class$="_poster"]
 |http://a.xigua110.com/a/xigua/$script
 |http://aagw.sdo.
 |http://abc.hkepc.com/www/d/
-||acs.$domain=~youku.com
+||acs.$domain=~youku.com|~tudou.com
 ||adf.dahe.cn
 ||adpic.
 ||adsame.
@@ -2072,7 +2073,7 @@ kekenet.com##div.ad_catagory
 mil.sohu.com##div.godR
 mil.tiexue.net##div.banner
 mini.sohu.com##div.blockRB
-mydigit.cn##div.radio.mb10
+mydigit.cn##div[channelid="smzdm"],div.radio.mb10
 mydrivers.com##[class^=ad_],[id^=ad_],#thread_subject+div,div.adggg1
 |http://icons.mydrivers.com/news/201*.gif|
 neonan.com###razer_ad
