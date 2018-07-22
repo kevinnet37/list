@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Itp2U/2ybWUZa/TA5gz0IA
+! Checksum: sLyB20VgnnJA5KlmSKaHUQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807221130
-! Last Modified: 2018年07月22日 11:30
+! Version: 201807221300
+! Last Modified: 2018年07月22日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6713,7 +6713,6 @@ mg*.6park.com/img/$image
 ||ttkyy.net/uploads/allimg/201710/1a13f1cdc0917406.jpg
 ||ttrar.com/js/
 ||ttx.cn/js/float.js
-||ttx.cn/js/tcgd//jquery.lightbox.min.js
 ||ttyavav.com/kanshenmekan/
 ||ttyavav.com/qian/
 ||tuan.cs090.com/gettuan.php?
@@ -6722,10 +6721,6 @@ mg*.6park.com/img/$image
 ||tui.gtimg.com//res/
 ||tui22.com/b/
 ||tui22.com/cc/
-||tuicool.com/images/upload/*00.jpg
-||tuicool.com/images/upload/*120.jpg
-||tuicool.com/images/upload/*320.
-||tuicool.com/images/upload/aliyun
 ||tumb8r.com/zb_users/upload/20*.gif
 ||tuwan.com/myad/
 ||tv6080.com/qqt/
@@ -6741,7 +6736,6 @@ mg*.6park.com/img/$image
 ||twunbbs.com/images/
 ||txahz.com/static/image/tp/
 ||txtshu365.com/img/
-||txtshu365.com/statics/js/tuku
 ||txtyd.com/js/*box.js
 ||txzqw.*/js/float.js
 ||txzqw.me/tupian/
@@ -10219,7 +10213,6 @@ news.ifeng.com##.list022
 niutuku.com##.listAD
 hljtv.com##.listAd1
 cheers.com.tw##.listTxt.news
-tvhome.com##.list_Ad
 nick18.com,niko18.com##.list_ads
 rsdown.cn##.list_lg
 warting.com##.list_native
@@ -10573,7 +10566,6 @@ xvna.com##.rctad
 xmfish.com##.readCon_right
 3gsc.com.cn##.read_otherbook + a
 wenku.baidu.com##.reader-to-cashier-vip > .rights-wrap
-tvhome.com##.reading_Ad
 sina.com.cn##.real-time-window__ad
 finance.ifeng.com##.rec
 baidu.com##.rec-feeditem
@@ -10603,11 +10595,9 @@ rfidworld.com.cn##.rfidADClass
 afzhan.com,fuliba.net##.right-banner
 image.baidu.com##.right-banner-area
 to8to.com##.right-float-ad
-tuicool.com##.right-link
 123.chinaso.com##.right-list6
 qidian.com##.right-op-wrap
 eastday.com##.right-suspension
-tianya55.com##.right02
 news.ifeng.com##.right1
 roodo.com##.right300_250ad
 baby-kingdom.com##.right5
