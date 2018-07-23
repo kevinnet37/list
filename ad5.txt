@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +G006t3G5MCZCBzIrgX0gg
+! Checksum: 84WXrHgtsz1tUIXe6W5LYQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807240000
-! Last Modified: 2018年07月24日 00:00
+! Version: 201807240730
+! Last Modified: 2018年07月24日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16476,6 +16476,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /atlas_track.
 /atrk.gif?
 /atrk.js
+/audience-extraction.js
 /audience-meter.
 /audience-science.
 /audience.gif?
@@ -20365,6 +20366,7 @@ _mongo_stats/
 ||company-target.com^$third-party
 ||compteur.cc^$third-party
 ||comradepony.com^$third-party
+||conductrics.com^$third-party
 ||confirmational.com^$third-party
 ||confirmit.com^$third-party
 ||contactmonkey.com^$third-party
@@ -24326,6 +24328,7 @@ _mongo_stats/
 ||events.whisk.com^
 ||eventtracker.videostrip.com^$third-party
 ||eveonline.com/redir.asp$third-party
+||evgnet.com/beacon/
 ||evidon.com/geo/
 ||eviesays.com/js/analytics/
 ||evri.com/analytics/
@@ -29457,6 +29460,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 ||paginegialle.it/cgi-bin/getcod.cgi?
 ||paginegialle.it/cgi-bin/jimpres.cgi?
 ||pornolupo.org/track.js
+||sa.sky.it^
 ||seat.it/cgi-bin/getcod.cgi?
 ||servizi.unionesarda.it/controlli/
 ||siteinfo.libero.it^
