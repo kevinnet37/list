@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bk3b2jnHXfm8oSKy0ttj7Q
+! Checksum: UDfO8HYoe7GpJWFuxPfX7Q
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807232000
-! Last Modified: 2018年07月23日 20:00
+! Version: 201807232100
+! Last Modified: 2018年07月23日 21:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -11486,7 +11486,7 @@ v7v3.com##.zzsl
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
 sina.com.cn##:not(.BigPic) > a[href*="sax.sina.com.cn/click?"]
-wpdaxue.com##:not(.post-thumbnail) > a[target="_blank"] > img
+www.wpdaxue.com##:not(.post-thumbnail) > a[target="_blank"] > img
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##:not(.tbui_slideshow_slide) > div[data-daid]
 programmer-club.com.tw##A[href*="/ADRedirect."]
 yb983.com##A[href*="/ClickAd"]
