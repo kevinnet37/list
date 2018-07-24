@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BQg0Z1xe4Rf+Zp35u9tTEg
+! Checksum: +dkuMzEtT9r7hjkNHPFksw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201807241730
-! Last Modified: 2018年07月24日 17:30
+! Version: 201807241800
+! Last Modified: 2018年07月24日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -3734,7 +3734,7 @@ mg*.6park.com/img/$image
 ||alicdn.com/tps/*-950-90.
 ||alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
 ||alicdn.com/tps/TB19bnbJVXXXXXhXXXXXXXXXXXX-860-100.gif
-||alicdn.com^$domain=333lsg.com|34bg.com|46pj.com|51dll.com|555avtb.com|63ef.com|63ig.com|666avtb.com|69tang7.com|7mav2.com|acglover.me|aotu47.com|ccxx99.com|ip.cn|jitapu.com|junying.com|qqtenglong.com|qyl72.com|runoob.com|thz4.com|thztv.cc|viidii.info|vipthz.com|wenkuxiazai.com|yjizz33.com|zhev.com.cn|zhuankezhijia.com
+||alicdn.com^$domain=333lsg.com|34bg.com|46pj.com|51dll.com|555avtb.com|63ef.com|63ig.com|666avtb.com|69tang7.com|7mav2.com|acglover.me|aotu47.com|ccxx99.com|ip.cn|jitapu.com|junying.com|qqtenglong.com|qyl72.com|runoob.com|thz4.com|thztv.cc|viidii.info|vipthz.com|wenkuxiazai.com|yjizz77.com|zhev.com.cn|zhuankezhijia.com
 ||alicdn.com^*.gif$domain=hmog.me
 ||alicdn.com^*.jpg$domain=hmog.me
 ||alifeifei.net/s/*.js
@@ -7255,7 +7255,9 @@ mg*.6park.com/img/$image
 ||ruanyifeng.com/blog/checker.js
 ||yibo5.cn/img0
 ||3123df.com/logo/
+||baidu.com/newspage/api/getrelatednews?
 !------------------------Specific element hiding rules------------------------!
+mbd.baidu.com##DIV[class^="_"][style="visibility: visible;"]
 gpcxw.com###AA2
 e0575.com###img2
 yahoo.com###ACT_crazy
