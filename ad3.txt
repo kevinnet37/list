@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DQaoc369njznYK/ckdGkRA
+! Checksum: 9q3rHJRZz4iNC6krqM+gwg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201807240830
-! Last Modified: 2018年07月24日 08:30
+! Version: 201807240930
+! Last Modified: 2018年07月24日 09:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7246,6 +7246,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ruanyifeng.com/blog/checker.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
@@ -13265,6 +13266,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||haoimgs.com/images/*.gif
 ||sinaimg.cn^$domain=2c2.website|2p8.space|adultgao.com|baocee.com|baofee.com|baonee.com|baopee.com|baowee.com|baoxee.com|baozoo.com|caoporn.com|caouoo.com|caoxee.com|ganfee.com|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|sex91.xyz|t2p.space|tb001.xyz|te88.pw|vgao.xyz|vlang.xyz|vwan.xyz
 2c2.website,2p8.space,adultgao.com,baocee.com,baofee.com,baonee.com,baopee.com,baowee.com,baoxee.com,baozoo.com,caoporn.com,caouoo.com,caoxee.com,ganfee.com,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,sex91.xyz,t2p.space,tb001.xyz,te88.pw,vgao.xyz,vlang.xyz,vwan.xyz##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
+@@||es6.ruanyifeng.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-eval'
 ||anixwallpaper.com^$csp=script-src 'self' * 'unsafe-inline'
 ||ruanyifeng.com^$csp=script-src 'self' * 'unsafe-eval'
 @@||8ox.cn/pge/?s=$script,domain=dlkoo.cc
