@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XXH45M9XQZ0uNhsOja9oqg
+! Checksum: Slw1eM29b/ec5CREZmnLZA
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201807241800
-! Last Modified: 2018年07月24日 18:00
+! Version: 201807250730
+! Last Modified: 2018年07月25日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -154,6 +154,7 @@ tieba.baidu.com##.tuijian-wrap
 ||baidu.com/newspage/api/getadsdata?
 ||baidu.com/newspage/api/getimagelandafd?
 ||baidu.com/newspage/api/getmobads?
+||baidu.com/newspage/api/getrelatednews?
 ||baidu.com/po/api/configure/show.jsonp
 ||baidu.com/rec?platform=wise&ms=1&rset=ad&
 ||baidu.com/resource/ads/
@@ -201,8 +202,6 @@ tieba.baidu.com##.tuijian-wrap
 ||tieba.baidu.com/f/urlcheck?
 ||wenku.baidu.com/browse/interface/getrec?
 ||youxi.baidu.com/tips/bdtips_min.js
-||baidu.com/newspage/api/getrelatednews?
-mbd.baidu.com##DIV[class^="_"][style="visibility: visible;"]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###activity_countdown_head
 baidu.com###adCard
 baidu.com###adMainTopLeft
@@ -505,6 +504,7 @@ api.so.lianmeng.360.cn,pos.baidu.com##body
 baidu.com##div[class$="-ecom-ads"]
 wenku.baidu.com##div[class*="tiger-"][class*="-dialog"]
 tieba.baidu.com##div[class][lgoinprompt="prompt"]
+mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
 baidu.com##div[data-ad]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##div[id*="lottery"]
 v.baidu.com##div[id^="adv_asp_"]
