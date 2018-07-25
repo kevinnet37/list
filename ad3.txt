@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Z7als0wua/kpY1l5aiCPAA
+! Checksum: Fu8TptwLDB0B3HVcEBROGQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201807250730
-! Last Modified: 2018年07月25日 07:30
+! Version: 201807250830
+! Last Modified: 2018年07月25日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -14587,6 +14587,7 @@ _300_250.
 /yksmartbanner.
 /tianya_recommend?
 !------------------------General element hiding rules-------------------------!
+###sign-ad
 ###b_login
 ###windlocation
 ###qrcodeWrap
@@ -14906,7 +14907,6 @@ taobao.com##.downapp
 tmall.com##.mui-mbarp-qrcode
 suning.com###sn-sidebar-change-code
 hanjutv.com##.ggw_fr
-zimuzu.tv##.key-result > LI > A[href*=".taobao.com"]
 yaofangwang.com##.bad
 crsky.com##A[href^="http://count."][href$=".exe"]
 aiyuke.com##.index_app_down_ad
@@ -14961,7 +14961,6 @@ iciba.com##.info-product
 ifeng.com###minefields_bottom
 1010jiajiao.com###yueyu3
 1010jiajiao.com##.xiti_content + .xiti
-zimuzu.tv###help
 mayi.com###floatingLayer
 po.baidu.com###shareBoxBlank
 8264.com##.zhidemaibox
