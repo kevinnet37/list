@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GP4849LFJVlik2GH3SmqCg
+! Checksum: mSFCZYhFV/ZlaVS1dxg6nQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807251230
-! Last Modified: 2018年07月25日 12:30
+! Version: 201807251900
+! Last Modified: 2018年07月25日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7370,9 +7370,14 @@ mg*.6park.com/img/$image
 ||sinaimg.cn^$domain=tiantianzhibo.com
 ||sinaimg.cn^$domain=04stream.tv
 ||taiwandaily.net/wp-content/uploads*_600x100.
+||boniu.b0.upaiyun.com^*.gif
 !------------------------Specific element hiding rules------------------------!
 tiantianzhibo.com###sliderb_container
+boniu6668.com##DIV[style="height:80px;margin-bottom:4px;"]
 tv110.com##.index_rank
+boniu6668.com##.left_side
+boniu6668.com##.right_side
+boniu6668.com##.td_item
 taiwandaily.net##DIV[class*="td_uid_79_"] > .wpb_wrapper > .wpb_wrapper
 taiwandaily.net##DIV[class*="td_uid_97_"] > .wpb_wrapper > .wpb_wrapper
 gpcxw.com###AA2
