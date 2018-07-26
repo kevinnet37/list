@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mRptnMpEtT5iBkDh/azA8w
+! Checksum: ou7l7VcXUNj0ft/ziPEanQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201807261700
-! Last Modified: 2018年07月26日 17:00
+! Version: 201807261730
+! Last Modified: 2018年07月26日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -13212,8 +13212,9 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##a[href^="http://yunbofangbt."]
 @@||baidu.com/js/opensug.js$domain=alicili.cc|btdigg.cc|btlibrary.cc|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.xyz|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.cc|zhongzifuli.ws|zhongzishenqi.net
 @@||unionsug.baidu.com^$domain=alicili.cc|btdigg.cc|btlibrary.cc|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.xyz|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.cc|zhongzifuli.ws|zhongzishenqi.net
-|http*://$script,third-party,xmlhttprequest,domain=alicili.cc|btdigg.cc|btlibrary.cc|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.xyz|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.cc|zhongzifuli.ws|zhongzishenqi.net
+|http*://$script,subdocument,third-party,xmlhttprequest,domain=alicili.cc|btdigg.cc|btlibrary.cc|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.xyz|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.org|storebt.cc|storetorrents.com|torrentsearchweb.pw|zhongzicili.cc|zhongzifuli.ws|zhongzishenqi.net
 ||0377shujuhuifu.top^
+||startui19999.com^
 ||0531mnk.net^
 ||2013sh.com^
 ||210189.com^
