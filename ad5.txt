@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3/+JwtAb8tfqvqtzBBbUeA
+! Checksum: GipH+aHLTeuSToS+wUDPWA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807281830
-! Last Modified: 2018年07月28日 18:30
+! Version: 201807281930
+! Last Modified: 2018年07月28日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7366,6 +7366,12 @@ mg*.6park.com/img/$image
 ||alicdn.com/openad/dsp-front-booth/
 !------------------------Specific element hiding rules------------------------!
 yicai.com##.dfb-ad
+3dmgame.com##.tonglona_1
+3dmgame.com##.tonglona_2
+3dmgame.com##.tonglona_3
+3dmgame.com##.tonglona_4
+3dmgame.com##.Tonglan
+3dmgame.com##DIV[style="width:346px;height:226px; overflow: hidden;  margin-bottom: 20px;"]
 gpcxw.com###AA2
 th7.cn##.main > .mb5
 yahoo.com###ACT_crazy
@@ -14940,6 +14946,8 @@ _300_250.
 ||sinaimg.cn/finance/app2018/js/appbar.js
 ||pinggu.org/api/bbsgg.
 ||025yimei.com/templets/default/js/swt.js
+||douyucdn.cn/app/douyu/activity/js/richMan/
+||jianshe99.com/lamu/
 !------------------------Specific element hiding rules------------------------!
 gmw.cn###ysp_gmrbAppLayer
 douyu.com##.summer_enter
