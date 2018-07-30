@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oqMe54PktpTxHo5pWxbfvQ
+! Checksum: HN1R7N/7Yv2/S4yjqKji0w
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807301000
-! Last Modified: 2018年07月30日 10:00
+! Version: 201807301200
+! Last Modified: 2018年07月30日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6612,7 +6612,6 @@ mg*.6park.com/img/$image
 ||talkfx.net/showTKImg?
 ||taobaocdn.com^$domain=z63.org
 ||taobaocdn.com^$image,domain=cnblogs.com
-||taodake.com/taodake_img/Images/union/
 ||taoguba.com.cn/js/tgbduilian
 ||taoguba.com.cn/res/libs/tgbxc.js
 ||taoy7.info/img/sou/*.gif
@@ -8539,7 +8538,7 @@ showtv.com.tw###sub-ad
 265g.com###swiper-bot
 yxdown.com###sy
 windowszj.com###system_type
-tom365.com,tw116.com###t365
+tw116.com###t365
 voicetube.com###tab-ad-site
 sogou.com###tab857
 ezvivi.com###table1[width="336"]
@@ -9781,7 +9780,7 @@ cpbl.com.tw##.gap_t10
 so.com##.garllery_ad
 115.com##.gb-advs
 qzone.qq.com##.gb-bill-area
-1kkk.com,40407.com,5068.com,88148.com,chazidian.com,china.com,cnwnews.com,dhzw.org,elecfans.com,ghjie.com,ifeng.com,iqilu.com,jj59.com,juqingba.cn,qzwb.com,sina.com.cn,taodake.com,tianya.cn,zsnews.cn##.gg
+1kkk.com,40407.com,5068.com,88148.com,chazidian.com,china.com,cnwnews.com,dhzw.org,elecfans.com,ghjie.com,ifeng.com,iqilu.com,jj59.com,juqingba.cn,qzwb.com,sina.com.cn,tianya.cn,zsnews.cn##.gg
 elecfans.com##.gg-01
 morningpost.com.cn##.gg-2
 baidu.com##.gg-content
@@ -11654,7 +11653,6 @@ muchong.com##div[onclick^="location.href='http://muchong.com/bbs/a"]
 tuwan.com##div[style$="height:90px;"]
 baike.com##div[style$="text-align:center; width: 1000px;"]
 avonline.org##div[style$="width:570px;margin-left:50px;"]
-taodake.com##div[style$="width:960px; height:60px;"]
 cq.qq.com##div[style*="1000"][style*="60"]
 25xz.com##div[style*="1002px;"]
 39.net##div[style*="300"][style*="250"]
@@ -12073,6 +12071,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||mediav.com/js/interactive_plugin.js$domain=v.360kan.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
@@ -18165,7 +18164,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /pageview?user_guid=
 /pageviews-counter-
 /pageviews.gif?
-/pageviews/*$domain=~tools.wmflabs.org
+/pageviews/*$domain=~stats.wikimedia.org|~tools.wmflabs.org
 /pageviews?token=
 /pageviews_counter.
 /PageviewsTracker.
@@ -18461,6 +18460,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /reporting/analytics.js
 /RequestTrackerServlet?
 /RequestVideoTag.
+/request_tracker+
 /res/x.gif?
 /resmeter.js
 /resourcestat.
@@ -18885,6 +18885,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tag/tag.jsp?
 /tagCNIL.js
 /TagCommander.cfc?
+/tagcommander.js
 /tagcommander/*
 /tagmanager/pptm.
 /tagmgmt/bootstrap.
@@ -18942,6 +18943,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /token?referer=
 /tongji.js
 /tools/analytics/*
+/top_tagcommander+
 /topic_beat_log?
 /topic_page_timer?
 /toplytics.js
@@ -24038,7 +24040,7 @@ _mongo_stats/
 ||cnt.mastorage.net^
 ||cnzz.com/stat.
 ||coinbase.com/assets/application-*.js$third-party
-||collect.igodigital.com^
+||collect.igodigital.com^$script
 ||collect.rewardstyle.com^
 ||collection.acromas.com^
 ||collector-*.elb.amazonaws.com^$image,third-party
