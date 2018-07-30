@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AkW2KLUYV4Wz3dn7wo6qAw
+! Checksum: QC0OHNvBU215810efecg8A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807301930
-! Last Modified: 2018年07月30日 19:30
+! Version: 201807302200
+! Last Modified: 2018年07月30日 22:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17684,6 +17684,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /js_logger.
 /js_tracker.
 /jscounter.
+/jserrLog?
 /jslogger.php?ref=
 /json/stats?
 /json/tracking/*
@@ -18499,6 +18500,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /rolluptracker_
 /rot_in.php
 /rpc/log?
+/rpc/preccount?
 /rr/t?step=
 /rsya-tag-users/*
 /rt_tag.
@@ -19417,6 +19419,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /visualsciences.
 /visualsciences_
 /visualstat/stat.php
+/vjslog?
 /vmtracking.
 /vpstats.
 /vptrack_
@@ -19694,6 +19697,7 @@ _adcenterconversion.
 _Analytics.js?
 _analytics.php?
 _artcl_log/
+_assets/metrics-
 _astatspro/
 _audience_pixel.
 _baynote.
@@ -23377,10 +23381,13 @@ _mongo_stats/
 ||sambaads.com^$third-party
 ||tailtarget.com^$third-party
 ||trugaze.io^$third-party
+||2parale.ro^$third-party
+||2performant.com^$third-party
 ||best-top.ro^$third-party
 ||gtop.ro^$third-party
 ||hit100.ro^$third-party
 ||profitshare.ro^$third-party
+||retargeting.biz^$third-party
 ||statistics.ro^$third-party
 ||top-ro.ro^$third-party
 ||trafix.ro^$third-party
@@ -25045,7 +25052,7 @@ _mongo_stats/
 ||shareit.com/affiliate.html$third-party
 ||sharethis.com/increment_clicks?
 ||sharethis.com/pageviews?
-||shopify.com/storefront/page?*&eventType=
+||shopify.com/*/page?*&eventType=
 ||shoplocal.com/it.ashx?
 ||sig.atdmt.com^
 ||sig.gamerdna.com^$third-party
@@ -26184,6 +26191,7 @@ _mongo_stats/
 ||service-stat.tbn.ru^
 ||sishik.ru/counter.php?
 ||stainlesssteel.ru/counter.php?
+||stascorp.com/stat/
 ||stat-22.medialand.ru^
 ||stat-counter.tass-online.ru^
 ||stat.eagleplatform.com^
