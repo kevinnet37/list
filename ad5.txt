@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: y4fRb/5p4FjJOOeS7JC/EQ
+! Checksum: DWOqW4flse/c1pS1K5Aftw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807310000
-! Last Modified: 2018年07月31日 00:00
+! Version: 201807310730
+! Last Modified: 2018年07月31日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15844,6 +15844,7 @@ weibo.com##.apps_PCD_reco_detail_right
 &ctxId=*&pubId=*&clientDT=
 &ctxId=*&pubId=*&objId=
 &event=view&
+&funnel_state=
 &http_referer=$script
 &pageReferrer=
 &ref=*&tag=
@@ -17907,6 +17908,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /measure/spring.
 /measure/visit/*
 /media_viewed_tracking.
+/mediametrie.js
 /mediateGA.js
 /megacounter/*
 /mendelstats.
@@ -19648,6 +19650,7 @@ weibo.com##.apps_PCD_reco_detail_right
 =get_preroll_cookie&
 =getSideStats&
 =googleanalytics_
+=metrics_profile&
 =stats&action=
 =stats&apiVersion=
 =track_view&
@@ -21144,6 +21147,8 @@ _mongo_stats/
 ||market2lead.com^$third-party
 ||marketizator.com^$third-party
 ||marketo.net^$third-party
+||marketshot.com^$third-party
+||marketshot.fr^$third-party
 ||markitondemand.com^$third-party
 ||martianstats.com^$third-party
 ||maryneallynndyl.com^$third-party
@@ -24679,6 +24684,7 @@ _mongo_stats/
 ||m.addthisedge.com^$third-party
 ||m.trb.com^
 ||m30w.net/engine/$image,third-party
+||madmimi.com/view?id=$image
 ||magnify.net/decor/track/
 ||magnify360-cdn.s3.amazonaws.com^
 ||mail-app.com/pvtracker/
