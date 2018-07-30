@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JmWL9C+Z9qoxVZc/TOw2Lg
+! Checksum: 7pKfEBbptt7g6vbLr0NzLw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807301200
-! Last Modified: 2018年07月30日 12:00
+! Version: 201807301600
+! Last Modified: 2018年07月30日 16:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1184,6 +1184,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||gowin01.com^
 ||zx573.cn^
 ||ssmuse1314.cn^
 .cc/s.php?id=$script,third-party
@@ -14974,6 +14975,7 @@ _300_250.
 .com/ads_
 ! CJX's Annoyance List
 !--------------------------General blocking filters---------------------------!
+/live800.
 =Ad_ZPlusGoods&
 /source/plugin/yw_alertlogin/*
 -bobo_recommend_
@@ -15254,7 +15256,11 @@ _300_250.
 ||025yimei.com/templets/default/js/swt.js
 ||douyucdn.cn/app/douyu/activity/js/richMan/
 ||jianshe99.com/lamu/
+||eic.org.cn/api/Popup?
 !------------------------Specific element hiding rules------------------------!
+eic.org.cn##.lx-btm-box
+4399.com###ad1
+4399.com###ad2
 gmw.cn###ysp_gmrbAppLayer
 douyu.com##.summer_enter
 study.163.com###j-newpeople
