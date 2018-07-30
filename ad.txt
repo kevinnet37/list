@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: M2k/wWfyXkAV1g2jsUGG5g
+! Checksum: i/0AMSzmOT/qf12VjRY7iQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807302330
-! Last Modified: 2018年07月30日 23:30
+! Version: 201807310000
+! Last Modified: 2018年07月31日 00:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7674,8 +7674,13 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||files.jb51.net/image/
+||159i.com/p/b201u502y.js
+||sinaimg.cn^$domain=pond.tk
+||4438x9.com/7738/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cnbeta.com##A[href^="https://915.im/"]
+159i.com##A[href*=".aiai69.com/"]
 baidu.com##.ad-vip-close
 baidu.com##.ad-vip-close-bottom
 yahoo.com###ACT_crazy
@@ -12380,6 +12385,7 @@ i-cable.com#@#.video_ad
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+159i.com#@#.adsBox
 !---------------------------------URL Whitelist-------------------------------!
 @@||jb51.net/good/ssoft.js
 @@||jb51.net/skin/js/jquery.js
