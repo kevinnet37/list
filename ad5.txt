@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +BQOLstdpB+q9jZEu3RvpQ
+! Checksum: 67dii8Ajb5EfGRnyYHZp+g
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807301600
-! Last Modified: 2018年07月30日 16:00
+! Version: 201807301630
+! Last Modified: 2018年07月30日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -5480,8 +5480,6 @@ mg*.6park.com/img/$image
 ||javhub.net/img/r18_banner1.jpg
 ||javjunkies.com/FL$subdocument
 ||javmoo.top/wp-content/uploads/2018/07/4e58188ff528dea.gif
-||jb51.net/image/idcjb51_1000.gif
-||jb51.net/image/jb100.jpg
 ||jb51.net/imgby/logo_
 ||jb51.net^$script,domain=~tools.jb51.net
 ||jb51.net^*Loader.js
@@ -7364,6 +7362,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||files.jb51.net/image/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 baidu.com##.ad-vip-close
@@ -12071,6 +12070,8 @@ bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
+@@||jb51.net/good/ssoft.js
+@@||jb51.net/skin/js/jquery.js
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@||mediav.com/js/interactive_plugin.js$domain=v.360kan.com
 @@.adserver.$domain=litv.tv
