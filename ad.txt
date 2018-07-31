@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZB84Y5HaaoR6abCxFgo77A
+! Checksum: fSFM+k1YzsyoQZ8R68r/FQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807311930
-! Last Modified: 2018年07月31日 19:30
+! Version: 201807312000
+! Last Modified: 2018年07月31日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1159,7 +1159,10 @@ _xiuno_com_ad/
 ##a[href^="http://ad.moemoe."]
 ##a[href^="http://go.gotourl.xyz/"]
 ##a[href^="http://pic.gunqiu.com/"]
-##a[href^="http://www.upupoo.com/?"]
+##A[href^="http://www.upupoo.com"]
+##a[href^="http://fa999.cn/"]
+##A[href^="http://www.elfdoll.cn/?="]
+##A[href="https://t.cn/Rr4eSOx"]
 ##a[href^="https://hi.potvpn.com/?from="]
 ##body[class|="view"] > .ad-box
 ##body[onload*="u()"] > #x
