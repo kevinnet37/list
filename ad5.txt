@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DWOqW4flse/c1pS1K5Aftw
+! Checksum: iTbzPPSQLHrA5LRNhR0TZA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807310730
-! Last Modified: 2018年07月31日 07:30
+! Version: 201807310800
+! Last Modified: 2018年07月31日 08:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -24151,6 +24151,7 @@ _mongo_stats/
 ||d.rcmd.jp^$image
 ||d.shareaholic.com^
 ||d10lpsik1i8c69.cloudfront.net^
+||d11a2fzhgzqe7i.cloudfront.net^
 ||d169bbxks24g2u.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
@@ -24630,6 +24631,7 @@ _mongo_stats/
 ||link.huffingtonpost.com^$third-party
 ||link.indiegogo.com/img/
 ||link.informer.com^
+||link.tym.cool^
 ||linkbucks.com/visitScript/
 ||linkedin.com/emimp/$image
 ||linkwithin.com/pixel.png
@@ -29846,6 +29848,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 @@||app.instapage.com/ajax/$xmlhttprequest
 @@||app.link/_r?sdk=*&callback=$script,domain=npr.org
 @@||arcgis.com^*/heatmap.js
+@@||archive.softwareheritage.org^*/stat/counters/$xmlhttprequest
 @@||arkadiumhosted.com^*/google-analytics-logger.swf$object-subrequest
 @@||arstechnica.com/services/incr.php?*=interactions.adblock-annoy.click$xmlhttprequest
 @@||atdmt.com/ds/yusptsprtspr/
