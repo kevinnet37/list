@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MFXW3UbErVEEBkWGInHn9w
+! Checksum: sHFEaPEVan7L3AyP/Y1/Gw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201807312030
-! Last Modified: 2018年07月31日 20:30
+! Version: 201807312100
+! Last Modified: 2018年07月31日 21:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -20916,6 +20916,7 @@ _mongo_stats/
 ||i-stats.com^$third-party
 ||i401xox.com^$third-party
 ||iadvize.com^$third-party
+||iaudienc.com^$third-party
 ||ib-ibi.com^$third-party
 ||ibpxl.com^$third-party
 ||ibpxl.net^$third-party
@@ -24305,6 +24306,7 @@ _mongo_stats/
 ||dufue2m4sondk.cloudfront.net^
 ||duu8lzqdm8tsz.cloudfront.net^
 ||dw.cbsi.com^$script
+||dw.cbsi.com^*/e.gif$image
 ||dw.cbsimg.net^$script
 ||dw.com.com^$script
 ||dxwgpw0lkcum5.cloudfront.net^
@@ -28597,6 +28599,7 @@ _mongo_stats/
 ||wallcannrewards.com^*/index.php?
 ||walletpop.com/track/
 ||wallpaperstock.net/partners.js
+||walmart.com/tealeaf
 ||warp.prnewswire.co.uk^
 ||washingtonpost.com/notification-sw.js
 ||washingtonpost.com/rw/sites/twpweb/js/init/init.track-header-1.0.0.js
