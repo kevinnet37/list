@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sQpCasWYtPzULwC31Oj4Rw
+! Checksum: ZB84Y5HaaoR6abCxFgo77A
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201807311800
-! Last Modified: 2018年07月31日 18:00
+! Version: 201807311930
+! Last Modified: 2018年07月31日 19:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1184,6 +1184,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||oa-panther.data.aliyun.com^$third-party
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -6300,7 +6301,6 @@ mg*.6park.com/img/$image
 ||nxing.cn/uploads/uploads/*-size1220x
 ||nz04com.com/aabdd/
 ||o80wi1ajq.bkt.clouddn.com^
-||oa-panther.data.aliyun.com^
 ||oa.hinews.cn/work/img/
 ||ofweek.com/img/proimage/2017/osl
 ||ofweek.com/pop/ad/
@@ -14468,6 +14468,7 @@ dj92cc.com,tingqq.com#@#.share_list
 @@/urchin.js$domain=on.cc
 @@=mm_12852562_1778064_$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
 @@=mm_33231655_8000000_$domain=www.taobao.com
+@@||tianxun.com/min/f=
 @@||126.net/images/blank.gif
 @@||7m.cn/v2/js/analyse.js
 @@||adidasoriginals-lookbook.com.tw/js/adtracking.js
