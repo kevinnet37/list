@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UtZAc9FBv3DzbKcIaT92VQ
+! Checksum: Jxs3KYe4yr0lx9RP4pM9qw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808021130
-! Last Modified: 2018年08月02日 11:30
+! Version: 201808021200
+! Last Modified: 2018年08月02日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7677,6 +7677,7 @@ mg*.6park.com/img/$image
 ||tiimg.com/594374/196210beb7cb66da.gif
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+tiboo.cn###read_hd1
 82tu.cc##.infoad
 82tu.cc##.banner + A
 yahoo.com###ACT_crazy
@@ -8569,7 +8570,6 @@ emu999.net,webjx.com###middleimg
 xici.net###middoc
 hao123.com###mingzhanresource
 hk.yahoo.com###mntl1
-topsage.com###model
 so.com###mohe-etao_shangye
 so.com###mohe-m-smzdm_haojia
 so.com###mohe-medicine_sy > .cont
@@ -8992,7 +8992,6 @@ iu91.co,sejie.com,sejie3.us,ukhuaren.co###wp > center > a
 528500.com###wp > div[align="center"]
 chcj.net,yixingjia.com###wp > table[width="960"]
 isso.com.cn###wqd1496213529829serial
-taoguba.com.cn###wrap_footer > div[style*="960"]
 ganpapa.com###wrapper + div
 gdzjdaily.com.cn###wrapper > div[style^="margin-top:6px;"]
 wuleba.com###wulebashowcpc
@@ -9602,7 +9601,6 @@ jinhua.com.cn##.banner935
 iqiyi.com##.banner980
 niutuku.com,sina.cn##.bannerAD
 afzhan.com##.bannerAdv
-tiboo.cn##.bannerD
 www.3dmgame.com##.banner_1
 qq.com##.banner_1111
 3dmgame.com##.banner_2
@@ -10476,7 +10474,6 @@ hkwb.net##.leftadv2
 hao123.com##.leftbanner
 muzhi.baidu.com##.leftnest
 ifeng.com##.leftpopad
-topsage.com##.leftrightbox
 zimuku.cn,zimuku.net##.li[style^="width:8"]
 lywww.com##.lianmengclass
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.life_helper
@@ -11470,7 +11467,6 @@ brushes8.com##.zjianad
 qinbing.cn##.zjlmad
 jqzb.com.cn##.zk_xf
 91danji.com##.zlVideTowNav
-taihainet.com##.zlhz-show
 biz.zjol.com.cn##.zsFooterBox + .close
 efu.com.cn##.zs_banner_a
 srzc.com##.zt_tonglang1
