@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EAAdngEB1PLVGSKtlzla/A
+! Checksum: khssR0IPNUgPy/Puu/Hl2g
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201808021400
-! Last Modified: 2018年08月02日 14:00
+! Version: 201808022300
+! Last Modified: 2018年08月02日 23:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -607,7 +607,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
 @@||baidu.com/js/opensug.js$domain=alicili.cc|btdigg.cc|btlibrary.xyz|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.cc|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.cc|storebt.co|storetorrents.com|torrentsearchweb.pw|zhongzicili.xyz|zhongzifuli.ws|zhongzishenqi.net
 @@||unionsug.baidu.com^$domain=alicili.cc|btdigg.cc|btlibrary.xyz|cilidaquan.cc|cilidb.net|cilifanhao.xyz|cnbtkitty.cc|cnbtspread.xyz|cntorrentkitty.com|diggbts.org|savebt.cc|storebt.co|storetorrents.com|torrentsearchweb.pw|zhongzicili.xyz|zhongzifuli.ws|zhongzishenqi.net
-@@||libs.baidu.com^$domain=23wxx.com|m.23zw.me|m.80txt.com|m.bichi.me|m.biquge.cm|m.biquge.info|m.biqukan.com|m.bxwx9.org|m.pbtxt.com|m.shuquge.com|m.wenxuem.com
+@@||libs.baidu.com^$domain=m.23us.so|23wxx.com|m.23zw.me|m.80txt.com|m.bichi.me|m.biquge.cm|m.biquge.info|m.biqukan.com|m.bxwx9.org|m.pbtxt.com|m.shuquge.com|m.wenxuem.com
 zhidao.baidu.com#@#.share-area
 baidu.com#@#.share-line
 baidu.com#@#.share-list
