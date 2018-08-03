@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2f/ygi3x0Uc6iN1FHIZE7A
+! Checksum: G2u6ys/nX1yAzYdDigZUXg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808030800
-! Last Modified: 2018年08月03日 08:00
+! Version: 201808030830
+! Last Modified: 2018年08月03日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -126,6 +126,9 @@ tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
+.com/logo/ad.js
+.com/logo/logo.js
+.com/logo/logoxia.js
 -880-80-4.jpg
 .bid/ads/
 .bid/static/js/aall.js
@@ -3110,7 +3113,6 @@ mg*.6park.com/img/$image
 ||11vvt.com^*tools/
 ||120.27.*.html
 ||120.27.34.156^
-||1200df.com/logo/
 ||120askimages.com/ask/js/*x.js
 ||120askimages.com/ask/js/askfrom.js
 ||120askimages.com/ask/js/q
@@ -3307,7 +3309,6 @@ mg*.6park.com/img/$image
 ||2zzt.com/images/
 ||310v.com/images/lingdai.gif
 ||310v.com/images/wap_520x60.gif
-||3123df.com/logo/
 ||3134.cc/img/20170508.jpg
 ||3155.com/js/ifile
 ||315che.com/tree/ad.js
@@ -7362,8 +7363,11 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||yundaquan.com/data/attachment/portal/
+||yxdown.com/zt/zt/js/zt.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+hexieshe.cn##A[href^="http://zd.zhiketong.cn/"]
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
