@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 84q3xUj6rG+GV36RxEaJzQ
+! Checksum: oaeL8EO5N5cpVbYT/hjD9w
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808031130
-! Last Modified: 2018年08月03日 11:30
+! Version: 201808031300
+! Last Modified: 2018年08月03日 13:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -3252,7 +3252,6 @@ ubmcmm.baidustatic.com
 /baha/*$subdocument,domain=gamer.com.tw
 /banner.js$domain=28188.com|28188.net
 /banner/*$domain=dolc.de|dolc.info|leiphone.com
-/bannerpic/*$domain=uopera.net
 /biz_icon/*$domain=cs090.com|wm090.com
 /cari/banner/*
 /cari/daybanner/*
@@ -7071,8 +7070,6 @@ mg*.6park.com/img/$image
 ||udn.com^*/ad/
 ||uedfa.net/Static/imgs/affiliate/
 ||uho.com.tw^$subdocument
-||uisdc.com/wp-content/*-250-
-||uisdc.com/wp-content/*-728
 ||ultraimg.com^$domain=18board.com|18p2p.com
 ||union.china.com.cn^
 ||union.yihaodian.com^
@@ -7677,6 +7674,9 @@ mg*.6park.com/img/$image
 ||yxdown.com/zt/zt/js/zt.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+51credit.com###leftLayerDown
+51credit.com##.credit-box
+51credit.com##.main-r-ka
 uisdc.com##.sidebar_left_1
 uisdc.com##.sidebar_left_2
 uisdc.com##.sidebar_left_3
@@ -8446,7 +8446,6 @@ e0575.com###img2
 image.baidu.com###imgCmsAdPart
 image.baidu.com###imgid > .fcimgpage
 54new.com###imgshow
-uisdc.com###index-tl-ad
 ydss.cn###indexBlad
 baidu.com###index_banner_top
 zongheng.com###index_game
@@ -8770,7 +8769,6 @@ youxi.kugou.com###scrollUp
 iqiyi.com###scrollWrap-vipbuy
 qlwb.com.cn###scroll_box
 kocpc.com.tw###scroll_div
-uisdc.com###sdcTopAD
 baidu.com###search-union-ad
 flighty.cn###searchBox + #sidebarBox
 duba.com###searchRight
@@ -8878,7 +8876,7 @@ moe-acg.cc,tumutanzi.com###text-3
 vjmedia.com.hk###text-33
 appcgn.com###text-4
 stoneip.info###text-57
-appcgn.com,uisdc.com###text-6
+appcgn.com###text-6
 htcui.com,sea-group.org###text-7
 acg18.us###text-html-widget-2 ~ .widget-box
 dsqnw.com###text-html-widget-9
@@ -11157,7 +11155,6 @@ yorkbbs.ca##.textNewsBorder
 henbt.com##.text_center > font:nth-of-type(-n+2)
 auto-online.com.tw##.text_links_h
 zhainanfulishe.net##.textwidget > a[href^="http"]:not([href^="http://www.zhainanfulishe."])
-uisdc.com##.textwidget > a[target="_blank"]
 maomaomom.com##.textwidget > table[width="1050"]
 zhujiceping.com##.tg-site
 alu.cn##.tg120x70
@@ -11386,7 +11383,6 @@ didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;lin
 web20share.com##.widget:nth-of-type(5)
 iplaysoft.com##.widget[style]
 fulibl.com##.widget_banner
-uopera.net##.widget_custom:last-child
 acg12.com##.widget_custom_html
 bzfl1.cc##.widget_cy_ad
 zhaiiker.com##.widget_index_add
@@ -11415,7 +11411,6 @@ wallstreetcn.com##.wscn-page-ad
 wenku.baidu.com##.wubai-wrap
 52pk.com##.wxbox
 taoguba.com.cn##.wz_ad
-uisdc.com##.wztopshow
 sina.cn##.xc_da
 autofan.com.cn##.xf_ad
 familydoctor.com.cn##.xg
@@ -12854,7 +12849,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||ttkdex.com^*ad$~third-party
 @@||tw.m.yimg.com/res/ads/$domain=tw.buy.yahoo.com
 @@||u9pan.com/images/ads/
-@@||ujinbi.com/AD/
 @@||ujinbi.com/UpLoadFile/guanggao/
 @@||v1.cn/player/cloud/cloud_player
 @@||valf.atm.youku.com/vf?site=1&rst=mp4&
