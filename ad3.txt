@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 34B/uQ5uhtDHb5hytMivXA
+! Checksum: 1gejCt86xcSIY0n4Owxpyw
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808040830
-! Last Modified: 2018年08月04日 08:30
+! Version: 201808040900
+! Last Modified: 2018年08月04日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7253,6 +7253,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+u-car.com.tw##.contad_text
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -9649,7 +9650,6 @@ smzdm.com##.g_g
 233.com##.gads
 233.com##.gads2
 lenovo.com.cn##.game
-u77.com##.game-ad-item
 zhanqi.tv##.game-banner
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.game-head-game-info-wrapper
 3g.cn##.gameCarousel
@@ -11225,7 +11225,6 @@ hc360.com##a[href^="http://e.cn.miaozhen.com/"]
 news.163.com##a[href^="http://g.163.com/"]
 moe-acg.cc##a[href^="http://game.moehuan.com/"] > img
 zhuhai.gd.cn##a[href^="http://hd.zhuhai.gd.cn/ad/"] > img
-uc.cn##a[href^="http://huichuan.sm.cn"]
 pconline.com.cn##a[href^="http://ivy.pconline."]
 acg18.us##a[href^="http://l.taptap.com/"]
 xigua110.com##a[href^="http://m.jiang.com/?"]
@@ -11895,7 +11894,6 @@ mx-fm.com,ts.21cn.com#@#.ad_img
 yxdown.com#@#.ad_l
 workercn.cn#@#.ad_main
 fxedu.com.cn#@#.ad_r
-uuuu.cc#@#.ad_top
 howbuy.com#@#.ad_wrapper
 hibox.hinet.net#@#.adarea
 china.com#@#.adclass
