@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YlU3bvYmTMVsWfYBLel+DA
+! Checksum: jN0fdNGELSZ02V6m8Ghv9A
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808041930
-! Last Modified: 2018年08月04日 19:30
+! Version: 201808042300
+! Last Modified: 2018年08月04日 23:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7669,6 +7669,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||videospeedy.com/myimg/
 ||ruiwen.com/js/a/p.js
+||img.doub.pw^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 vs.cm##SECTION[id^="ad_"]
@@ -12368,6 +12369,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||img.doub.pw/*/
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
@@ -12402,6 +12404,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/advertisement.js$domain=fharr.com|gimhoy.com
 @@/advertisement/*$domain=cits.cn|ininin.com|midea.com|muyingzhijia.com|yxjc.13322.com
 @@/advertisement_ads_$domain=tahua.net
+@@/advertisement_ads_$domain=pdawiki.com
 @@/advertising/*$domain=315.sh.cn|houdask.com
 @@/adverts/*$domain=onlychild.cn
 @@/adview_pic_$domain=123564.com|2hanju.com|lingjike.com|mahua.com|mh160.com|reh.tw|xiaoz.me|ygo-sem.cn|ykit.cn
