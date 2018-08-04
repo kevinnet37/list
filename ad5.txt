@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ufHt3AeUjiAT4k9mYlyg7Q
+! Checksum: LuIY6p+ptRJInwiqzkcawA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808041100
-! Last Modified: 2018年08月04日 11:00
+! Version: 201808041130
+! Last Modified: 2018年08月04日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6796,7 +6796,7 @@ mg*.6park.com/img/$image
 ||v2ex.co/Kc9G5j9Y.gif
 ||v4.cc/m/common.js
 ||v4dwkcv.com/html/click/
-||v5bjq.com/Images/ggImg/$~collapse
+||v5bjq.com/Images/aimg/$~collapse
 ||v8gay.com/apps/misc.php?action=advert&
 ||vanpeople.com/images_site/adb/
 ||vansky.com/agdg/homegg/
@@ -6831,9 +6831,7 @@ mg*.6park.com/img/$image
 ||vodtw.com/m-
 ||vpszt.com/images/bbssidebar/
 ||vriooi.com/web/ad/ad.js
-||vsimg.com/h2.js
 ||vsimg.com/jd.gif
-||vsimg.com/yt2.gif
 ||vuejs.org/images/geekbang
 ||vupload.duowan.com^
 ||vvvdj.com/sms/
@@ -11423,7 +11421,6 @@ gywb.cn##div.bill-box1.mb5
 cq.qq.com##div.clearfix[style*="1000"]
 weibo.com##div[ad-data]
 toutiao.com##div[ad_name]
-vs.cm##div[align="center"] > script + a[href^="http"]
 tw.stock.yahoo.com##div[align="center"][style="height:90px"]
 zongheng.com##div[alog-group="index_04_game"]
 anjuke.com##div[class$="-ad"]
@@ -20210,6 +20207,7 @@ _mongo_stats/
 ||beanstock.com^$third-party
 ||bebj.com^$third-party
 ||beeftransmission.com^$third-party
+||beemray.com^$third-party
 ||beemrdwn.com^$third-party
 ||beencounter.com^$third-party
 ||behavioralengine.com^$third-party
