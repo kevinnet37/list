@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OMleB3yfzIj+hHLFmwZahA
+! Checksum: UZ+/E1XSwQHf6kIUVdshNA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808060730
-! Last Modified: 2018年08月06日 07:30
+! Version: 201808060830
+! Last Modified: 2018年08月06日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -590,7 +590,7 @@ _xiuno_com_ad/
 ##.anniversary-wrap-2018
 ##.artad
 ##.assort-ad
-~winba.me##.baiduad
+##.baiduad
 ##.banner-ad-section
 ##.banner-site
 ##.bdyp-sygg-ul
@@ -6772,9 +6772,6 @@ mg*.6park.com/img/$image
 ||whsfzx.com/jj/
 ||win007.com/mn/
 ||win2008.info/gongy.gif
-||winba.me/wp-content/uploads/*/300x300.
-||winba.me/wp-content/uploads/*/QQ%
-||winba.me/wp-content/uploads/2015/10/image.jpg
 ||windows.net/script/p.js
 ||windows7en.com/160805/31-160P5004509403.gif
 ||windows7en.com/images/
@@ -7673,7 +7670,6 @@ jb51.net###contbot
 biquge001.com,fuliba.net###content > a
 fuliba.net###content > div:first-child > a:first-child:last-child
 go-gddq.com###content > div[style="float: Right;"]
-winba.me###content > p:first-child
 fuliba.net###content > ul[style="list-style-type: none;"]
 yes-news.com###content-728
 yes-news.com###content-728-top
@@ -12418,7 +12414,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||worldssl.net/wp-content/themes/mts_ad_sense/js/ads.js
 @@||wowsai.com/data/files/ad/
 @@||woxiu.com/xapi/offsite_swf_more.php?*&type=
-@@||wubisheng.net/style/pagead.js
+@@||wubisheng.net^*.js
 @@||wuyou.com.cn/Js/ad.js
 @@||wx.qq.com/mmbizwap/*.js,
 @@||wzjzfw.com/player/*&showAd=
