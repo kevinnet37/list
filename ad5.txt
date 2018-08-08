@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GwgvEKJLZqWqMIecbmfOFQ
+! Checksum: HCJeOy2py2XXK3BqcmQVWQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808081030
-! Last Modified: 2018年08月08日 10:30
+! Version: 201808081130
+! Last Modified: 2018年08月08日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6844,7 +6844,7 @@ mg*.6park.com/img/$image
 ||webfly.bid/images/bill960x90.gif
 ||webjx.com/zanzhushang/
 ||webkaka.com*/click/$image
-||webkaka.com/script/duilian_
+||webkaka.com/script/cp.js
 ||weeiy.com/wp-content/uploads/2013/12/2345ie.jpg
 ||wehefei.com/htmlphp/tmall/
 ||wei2008.com/js/*0.
@@ -7329,6 +7329,7 @@ mg*.6park.com/img/$image
 ||to8to.com/api/ggdata.
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+webkaka.com##TD[id$="_SPONSOR"]
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -7818,7 +7819,6 @@ mydrivers.com###dangbei_down
 ytbbs.com###dd1
 sogou.com###detailRightAd
 stockstar.com###dhwzl
-weather.com.cn###di_tan
 141hongkong.com###dialog
 chinanews.com###dingtong
 3boys2girls.com###displayadb1
@@ -8038,7 +8038,6 @@ he-games.com###he_bottom_ad
 1ydt.com###head
 bbs.xinjs.cn,opticsky.cn###head > .tac
 gaoqing.la###head > a
-webkaka.com###head > div[style="padding-top:2px !important;padding-top:5px;"]
 elecfans.com###headJf
 tbxt.com###headad2
 solidot.org###headads
@@ -8656,7 +8655,8 @@ gaokao.com###xuad-left
 qhnews.com###xwyc
 redocn.com###yc_adv_1_2
 house.qq.com###yf
-webkaka.com###yhtools + .ucontent
+webkaka.com##.pNavigateAd
+webkaka.com##.ucontent[style="padding-top:8px;padding-bottom:8px;"]
 rjfcxxw.com###yimao > div[style]
 starbaby.cn###yindex_ads
 hao123.com###yixing-siye
@@ -8674,7 +8674,6 @@ gzmama.com###zone_index_fullcolumn_2
 gzmama.com###zone_left_couplet
 gzmama.com###zone_right_couplet
 gzmama.com###zone_top_fullcolumn
-weather.com.cn###zu_dui
 jyacht.com###zy_topgg2
 jyacht.com###zyc1r_03
 jyacht.com###zyc1r_05
