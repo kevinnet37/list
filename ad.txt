@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JMGqN2uagRiGSzcNiCs5Hw
+! Checksum: 4i3T6sxxmtJqQfJaTBhYJA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808081000
-! Last Modified: 2018年08月08日 10:00
+! Version: 201808081030
+! Last Modified: 2018年08月08日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -4902,7 +4902,7 @@ mg*.6park.com/img/$image
 ||dospy.com/hezuo/
 ||dota2.uuu9.com^$subdocument
 ||doub.io/wp-content/uploads/
-||doub.pw/abc/
+||doub.pw/ss-jc23/
 ||douban.com/?unit=dale_movie_trailer_after_play&
 ||douban.com/view/dale-online/dale_ad
 ||douban.com^*/fm_bgad.js
@@ -5660,7 +5660,6 @@ mg*.6park.com/img/$image
 ||img.90bfw.com^*.gif
 ||img.9duw.com^
 ||img.china.alibaba.com/img/ibank/$domain=bbs.fobshanghai.com
-||img.doub.pw^
 ||img.eol.cn/images/ed/$~image
 ||img.hexun.com*/wszj/js.js
 ||img.ifeng.com/tres/html/
@@ -12622,7 +12621,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||imagesrv.adition.com^$domain=download.mokeedev.com
 @@||imasdk.googleapis.com/js/sdkloader/$domain=download.mokeedev.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|now.com|udn.com|xuite.net
-@@||img.doub.pw/*/
 @@||img.ybbbs.com/2014/*app
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||itc.*^prod=ad&$domain=ttkyy.net|wlbgt.com
@@ -14955,6 +14953,7 @@ _300_250.
 ###appqrcode
 ###bottomApp
 ##.s.u.m.o.me.scrollbox-popup
+###bottom_qr_code
 !-----------------------------Union&third-party-------------------------------!
 ||live800.com^$third-party
 ||mylikechat.com^$third-party
@@ -15212,6 +15211,8 @@ _300_250.
 ||tuyiyi.com/tuyiyi/m.js
 ||tianyaui.com/cms_fragments/res/*/bbs_include_mod.js
 !------------------------Specific element hiding rules------------------------!
+to8to.com##.common-tender-wrapper
+to8to.com##.bottom_slide_box
 stc.gov.cn###mov
 uisdc.com##.archive-pm-top
 uisdc.com##.post-pm-content
