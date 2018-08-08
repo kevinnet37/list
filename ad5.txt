@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xlXnBts9bJ8xYsdgLFImkg
+! Checksum: qEpmN5Svi07VrQs+XixV+Q
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808081300
-! Last Modified: 2018年08月08日 13:00
+! Version: 201808081530
+! Last Modified: 2018年08月08日 15:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -15811,7 +15811,6 @@ weibo.com##.apps_PCD_reco_detail_right
 -analitycs/metrica.
 -analytics-tagserver-
 -analytics-wi.
--analytics.files.
 -analytics/insight.
 -appanalytics-
 -asset-tag.
@@ -24439,7 +24438,6 @@ _mongo_stats/
 ||fastcounter.bcentral.com^
 ||fastcounter.onlinehoster.net^
 ||fastly.net/collect?
-||fastly.net/i?
 ||fbpixel.network.exchange^
 ||feed.informer.com/fdstats
 ||feedblitz.com/imp?$third-party
@@ -30107,7 +30105,6 @@ $csp=worker-src 'none',domain=300mbfilms.co|alltube.pl|alltube.tv|animeteatr.ru|
 @@||faostat3.fao.org^*/google-analytics-manager.js
 @@||fccbrea.org^*/swfaddress.js
 @@||fifa.com^*/webanalytics.js?
-@@||files.bbci.co.uk/echo-client-js/$script
 @@||firstdirect.com^*/logging-code.js
 @@||fitloop.co/packages/GAnalytics.js?
 @@||flagshipmerchantservices.com/clickpathmedia.js
