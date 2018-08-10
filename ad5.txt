@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bQJXHVRUoj7y++xySRPxUg
+! Checksum: IS2GGDSALHglIMk+C1EZag
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808101000
-! Last Modified: 2018年08月10日 10:00
+! Version: 201808101030
+! Last Modified: 2018年08月10日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -127,6 +127,7 @@ tieba.baidu.com##.tuijian-wrap
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
 -880-80-4.jpg
+/ggdata1.
 .bid/ads/
 .bid/static/js/aall.js
 .cc/js/ads/
@@ -869,6 +870,7 @@ _xiuno_com_ad/
 ##img[src*=".sinaimg."][style="width:1025px;height:80px"]
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #rbbox
+###ad08
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
@@ -6836,7 +6838,6 @@ mg*.6park.com/img/$image
 ||wangjing.cn*/upload/com/
 ||wangjing.cn/iframe/zhounian.php?
 ||wangjing.cn/images/js/YlFloat.js
-||wangjing.cn/upload/ftp/ad/
 ||wanmcy.com/toolsda/
 ||wanwan.sina.com.cn/third_party/
 ||wanyx.com/Public/js/cqby.swf
@@ -7333,6 +7334,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||whinfo.net.cn/js/adDuiLian_
 ||whinfo.net.cn/js/fly_right.js
+||cnr.cn/s?z=
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 ttmeiju.vip##DIV[style^="margin-top:2"]
