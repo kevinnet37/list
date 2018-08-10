@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0d6Pn8uPPCFUZkXYwZgvfQ
+! Checksum: wmB+b7dJdXiugeNSkreohQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808101330
-! Last Modified: 2018年08月10日 13:30
+! Version: 201808101700
+! Last Modified: 2018年08月10日 17:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -14023,6 +14023,9 @@ duanwenxue.com##.qgzdwx
 ||shyanche.net^
 ||yljiaoluo.com^
 ||yqjxzw.com^
+.dispatch.tc.qq.com/*.mp4?
+://apd-*.qq.com/
+||ltsdl.qq.com^*.ts
 /(\.iqiyi\.com)\/show2\?e=./$rewrite=$1/show2?e=.
 /(\.youku\.com\/ups\/get\.json\?.*?)&os=Windows&osv=.*?&d=0&bt=pc&/$rewrite=$1&os=android&bt=phone&dq=hd2&
 /\/videos\/other\/(.*?\.f4v)/$rewrite=/videos/othez/$1
@@ -16439,6 +16442,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /assets/analytics:
 /assets/tracking-
 /assets/uts/*
+/assign.gif?
 /AssyncCSStats.aspx
 /astrack.js
 /astracker.
@@ -19383,6 +19387,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /visit.gif?
 /visit/log.js?
 /visit/record.gif?
+/visit/record?
 /visit?id=
 /visit_pixel?
 /visit_tracking.
@@ -23698,6 +23703,7 @@ _mongo_stats/
 ||acount.alley.ws^$third-party
 ||acs86.com/t.js
 ||activecommerce.net/collector.gif
+||activengage.com/overwatch/
 ||activetracker.activehotels.com^$third-party
 ||activities.niagara.comedycentral.com^
 ||actonservice.com^*/tracker/
@@ -26716,6 +26722,7 @@ _mongo_stats/
 ||caller.com/metrics/
 ||candy.com/3droi/
 ||canoe.ca/generix/ga.js
+||canstockphoto.com/monitor/
 ||capitalone.com/tracker/
 ||cardomain.com/js/tibbylog.js?
 ||cardstore.com/affiliate.jsp?

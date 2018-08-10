@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: I0t5o6pIFyP8b+oYIqHpJQ
+! Checksum: VwiN6ix1tiS9UyuJArBl3w
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808101330
-! Last Modified: 2018年08月10日 13:30
+! Version: 201808101700
+! Last Modified: 2018年08月10日 17:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -14333,6 +14333,9 @@ duanwenxue.com##.qgzdwx
 ||shyanche.net^
 ||yljiaoluo.com^
 ||yqjxzw.com^
+.dispatch.tc.qq.com/*.mp4?
+://apd-*.qq.com/
+||ltsdl.qq.com^*.ts
 /(\.iqiyi\.com)\/show2\?e=./$rewrite=$1/show2?e=.
 /(\.youku\.com\/ups\/get\.json\?.*?)&os=Windows&osv=.*?&d=0&bt=pc&/$rewrite=$1&os=android&bt=phone&dq=hd2&
 /\/videos\/other\/(.*?\.f4v)/$rewrite=/videos/othez/$1
