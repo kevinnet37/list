@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SkffXY/XWZE+3UXdUidGOg
+! Checksum: uYTG/XxxrYpcSlQx+BOoFw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808131630
-! Last Modified: 2018年08月13日 16:30
+! Version: 201808131730
+! Last Modified: 2018年08月13日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -341,7 +341,6 @@ tieba.baidu.com##.tuijian-wrap
 /include/inc/ad_data.
 /iscar.svc/getadvert?
 /javhd-jp-970x170.jpg
-/jdbanner2017618.jpg
 /jdzjgg/*
 /jfjs/ad.js
 /jianshen8/images/information.jpg
@@ -6972,7 +6971,6 @@ mg*.6park.com/img/$image
 ||xigua110.com/js/
 ||xilu.com/iframe/pagepic/
 ||xilu.com/js/bd.js
-||xilu.com/pm2909509/5220bec28c0af77703ff10161d154527.jpg
 ||xilu.com/script/tag/2.0/func.js
 ||xineurope.com/static/image/banner/
 ||xingkbjm.com/hengchuang.gif
@@ -7317,8 +7315,12 @@ mg*.6park.com/img/$image
 ||sonimei.cn/qipai.jpg
 ||news.cn/2018/images/2018rbqj_
 ||xinhuanet.com/18gg/
+||zol.com.cn/index.php?c=Gethot&
+||so.com/sug-hot?
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+zol.com.cn##.ad-soft-box
+zol.com.cn##.box-top-ad
 taizhou.com.cn###a3 + TABLE[align="center"]
 xgrb.cn##.d_2016_ggw
 xitongzhijia.net###top_gg
@@ -7642,7 +7644,6 @@ qq.com###barrageBase
 c114.com.cn###barrage_ad
 c114.com.cn###barrage_bg
 hao.rising.cn###bbTao
-zol.com.cn###bbsAd
 zimuzu.io###bbs_list_ad
 muchong.com###bbsmain > div[style="padding:10px 0;"] > table
 cntv.cn###bbspop
@@ -8757,7 +8758,6 @@ dfdaily.com##.WEB1_TOPBANNER
 news.china.com.cn##.Wrapper > div[style]
 51.ca##._51_a_c
 outlook.live.com##.__Microsoft_Owa_MessageListAds_ListView_templates_cs_x
-zol.com.cn##._j_tmall_banner_pc
 qq.com##._switchad
 gamer.com.tw##.a-mercy-d
 ijia360.com##.a.fz0.mb15
@@ -9514,7 +9514,6 @@ iqiyi.com##.dove_banner
 iqiyi.com##.dove_videos
 pctowap.com##.dowap_ads
 360doc.cn##.dowloadBtn
-zol.com.cn##.down-alink
 mianbao99.com##.downApp
 52pk.com##.down_adv
 gz0668.com##.down_fixed
@@ -9958,7 +9957,6 @@ iqshw.com##.iqshwad-comm
 henan100.com##.itad
 dysfz.cc##.item-container[onclick*=".taobao.com"]
 haxiu.com##.item-inner-graph
-zol.com.cn##.item-sale
 gansudaily.com.cn##.itemFloat
 cnbeta.com##.items_area .time
 pconline.com.cn##.ivy > .ivy-wrap
@@ -10969,7 +10967,6 @@ meili.cn,pc841.com,ting56.com##.w300
 07073.com##.w_ad
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.wanle_tab_tip
 baidu.com##.wapAd
-xilu.com##.wap_advert
 10jqka.com.cn##.wbanner
 999.com##.web-list2 > li
 codeforge.cn##.webnotice-right
