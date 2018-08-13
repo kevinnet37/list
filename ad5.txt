@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uNXWPDWiIem5/eKLVbXx1Q
+! Checksum: HttNX2h0F8gZiZu2K0TRzQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808131030
-! Last Modified: 2018年08月13日 10:30
+! Version: 201808131100
+! Last Modified: 2018年08月13日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6976,8 +6976,6 @@ mg*.6park.com/img/$image
 ||xilu.com/script/tag/2.0/func.js
 ||xineurope.com/static/image/banner/
 ||xingkbjm.com/hengchuang.gif
-||xinhuanet.com/ce/pcimage/mt.swf
-||xinhuanet.com/images2015/index980
 ||xinhuanet.com/jjimages/jc/js/fla.js
 ||xinhuanet.com/v2/ads/
 ||xinhuanet.com^*/ad_
@@ -7318,6 +7316,7 @@ mg*.6park.com/img/$image
 ||xinhuanet.com/iframe/ad
 ||xinhuanet.com/imgad/
 ||sonimei.cn/qipai.jpg
+||news.cn/2018/images/2018rbqj_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 xgrb.cn##.d_2016_ggw
@@ -9834,7 +9833,6 @@ ks.js.cn##.height80
 qqjia.com##.hengfuad
 btago.com##.hezuoboxs
 jpwind.com##.hf_tupian_gg
-xinhuanet.com##.hfgg
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.hgame_mod_theme1
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.hgame_mod_theme2
 doupapa.com,dpp2019.com##.hidden-xs[class*="_"]
