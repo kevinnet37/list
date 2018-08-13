@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QpkP0rgNgtuSZgWWR2c3JA
+! Checksum: GTxxoOislKKUdS/YXFUiBA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808130730
-! Last Modified: 2018年08月13日 07:30
+! Version: 201808130830
+! Last Modified: 2018年08月13日 08:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1186,6 +1186,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||shangjiabiao.com^$third-party
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -7631,6 +7632,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+xitongzhijia.net###top_gg
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -10453,7 +10455,6 @@ uc123.com##.m-link
 sina.com.cn##.m-p1-lb1-ad
 sina.com.cn##.m-p3-ad
 alibaba.com##.m-product-item[data-eurl*=".alibaba."]
-xitongzhijia.net##.m-red-packet
 3g.cn##.mOrder > div > .list_block
 foodmate.net##.m[style="height:40px;"]
 myexception.cn##.m_a
