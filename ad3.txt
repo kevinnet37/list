@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zlVRjVlNz7/Ak0o6YlXsXg
+! Checksum: CogegjKfoIYvPh4G3s7QvA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808140830
-! Last Modified: 2018年08月14日 08:30
+! Version: 201808141100
+! Last Modified: 2018年08月14日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -6917,7 +6917,6 @@ mg*.6park.com/img/$image
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
 ||xx978.info/images/468-60OK.gif
-||xxdm.*/js/union/
 ||xxhh.com/xh.js
 ||xxsy.net/mxxsynet/hyxdxx.jpg
 ||xyfdcw.com.cn/userfiles/flash/
@@ -7204,6 +7203,7 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||mysteelcdn.com/gg/
+||xxdm6.com/js/union/
 !------------------------Specific element hiding rules------------------------!
 mysteel.com##DIV[id^="ad"]
 gpcxw.com###AA2
@@ -8399,7 +8399,6 @@ hupu.com###threadLeftAd
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###thread_list > .j_thread_list + li[class]:not(.j_thread_list)
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###thread_list > .j_thread_list:not([data-field])
 ettoday.net###ticker_3
-xxdm.com,xxdm.org###tiepianDIV
 1ting.com###tingx_5
 wpsoso.com###tips
 dict.cn###tjcd
