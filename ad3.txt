@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +fRY6wN1vL8x1IGFGWtJeQ
+! Checksum: KZ4Yo+9AOIksgnAguIby1g
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808141930
-! Last Modified: 2018年08月14日 19:30
+! Version: 201808142130
+! Last Modified: 2018年08月14日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -14754,7 +14754,9 @@ _300_250.
 ||betteredu.net/js/pop_tuiguang_
 ||tuyiyi.com/tuyiyi/m.js
 ||tianyaui.com/cms_fragments/res/*/bbs_include_mod.js
+||con-article.hjapi.com/v1/txs/
 !------------------------Specific element hiding rules------------------------!
+php.cn##.close_id
 to8to.com##.common-tender-wrapper
 to8to.com##.bottom_slide_box
 stc.gov.cn###mov
@@ -15016,7 +15018,7 @@ jiankang.com##.three_hot
 ctfile.com##.speedydown-info-box
 soku.com###\5f xbox_ad
 smzdm.com###footer_layer
-youku.com##.laifeng
+v.youku.com##.laifeng
 ~laifeng.youku.com,youku.com##A[href^="http://cps.laifeng.com/"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"] + .bg + IMG
 zuowen.com##.cj
@@ -15324,6 +15326,9 @@ blog.163.com###topbar_yxpArea
 /yesky/js/counter/*
 /_3jia5_analyser.
 /v.gif?logtype=
+||itsmore.cn^$third-party
+||tongji.xinmin.cn^
+||xs8.cn/qreport?
 ||dot.gate.panda.tv^
 ||a-m-s.adnonstop.com^
 ||nmgnews.com.cn/sys/online_calc.js
