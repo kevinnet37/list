@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nrythSNI0dXsKYZksHDoVw
+! Checksum: MYtkG5UqiI2JGdjC+6wLIg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808150930
-! Last Modified: 2018年08月15日 09:30
+! Version: 201808151000
+! Last Modified: 2018年08月15日 10:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -765,6 +765,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||bsriedu.cn^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -12500,6 +12501,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##div[style="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 |http://a.kj-cy.cn^
+||1.xxszw.cn^
 ||ub1.job592.com^
 ||003store.com^
 ||01.gxso.net^
@@ -12592,7 +12594,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||a.52wubi.com^
 ||a.52zxw.com^
 ||a.53yao.com^
-||a.5ykj.com^
+||er.5ykj.com^
+||m1.51kaowang.com^
 ||a.75111.com^
 ||a.80982.org^
 ||a.android100.org^
@@ -12708,7 +12711,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||bdjs.kaixin100.com^
 ||bdjs.ylq.com^
 ||bdlm*.hc360.com^
-||bd*.120askimages.com^
+||bdwmhz.120askimages.com^
 ||bdlmggcs1.familydoctor.com.cn^
 ||bdm.911cha.com^
 ||bdu1.eol.cn^
@@ -12825,7 +12828,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||fmgoal.com^
 ||fotao9.com^
 ||fp.jj59.com^
-||fpb.51edu.com^
+||fpb2.51edu.com^
 ||fpb1.chinacar.asia^
 ||fpbcode.onlinedown.net^
 ||fuz.cc^$third-party
@@ -12935,7 +12938,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||mj-medlab.com^$third-party
 ||mm.anqu.com^
 ||mn586.com^$third-party
-||mnkan.com^
+||jb.imgsina.com^
 ||mo-tuo.com^
 ||modzj.net^$third-party
 ||mountain.zhidao.baidu.com^
@@ -12962,7 +12965,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||qq167.com^
 ||qqhuhu.com^
 ||qqzu.com^
-||qtber2017.2liang.cn^
+||gcw*.2liang.cn^
 ||qujishu.com^
 ||qwxcs.com^$third-party
 ||rbmry.com^
