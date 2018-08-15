@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YYaKwQfS5UDLy19k4h88ig
+! Checksum: KbjnDoyqQj5pG03/9zydPQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808151930
-! Last Modified: 2018年08月15日 19:30
+! Version: 201808152000
+! Last Modified: 2018年08月15日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -12738,7 +12738,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||c.mnjkw.cn^
 ||c.phb123.com^
 ||c1.4qx.net^
-||c1.china.cn^
 ||c6.friok.com^
 ||cbdm.weathercn.com^
 ||cby521.cn^
@@ -12771,7 +12770,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||d1.zhuangxiu6.com^
 ||d6.mobaders.com^
 ||daima.23yy.com^
-||daima.cnbanbao.com^
+||dm.cnbanbao.com^
+||a1.qizhihaotian.com^
 ||daima.diaoben.net^
 ||daima.huoche.net^
 ||daima.ijq.tv^
@@ -12839,7 +12839,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||fotao9.com^
 ||fp.jj59.com^
 ||fpb2.51edu.com^
-||fpb1.chinacar.asia^
+||fpb1.chinacar.
 ||fpbcode.onlinedown.net^
 ||fuz.cc^$third-party
 ||g.3lian.com^
