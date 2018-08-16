@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1nDAc2cI5DUBa3vim/UztA
+! Checksum: 6nlV2xEUSAKxdqojeOAEsA
 ! Title: ABP-FX
 ! Expires: 12 hours
-! Version: 201808131800
-! Last Modified: 2018年08月13日 18:00
+! Version: 201808161430
+! Last Modified: 2018年08月16日 14:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则来源于github.com/xinggsf，感谢大大的分享！
@@ -490,7 +490,7 @@ zol.com.cn##.down-h4,span.down-alink,div[class^=ad_],div[class*=-ad],div[class|=
 @@||union.video.qq.com/fcgi-bin/data?$script
 @@||livew.l.qq.com/crossdomain.xml
 @@||l.qq.com/lview?
-@@||l.qq.com/proxyhttp$xmlhttprequest
+@@||vi.l.qq.com/proxyhttp^
 ||l.qq.com/
 ||imgcache.qq.com/qzone/biz/comm/js/qbs.js
 @@||isdspeed.qq.com/cgi-bin/r.cgi?flag1=
@@ -505,8 +505,8 @@ zol.com.cn##.down-h4,span.down-alink,div[class^=ad_],div[class*=-ad],div[class|=
 ||view.news.qq.com/PL_ad$subdocument
 ||tencentmind.com/
 ||ltsdl.qq.com/$xmlhttprequest
-@@*/sports.tc.qq.com/$media,object-subrequest
-*.tc.qq.com/$xmlhttprequest,media,object-subrequest,domain=~y.qq.com
+@@*/sports.tc.qq.com/
+*.tc.qq.com/$domain=~y.qq.com
 ||qq.com/games/$subdocument
 ||v.qq.com/x/webtips?$subdocument
 www.qq.com##.adLeft,.adRight
