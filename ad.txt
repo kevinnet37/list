@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: W65uyni4qoW5J4x5LtjKRQ
+! Checksum: 03vUBVn6liJJ4m4hU2TWdA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808161730
-! Last Modified: 2018年08月16日 17:30
+! Version: 201808161800
+! Last Modified: 2018年08月16日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -1184,6 +1184,7 @@ _xiuno_com_ad/
 ##img[src*=".sinaimg."][style="width:1025px;height:80px"]
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #rbbox
+##script + .wea234
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
@@ -7641,11 +7642,11 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||douyucdn.cn/common/share/play.swf?room_id=30$domain=sgamer.com
 ||feizl.com/images/smdd/
+||eastmoney.com/trade/hqb_hq.html
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 jin10.com##.l-main_body > .jin-timeline:nth-last-child(2)
 jin10.com##.l-main_wrap > .jin-timeline
-##script + .wea234
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -13131,7 +13132,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||bd1.flfgw.cn^
 ||bd1.heiguang.cn^
 ||bd1.jobui.com^
-||bd1.nipic.com^
+||bd11.nipic.com^
 ||bd1.nxing.cn^
 ||bd1.szhk.com^
 ||bd1.wowoqq.com^
