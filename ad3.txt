@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +fAZPi0sfkRjrQJaOuyHsA
+! Checksum: mO7tbam6bX7art9+kBFs2g
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808171100
-! Last Modified: 2018年08月17日 11:00
+! Version: 201808171130
+! Last Modified: 2018年08月17日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7221,8 +7221,14 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||168gamer.*/list-
+||cpnn.com.cn/cpnn_images/diangong.gif
+||cpnn.com.cn/cpnn2015g/neiyegg.gif
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cpnn.com.cn##.adverd-top
+cpnn.com.cn##.duilian
+cpnn.com.cn##.duilians
+cpnn.com.cn##.part3-adverd
 cgown.com##A[href^="http://www.aec4d.com/"]
 douyu.com##A[href*=".tmall.com"]
 yahoo.com###ACT_crazy
@@ -11206,7 +11212,7 @@ html-js.com##a[style^="margin-top:20px;"]
 youtubeto.com##a[style^="position: fixed; top: 0px; left: 0px; width:"]
 aiqqzy.com,wofl86.com,xd0.com##a[target="_blank"] > img[src^="/upload/1/"]
 muchong.com##a[target="_blank"][style="display: inherit!important;"]
-doub.io##a[title*="LOGO"]
+doub.io##A[title*="Toyo"]
 creaders.net##a[title^="www.136888.com/"]
 duba.com##a[w="topad"]
 amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
