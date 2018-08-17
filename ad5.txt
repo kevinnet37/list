@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pZHimu6nPxFFnSmQhFKibA
+! Checksum: 3+vpqmnRzQw5Xi3JY7TCZw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808172130
-! Last Modified: 2018年08月17日 21:30
+! Version: 201808172330
+! Last Modified: 2018年08月17日 23:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -12186,7 +12186,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||captcha.su.baidu.com^
 @@||cb.baidu.com^$object-subrequest,domain=baomihua.com|v.baidu.com
 @@||cbjs.baidu.com/js/m.js$domain=fxpan.com|iyingdi.com|pctowap.com|pic.tiexue.net
-@@||cbjs.baidu.com/js/o.js$domain=jkpan.cc
+@@||cbjs.baidu.com/js/o.js$domain=jkpan.com
 @@||ccb.com^*^ad
 @@||cdn.teads.tv/media/format.js$domain=download.mokeedev.com
 @@||changyou.com^$generichide
@@ -12398,7 +12398,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||pos.baidu.com^*=u1671$domain=pctowap.com
 @@||pos.baidu.com^*?di=1147177&$domain=fxpan.com
 @@||pos.baidu.com^*?di=1147178&$domain=fxpan.com
-@@||pos.baidu.com^*?di=1167512&$domain=jkpan.cc
+@@||pos.baidu.com^*?di=1167512&$domain=jkpan.com
 @@||pos.baidu.com^*?di=u2164214&$domain=codejie.net
 @@||pptv.com/webdelivery/webafp?cb=loadAdStatus&*=http%3A%2F%2Fsports.pptv.
 @@||pro.gooooal.com/ad/ad_2.js
