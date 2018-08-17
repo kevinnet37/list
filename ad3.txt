@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2LuSpfY50xfN6qlp5tVQRw
+! Checksum: G2sERVRzBL+6fUc5tYQFOA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808170830
-! Last Modified: 2018年08月17日 08:30
+! Version: 201808171030
+! Last Modified: 2018年08月17日 10:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7221,6 +7221,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||168gamer.*/list-
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 douyu.com##A[href*=".tmall.com"]
@@ -11869,6 +11870,8 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||atanx.alicdn.com/t/tanxssp.js$domain=taojinbi.taobao.com
+@@=mm_12852562_1778064_$domain=taojinbi.taobao.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
@@ -12694,7 +12697,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||b1.b2b168.com^
 ||b1.c1km4.com^
 ||b1.fengdu100.com^
-||b17.shangc.net^
+||dai18.shangc.net^
 ||baidu-union-js.chuimg.com^
 ||baiduada.babihu.com^
 ||baidujs.cnys.com^
