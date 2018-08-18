@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5tdOVZy7i5wX2cepqDZHSQ
+! Checksum: 99tWrnAAqJsNaWNfuYVzAg
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808181700
-! Last Modified: 2018年08月18日 17:00
+! Version: 201808181830
+! Last Modified: 2018年08月18日 18:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7227,6 +7227,7 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+360.cn###top_activity
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -12781,7 +12782,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||codeym.dictall.com^
 ||cp.greenxf.cn^
 ||cp.jfcdns.com^
-||cpr.jandan.net^
+||ppp.jandan.net^
 ||cpro.zol.com.cn^
 ||crayon.meishichina.com^
 ||d*.jy135.com^*.js
