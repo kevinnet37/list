@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GwrKcmx3kObzcFCIZ5x/1w
+! Checksum: ORBYRGGz10p74hfxtW39Sw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808182100
-! Last Modified: 2018年08月18日 21:00
+! Version: 201808182130
+! Last Modified: 2018年08月18日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -12661,6 +12661,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ##div[style^="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 |http://a.kj-cy.cn^
 ||a.jing55.com^
+||wuliao.chzsport.cn^
 ||haba1.76e.org^
 ||dm.ishuo.cn^
 ||003store.com^
