@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: osDoryTgT4tLM32kbTwRIg
+! Checksum: 40T+Gln8IXyanbcnB4FsUA
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 12 hours
-! Version: 201808192300
-! Last Modified: 2018年08月19日 23:00
+! Version: 201808200730
+! Last Modified: 2018年08月20日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则贴吧过滤规则，感谢大大的分享！
@@ -521,15 +521,14 @@ news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 power.baidu.com,zhidao.baidu.com##style[id^="s-m"] + div[id^="m"]
 baidu.com,comefromchina.com#@#.ad-block
 v.baidu.com#@#.has-ad
-@@||cbjs.baidu.com/js/m.js$domain=pctowap.com
-@@||pos.baidu.com^$script,domain=pctowap.com
-@@/adpic/*$domain=baike.baidu.com
+@@/adpic/*$domain=baike.baidu.com|czsrc.com|nieyou.com|ontheup.com.tw|zform.net
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||captcha.su.baidu.com^
 @@||cb.baidu.com^$object-subrequest,domain=baomihua.com|v.baidu.com
-@@||cbjs.baidu.com/js/m.js$domain=fxpan.com|iyingdi.com|pic.tiexue.net
+@@||cbjs.baidu.com/js/m.js$domain=fxpan.com|iyingdi.com|pctowap.com|pic.tiexue.net
 @@||cbjs.baidu.com/js/o.js$domain=jkpan.com
 @@||eiv.baidu.com/hmt/icon/21.gif
+@@||pos.baidu.com^$script,domain=pctowap.com
 @@||pos.baidu.com^*?di=1147177&$domain=fxpan.com
 @@||pos.baidu.com^*?di=1147178&$domain=fxpan.com
 @@||pos.baidu.com^*?di=1167512&$domain=jkpan.com
