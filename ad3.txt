@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iFm/kF35SPrGuWVa/BjV9w
+! Checksum: ob1X4Vcxb0pMXCCCywXSsA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808211830
-! Last Modified: 2018年08月21日 18:30
+! Version: 201808211900
+! Last Modified: 2018年08月21日 19:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7013,7 +7013,6 @@ mg*.6park.com/img/$image
 ||youku.com/cms/tool/pub/get_putdata.
 ||youku.com/dress/
 ||youku.com/QVideo/~ajax/getDefaultItem?
-||youmeek.com/images/aliyunAdImg
 ||youqu.net/js/
 ||youth.cn/ggw/dep_ggw/
 ||youth.cn/hezuo/index.js
@@ -11907,7 +11906,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/advertisement_ads_$domain=pdawiki.com|tahua.net
 @@/advertising/*$domain=315.sh.cn|houdask.com
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=123564.com|2hanju.com|lingjike.com|mahua.com|mh160.com|reh.tw|xiaoz.me|ygo-sem.cn|ykit.cn
+@@_cpc_cpm_$domain=ygo-sem.cn
+@@/adview_pic_$domain=123564.com|2hanju.com|lingjike.com|mahua.com|mh160.com|reh.tw|xiaoz.me|ykit.cn
 @@/advs/*$domain=ciros.com.cn|dianxinos.com|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
 @@/assets/adv/*$domain=4008927927.cn
