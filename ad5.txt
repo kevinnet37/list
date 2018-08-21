@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4E7nV5VDdYzLdU4Y2LzBgg
+! Checksum: WxsMtIItIciPZyzNYnCPNw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808211230
-! Last Modified: 2018年08月21日 12:30
+! Version: 201808211730
+! Last Modified: 2018年08月21日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6851,7 +6851,6 @@ mg*.6park.com/img/$image
 ||voc.com.cn/Frame/qqms_cs.html
 ||voc.com.cn/js/xc/
 ||vodtw.com/m-
-||vriooi.com/web/ad/ad.js
 ||vsimg.com/jd.gif
 ||vuejs.org/images/geekbang
 ||vupload.duowan.com^
@@ -7332,8 +7331,13 @@ mg*.6park.com/img/$image
 ||sinaimg.cn/large/007cYCbaly1ftdqurgyj4g30hs02iaaq.gif
 ||linuxde.net/wp-content/uploads/ad/
 ||112.124.15.130/res/linuxde_www/images/cxy-ad.jpg
+||50yxw.com/content/uploadfile/*.gif
 !------------------------Specific element hiding rules------------------------!
 linuxde.net##.ad360x500
+msn.cn##.rc > A[href^="https://sp.booking.com/"]
+50yxw.com##.ad-box
+50yxw.com##.wrapper > [style^="text-align:"]
+50yxw.com##IMG[height="50"]
 yigujin.cn##A > IMG[src*="/abc/"]
 gpcxw.com###AA2
 10jqka.com.cn###topba1
