@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1nZR/L+qLbLogzfm0RZdng
+! Checksum: bhG92rPH0Se16uf3Ikn8zA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808221030
-! Last Modified: 2018年08月22日 10:30
+! Version: 201808221100
+! Last Modified: 2018年08月22日 11:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7442,7 +7442,7 @@ mg*.6park.com/img/$image
 ||youku.com/cms/tool/pub/get_putdata.
 ||youku.com/dress/
 ||youku.com/QVideo/~ajax/getDefaultItem?
-||youqu.net/js/
+||youquba.net/js/
 ||youth.cn/ggw/dep_ggw/
 ||youth.cn/hezuo/index.js
 ||youth.cn/images/c.js
@@ -12253,7 +12253,7 @@ jd.com#@#.ads-content
 80s.ai,ft.com,ftchinese.com,long7.qq.com,wholehk.com#@#.adsbox
 123564.com,apk.tw,epinv.com,ff14angler.com,fxpan.com,moa.tw,playok.com#@#.adsbygoogle
 qq.com#@#.adside
-gdmm.com,youqu.net#@#.adtop
+gdmm.com,youquba.net#@#.adtop
 4008927927.cn#@#.adv-box
 anjia365.com#@#.adv_bg
 zalora.com.hk#@#.advertisement-block
