@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: b04SlcyKgY3UqOgjmJW9fA
+! Checksum: SSzc1nrWKvf3j3XyrZukHw
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808231400
-! Last Modified: 2018年08月23日 14:00
+! Version: 201808231630
+! Last Modified: 2018年08月23日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -7368,7 +7368,6 @@ mg*.6park.com/img/$image
 ||xzbu.com/xueshu/zwyc.gif
 ||y3600.com/1
 ||ya*.dwstatic.com^
-||yaerwen.com/5200js/59.js
 ||yahoo.com/embed/tv?site=buzzhand&
 ||yahoo.com/gdsale/gdsale.asp$domain=beephone.com.tw
 ||yam.com/ad_yam/
@@ -7451,8 +7450,6 @@ mg*.6park.com/img/$image
 ||youtube.com/embed/yHQAKNunaxo?
 ||youtube.com/iframe_api$domain=nownews.com
 ||youxi.baidu.com/tips/bdtips_min.js
-||youxiaxiazai.com/db_top/index_top.htm
-||youxiaxiazai.com/dm/
 ||youxiduo.com/userdirs/2018/02/20180209194845ZKQD.jpg
 ||youyao1.xyz/gongyi.gif
 ||yswtu.com^$domain=30k.me
@@ -7494,9 +7491,6 @@ mg*.6park.com/img/$image
 ||yyzs.net/js/flyers_
 ||yzs.com/d/file/p/*.swf
 ||yzs.com/d/file/p/2016/12/06/61e15b92a4a2a7cec4910f1d9ea79fb2.jpg
-||yzwb.com/images/ad_
-||yzwb.com/js/AD
-||yzwb.com/js/ppaa.js
 ||yzz.cn/global_gg/
 ||z.nowscore.com^
 ||z4bbs.com/adst/
@@ -12115,7 +12109,6 @@ fpdisplay.com##table[width="960"][height="110"]
 gpcxw.com##table[width="960"][height="90"]
 you85.cn##table[width="980"]
 yxfdc.com##table[width="980"] > tbody > tr > td[height="70"]
-yaerwen.com##table[width^="9"][height="250"]
 taobao.com#?#.item-ad
 hkepc.com##tbody[id^="normalthread_"] + tbody:not([id])
 xici.net##td.doc_sign
@@ -12174,7 +12167,7 @@ tt1069.com#@##adbrite
 abbao.cn,tt1069.com,xietui.com#@##adcontent
 cgvoo.com,mcfuns.com.tw,mrmad.com.tw,myself-bbs.com,pbhz.com,sportsyeah.hk,zhuihd.com#@##adsense
 182.18.61.50#@##adslist
-wenku8.com,yaerwen.com#@##adtop
+wenku8.com#@##adtop
 union.58.com#@##advertise
 biznetvigator.com#@##container_ad
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
@@ -14359,7 +14352,6 @@ duanwenxue.com##.qgzdwx
 ://apd-*.qq.com/
 ||ltsdl.qq.com^*.ts
 /(\.iqiyi\.com)\/show2\?e=./$rewrite=$1/show2?e=.
-/(\.youku\.com\/ups\/get\.json\?.*?)&os=Windows&osv=.*?&d=0&bt=pc&/$rewrite=$1&os=android&bt=phone&dq=hd2&
 /\/videos\/other\/(.*?\.f4v)/$rewrite=/videos/othez/$1
 @@||da.mgtv.com/crossdomain.xml
 @@||da.mgtv.com/m5/page
