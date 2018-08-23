@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n+MCQ5mxeMkeWadOkOhVaA
+! Checksum: AOoY+KkM3O1LY7F8xhOU2g
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808231030
-! Last Modified: 2018年08月23日 10:30
+! Version: 201808231200
+! Last Modified: 2018年08月23日 12:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -3723,7 +3723,6 @@ mg*.6park.com/img/$image
 ||9669.cn/ipdat/duilian/
 ||9669.cn/js/jquery.play.
 ||9669.cn/refactor/js/360_ads.js
-||969g.com/common/iframe/
 ||973.com/a/
 ||973.com/static/js/pccom.js
 ||97aa1.com/g/
@@ -3930,7 +3929,6 @@ mg*.6park.com/img/$image
 ||api.bilibili.com/x/ad/
 ||api.wudizuqiu.com^*.js$domain=72nba.com
 ||apic.in/mmd.gif
-||apihousefun.yam.com/news.php
 ||app-g.39.net/NNN/
 ||appfh.com/api/
 ||apple.www.letv.com^
@@ -4237,7 +4235,6 @@ mg*.6park.com/img/$image
 ||bunnygo.net/view/zh-tw/images/800x600.swf
 ||business.92wy.com^
 ||buy.sina.com.tw/js/sina_popup.php
-||buyhouse.yam.com/plugin/newsplugin.php
 ||buzzhand.com/images/$subdocument
 ||bvlang.com/ad/
 ||bx0635.com/downimg/2000.gif
@@ -7192,7 +7189,6 @@ mg*.6park.com/img/$image
 ||yzwb.com/js/AD
 ||yzwb.com/js/ppaa.js
 ||yzz.cn/global_gg/
-||yzz.cn/home/theme/popwin/
 ||z.nowscore.com^
 ||z4bbs.com/adst/
 ||z63.org/wp-content/themes/z63/img/s-
@@ -7324,7 +7320,9 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||panda.tv/ajax_tfate_infoget?
 ||ip38.qiniudn.com/js/zzsc.js
+||agoda.com/Dynamic/index/
 !------------------------Specific element hiding rules------------------------!
+yam.com##DIV[id^="adgshp"]
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
