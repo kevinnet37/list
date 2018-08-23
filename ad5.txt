@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IdeFOgRaEuEk+8LteAOtxw
+! Checksum: FxOhWX/pCEX8Xt0Bc5Y8ng
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808231830
-! Last Modified: 2018年08月23日 18:30
+! Version: 201808232130
+! Last Modified: 2018年08月23日 21:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6424,7 +6424,7 @@ mg*.6park.com/img/$image
 ||shangqun.com/webforms/embed/
 ||shangxueba.com/ask/images/woxiaoyun.jpg
 ||shaoxing.com.cn^*gg.
-||share.dmhy.*/*?$image
+||dmhy.org^*?$image
 ||share.gzdsw.com^
 ||share44.com/300
 ||share44.com/adad2014/
@@ -11446,7 +11446,7 @@ weibo.com##div[feedtype="ad"]
 mail.126.com,mail.163.com##div[id$="_AdDiv"]
 mail.126.com,mail.163.com##div[id$="_BannerDiv"]
 mail.126.com,mail.163.com##div[id$="_FooterDiv"]
-share.dmhy.org##div[id$="_ad"]
+dmhy.org##div[id$="_ad"]
 mail.126.com,mail.163.com##div[id$="_dvBlockInfo"]
 58.com##div[id$="_gdbg"]
 pixnet.net##div[id*="-AD-"]
