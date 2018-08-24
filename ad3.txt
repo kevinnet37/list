@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5qTOelUGYx7JaZhyuOQK3A
+! Checksum: RM5IbxQkU8BPfNLDQvU5PQ
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201808242230
-! Last Modified: 2018年08月24日 22:30
+! Version: 201808242300
+! Last Modified: 2018年08月24日 23:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -2875,8 +2875,7 @@ ubmcmm.baidustatic.com
 /images/pt.js$domain=hrszyl.com|jiuzhiling.com|myt520.com|zchot.com
 /img/skin/*_bg.$domain=17huohu.com|firefox.com.cn|firefoxchina.cn
 /img/skin/tao$domain=17huohu.com|firefox.com.cn|firefoxchina.cn
-/imgextra/*$domain=zqnow.com
-/jquery.$domain=game.macx.cn
+||macx.cn/js/jquery.$domain=game.macx.cn
 /main_video.js$domain=dilidili.wang
 /merchant.php$domain=bjmama.com
 /modules/video/player/nuevo/midroll.php?
@@ -7167,7 +7166,6 @@ mg*.6park.com/img/$image
 ||zuidaima.com/images/1/201606/20160616135714978.
 ||zuoche.com/promo/*.jspx
 ||zww.me^*?action=Ajax_
-||zxba.cc/js/*.gif
 ||zxip.com/2013_ad/
 ||zzbaike.com/main/*-20
 ||zzbaike.com/main/arvixe
@@ -7869,7 +7867,6 @@ creaders.net###guanggao2
 gasaq.com###guanggao_left
 gasaq.com###guanggao_right
 hao123.com###guesslikesite-block
-zhicheng.com###guideLayer
 szhk.com###h_banner
 szhk.com###h_textads
 hao123.com###hao123-gw11
@@ -8504,7 +8501,6 @@ fawan.com###ynetG_B1
 dm5.com###youce
 yahoo.com###ysm-umu
 0598yu.com###yu2015_ad_news_01
-zxba.cc###yx
 8video.tv###yytf
 51.la###zanzhu
 iqiyi.com###zbsp
