@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VMNlVEWK+iv9RS5uhesGhg
+! Checksum: e4Ut80CatE/c3J6v0/Cj4A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808241400
-! Last Modified: 2018年08月24日 14:00
+! Version: 201808241700
+! Last Modified: 2018年08月24日 17:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -264,7 +264,6 @@ tieba.baidu.com##.tuijian-wrap
 /cdn-cgi/pe/bag2?*.humanding.com
 /cdn-cgi/pe/bag2?*.overture.com
 /cdn-cgi/pe/bag2?*p.tanx.com$domain=~hdwan.net
-/chinaByte2016/duhy
 /clicktotal/ClickTotal.js
 /cnki/js/adDetail1124.js
 /comiis_kmsjx3hlx/ads/*
@@ -879,6 +878,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||yueyetiyu.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -7220,7 +7220,7 @@ mg*.6park.com/img/$image
 ||zhlzw.com/genfa/
 ||zhongyi.ifeng.com/a/zt.js
 ||zhongzidi.com/img/*.gif
-||zhongziso.com/js/adurl.js
+||zhongzijun.com/js/adurl.js
 ||zhuanyewanjia.com/upload/show/
 ||zhuashi.oss-cn-beijing.aliyuncs.com^
 ||zhuji.net/2007_ad/
@@ -7237,7 +7237,6 @@ mg*.6park.com/img/$image
 ||zimuku.*/images/v2/js/b.js
 ||zimuku.*/images/v2/js/bn
 ||zimuku.*/images/zfbhb.jpg
-||zimushe.com/res/img/bmw.jpg
 ||zimuzu.io/public/rooms?
 ||zimuzu.io/rrlx
 ||zineworm.com^*&localtype=
@@ -7282,7 +7281,6 @@ mg*.6park.com/img/$image
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztjal.info/wp-content/plugins/kill-adblock/
-||zuanke8.com/forum/201808/05/144559heusx3hxtbl2qux2.jpg
 ||zuiacg.com/images/client/
 ||zuidaima.com/images/1/201606/20160616135714978.gif
 ||zuishulou.com/assets/scripts/m.js
@@ -9099,7 +9097,6 @@ siku11.com##.alert-danger
 9vip.top##.alert-dismissible
 eetop.cn##.alert_windows
 sm.cn##.ali_row[ad_aid]
-yesky.com##.alldown > .rimg
 bkill.com##.alliance-ad
 qzone.qq.com##.app-recommend
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
@@ -9245,7 +9242,6 @@ cnscore.com##.bdbanner
 818today.com##.bdg
 e23.cn##.bdggtb
 baidu.com##.bds-list-ads
-yesky.com##.bdtj
 pinshan.com##.bea_adv2
 smzdm.com##.beiwo
 muchong.com##.bg > .wrapper:nth-child(14) > .forum_Post_index
@@ -10726,7 +10722,6 @@ chinaiiss.com##.taobaopic
 qq.com##.tb-activity-list
 83133.com##.tb-tanx
 qq.com##.tb12-activity
-yesky.com##.tb_adv
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.tb_poster_info.poster_success
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.tb_poster_placeholder
 jxedt.com##.tbad
