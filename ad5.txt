@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oL0YDl/X1cVXVHOebMAeYQ
+! Checksum: 7hqk37nanBDp4NKn7Zz2fg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808241930
-! Last Modified: 2018年08月24日 19:30
+! Version: 201808242000
+! Last Modified: 2018年08月24日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -14873,7 +14873,6 @@ _300_250.
 ||sinaimg.cn^*/everyoneReading.js
 ||baidu.com^*/app/banner_
 ||dangbei.net/img/db/downdangbei.gif
-||ltn.com.tw/Upload/Module/2/118/1117360.gif
 ||wingontravel.com/Static/headerfooter/Content/js/masterpage.
 ||hexun.com/2017-11-07/191534592.jpg
 ||china.com/images/milapp
@@ -14925,6 +14924,7 @@ _300_250.
 ||360doc.com/js/index7/mask_index_yc.js
 ||gtimg.com/pingjs/ext2020/dc2017/dist/m_tips/tips.js
 !------------------------Specific element hiding rules------------------------!
+ltn.com.tw##A[href^="https://draw.ltn.com.tw/"]
 csdn.net##.p4course_target
 9miao.com###deanrlc22
 zybang.com##.top-banner
@@ -15494,6 +15494,8 @@ blog.163.com###topbar_yxpArea
 @@||fm.ipinyou.$domain=ipinyou.com.cn
 @@||fm.p0y.cn^$domain=ipinyou.com.cn
 @@||doub.io^$generichide
+@@/adview_pic_$domain=xclient.info
+@@||jin10.com^$generichide
 !--------------------------------Tracking Systems-----------------------------!
 /analytics.js$domain=qunar.com
 /cv/*&uuid=$object-subrequest
