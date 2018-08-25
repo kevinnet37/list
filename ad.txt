@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ElkTAbLeiBbpWTNbCDk+qg
+! Checksum: wUKdrr4+bP7pBTuK3c1WGg
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808251930
-! Last Modified: 2018年08月25日 19:30
+! Version: 201808252100
+! Last Modified: 2018年08月25日 21:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -14361,6 +14361,7 @@ $webrtc,domain=195.43.95.234|50.7.31.226|50.7.31.227|50.7.31.228|50.7.31.229|50.
 ||sohu999.com^
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 eastday.com#@##leftShare
+zhidao.baidu.com#@#.share-section
 gfan.com,gfan.net.cn#@##shareBox
 zhihu.com#@#.FollowButton
 zhihu.com#@#.LikeButton
