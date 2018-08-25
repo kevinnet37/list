@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: j9QrZuO5+YM0JwBpA65IvQ
+! Checksum: MvCwCS4duCDSCHo4FUXFAQ
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808252200
-! Last Modified: 2018年08月25日 22:00
+! Version: 201808252300
+! Last Modified: 2018年08月25日 23:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -799,7 +799,7 @@ tieba.baidu.com##.tuijian-wrap
 /yy_transv/js/cmp.js
 /zahuishi/images/show38070.js
 /zhidiy_m_ad_
-/zzhzad/*
+/zzhzgg.js
 :1010/openV5.js
 :2048/b.js
 :2048/jsb?
@@ -10307,8 +10307,6 @@ www.jin10.com##.l-main_info > div[class]:not(.jin-declaration):not(.jin-qq-coope
 jin10.com##.l-main_wrap > .jin-timeline > div:not(.jin-declaration):not(.jin-qq-cooperation)
 9vip.top,ahtv.cn,bzfl1.cc,sexbarss.net##.l1
 ltaaa.com##.lAds
-zjol.com.cn##.lBottomAD
-zjol.com.cn##.lTopAD
 chinatimes.com##.l_ad
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_banner
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post + div[class]:not(.l_post)
@@ -11038,8 +11036,6 @@ zhujiceping.com##.tg-site
 alu.cn##.tg120x70
 alu.cn##.tg235x60
 alu.cn##.tg240x60
-zyy123.com##.tg250x250-1
-zyy123.com##.tg250x250-2
 alu.cn##.tg260
 alu.cn##.tg315x60
 outofmemory.cn##.tgBar
