@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: u2/16K3siDFqlCBvhujJww
+! Checksum: 1Pa3IOQFj7waTB5v1c/NTg
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808261030
-! Last Modified: 2018年08月26日 10:30
+! Version: 201808261130
+! Last Modified: 2018年08月26日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7208,7 +7208,6 @@ mg*.6park.com/img/$image
 ||zhihu.com/node/Banner?
 ||zhijia.com/hd/*.swf
 ||zhiys.com/img_new/mobilemo2.jpg
-||zhlzw.com/genfa/
 ||zhongyi.ifeng.com/a/zt.js
 ||zhongzijun.com/js/adurl.js
 ||zhuashi.oss-cn-beijing.aliyuncs.com^
@@ -7253,10 +7252,8 @@ mg*.6park.com/img/$image
 ||zongheng.com/upload/ad/
 ||zongheng.com/upload/hzds/
 ||zongheng.com/upload/recommend/game/
-||zongheng.com/upload/zhds/
 ||zongheng.com/v2014/js/mod/bad.js
 ||zongheng.com/zhuanti/2014/active/js/active.js
-||zongheng.com^*/index_r_b.js
 ||zp365.com/newImages/201*.swf
 ||zpiyi.com/public/js/global.js
 ||zrblog.net/zanzhu/
@@ -7286,6 +7283,7 @@ mg*.6park.com/img/$image
 ||se8u.cc/statics/images/*.gif
 !------------------------Specific element hiding rules------------------------!
 se8u.cc##.footAdv
+zhlzw.com##A[href^="http://u.ctrip.com/"]
 gpcxw.com###AA2
 affyun.com##.text
 techbang.com###stickies
@@ -9403,7 +9401,6 @@ w3cschool.cn##.content-abox
 fullyu.com##.content-ads
 baidu.com##.content-adv
 fullyu.com##.content-top-ads
-zdfans.com##.content.column2 > center:first-child
 ptbus.com##.content14
 p9.com.tw##.contentRightAd
 educity.cn##.content_relate:nth-child(5)
@@ -11160,7 +11157,6 @@ kafan.cn##a[href*="nameidi."]
 6park.com##a[href*="qq.php?"]
 jd.com,~wan.jd.com##a[href*="wan.jd.com/"]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##a[href*="www.clinique."]
-zdfans.com##a[href*="zdzdm."]
 7xtiyu.com##a[href="/bc/xinli.html"]
 ithome.com##a[href="/html/363216.htm"]
 bilibili.com##a[href="/video/av8587236/?tg"]
@@ -11706,7 +11702,6 @@ bbs.my0511.com##span.smalltxt
 gamebase.com.tw##span[id^="aid_"]
 hkgolden.com##span[id^="lineImage"]
 bilibili.com##span[style*="height:"][data-loc-id]
-zhlzw.com##span[style^="float:left;height:"]
 hanzify.org##span[style^="float:right;"]
 power.baidu.com,zhidao.baidu.com##style[id^="s-m"] + div[id^="m"]
 3773.com.cn##table:nth-child(4) > tbody > tr > td[width="280"] > table > tbody > tr:nth-child(2n+1)
@@ -16543,6 +16538,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /beacon/event?
 /beacon/metrics
 /beacon/performance?
+/beacon/portal-lite?
 /beacon/timing?
 /beacon/track/*
 /beacon/vtn_loader.gif?
@@ -25519,6 +25515,7 @@ _mongo_stats/
 ||tredir.go.com/capmon/GetDE?$third-party
 ||tree-pixel-log.s3.amazonaws.com^
 ||tremorhub.com^
+||trendmd.com/events
 ||trf.intuitwebsites.com^
 ||triad.technorati.com^
 ||tritondigital.com/lt?sid*&hasads=
