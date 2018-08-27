@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eV64rywukKTXe8ttcjvjfg
+! Checksum: hKHvftg1bYX56Qf+N8jNdA
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808271000
-! Last Modified: 2018年08月27日 10:00
+! Version: 201808271130
+! Last Modified: 2018年08月27日 11:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -11153,7 +11153,7 @@ ccav1.com##a[href="http://duan.es/1v"]
 muchong.com##a[href="http://muchong.com/bbs/purchase.php?f=index&w=top"]
 xinmin.cn##a[href="http://sbiz.xinmin.cn/new/"]
 techug.com,vaikan.com,webhek.com##a[href="http://t.cn/RBTIkvu"]
-qmaile.com##a[href="http://tb.ibihao.cn/"]
+qmaile.com##A[href^="http://tb."]
 sports.qq.com##a[href="http://teramont.svw-volkswagen.com/"]
 pcsoft.com.cn##a[href="http://tokenin.io/"]
 6park.com##a[href="http://www.b2ship.com"]
