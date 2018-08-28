@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ge0Tp6X1VfYGC3aENwqZgQ
+! Checksum: XF6YMG/1I1FY+x4TI84/yQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808281800
-! Last Modified: 2018年08月28日 18:00
+! Version: 201808282000
+! Last Modified: 2018年08月28日 20:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -6481,7 +6481,7 @@ mg*.6park.com/img/$image
 ||sinaimg.cn/large/007cYCbaly1ftdqurgyj4g30hs02iaaq.gif
 ||sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr.gif
 ||sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm.jpg
-||sinaimg.cn/large/5ff1c93agy1ftvdtveo87j20xc09qk12.jpg
+||sinaimg.cn/large/5ff1c93agy1fubyunrx6zj20xc09qn45.jpg
 ||sinaimg.cn/large/673b17ccly1ffu8mb9g4zj20k8020whe
 ||sinaimg.cn/large/87c$domain=pniao.com|pniao.net
 ||sinaimg.cn/large/8c8bd65d$domain=loldk.com
@@ -7280,6 +7280,7 @@ mg*.6park.com/img/$image
 ||amradmin.5173.com^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+gaoqingkong.com###blogname
 soyunpan.com###qblad
 soyunpan.com##.jmwb
 yahoo.com###ACT_crazy
