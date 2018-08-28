@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AXWvdNk18TQzWK1xE5uy1Q
+! Checksum: t7c+arImSlIxQzf+ZIT4gA
 ! Title: Diablo AdFilters
 ! Expires: 12 hours
-! Version: 201808282100
-! Last Modified: 2018年08月28日 21:00
+! Version: 201808290000
+! Last Modified: 2018年08月29日 00:00
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance
@@ -435,6 +435,7 @@ tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
+.tv/style/btn.js?v=
 -1688-wp-media/ads/
 -880-80-4.jpg
 .bid/ads/
@@ -1187,6 +1188,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||hnyiche3.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -7588,6 +7590,8 @@ mg*.6park.com/img/$image
 ||zzzyk.com/js/
 ||hudong.alicdn.com/api/data/$domain=player.youku.com
 ||amradmin.5173.com^
+||longzhu.com/recommendad/
+||sinaimg.cn^$domain=dyhs.tv
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 gaoqingkong.com###blogname
