@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: O+7grSSOgn8WVn0OWKGWsQ
+! Checksum: M6N4+pV/ZIOZTmjHcZ9E6g
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808281630
-! Last Modified: 2018年08月28日 16:30
+! Version: 201808281730
+! Last Modified: 2018年08月28日 17:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17713,6 +17713,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /LastClick/js?
 /layer_log.php?p=
 /lbi_ga.
+/lead-tracking.
+/lead-tracking/*
 /leadgen/ga.js
 /leadgen_track
 /lib.tailtarget/*
@@ -19249,6 +19251,8 @@ weibo.com##.apps_PCD_reco_detail_right
 /trackvisit?
 /TrackVisitors/*
 /tradelab.js
+/traffic-source-cookie.
+/traffic-source-cookie/*
 /traffic.asmx/*
 /traffic/status.gif?
 /traffic/track^
@@ -23476,6 +23480,7 @@ _mongo_stats/
 ||engageya.com^$third-party
 ||marktest.pt^$third-party
 ||popstats.com.br^$third-party
+||rdstation.com.br^$third-party
 ||sambaads.com^$third-party
 ||tailtarget.com^$third-party
 ||trugaze.io^$third-party
@@ -23967,6 +23972,7 @@ _mongo_stats/
 ||b.bedop.com^
 ||b5media.com/bbpixel.php
 ||bab.frb.io^
+||backstage.funnelenvy.com^
 ||baidu.com/pixel?
 ||bango.net/exid/*.gif?
 ||bango.net/id/*.gif?
