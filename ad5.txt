@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2Beu4XyxIf4VDGN1O+uXow
+! Checksum: xZgnbjMEIghJfDHqYhRnIw
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808291730
-! Last Modified: 2018年08月29日 17:30
+! Version: 201808291800
+! Last Modified: 2018年08月29日 18:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -878,6 +878,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||zhongjiangguoji.org^
 ||yingdatuofu.com^
 ||bxjt518.com^
 ||igo5.cc^$third-party
@@ -7290,6 +7291,7 @@ mg*.6park.com/img/$image
 ||woaidu.org/images/20180802/3.jpg
 ||t.cn/RkHfjHk|
 ||17ktv.com/k8lb/k8lb.html
+||game333.net/aainset/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 zhujiwiki.com##.tips
@@ -19528,7 +19530,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /webtag.js
 /webtrack.
 /webtracker.
-/webTracking.
+/webTracking.$domain=~webtracking.girard-agediss.com
 /webtracking/*$~subdocument
 /WebTrackingHandler.
 /WebTrackingService.
@@ -24758,6 +24760,7 @@ _mongo_stats/
 ||livefyre.com/tracking/
 ||livefyre.com^*/tracker.js
 ||livefyre.com^*/tracking/
+||livehelpnow.net/lhn/handler/$image
 ||livehelpnow.net/lhn/jsutil/getinvitationmessage.aspx?
 ||liverail.com/?metric=
 ||liverail.com/track/?
