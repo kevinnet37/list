@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rpWViA5cpApmctKPFl1VeA
+! Checksum: CNiyRsnVKZ+3zDIt3KJX5A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201808311100
-! Last Modified: 2018年08月31日 11:00
+! Version: 201808311230
+! Last Modified: 2018年08月31日 12:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -7293,9 +7293,12 @@ mg*.6park.com/img/$image
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||cnyw.net/autoloader.js
+||lieqinews.com/json/zhiketj/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-jin10.com#$#hide-if-contains 广告 .jin-timeline .jin-tag
+hupu.com##.voteIndex
+hupu.com##.hupu-shihuo-hot
+hupu.com##.hupushihuo
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -12493,7 +12496,6 @@ avgle.com#@#a[href^="http://bongacams.com/track?"]
 avgle.com#@#img[src*=".php"]
 ||avgle.com/embed/$domain=7mm.tv,csp=frame-src 'self' *.areyouahuman.com *.recaptcha.net *.google.com
 ||avgle.com/video/$domain=avgle.com,csp=frame-src 'self' *.areyouahuman.com *.recaptcha.net
-ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#$#hide-if-contains 广告 .c-container .f13>.m
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_left > [style*="important"]
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#div:not([id]) > style[id^="s-"] + style + div + div[id]
