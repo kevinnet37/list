@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Jl6j2IH6Y/maFNXgQuM6OQ
+! Checksum: PT4pOEk53nlER82cV22XBA
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201809011000
-! Last Modified: 2018年09月01日 10:00
+! Version: 201809012030
+! Last Modified: 2018年09月01日 20:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -764,6 +764,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||haoqq.me^$third-party
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -8356,7 +8357,7 @@ vjmedia.com.hk###text-33
 appcgn.com###text-4
 stoneip.info###text-57
 appcgn.com###text-6
-htcui.com,sea-group.org###text-7
+sea-group.org###text-7
 dsqnw.com###text-html-widget-9
 sogou.com###text_ad_area
 tingvoa.com###textadbox
