@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dqK3UpljNCvvnOlLfATcGQ
+! Checksum: GdmU6SQ4noeB4W53GCKu7g
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201809022000
-! Last Modified: 2018年09月02日 20:00
+! Version: 201809022230
+! Last Modified: 2018年09月02日 22:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -630,7 +630,7 @@ _xiuno_com_ad/
 ##.gg_960
 ##.gg_full
 ##.ggad
-##.ggbox
+~95504.net##.ggbox
 ##.ggdistich
 ##.ggtop
 ##.global_video_bottom_dbtc
@@ -7193,6 +7193,7 @@ mg*.6park.com/img/$image
 ||kdw*.com/layer/layer.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cqsq.com##.mumucms_index_tlad
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -11827,6 +11828,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||95504.net/Advertisement_
 @@/video.dispatch.tc.qq.com/*.mp4?sdtfrom=v1000&$domain=qq.com
 @@/video.dispatch.tc.qq.com/*.mp4?sdtfrom=v1001&$domain=qq.com
 @@/video.dispatch.tc.qq.com/*.mp4?sdtfrom=v1010&$domain=qq.com
@@ -14832,6 +14834,7 @@ _300_250.
 ||360doc.com/js/index7/mask_index_yc.js
 ||gtimg.com/pingjs/ext2020/dc2017/dist/m_tips/tips.js
 !------------------------Specific element hiding rules------------------------!
+zhidiy.com###festival_float_bottom
 1905.com##.zx-pic
 1905.com##.zx-small-pic
 sina.com.cn##.article-bottom-tg
