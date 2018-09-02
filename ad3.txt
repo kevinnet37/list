@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IKqC1HfBxlCFc+f6823wJA
+! Checksum: qWJZRZeKVOLHhf9ujqrMew
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 12 hours
-! Version: 201809021530
-! Last Modified: 2018年09月02日 15:30
+! Version: 201809021630
+! Last Modified: 2018年09月02日 16:30
 ! Homepage: http://adf.ming92.cf
 !
 !本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance，感谢各位大大的分享！
@@ -7188,6 +7188,7 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||carexpert.com.tw/wp-content/uploads/*800x90.
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yahoo.com###ACT_crazy
@@ -13984,6 +13985,7 @@ baidu.com#@#.share-list
 zhidao.baidu.com#@#.share-section
 wantgoo.com#@#.shareBtns
 dj92cc.com,tingqq.com#@#.share_list
+@@||carexpert.com.tw/wp-content/plugins/like-box-pro/includes/javascript/front_end_js.js
 @@||bdstatic.com/po/??*,*,*,
 @@||bdstatic.com^*/share_
 @@||fotor.com.cn/static/web/share/js/
