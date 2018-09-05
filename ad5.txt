@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LoMiKpxgfo6+h/dhqFSyXQ
+! Checksum: J+NK/Z/b8SvUFgJnhySO0A
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201809052200
-! Last Modified: 2018年09月05日 22:00
+! Version: 201809060730
+! Last Modified: 2018年09月06日 07:30
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -16346,6 +16346,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /alexa.aspx?site=
 /alllinksclicktracker.js
 /alog.min.js
+/alog/dp.
 /altpracenje.js
 /altpwk.js
 /alvenda_remarketing_
@@ -16668,6 +16669,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /bitrix/spread.php?
 /bizo.js
 /bk-coretag.js
+/bkclick?
 /BKVTrack.js
 /blank.gif?*%
 /blank.gif?*&
@@ -18825,6 +18827,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /sra_analytics.
 /sranalytics.
 /src/tracking_
+/ssl-intgr-net/*
 /SSOCore/update?
 /sst8.js
 /sst8.sst?
@@ -19021,6 +19024,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /tailtarget.js
 /targetemsecure.
 /taxtag.js
+/tblz_sailthru/*
 /tbuy/tracker/*
 /tc_logging.js
 /tc_targeting.
@@ -19373,6 +19377,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /traffix-track.
 /trafic.js
 /trakksocial.js
+/trans/logger.js
 /trans_pixel.asp
 /transparent1x1.
 /trax.gif?
@@ -19459,6 +19464,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /uutils.fcg?
 /uvstat.js
 /uxm_tracking.
+/v.gif?t=
 /v1/pixel?
 /v1/r.gif?
 /v4/analytics.
@@ -21714,6 +21720,7 @@ _mongo_stats/
 ||responsetap.com^$third-party
 ||retags.us^$third-party
 ||retargetly.com^$third-party
+||retargettracker.com^$third-party
 ||retentionscience.com^$third-party
 ||reussissonsensemble.fr^$third-party
 ||revdn.net^$third-party
@@ -24199,6 +24206,7 @@ _mongo_stats/
 ||circonus.com/hit?
 ||citygridmedia.com/tracker/
 ||citysearch.com/tracker/
+||clarium.global.ssl.fastly.net^
 ||clearspring.com/at/
 ||clearspring.com/t/
 ||click.appinthestore.com^
@@ -26746,6 +26754,7 @@ _mongo_stats/
 ||b.photobucket.com^$~object-subrequest
 ||baidu.com/ecom?
 ||baidu.com/js/log.js
+||baidu.com^*/su?wd=
 ||bandstores.co.uk/tracking/scripts/
 ||banggood.com/?p=
 ||bangkokpost.com/spac/spac.js
@@ -28937,6 +28946,7 @@ _mongo_stats/
 ||youtube-nocookie.com/robots.txt?
 ||youtube.com/*_204?$~xmlhttprequest
 ||youtube.com/api/stats/ads?
+||youtube.com/api/stats/delayplay?
 ||youtube.com/api/stats/playback?
 ||youtube.com/api/stats/qoe?
 ||youtube.com/get_video?
