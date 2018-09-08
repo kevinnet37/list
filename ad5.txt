@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yZIcTqXh61YvUovlcjLWtQ
+! Checksum: kYDQnOYmmmd02PVyWMuzYQ
 ! Title: Diablo AdFilters （增强隐私防护）
 ! Expires: 12 hours
-! Version: 201809080830
-! Last Modified: 2018年09月08日 08:30
+! Version: 201809080900
+! Last Modified: 2018年09月08日 09:00
 ! Homepage: http://adf.ming92.cf
 !
 ! 本规则合并自EasylistChina、EasylistLite、CJX'sAnnoyance、
@@ -17292,7 +17292,9 @@ weibo.com##.apps_PCD_reco_detail_right
 /fingerprint.js
 /fingerprint.min.js
 /fingerprint2.js
+/fingerprint3.js
 /fingerprint2.min.js
+/fingerprint3.min.js
 /firestats/*
 /fkounter/*
 /fkounter5/*
@@ -19024,6 +19026,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /TagCommander.cfc?
 /tagcommander.js
 /tagcommander/*
+/tagcommander_
 /tagmanager/pptm.
 /tagmgmt/bootstrap.
 /tagomnitureengine.js
@@ -21562,6 +21565,7 @@ _mongo_stats/
 ||perimeterx.net^$third-party
 ||perion.com^$third-party
 ||permutive.com^$third-party
+||personalicanvas.com^$third-party
 ||personyze.com^$third-party
 ||petametrics.com^$third-party
 ||phonalytics.com^$third-party
@@ -21912,6 +21916,7 @@ _mongo_stats/
 ||sniphub.com^$third-party
 ||snoobi.com^$third-party
 ||snowsignal.com^$third-party
+||social-sb.com^$third-party
 ||socialhoney.co^$third-party
 ||socialprofitmachine.com^$third-party
 ||socialtrack.co^$third-party
@@ -22835,6 +22840,7 @@ _mongo_stats/
 ||sparechange.io^$third-party
 ||sparnove.com^$third-party
 ||static-cnt.bid^$third-party
+||static-sb.com^$third-party
 ||staticsfs.host^$third-party
 ||statistic.date^$third-party
 ||stonecalcom.com^$third-party
@@ -23319,6 +23325,7 @@ _mongo_stats/
 ||tnsinternet.be^$third-party
 ||toc.io^$third-party
 ||trafiz.net^$third-party
+||tracking.wlscripts.net^
 ||url-stats.net^$third-party
 ||webcompteur.com^$third-party
 ||wysistat.com^$third-party
@@ -28139,6 +28146,7 @@ _mongo_stats/
 ||s-msn.com/primedns.gif?$domain=msn.com
 ||s-msn.com/s/js/loader/activity/trackloader.min.js
 ||s.infogr.am^
+||s.infogram.com^
 ||s.youtube.com^
 ||s2.youtube.com^
 ||s3s-bofm.net/ouv2/*.gif$image,third-party
@@ -30800,6 +30808,8 @@ $csp=worker-src 'none',domain=300mbfilms.co|alltube.pl|alltube.tv|animeteatr.ru|
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
 @@||alltube.tv/jsverify.php$~third-party,xmlhttprequest
 @@||broadcastt.xyz/apps/$websocket
+@@||mycdn.me/chat$websocket
+@@||mycdn.me/publish$websocket
 @@||onlinevideoconverter.com/webservice|$~third-party,xmlhttprequest
 @@||szukajka.tv/jsverify.php$~third-party,xmlhttprequest
 @@||szukajka.tv/szukaj|$~third-party,xmlhttprequest
